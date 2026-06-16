@@ -48,4 +48,11 @@ export const SOURCES: Omit<Source, "events">[] = [
     icon: "🎲",
     feedUrl: "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
   },
+  {
+    id: "beton-t",
+    name: "Beton-T",
+    color: "#f97316",
+    icon: "🏗️",
+    feedUrl: "https://www.vechtclub.nl/beton-t/agenda",
+  },
 ]

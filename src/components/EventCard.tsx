@@ -38,7 +38,9 @@ export function EventCard({ event, selected, onToggle }: EventCardProps) {
           </span>
 
           <div className="mb-0.5 text-sm font-semibold leading-tight">{event.title}</div>
-          <div className="text-xs text-neutral-500">🕐 {fmtTime(event.start)} – {fmtTime(event.end)}</div>
+          {!event.start.includes('T00:00:00') && (
+            <div className="text-xs text-neutral-500">🕐 {fmtTime(event.start)} – {fmtTime(event.end)}</div>
+          )}
           <div className="text-xs text-neutral-500">📍 {event.location}</div>
 
           {event.tags && event.tags.length > 0 && (

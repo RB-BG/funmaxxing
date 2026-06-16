@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T19:40:08.885Z",
+  "updatedAt": "2026-06-16T20:18:36.468Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1151,6 +1151,171 @@
           "description": "Campagne: Koning van de Krotten Wed 24/6 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/47eaf34d-9784-4959-b443-1e1b32797632",
           "tags": []
+        }
+      ]
+    },
+    {
+      "id": "beton-t",
+      "name": "Beton-T",
+      "color": "#f97316",
+      "icon": "🏗️",
+      "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
+      "events": [
+        {
+          "id": "beton-beton-t-b-day-blockparty-met",
+          "title": "Beton-T B-DAY BLOCKPARTY met MULA B",
+          "start": "2026-07-11T00:00:00+02:00",
+          "end": "2026-07-11T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-t-b-day-blockparty-met/",
+          "tags": [
+            "Dans",
+            "Eten / Drinken",
+            "Festival",
+            "Live muziek",
+            "Muziek",
+            "Skaten",
+            "Terras",
+            "Verhoogd geluidslimiet"
+          ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-40",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-06-17T00:00:00+02:00",
+          "end": "2026-06-17T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-40/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-canal-do-samba",
+          "title": "Canal Do Samba",
+          "start": "2026-06-17T00:00:00+02:00",
+          "end": "2026-06-17T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/canal-do-samba/",
+          "tags": [
+            "Dans",
+            "Gratis",
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-lievens-bike-fietsclub",
+          "title": "Lievens Bike Fietsclub",
+          "start": "2026-06-18T00:00:00+02:00",
+          "end": "2026-06-18T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lievens-bike-fietsclub/",
+          "tags": [
+            "Sport",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-workshop-useless-machine-creatiehallen",
+          "title": "Workshop Useless Machine – Creatiehallen",
+          "start": "2026-06-19T00:00:00+02:00",
+          "end": "2026-06-19T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/workshop-useless-machine-creatiehallen/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-a-summer-jam-with-tlm",
+          "title": "A SUMMER JAM with TLM",
+          "start": "2026-06-20T00:00:00+02:00",
+          "end": "2026-06-20T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/a-summer-jam-with-tlm/",
+          "tags": [
+            "Festival",
+            "Muziek"
+          ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-4",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-06-22T00:00:00+02:00",
+          "end": "2026-06-22T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-4/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-27",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-06-22T00:00:00+02:00",
+          "end": "2026-06-22T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-27/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-9",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-06-22T00:00:00+02:00",
+          "end": "2026-06-22T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-9/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-26",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-06-22T00:00:00+02:00",
+          "end": "2026-06-22T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-26/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-5",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-06-22T00:00:00+02:00",
+          "end": "2026-06-22T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-5/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
         }
       ]
     }

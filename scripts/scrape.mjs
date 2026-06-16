@@ -12,7 +12,21 @@ const VENUES = [
   { id: 'nar-utrecht',       name: 'NAR Café der Kunsten',  color: '#a855f7', icon: '🟣', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/' },
   { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
   { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
+  { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
 ]
+
+const NL_MONTHS = { jan:1, feb:2, mrt:3, apr:4, mei:5, jun:6, jul:7, aug:8, sep:9, okt:10, nov:11, dec:12 }
+
+function parseDutchDate(str) {
+  const parts = str.trim().split(/\s+/)
+  if (parts.length < 3) return null
+  const [day, mon, year] = parts
+  const month = NL_MONTHS[mon.toLowerCase().slice(0, 3)]
+  if (!month) return null
+  const pad = n => String(n).padStart(2, '0')
+  const tz = (month >= 4 && month <= 9) ? '+02:00' : '+01:00'
+  return `${year}-${pad(month)}-${pad(parseInt(day))}T00:00:00${tz}`
+}
 
 function addHours(isoDate, hours) {
   return new Date(new Date(isoDate).getTime() + hours * 3_600_000).toISOString()
@@ -104,12 +118,51 @@ async function scrapeWarhorn(venue) {
   return events
 }
 
+async function scrapeBeton(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const events = []
+  for (const [, url, block] of html.matchAll(/<a[^>]*href="(https:\/\/www\.vechtclub\.nl\/agenda\/[^"]+)"[^>]*class="event"[^>]*>([\s\S]*?)<\/a>/g)) {
+    const titleMatch = block.match(/class="event__text-title">([^<]+)</)
+    const dateMatch = block.match(/class="tags__date">\s*\n?\s*([^\n<]+)\n?\s*</)
+    const tags = [...block.matchAll(/class="button button--tag[^"]*">([^<]+)</g)]
+      .map(m => m[1].trim())
+      .filter(t => t !== 'Beton-T')
+
+    if (!titleMatch || !dateMatch) continue
+
+    const start = parseDutchDate(dateMatch[1])
+    if (!start) continue
+
+    const slug = url.split('/').filter(Boolean).pop()
+    const title = decodeXml(titleMatch[1].trim())
+
+    events.push({
+      id: `beton-${slug}`,
+      title,
+      start,
+      end: start,
+      location: 'Beton-T, Atoomweg 100, Utrecht',
+      description: '',
+      url,
+      tags,
+    })
+  }
+
+  return events
+}
+
 async function scrapeVenue(venue, fallback) {
   try {
     process.stdout.write(`  Scraping ${venue.name}… `)
-    const events = venue.type === 'warhorn'
-      ? await scrapeWarhorn(venue)
-      : await scrapePodiuminfo(venue)
+    let events
+    if (venue.type === 'warhorn') events = await scrapeWarhorn(venue)
+    else if (venue.type === 'beton') events = await scrapeBeton(venue)
+    else events = await scrapePodiuminfo(venue)
     console.log(`${events.length} events`)
     return events
   } catch (err) {

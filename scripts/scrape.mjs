@@ -119,6 +119,9 @@ async function scrapeVenue(venue, fallback) {
 }
 
 async function main() {
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+
   let existingByVenue = {}
   try {
     const existing = JSON.parse(readFileSync(OUTPUT_PATH, 'utf8'))
@@ -128,7 +131,8 @@ async function main() {
   console.log('Scraping venues…')
   const sources = []
   for (const venue of VENUES) {
-    const events = await scrapeVenue(venue, existingByVenue[venue.id] ?? [])
+    const raw = await scrapeVenue(venue, existingByVenue[venue.id] ?? [])
+    const events = raw.filter(e => new Date(e.start) >= today)
     sources.push({ id: venue.id, name: venue.name, color: venue.color, icon: venue.icon, feedUrl: venue.feedUrl, events })
     if (venue.type === 'podiuminfo') await new Promise(r => setTimeout(r, 500))
   }

@@ -1,15 +1,13 @@
-import { useMemo, useState } from "react"
-import type { EnrichedEvent } from "@/types"
-import { SOURCES } from "@/data/sources"
+import { useEffect, useMemo, useState } from "react"
+import type { EnrichedEvent, Source } from "@/types"
 import { classify } from "@/lib/classify"
 import { downloadICS } from "@/lib/calendar"
 import { FilterBar, type Filter } from "@/components/FilterBar"
 import { EventCard } from "@/components/EventCard"
 import { ActionBar } from "@/components/ActionBar"
 
-/** Flatten + enrich every source event with its source and derived categories. */
-function buildEvents(): EnrichedEvent[] {
-  return SOURCES.flatMap((source) =>
+function buildEvents(sources: Source[]): EnrichedEvent[] {
+  return sources.flatMap((source) =>
     source.events.map((event) => ({
       ...event,
       source,
@@ -23,9 +21,24 @@ function matchesFilter(event: EnrichedEvent, filter: Filter): boolean {
 }
 
 export function EventsPage() {
-  const allEvents = useMemo(() => buildEvents(), [])
+  const [sources, setSources] = useState<Source[]>([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(false)
   const [activeFilter, setActiveFilter] = useState<Filter>("all")
   const [selected, setSelected] = useState<Set<string>>(new Set())
+
+  useEffect(() => {
+    fetch("/events.json")
+      .then((r) => {
+        if (!r.ok) throw new Error(r.statusText)
+        return r.json()
+      })
+      .then((data: { sources: Source[] }) => setSources(data.sources))
+      .catch(() => setError(true))
+      .finally(() => setLoading(false))
+  }, [])
+
+  const allEvents = useMemo(() => buildEvents(sources), [sources])
 
   const visible = useMemo(
     () =>
@@ -35,7 +48,6 @@ export function EventsPage() {
     [allEvents, activeFilter],
   )
 
-  // Group the visible events by calendar day (YYYY-MM-DD), preserving sort order.
   const days = useMemo(() => {
     const groups = new Map<string, EnrichedEvent[]>()
     for (const event of visible) {
@@ -73,6 +85,30 @@ export function EventsPage() {
 
   function handleDownload() {
     downloadICS(allEvents.filter((e) => selected.has(e.id)))
+  }
+
+  if (loading) {
+    return (
+      <div className="mx-auto min-h-screen max-w-[620px] px-4 pt-5">
+        <header className="mb-5">
+          <h1 className="text-xl font-bold tracking-tight">🎲 Local Events Utrecht</h1>
+        </header>
+        <div className="py-16 text-center text-[13px] text-neutral-400">Evenementen laden…</div>
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="mx-auto min-h-screen max-w-[620px] px-4 pt-5">
+        <header className="mb-5">
+          <h1 className="text-xl font-bold tracking-tight">🎲 Local Events Utrecht</h1>
+        </header>
+        <div className="py-16 text-center text-[13px] text-red-400">
+          Kon evenementen niet laden. Probeer de pagina te verversen.
+        </div>
+      </div>
+    )
   }
 
   return (
@@ -126,8 +162,8 @@ export function EventsPage() {
       <div className="mt-6 rounded-[10px] border border-dashed border-neutral-200 bg-white px-3.5 py-3 text-xs leading-relaxed text-neutral-400">
         <strong className="text-neutral-500">➕ Meer evenementen?</strong>
         <p className="mt-1">
-          Voeg nieuwe evenementen toe in <code className="rounded bg-neutral-100 px-1.5 py-px text-[11px] text-neutral-700">src/data/sources.ts</code>.
-          De dagelijkse Cowork-taak houdt dit bestand automatisch up-to-date.
+          Voeg nieuwe venues toe in <code className="rounded bg-neutral-100 px-1.5 py-px text-[11px] text-neutral-700">src/data/sources.ts</code>{" "}
+          en run <code className="rounded bg-neutral-100 px-1.5 py-px text-[11px] text-neutral-700">npm run scrape</code> om de data te verversen.
         </p>
       </div>
 

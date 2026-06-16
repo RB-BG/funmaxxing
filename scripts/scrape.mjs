@@ -13,6 +13,7 @@ const VENUES = [
   { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
   { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
   { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
+  { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   type: 'acu',       feedUrl: 'https://acu.nl/agenda' },
 ]
 
 const NL_MONTHS = { jan:1, feb:2, mrt:3, apr:4, mei:5, jun:6, jul:7, aug:8, sep:9, okt:10, nov:11, dec:12 }
@@ -252,6 +253,49 @@ async function scrapeBeton(venue) {
   return events
 }
 
+async function scrapeAcu(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const events = []
+  const seen = new Set()
+
+  for (const [, url, dateStr, block] of html.matchAll(
+    /<a[^>]*href="(https:\/\/acu\.nl\/events\/(\d{8})\/[^"]+)"[\s\S]*?>([\s\S]*?)<\/a>/g
+  )) {
+    if (seen.has(url)) continue
+    seen.add(url)
+
+    const title = block.match(/class="[^"]*pseudo-h2[^"]*">([^<]+)</)?.[1]?.trim()
+    const desc  = block.match(/class="[^"]*pseudo-h3[^"]*">([^<]+)</)?.[1]?.trim() ?? ''
+    const time  = block.match(/<span class="AgendaDetail">(\d{1,2}:\d{2})<\/span>/)?.[1]
+
+    if (!title) continue
+
+    const y = dateStr.slice(0, 4), mo = dateStr.slice(4, 6), d = dateStr.slice(6, 8)
+    const tz = (parseInt(mo) >= 4 && parseInt(mo) <= 9) ? '+02:00' : '+01:00'
+    const start = time
+      ? `${y}-${mo}-${d}T${time}:00${tz}`
+      : `${y}-${mo}-${d}T00:00:00${tz}`
+
+    events.push({
+      id: `acu-${dateStr}-${url.split('/').pop()}`,
+      title: decodeXml(title),
+      start,
+      end: start,
+      location: 'ACU, Voorstraat 71, Utrecht',
+      description: truncate(decodeXml(desc)),
+      url,
+      tags: [],
+    })
+  }
+
+  return events
+}
+
 async function scrapeVenue(venue, fallback) {
   try {
     process.stdout.write(`  Scraping ${venue.name}… `)
@@ -260,6 +304,7 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'beton')    events = await scrapeBeton(venue)
     else if (venue.type === 'dbs-ical') events = await scrapeDbsIcal(venue)
     else if (venue.type === 'helling')  events = await scrapeHelling(venue)
+    else if (venue.type === 'acu')      events = await scrapeAcu(venue)
     else events = await scrapePodiuminfo(venue)
     console.log(`${events.length} events`)
     return events

@@ -69,9 +69,38 @@ npm run preview   # preview de productie-build
 npm run scrape    # haal verse events op en schrijf public/events.json
 ```
 
+## Venues
+
+| Venue | Bron | Link |
+|---|---|---|
+| dB's Utrecht | iCal feed (dbstudio.nl) | eigen site |
+| EKKO Utrecht | Podiuminfo JSON-LD | podiuminfo.nl |
+| De Helling | HTML (dehelling.nl) | eigen site |
+| NAR Café der Kunsten | Podiuminfo JSON-LD | podiuminfo.nl |
+| TivoliVredenburg | Podiuminfo JSON-LD | podiuminfo.nl |
+| RPG Night Utrecht | Warhorn Atom feed | warhorn.net |
+| Beton-T | HTML (vechtclub.nl) | eigen site |
+| ACU Utrecht | HTML (acu.nl) | eigen site |
+
+EKKO en TivoliVredenburg zijn JS-rendered — geen eigen feed beschikbaar, daarom via Podiuminfo.
+NAR heeft momenteel geen events op Podiuminfo; pikt automatisch op zodra ze publiceren.
+
+### Onderzochte venues die niet zijn toegevoegd
+
+| Venue | Reden |
+|---|---|
+| Stathe Utrecht | JS-rendered, geen feed, vereist playwright |
+| Winkel van Sinkel | Site offline |
+| Club Poema / De Rechtbank / VOLT | Sites offline/onvindbaar |
+| Café RASA | Site offline |
+| Subcultures | Spellenwinkel, geen eigen events |
+| De Nijverheid | Zit in Hengelo, niet Utrecht |
+| Willem Twee | Zit in Den Bosch |
+
 ## Venue toevoegen
 
 1. Voeg de venue toe in `src/data/sources.ts` (id, name, color, icon, feedUrl)
 2. Voeg dezelfde entry toe in `scripts/scrape.mjs` in de `VENUES` array
-3. Run `npm run scrape` om te testen
-4. Commit — de cron houdt het daarna automatisch bij
+3. Implementeer een scraper-functie (zie bestaande voorbeelden) of gebruik `podiuminfo` als type
+4. Run `npm run scrape` om te testen
+5. Commit — de cron houdt het daarna automatisch bij

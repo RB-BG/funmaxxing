@@ -1,262 +1,408 @@
 {
-  "updatedAt": "2026-06-16T20:18:36.468Z",
+  "updatedAt": "2026-06-16T20:25:18.992Z",
   "sources": [
     {
       "id": "dbs-utrecht",
       "name": "dB's Utrecht",
       "color": "#ef4444",
       "icon": "🎸",
-      "feedUrl": "https://www.podiuminfo.nl/podium/5465/concerten/dBs/Utrecht/",
+      "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
         {
-          "id": "454249",
-          "title": "MELT BANANA",
+          "id": "10000985",
+          "title": "* Sold out* MELT BANANA (Jap) + The Wacko's & DJ Steve",
           "start": "2026-06-17T20:00:00+02:00",
-          "end": "2026-06-17T21:00:00.000Z",
+          "end": "2026-06-17T22:30:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Na eerdere optredens in de 2010’s keert het Japanse experimentele duo Melt Banana terug naar dB's op woensdag 17 juni 2026. Bekend om hun intense en razendsnelle sound, vol complexe ritmes en onverwachte wendingen, combineert Melt Banana punk, hardcore, techno, noise en elektronica. Zangeres Yasuko…",
-          "url": "https://www.podiuminfo.nl/concert/454249/MELT-BANANA/dBs/",
-          "tags": []
+          "description": "//dbstudio.nl/wp-content/uploads/2026/02/1000012593.mp4",
+          "url": "https://dbstudio.nl/event/melt-banana-jap/",
+          "tags": [
+            "Concert",
+            "Electronics",
+            "Hardcore",
+            "Noise",
+            "Post Punk",
+            "Punk",
+            "Techhouse"
+          ]
         },
         {
-          "id": "461403",
+          "id": "10001038",
           "title": "DAAN",
-          "start": "2026-06-18T20:30:00+02:00",
-          "end": "2026-06-18T21:30:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "DAAN presenteert haar afstudeershow ‘Vrije Val’ en haar eerste release op 18 juni. Ze maakt gedurfde Nederlandstalige alternatieve popmuziek met beeldende teksten die zowel schuren als troosten. Haar nummers zijn explosief en verfijnd, kwetsbaar en krachtig. In ‘Vrije Val’ neemt DAAN het publiek…",
-          "url": "https://www.podiuminfo.nl/concert/461403/DAAN/dBs/",
+          "start": "2026-06-18T20:00:00+02:00",
+          "end": "2026-06-18T23:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "DAAN maakt gedurfde Nederlandstalige alternatieve popmuziek met beeldende teksten die zowel kunnen schuren als troosten. Haar nummers zijn explosief en verfijnd, kwetsbaar en krachtig tegelijk en ze bewegen moeiteloos tussen deze uitersten. In ‘Vrije Val‘ neemt ze je mee in het moment waarop…",
+          "url": "https://dbstudio.nl/event/daan/",
           "tags": []
         },
         {
-          "id": "450676",
-          "title": "Guitar Wolf",
+          "id": "10001070",
+          "title": "WK Voetbal Zweden - Nederland",
+          "start": "2026-06-20T19:00:00+02:00",
+          "end": "2026-06-20T21:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Ja hoor, ook bij dB’s alle wedstrijden van het Nederlands elftal op groot scherm (echt een GROOT scherm). \nDe tweede tegenstander is Zweden, aftrap 19 uur, een keurige tijd… \nGratis. \nPS. andere wedstrijden zenden we ook uit, de vide boven de bar wordt het match centre. \nPS 2. Heel veel actie deze…",
+          "url": "https://dbstudio.nl/event/wk-voetbal-zweden-nederland/",
+          "tags": [
+            "WK Voetbal"
+          ]
+        },
+        {
+          "id": "10001085",
+          "title": "WK Voetbal - Alle wedstrijden van Oranje op groot scherm",
+          "start": "2026-06-20T19:00:00+02:00",
+          "end": "2026-06-20T22:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Kom lekker bij ons kijken. Biertje erbij, borrelnootje,eten bij Punkdog  en een heel groot scherm. \nEn voetbal. Op het scherm.",
+          "url": "https://dbstudio.nl/event/wk-voetbal-alle-wedstrijden-op-groot-scherm/2026-06-20/",
+          "tags": []
+        },
+        {
+          "id": "10000954",
+          "title": "GUITAR WOLF (Jet RnR from JAPAN!!!) + THe Anomalys + The Protos",
           "start": "2026-06-20T20:00:00+02:00",
-          "end": "2026-06-20T21:00:00.000Z",
+          "end": "2026-06-20T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Een krankzinnige kruisbestuiving van garage rock, ’77 punk, rockabilly en noise rock. Als The Ramones en The Oblivians gezamenlijk hun lusten bestieren in een Japanse achterbuurt, zou dit hun opgefokte liefdesbaby zijn. De Japanse rockers van Guitar Wolf schieten de hele wereld over met hun ‘jet…",
-          "url": "https://www.podiuminfo.nl/concert/450676/Guitar-Wolf/dBs/",
-          "tags": []
+          "description": "THE ANOMALYS, sinds jaar en dag ’the best band in the world’ met de Amsterdamse legende Bone & de al even legendarische Fransozen Remi & Looch Vibrato, en kroonpretendenten The Protos, beide 2x gitaar & drums, catchy riffs, raw 100% power no bullshit primitive Garage RnR! \nFFO The Oblivians,…",
+          "url": "https://dbstudio.nl/event/guitar-wolf-jet-rnr-from-japan/",
+          "tags": [
+            "Concert",
+            "Garage",
+            "Noise",
+            "Punk",
+            "Rock 'n Roll"
+          ]
         },
         {
-          "id": "473770",
+          "id": "10001067",
           "title": "NeoN Noir - Queer Party",
           "start": "2026-06-20T23:00:00+02:00",
-          "end": "2026-06-21T00:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "NeoN Noir presenteert een speciale Queer Party tijdens de Pride maand in dB's. Dit evenement vindt plaats op zaterdag 20 juni en loopt door tot in de vroege uren van zondag 21 juni. Bezoekers kunnen zich opmaken voor een avond vol duistere beats en zwoele vocalen, perfect om te dansen na de…",
-          "url": "https://www.podiuminfo.nl/concert/473770/NeoN-Noir-Queer-Party/dBs/",
+          "end": "2026-06-21T03:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Ja natuurlijk zijn wij erbij in de pride maand. Maar dan wel op de 20e. Ben je weer lekker bijgetrokken van die hele canal pride en klaar om te dansen op duistere beats en zwoele vocalen. Deze editie is de laatste voor onze lekkere lange zomerstop, dus we gaan even flink uithalen. Doe je mooiste…",
+          "url": "https://dbstudio.nl/event/neon-noir-queer-party/",
           "tags": []
         },
         {
-          "id": "454086",
-          "title": "THE DWARVES - Punk Rock Legends",
+          "id": "10000976",
+          "title": "THE DWARVES (USA - Punk Rock Legends) + The Etters",
           "start": "2026-06-23T20:00:00+02:00",
-          "end": "2026-06-23T21:00:00.000Z",
+          "end": "2026-06-23T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "De Amerikaanse punkrocklegendes THE DWARVES, met zanger Blag Dahlia en bassist Nick Olivieri, komen op dinsdag 23 juni 2026 naar dB's. Deze band, die sinds 1985 actief is, staat bekend om hun energieke live-reputatie en heeft al meer dan 1000 shows gegeven. Ze gaan nog steeds harder dan een…",
-          "url": "https://www.podiuminfo.nl/concert/454086/THE-DWARVES-Punk-Rock-Legends/dBs/",
-          "tags": []
+          "description": "THE DWARVES!!\nDe band rond zanger Blag Dahlia en met Nick Olivieri op bas is een van de overlevende PUNKROCK LEGENDS in de koude showbizzwereld.\nMet meer dan 1000 shows achter hun naam en nog steeds een verschroeiende livereputatie gaan deze mannen anno 2026 nog steeds harder dan een straaljager.…",
+          "url": "https://dbstudio.nl/event/the-dwarves-usa-punk-rock-legends/",
+          "tags": [
+            "Concert",
+            "Punk"
+          ]
         },
         {
-          "id": "478978",
-          "title": "Club 3voor12 Utrecht Turmeric + Momo + Reza",
-          "start": "2026-06-25T20:45:00+02:00",
-          "end": "2026-06-25T21:45:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Op donderdag 25 juni presenteert dB's een nieuwe editie van Club 3voor12 Utrecht, met drie getalenteerde acts. Het programma omvat Turmeric, bekend van hun experimentele postrock, -hardcore en shoegaze. De band laat spanning en sonische verkenning samenkomen in gelaagde composities die zowel rauw…",
-          "url": "https://www.podiuminfo.nl/concert/478978/Club-3voor12-Utrecht-Turmeric-Momo-Reza/dBs/",
-          "tags": []
+          "id": "10001081",
+          "title": "CLUB 3voor12 Utrecht w/ Turmeric + MOMO + REZA",
+          "start": "2026-06-25T20:00:00+02:00",
+          "end": "2026-06-25T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "45. \nTurmeric\n\n\n\n\n\n\n\n\n\n\n\nTurmeric verweeft spanning, contrast en sonische verkenning in hun experimentele rock. Geïnspireerd door Slint, Swans en Sonic Youth creëert de band gelaagde composities waarin rauwe energie en subtiele details elkaar afwisselen. Hun muziek daagt uit, verrast en laat ruimte…",
+          "url": "https://dbstudio.nl/event/club-3voor12-utrecht-w-turmeric-momo-reza/",
+          "tags": [
+            "Club 3voor 12 / Utrecht"
+          ]
         },
         {
-          "id": "454527",
-          "title": "Stoker, Accisma, Kulanya & SBU en Almanaut",
+          "id": "10001069",
+          "title": "WK Voetbal Tunesië - Nederland",
+          "start": "2026-06-26T01:00:00+02:00",
+          "end": "2026-06-26T14:30:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Ja hoor, ook bij dB’s alle wedstrijden van het Nederlands elftal op groot scherm (echt een GROOT scherm). \nDe derde en laatste tegenstander in de groepsfase is Tunesië, aftrap in het holst van de nacht, 1 uur. \n  \nGratis. \nPS. andere wedstrijden zenden we ook uit, de vide boven de bar wordt het…",
+          "url": "https://dbstudio.nl/event/wk-voetbal-tunesie-nederland/",
+          "tags": [
+            "WK Voetbal"
+          ]
+        },
+        {
+          "id": "10000984",
+          "title": "Stoker, Accisma, Kulanya & SBU, Almanaut en The Edge dj’s Azrael & Hobbes",
           "start": "2026-06-26T19:30:00+02:00",
-          "end": "2026-06-26T20:30:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Op vrijdag 26 juni 2026 presenteren dB's een avond met diverse bands, waaronder Stoker, Accisma, Kulanya & SBU en Almanaut. Stoker, een driemansformatie, speelt klassiekers van de 60's tot nu. Accisma brengt een energieke mix van post-punk, hardcore en metal. Kulanya & SBU zorgen voor swingende…",
-          "url": "https://www.podiuminfo.nl/concert/454527/Stoker-Accisma-Kulanya-SBU-en-Almanaut/dBs/",
-          "tags": []
+          "end": "2026-06-27T01:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "drums, bas, gitaar en zang. Wij spelen een setlist van een uur, SNOB2000 klassiekers (60s tot nu). \nAccisma\nDe in Utrecht opgerichte punk-band Accisma brengt een chaotisch geluid met een energieke en dansbare feel. Door elementen uit post-punk, hardcore en metal te combineren brengen ze het…",
+          "url": "https://dbstudio.nl/event/stoker-accisma-kulanya-sbu-en-almanaut/",
+          "tags": [
+            "Concert"
+          ]
         },
         {
-          "id": "454248",
-          "title": "Ballroom Blitz",
-          "start": "2026-06-27T11:00:00+02:00",
-          "end": "2026-06-27T12:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Ballroom Blitz is een maandelijks terugkerend feest in dB's, wars van trends maar vol vette hits. Het evenement vindt plaats op zaterdag 27 juni 2026, van 11:00 uur 's ochtends tot zondag 28 juni 2026 03:00 uur. Het belooft een energieke avond te worden voor iedereen met een onbedwingbare drang tot…",
-          "url": "https://www.podiuminfo.nl/concert/454248/Ballroom-Blitz/dBs/",
-          "tags": []
-        },
-        {
-          "id": "461360",
-          "title": "Claw Boys Claw",
+          "id": "10001036",
+          "title": "* Sold out* CLAW BOYS CLAW + The Hook",
           "start": "2026-06-27T20:00:00+02:00",
-          "end": "2026-06-27T21:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Claw Boys Claw, de legendes van de Nederlandse rock, geven een clubshow in dB's. Deze zaterdag wordt waarschijnlijk de laatste kans om de band van zo dichtbij mee te maken, voordat ze de festivalweides zullen afspelen. De support act is The Hook, een band die het Kelt label nieuw leven inblies met…",
-          "url": "https://www.podiuminfo.nl/concert/461360/Claw-Boys-Claw/dBs/",
-          "tags": []
+          "end": "2026-06-27T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "//www.youtube.com/watch?v=vJ29k_Idz2Aind 2022 en hebben inmiddels heel wat mooie optredens achter hun naam.  Kekke baslijnen, powervolle gitaar, strakke drums en meerstemmigheid maken The Hook tot de band van de toekomst.",
+          "url": "https://dbstudio.nl/event/claw-boys-claw-the-hook/",
+          "tags": [
+            "Rock"
+          ]
         },
         {
-          "id": "460788",
+          "id": "10001052",
+          "title": "Ballroom Blitz",
+          "start": "2026-06-27T23:00:00+02:00",
+          "end": "2026-06-28T03:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Wars van trends maar niet vies van vette hits… elke laatste zaterdag van de maand turns in a Ballroom Blitz. Een feestje voor de zoekenden, de losgelatenen en de wonderkinderen.  It is like lightning and the music is grooving. \nHeb je een onbedwingbare drang tot dansen maar zijn er veel te veel…",
+          "url": "https://dbstudio.nl/event/ballroom-blitz-8-5/",
+          "tags": [
+            "Ballroom Blitz"
+          ]
+        },
+        {
+          "id": "10001033",
           "title": "BlueBeat & Ska Matinee",
           "start": "2026-06-28T16:00:00+02:00",
-          "end": "2026-06-28T17:00:00.000Z",
+          "end": "2026-06-28T21:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "De BlueBeat & Ska Matinee keert terug voor een tweede editie in dB's. Tijdens dit 'real life' evenement draaien DJ's John Chidlow, ook bekend als Johnny Gunman (Frontline Sound – UK), Mr Mule Train en Pressure Beat hun beste 7-inch platen. Bezoekers kunnen zich verheugen op een selectie van Hot…",
-          "url": "https://www.podiuminfo.nl/concert/460788/BlueBeat-Ska-Matinee/dBs/",
-          "tags": []
+          "description": "REAL LIFE !! NO INTERNET EVENT !! IT IS HAPPENING FOR A SECOND TIME !!!  FREE EVENT!!\n\n\nRound Two, you know it’s good for you!\nFor the second Blue Beat & Ska Matinee we invited none other than John Chidlow aka Johnny Gunman (Frontline Sound – UK). He shares the decks with his fellow BB&S deejays Mr…",
+          "url": "https://dbstudio.nl/event/bluebeat-ska-matinee/",
+          "tags": [
+            "Cafe",
+            "Concert",
+            "DJ's in cafe",
+            "Dub",
+            "Reggae",
+            "Rocksteady",
+            "Ska"
+          ]
         },
         {
-          "id": "459819",
-          "title": "POISON RUÏN",
+          "id": "10001030",
+          "title": "POISON RUÏN (USA - RELAPSE RECORDS) + Krime",
           "start": "2026-07-01T20:00:00+02:00",
-          "end": "2026-07-01T21:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "De uit Philadelphia afkomstige band Poison Ruïn presenteert hun unieke DIY-sound in dB's. Hun muziek, beschreven als een mix van vroege Venom en Black Flag met pop-invloeden van The Wipers, kenmerkt zich door grimmige maar pakkende postpunk nummers met een sombere sfeer en killer hooks die doen…",
-          "url": "https://www.podiuminfo.nl/concert/459819/POISON-RUIN/dBs/",
-          "tags": []
+          "end": "2026-07-01T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "rauw, agressief, geen bullshit. Voor liefhebbers van Poison Idea, Career Suicide, RKL en Annihilation Time. Na een goed ontvangen demo, speelde Krime door binnen- en buitenland. Binnenkort verschijnt hun eerste release op diverse internationale labels.",
+          "url": "https://dbstudio.nl/event/poison-ruin-usa/",
+          "tags": [
+            "New Wave",
+            "Punk"
+          ]
         },
         {
-          "id": "461328",
+          "id": "10001084",
+          "title": "TAP TAKE OVER door DOIS CORVOS",
+          "start": "2026-07-03T16:00:00+02:00",
+          "end": "2026-07-03T21:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Dois Corvos is een van de meest invloedrijke en gerespecteerde craft brouwerijen van Portugal, gevestigd in de wijk Marvila in Lissabon. De brouwerij werd opgericht door Susana Cascais en\nScott Steffens en begon in 2015 met commerciële productie, in een periode waarin de Portugese craftbier sector…",
+          "url": "https://dbstudio.nl/event/tap-take-over-door-dois-cervois/",
+          "tags": [
+            "Bier specials",
+            "Cafe",
+            "Tap Takeover"
+          ]
+        },
+        {
+          "id": "10001029",
           "title": "When Dream and Prog Unite – A Progressive Metal Fest",
-          "start": "2026-07-04T20:30:00+02:00",
-          "end": "2026-07-04T21:30:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Deze avond in dB's staat volledig in het teken van progressive metal, als een eerbetoon aan de pioniers Dream Theater. Het evenement, getiteld 'When Dream and Prog Unite – A Progressive Metal Fest', brengt meerdere bands samen die geïnspireerd zijn door Dream Theater. Op het programma staan…",
-          "url": "https://www.podiuminfo.nl/concert/461328/When-Dream-and-Prog-Unite-A-Progressive-Metal-Fest/dBs/",
-          "tags": []
+          "start": "2026-07-04T20:00:00+02:00",
+          "end": "2026-07-04T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "ingenieuze en resolute progmetal brengt Incidense weer helemaal terug in de Nederlandse metalscene. En hoe. \n \nAll My Links Incidense \nInstagram Incidense \nFacebook Incidense",
+          "url": "https://dbstudio.nl/event/when-dream-and-prog-unite-a-progressive-metal-fest/",
+          "tags": [
+            "Metal",
+            "Progressive Metal"
+          ]
         },
         {
-          "id": "455310",
-          "title": "Jon Spencer",
+          "id": "10001014",
+          "title": "* Sold out* JON SPENCER + SOLEX",
           "start": "2026-07-05T20:00:00+02:00",
-          "end": "2026-07-05T21:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Jon Spencer treedt op in dB's Studio, waar hij zijn urgentie heeft herontdekt dankzij een dynamische ritmesectie bestaande uit Spider Bowman en Kendall Wind van The Bobby Lees. Dit heeft geresulteerd in een verfrissende en overweldigende show waarin Spencer terugkeert naar zijn rauwe, urgente en…",
-          "url": "https://www.podiuminfo.nl/concert/455310/Jon-Spencer/dBs/",
-          "tags": []
+          "end": "2026-07-05T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "rauw, urgent en onweerstaanbaar. Kom het zelf ervaren als je het niet gelooft. \nWe hebben een bijzondere opener want Elisabeth Esselink aka SOLEX maakt een comeback. Solex maakte furore met haar mix van low key techno en geluidscollages en werd vrijwel meteen opgepikt door het roemruchte Matador…",
+          "url": "https://dbstudio.nl/event/jon-spencer/",
+          "tags": [
+            "Garage",
+            "Rock"
+          ]
         },
         {
-          "id": "477158",
-          "title": "Amber Webber and Stephen McBean - Black Mountain",
+          "id": "10001074",
+          "title": "Amber & Stephen from BLACK MOUNTAIN (CAN)",
           "start": "2026-07-07T20:00:00+02:00",
-          "end": "2026-07-07T21:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Op dinsdag 7 juli 2026 presenteren TivoliVredenburg en dB's een intieme show met Amber Webber en Stephen McBean in dB's, Utrecht. Deze twee prominente leden van de Canadese psychedelische rockformatie Black Mountain treden op onder hun alias Twin Oscillations. Het duo zal de rijke muzikale…",
-          "url": "https://www.podiuminfo.nl/concert/477158/Amber-Webber-and-Stephen-McBean-Black-Mountain/dBs/",
-          "tags": []
+          "end": "2026-07-07T23:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Je weet dat die ad hoc bevestigingen vaak de mooiste shows opleveren. Samen met TivoliVredenburg presenteren we precies zo’n show als Amber Webber en Stephen McBean naar dB’s komen onder hun alias 𝗧𝗪𝗜𝗡 𝗢𝗦𝗖𝗜𝗟𝗟𝗔𝗧𝗜𝗢𝗡𝗦. Deze twee kernleden van het Canadese pychedelische rockgezelschap…",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-amber-stephen-from-black-mountain-can/",
+          "tags": [
+            "Psychedelic"
+          ]
         },
         {
-          "id": "477432",
-          "title": "Twin Oscillations (Amber & Stephen from BLACK MOUNTAIN)",
-          "start": "2026-07-07T20:00:00+02:00",
-          "end": "2026-07-07T21:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "dB's en TivoliVredenburg presenteren een bijzondere show van Amber Webber en Stephen McBean, twee kernleden van het Canadese psychedelische rockgezelschap BLACK MOUNTAIN. Ze treden op onder hun alias TWIN OSCILLATIONS en brengen als duo de muzikale schatkamer van hun invloedrijke band ten gehore in…",
-          "url": "https://www.podiuminfo.nl/concert/477432/Twin-Oscillations-Amber-Stephen-from-BLACK-MOUNTAIN-/dBs/",
-          "tags": []
-        },
-        {
-          "id": "455312",
-          "title": "Bob Log III",
+          "id": "10001022",
+          "title": "BOB LOG III + Van Tastik + BoterBoter",
           "start": "2026-07-09T20:00:00+02:00",
-          "end": "2026-07-09T21:00:00.000Z",
+          "end": "2026-07-09T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Bob Log III is een unieke One Man Band, bekend om zijn supersnelle blues licks, uitgevoerd met een helm op en in een gouden jumpsuit, terwijl hij tegelijkertijd kickdrum en click track bedient. Zijn optredens zijn luid, vreemd en opwindend, een mix van blues, Rock-‘n-Roll en electro. Het is een…",
-          "url": "https://www.podiuminfo.nl/concert/455312/Bob-Log-III/dBs/",
-          "tags": []
+          "description": "Er is maar een Bob Log III, de ultieme One Man Band! \nMet zijn helm op en gekleed in een gouden jumpsuit breng Bob Log supersnelle blues licks terwijl hij zijn kickdrum en click track bedient. Het is luid, vreemd en opwindend hoe extatisch het allemaal klinkt. Zijn gitaar lijkt geglazuurd met een…",
+          "url": "https://dbstudio.nl/event/bob-log-iii/",
+          "tags": [
+            "Blues",
+            "Concert",
+            "Electronics",
+            "Entertainment",
+            "Exotica",
+            "Garage",
+            "One Man Band",
+            "Performance Art",
+            "Rock 'n Roll"
+          ]
         },
         {
-          "id": "479140",
-          "title": "PLF, Pseudo Logica Fantastica",
+          "id": "10001063",
+          "title": "SOLD OUT!   PLF, Pseudo Logica Fantastica",
           "start": "2026-07-11T21:00:00+02:00",
-          "end": "2026-07-11T22:00:00.000Z",
+          "end": "2026-07-12T04:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "– Wiki Bonobo \n– Bonobo Live in Tivoli \n– Bonobo Album",
+          "url": "https://dbstudio.nl/event/plf-pseudo-logica-fantastica/",
+          "tags": [
+            "Dansavond"
+          ]
+        },
+        {
+          "id": "10001058",
+          "title": "Bonobo featuring Drifter TV & Human Beings featuring Carlton, DNA, Tommy, Dub, Alwin, Frankie D, Flipside, Chet, Radar, Humphrey, DJmc Red",
+          "start": "2026-07-11T21:00:00+02:00",
+          "end": "2026-07-12T04:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "CARLTON, DNA, Tommy, Dub, Alwin, Frankie D, Flipside, Chet, Radar, Humphrey, Djmc Red! \nLive on stage BONOBO FEATURING DRIFTER TV & HUMAN BEINGS \nVisuals by Wessel Nimmer \nVoorverkoop start 14 mei",
+          "url": "https://dbstudio.nl/event/plf-met-utreg-sound-djs-en-live-bonobo-featuring-drifter-tv-human-beings-featuring-carlton-dna-tommy-dub-alwin-frankie-d-flipside-chet-radar-humphrey-djmc-red/",
+          "tags": [
+            "Dansavond",
+            "DJ's in cafe",
+            "PLF Utrèg Sound"
+          ]
+        },
+        {
+          "id": "10001072",
+          "title": "Koor \"Geen Gehoor\" matinee",
+          "start": "2026-07-12T15:00:00+02:00",
+          "end": "2026-07-12T17:30:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "PLF, Pseudo Logica Fantastica, was na 1995 een invloedrijke broedplaats voor de Utrechtse dancescene. Het was een anarchistische plek waar toonaangevende Utrechtse dj's alternatieve platen draaiden, een mix van techno, jungle, trip hop, acid house, funk en dub. PLF stond bekend om het doorbreken…",
-          "url": "https://www.podiuminfo.nl/concert/479140/PLF-Pseudo-Logica-Fantastica/dBs/",
+          "description": "Onder de noemer Geen Gehoor zingen allerlei mensen in een koor. Dat doen ze omdat ze zingen zo waanzinnig leuk vinden. Niet omdat ze perse zo goed kunnen zingen. \nVorig jaar schitterde het koor in onze grote zaal. Vandaag gaan ze opnieuw het podium op. Verwacht een vrolijke middag met blij zingende…",
+          "url": "https://dbstudio.nl/event/koor-geen-gehoor-matinee/",
           "tags": []
         },
         {
-          "id": "457799",
-          "title": "The Queers + Pansy Division",
+          "id": "10001027",
+          "title": "THE QUEERS + PANSY DIVISION > an evening of Punk Rock Royalty",
           "start": "2026-07-14T20:00:00+02:00",
-          "end": "2026-07-14T21:00:00.000Z",
+          "end": "2026-07-14T22:30:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Dit evenement in dB's Studio presenteert een unieke \"double bill\" met The Queers en Pansy Division, twee iconische punkrockbands. The Queers, onder leiding van zanger/gitarist Joe King, zijn sinds 1981 actief en staan bekend om hun veelzijdige discografie vol agressieve en vrolijke punkpoppers,…",
-          "url": "https://www.podiuminfo.nl/concert/457799/The-Queers-Pansy-Division/dBs/",
-          "tags": []
+          "description": "Life In A Gay Rock Band uit 2008. \nFokkin’ legendarisch, beide bands. Veel zin in!",
+          "url": "https://dbstudio.nl/event/the-queers-pansy-division-an-evening-of-punk-rock-royalty/",
+          "tags": [
+            "Angry",
+            "Concert",
+            "Punk",
+            "Queercore",
+            "Rock"
+          ]
         },
         {
-          "id": "469107",
-          "title": "THE SCHIZOPHONICS",
+          "id": "10001050",
+          "title": "THE SCHIZOPHONICS (USA) + Bloody Mama",
           "start": "2026-07-16T20:00:00+02:00",
-          "end": "2026-07-16T21:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "THE SCHIZOPHONICS, een van de meest energieke livebands, keert terug naar het podium van dB's voor een avond vol pure rock-'n-roll extase. Het trio staat garant voor 100% Raw Garage Soul Power en staat bekend om hun explosieve shows. Met hun ontembare energie, die doet denken aan The MC5, de…",
-          "url": "https://www.podiuminfo.nl/concert/469107/THE-SCHIZOPHONICS/dBs/",
-          "tags": []
+          "end": "2026-07-16T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "dit is pure rock-’n-roll extase. \n𝗘𝗫𝗖𝗟𝗨𝗦𝗜𝗘𝗩𝗘 𝗡𝗟 𝗦𝗛𝗢𝗪 \nOpener is het piepjonge Bloody Mama, een band die hard op weg de harten van de rechtgeaarde rockliefhebber te veroveren met hun  compromisloze mix van 70s bluesy protopunk en psychedelica, verpakt in een stijl die ze zelf ‘Velvet…",
+          "url": "https://dbstudio.nl/event/the-schizophonics-usa/",
+          "tags": [
+            "Garage",
+            "Rock"
+          ]
         },
         {
-          "id": "473064",
-          "title": "I Am The Avalanche + Bony Macaroni",
+          "id": "10001065",
+          "title": "The Village presents I AM THE AVALANCHE (USA) + BONY MACARONI",
           "start": "2026-07-17T20:00:00+02:00",
-          "end": "2026-07-17T21:00:00.000Z",
+          "end": "2026-07-17T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Ruim twintig jaar beslaat de loopbaan van het Amerikaanse I Am The Avalanche. Na een succesvolle start met albums als 'I Am The Avalanche' en 'Avalanche United', verscheen in 2020 'Dive' en recentelijk 'The Horror Show'. Dit emotionele album behandelt het verlies van een dierbare vriend. De band…",
-          "url": "https://www.podiuminfo.nl/concert/473064/I-Am-The-Avalanche-Bony-Macaroni/dBs/",
+          "description": "Bony Macaroni weet rauwe emoties te strippen met een dikke knipoog en aanstekelijke emopunk riffs.",
+          "url": "https://dbstudio.nl/event/the-village-presents-i-am-the-avalanche-usa-bony-macaroni/",
+          "tags": [
+            "Concert",
+            "Post Hardcore",
+            "Punk",
+            "Rock"
+          ]
+        },
+        {
+          "id": "10001083",
+          "title": "STAPELGANG release",
+          "start": "2026-07-18T18:30:00+02:00",
+          "end": "2026-07-18T22:30:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "//dbstudio.nl/wp-content/uploads/2026/06/FC-STAPEL-4X3.mp4",
+          "url": "https://dbstudio.nl/event/stapelgang-release/",
           "tags": []
         },
         {
-          "id": "478324",
-          "title": "STAPELGANG",
-          "start": "2026-07-18T19:30:00+02:00",
-          "end": "2026-07-18T20:30:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Op 18 juli dropt STAPELGANG hun debuut-EP, en diezelfde avond spelen ze hem live in DBs Utrecht.\r\n\r\n Producer Jeffrey Jackson en vocalisten Duimalot en Kiddy brengen een show die verder gaat dan rap alleen. Met hun achtergrond in dans, muziek en theater krijg je geen rijtje tracks, maar een avond…",
-          "url": "https://www.podiuminfo.nl/concert/478324/STAPELGANG/dBs/",
-          "tags": []
-        },
-        {
-          "id": "450235",
-          "title": "D.R.I.",
+          "id": "10000960",
+          "title": "*Sold Out* D.R.I. + These Hands",
           "start": "2026-07-22T20:00:00+02:00",
-          "end": "2026-07-22T21:00:00.000Z",
+          "end": "2026-07-22T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "We zaten er al een tijdje achteraan maar steeds lukte het net niet, tot nu!\r\nOMG, D.R.I. keert terug naar dB's!!! Deze legendarische crossover band speelde in 2018 en 2019 al gedenkwaardige shows in oude dB's en het is dan nu eindelijk tijd om deze legends ook op onze nieuwe stek op VLP63 te…",
-          "url": "https://www.podiuminfo.nl/concert/450235/D-R-I-/dBs/",
-          "tags": []
+          "description": "//thesehandshc.bandcamp.com/album/these-hands-demo",
+          "url": "https://dbstudio.nl/event/d-r-i/",
+          "tags": [
+            "80's",
+            "Concert",
+            "Hardcore",
+            "Metal",
+            "Punk"
+          ]
         },
         {
-          "id": "462613",
-          "title": "N8NOFACE",
-          "start": "2026-07-23T20:30:00+02:00",
-          "end": "2026-07-23T21:30:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "N8NOFACE, de artiestennaam van Nathan Hose, is een Amerikaanse muzikant, rapper en producer uit Tucson, Arizona, momenteel woonachtig in Los Angeles. Deze opvallende artiest is geen typische rockster, maar levert live een krachtige en overweldigende show, gekenmerkt door een mix van cold wave, punk…",
-          "url": "https://www.podiuminfo.nl/concert/462613/N8NOFACE/dBs/",
-          "tags": []
+          "id": "10001039",
+          "title": "N8NOFACE (USA)",
+          "start": "2026-07-23T20:00:00+02:00",
+          "end": "2026-07-23T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "𝟬𝟬 𝗔𝗠 𝗶𝗻 𝗱𝗲 𝘃𝗲𝗿𝗸𝗼𝗼𝗽! \nN8NOFACE (uitgesproken als “Nate No Face”) is de artiestennaam van Nathan Hose, een uitzonderlijke Amerikaanse muzikant, rapper en producer uit Tucson, Arizona, die tegenwoordig in Los Angeles woont.  Deze zwaar besnorde en kaal behaarde outsider is niet exact…",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-n8noface-usa/",
+          "tags": [
+            "Rap",
+            "Wave"
+          ]
         },
         {
-          "id": "454087",
-          "title": "Ballroom Blitz",
-          "start": "2026-07-25T11:00:00+02:00",
-          "end": "2026-07-25T12:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Ballroom Blitz is een maandelijks terugkerend feest in dB's, wars van trends maar vol vette hits. Het evenement vindt plaats op zaterdag 25 juli 2026, van 11:00 uur 's ochtends tot zondag 26 juli 2026 03:00 uur. Het belooft een energieke avond te worden voor iedereen met een onbedwingbare drang tot…",
-          "url": "https://www.podiuminfo.nl/concert/454087/Ballroom-Blitz/dBs/",
-          "tags": []
-        },
-        {
-          "id": "460246",
-          "title": "DZ Deathrays",
+          "id": "10001032",
+          "title": "DZ DEATHRAYS (OZ)",
           "start": "2026-07-26T20:00:00+02:00",
-          "end": "2026-07-26T21:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "De Australische band DZ Deathrays mengt garagerock, punk en dansbare beats tot een explosieve cocktail. In hun thuisland zijn deze trashy rockers razend populair – zo werden ze in 2018 uitverkoren door Foo Fighters als support van hun Australische stadiontour. Hoewel DZ Deathrays er een stevig…",
-          "url": "https://www.podiuminfo.nl/concert/460246/DZ-Deathrays/dBs/",
-          "tags": []
+          "end": "2026-07-26T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Remember It’s For Fun!",
+          "url": "https://dbstudio.nl/event/dbs-en-tivoli-vredenburg-present-dz-deathrays-oz/",
+          "tags": [
+            "Garage",
+            "Punk"
+          ]
+        },
+        {
+          "id": "10001042",
+          "title": "200 STAB WOUNDS (USA)",
+          "start": "2026-08-01T20:00:00+02:00",
+          "end": "2026-08-01T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "𝟮𝟬𝟬 𝗦𝗧𝗔𝗕 𝗪𝗢𝗨𝗡𝗗𝗦 komt het betere sloopwerk verrichten in dB’s. Messcherpe riffs, loeizware grooves en rauwe, compromisloze energie maken dat de Amerikaanse formatie uit Cleveland, Ohio de nieuwe sensatie aan het front van de hedendaagse deathmetal wordt genoemd. Albums Slave to the…",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-200-stab-wounds-usa/",
+          "tags": [
+            "Death Metal"
+          ]
         }
       ]
     },
@@ -504,256 +650,596 @@
       "name": "De Helling",
       "color": "#22c55e",
       "icon": "🟢",
-      "feedUrl": "https://www.podiuminfo.nl/podium/3/concerten/De-Helling/Utrecht/",
+      "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "479922",
+          "id": "helling-hba-exf-16-06-2026",
           "title": "HBA EXF",
           "start": "2026-06-16T19:00:00+02:00",
-          "end": "2026-06-16T20:00:00.000Z",
+          "end": "2026-06-16T23:15:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "De Herman Brood Academie presenteert hun jaarlijkse eindexamenshows (HBA EXF), een hoogtepunt waar derdejaars popartiesten nog één keer optreden onder de vleugels van de academie. Deze avond is toegankelijk voor iedereen en brengt een line-up van opkomend talent. Op dinsdag 16 juni treden Haylid,…",
-          "url": "https://www.podiuminfo.nl/concert/479922/HBA-EXF/De-Helling/",
+          "description": "Dé eindexamenshows van de popartiesten van de Herman Brood Academie met Haylid, Aluminium, Momo, Lena, Paro en Fit",
+          "url": "https://dehelling.nl/agenda/hba-exf-16-06-2026/",
           "tags": []
         },
         {
-          "id": "479924",
+          "id": "helling-hba-exf-17-06-2026",
           "title": "HBA EXF",
           "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T20:00:00.000Z",
+          "end": "2026-06-17T22:30:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "De Herman Brood Academie presenteert hun jaarlijkse eindexamenshows (HBA EXF), een hoogtepunt waar derdejaars popartiesten nog één keer optreden onder de vleugels van de academie. Deze avond is toegankelijk voor iedereen en brengt een line-up van opkomend talent. Op woensdag 17 juni treden Alyssa…",
-          "url": "https://www.podiuminfo.nl/concert/479924/HBA-EXF/De-Helling/",
+          "description": "Dé eindexamenshows van de popartiesten van de Herman Brood Academie met Alyssa Marli, Barbian, De Formule, Rommy Gabay en Semuta",
+          "url": "https://dehelling.nl/agenda/hba-exf-17-06-2026/",
           "tags": []
         },
         {
-          "id": "464688",
+          "id": "helling-open-clawless-18-06-2026",
+          "title": "OPEN CLAWLESS",
+          "start": "2026-06-18T20:00:00+02:00",
+          "end": "2026-06-18T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Queer & female-friendly avond voor iedereen die zich ‘s nachts wel eens onveilig voelt ",
+          "url": "https://dehelling.nl/agenda/open-clawless-18-06-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-terug-in-de-tijd-19-06-2026",
           "title": "Terug in de Tijd",
           "start": "2026-06-19T23:00:00+02:00",
-          "end": "2026-06-20T00:00:00.000Z",
+          "end": "2026-06-20T04:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Op 19 juni organiseert De Helling 'Terug in de Tijd', een clubavond gericht op het herbeleven van de muziek en sfeer uit de periode 2016 tot 2020. Bezoekers kunnen een nacht vol 'throwbacks' verwachten met bekende 'bangers' van artiesten als Lil Kleine, Frenna, Boef, Broederliefde, Jonna Fraser en…",
-          "url": "https://www.podiuminfo.nl/concert/464688/Terug-in-de-Tijd/De-Helling/",
+          "description": "Terug naar de beste herinneringen uit 2016-2020",
+          "url": "https://dehelling.nl/agenda/terug-in-de-tijd-19-06-2026/",
           "tags": []
         },
         {
-          "id": "456941",
-          "title": "Yungblud",
+          "id": "helling-freedom-city-krump-hiphop-battles-20-06-2026",
+          "title": "Freedom City – Krump & Hiphop Battles",
+          "start": "2026-06-20T12:00:00+02:00",
+          "end": "2026-06-20T22:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Duik in de underground hiphop scene met dansbattles en rap cyphers",
+          "url": "https://dehelling.nl/agenda/freedom-city-krump-hiphop-battles-20-06-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-tivoli-de-naborrel-21-06-2026",
+          "title": "Tivoli – De Naborrel",
+          "start": "2026-06-21T19:00:00+02:00",
+          "end": "2026-06-21T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "…na De Toegift eindelijk De Naborrel",
+          "url": "https://dehelling.nl/agenda/tivoli-de-naborrel-21-06-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-yungblud-showcase-23-06-2026",
+          "title": "Yungblud showcase",
           "start": "2026-06-23T16:00:00+02:00",
-          "end": "2026-06-23T17:00:00.000Z",
+          "end": "2026-06-23T21:15:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "De Helling organiseert een speciale showcase met Yungblud, die plaatsvindt als een 'In Conversation With'-sessie. Dit evenement, oorspronkelijk gepland op 7 april, is verplaatst naar dinsdag 23 juni 2026. De showcase is momenteel uitverkocht. Bezoekers met tickets voor de oorspronkelijke datum…",
-          "url": "https://www.podiuminfo.nl/concert/456941/Yungblud/De-Helling/",
+          "description": "In Conversation With",
+          "url": "https://dehelling.nl/agenda/yungblud-showcase-23-06-2026/",
           "tags": []
         },
         {
-          "id": "453475",
-          "title": "Orville Peck",
-          "start": "2026-06-24T20:00:00+02:00",
-          "end": "2026-06-24T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De mysterieuze, gemaskerde Zuid-Afrikaanse countryzanger Orville Peck voelt zich naar eigen zeggen al zijn hele leven een cowboy. Niet zo vreemd dus dat hij zich laat inspireren door klassieke countrysterren als Merle Haggard, Willie Nelson en George Jones, al zijn ook moderne namen als Lana Del…",
-          "url": "https://www.podiuminfo.nl/concert/453475/Orville-Peck/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "456903",
+          "id": "helling-youth-code-king-yosef-24-06-2026",
           "title": "Youth Code + King Yosef",
           "start": "2026-06-24T20:15:00+02:00",
-          "end": "2026-06-24T21:15:00.000Z",
+          "end": "2026-06-24T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Youth Code, het koningspaar van de industrial-revival, levert een brutale mix van industriële EBM en hardcore punkspirit. Dit power-duo haalt inspiratie uit de frustratie van de jaren '80 hardcorepunkscene en de duistere melancholie van bands als Joy Division. Ze staan bekend als een van de meest…",
-          "url": "https://www.podiuminfo.nl/concert/456903/Youth-Code-King-Yosef/De-Helling/",
+          "description": "Industrieel EBM-duo met hardcore punkspirit",
+          "url": "https://dehelling.nl/agenda/youth-code-king-yosef-24-06-2026/",
           "tags": []
         },
         {
-          "id": "463309",
-          "title": "FC De Helling NED – TUN",
+          "id": "helling-fc-de-helling-tun-ned-25-06-2026",
+          "title": "FC De Helling TUN – NED",
           "start": "2026-06-25T22:30:00+02:00",
-          "end": "2026-06-25T23:30:00.000Z",
+          "end": "2026-06-26T02:45:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "FC De Helling NED – TUN combineert een voetbalwedstrijd in het holst van de nacht met een clubnacht in De Helling. Bezoekers kunnen de wedstrijd van Nederland tegen Tunesië bekijken in de zaal, gevolgd door of voorafgegaan door alternatieve muziek van DJ's. De avond richt zich op fans van zowel…",
-          "url": "https://www.podiuminfo.nl/concert/463309/FC-De-Helling-NED-TUN/De-Helling/",
+          "description": "Je favoriete nieuwe voetbalclub",
+          "url": "https://dehelling.nl/agenda/fc-de-helling-tun-ned-25-06-2026/",
           "tags": []
         },
         {
-          "id": "471778",
+          "id": "helling-gone-country-afternoon-show-27-06-2026",
           "title": "Gone Country Afternoon Show",
           "start": "2026-06-27T15:00:00+02:00",
-          "end": "2026-06-27T16:00:00.000Z",
+          "end": "2026-06-27T18:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Gone Country, een populair maandelijkse country avond uit Amsterdam, komt nu naar De Helling in Utrecht voor een speciale middagshow. Bezoekers kunnen zich opmaken voor een interactieve line dancing party, waar beginnersvriendelijke line dances worden aangeleerd te midden van een levendige sfeer.…",
-          "url": "https://www.podiuminfo.nl/concert/471778/Gone-Country-Afternoon-Show/De-Helling/",
+          "description": "Saddle up, De Helling is going country with a line dancing party.",
+          "url": "https://dehelling.nl/agenda/gone-country-afternoon-show-27-06-2026/",
           "tags": []
         },
         {
-          "id": "467584",
+          "id": "helling-gone-country-27-06-2026",
+          "title": "Gone Country",
+          "start": "2026-06-27T19:00:00+02:00",
+          "end": "2026-06-27T22:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Saddle up, De Helling is going country with a line dancing party.",
+          "url": "https://dehelling.nl/agenda/gone-country-27-06-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-feverr-27-06-2026",
           "title": "FEVERR",
           "start": "2026-06-27T23:00:00+02:00",
-          "end": "2026-06-28T00:00:00.000Z",
+          "end": "2026-06-28T04:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "FEVERR is geen standaard housefeestje, maar een evenement waar diverse werelden samenkomen. Het trekt zowel doorgewinterde nachtvlinders als nieuwe clubbezoekers aan, en brengt gevestigde dj's samen met aanstormend talent. De avond is een eclectische mix van genres, variërend van disco en funky…",
-          "url": "https://www.podiuminfo.nl/concert/467584/FEVERR/De-Helling/",
+          "description": "Not your average houseparty",
+          "url": "https://dehelling.nl/agenda/feverr-27-06-2026/",
           "tags": []
         },
         {
-          "id": "453762",
-          "title": "Steve 'n' Seagulls",
-          "start": "2026-06-28T20:00:00+02:00",
-          "end": "2026-06-28T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Finse band Steve ‘n’ Seagulls staat bekend om hun humoristische benadering van muziek, door heavymetalcovers in bluegrass-stijl te spelen. Ze braken door in 2014 met hun virale versie van AC/DC's 'Thunderstruck', waarmee ze hun muzikale virtuositeit bewezen. Inmiddels zijn ze een geliefde…",
-          "url": "https://www.podiuminfo.nl/concert/453762/Steve-n-Seagulls/TivoliVredenburg/",
+          "id": "helling-the-kulture-of-hype-and-hope-fire-edition-28-06-2026",
+          "title": "The Kulture of Hype and Hope – Fire Edition",
+          "start": "2026-06-28T12:00:00+02:00",
+          "end": "2026-06-28T22:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "HipHop & KRUMP 1vs1 Battle | Powered by DOX",
+          "url": "https://dehelling.nl/agenda/the-kulture-of-hype-and-hope-fire-edition-28-06-2026/",
           "tags": []
         },
         {
-          "id": "467811",
+          "id": "helling-tom-smith-01-07-2026",
           "title": "Tom Smith",
           "start": "2026-07-01T20:30:00+02:00",
-          "end": "2026-07-01T21:30:00.000Z",
+          "end": "2026-07-01T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "In december 2025 bracht Smith zijn eerste soloplaat uit. Een selectie rootsy songs waarin hij de bombast van Editors even achterliet om z’n gevoelige kant te laten zien. Is het folk? Americana? Crooner? ‘Geen idee’, aldus Smith, ‘maar ik heb altijd al de roeping gehad om droevige liedjes te…",
-          "url": "https://www.podiuminfo.nl/concert/467811/Tom-Smith/De-Helling/",
+          "description": "Editors-frontman speelt intieme show na uitverkochte voorjaarstour",
+          "url": "https://dehelling.nl/agenda/tom-smith-01-07-2026/",
           "tags": []
         },
         {
-          "id": "457992",
+          "id": "helling-80s-verantwoord-04-07-2026",
           "title": "80s Verantwoord",
           "start": "2026-07-04T20:00:00+02:00",
-          "end": "2026-07-04T21:00:00.000Z",
+          "end": "2026-07-05T01:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "80s Verantwoord is een levendige clubnacht die al meer dan 25 jaar de beste en meest geliefde hits uit de jaren '80 viert. Bezoekers kunnen zich onderdompelen in de sfeer van neonlicht, Pac-man en de kenmerkende mode van dit decennium. De avond staat garant voor een terugblik naar een…",
-          "url": "https://www.podiuminfo.nl/concert/457992/80s-Verantwoord/De-Helling/",
+          "description": "De grootste credible hits en vergeten parels uit het beste decennium!",
+          "url": "https://dehelling.nl/agenda/80s-verantwoord-04-07-2026/",
           "tags": []
         },
         {
-          "id": "457876",
+          "id": "helling-baskery-10-07-2026",
           "title": "Baskery",
           "start": "2026-07-10T20:15:00+02:00",
-          "end": "2026-07-10T21:15:00.000Z",
+          "end": "2026-07-10T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Baskery, een Zweedse band bestaande uit de zusters Greta, Stella en Sunniva Bondesson, brengt een energieke mix van americana, country, folk en blues, ook wel omschreven als 'banjopunk' of 'mud-country'. Hoewel afkomstig uit Zweden, ademt hun muziek de sfeer van de Amerikaanse Deep South, gevoed…",
-          "url": "https://www.podiuminfo.nl/concert/457876/Baskery/De-Helling/",
+          "description": "Zweedse banjopunk-gezusters met hemelse melodieën",
+          "url": "https://dehelling.nl/agenda/baskery-10-07-2026/",
           "tags": []
         },
         {
-          "id": "452718",
-          "title": "Christone “Kingfish” Ingram",
-          "start": "2026-07-13T20:00:00+02:00",
-          "end": "2026-07-13T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De 27-jarige Amerikaanse bluesman Christone “Kingfish” Ingram komt naar de Ronda van TivoliVredenburg. Ondanks zijn jonge leeftijd klinkt Ingram als een ervaren muzikant, wat niet verwonderlijk is gezien zijn vroege start met drums, bas en gitaar op zesjarige leeftijd. Geboren in Clarksdale,…",
-          "url": "https://www.podiuminfo.nl/concert/452718/Christone-Kingfish-Ingram/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452711",
-          "title": "Arch Enemy",
-          "start": "2026-08-09T21:00:00+02:00",
-          "end": "2026-08-09T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Zweedse melodieuze-deathmetalband Arch Enemy bestaat ruim 30 jaar en begint inmiddels aan zijn vierde leven. Al die tijd weet de band compromisloze agressie te combineren met melodieuze elementen, zoals te horen op hun beste albums Wages Of Sin (2001) en Doomsday Machine (2005). Nadat frontvrouw…",
-          "url": "https://www.podiuminfo.nl/concert/452711/Arch-Enemy/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "448295",
+          "id": "helling-the-dreadnoughts-13-08-2026",
           "title": "The Dreadnoughts",
-          "start": "2026-08-13T20:15:00+02:00",
-          "end": "2026-08-13T21:15:00.000Z",
+          "start": "2026-08-13T20:45:00+02:00",
+          "end": "2026-08-13T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "“Polka never dies!” Daar zorgen The Dreadnoughts wel voor. Deze Canadezen noemen zichzelf polkafundamentalisten. Oh, en ze zijn al zo’n negentien jaar onafgebroken dronken. Sinds hun geboorte in de achterkamertjes van het beruchte Ivanhoe Hotel in Vancouver zijn The Dreadnoughts bezig aan een…",
-          "url": "https://www.podiuminfo.nl/concert/448295/The-Dreadnoughts/De-Helling/",
+          "description": "Canadese clusterfolk-legends veranderen festivalweiden in plakkerige pubs",
+          "url": "https://dehelling.nl/agenda/the-dreadnoughts-13-08-2026/",
           "tags": []
         },
         {
-          "id": "477473",
+          "id": "helling-club-weeb-xl-15-08-2026",
           "title": "Club Weeb XL",
           "start": "2026-08-15T18:00:00+02:00",
-          "end": "2026-08-15T19:00:00.000Z",
+          "end": "2026-08-16T00:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Club Weeb XL viert zijn tiende jubileum met de grootste anime clubnacht van Nederland. Duik in een wonderlijke anime-wereld vol J-pop, otaku entertainment en Japanse cocktails. Verwacht hyperactieve DJ-sets van namen als BrainShit, Vault Kid, Shiz, Caorin en het Club Weeb team. Daarnaast is er een…",
-          "url": "https://www.podiuminfo.nl/concert/477473/Club-Weeb-XL/De-Helling/",
+          "description": "Jubileumeditie van grootste anime clubnacht in Nederland",
+          "url": "https://dehelling.nl/agenda/club-weeb-xl-15-08-2026/",
           "tags": []
         },
         {
-          "id": "460888",
-          "title": "Teen Mortgage",
+          "id": "helling-teen-mortgage-cowboy-hunters-19-08-2026",
+          "title": "Teen Mortgage + Cowboy Hunters",
           "start": "2026-08-19T20:15:00+02:00",
-          "end": "2026-08-19T21:15:00.000Z",
+          "end": "2026-08-19T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Het duo Teen Mortgage uit Washington D.C. brengt een moddervette mix van eastcoast hardcore, garage-sleaze en surfrock. Gevonden via Craigslist, delen zij een liefde voor deze genres en een sterke frustratie over de staat van de wereld. Hun muziek vangt deze emoties in kleine, agressieve nummers…",
-          "url": "https://www.podiuminfo.nl/concert/460888/Teen-Mortgage/De-Helling/",
+          "description": "Moddervette mix van eastcoast-hardcore en surf laat de zolen van je skateschoenen verdwijnen",
+          "url": "https://dehelling.nl/agenda/teen-mortgage-cowboy-hunters-19-08-2026/",
           "tags": []
         },
         {
-          "id": "461195",
+          "id": "helling-cyberia-reunion-rotersand-28-08-2026",
           "title": "Cyberia Reunion + Rotersand",
           "start": "2026-08-28T20:50:00+02:00",
-          "end": "2026-08-28T21:50:00.000Z",
+          "end": "2026-08-29T02:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "De Cyberia Reunion keert terug naar De Helling voor een avond vol goth en new wave. Na een succesvolle comeback vorig jaar, toont dit evenement opnieuw de vitaliteit van de dark underground scene. Bezoekers kunnen een hele nacht dansen in het donker op een zorgvuldig geselecteerde mix van bands,…",
-          "url": "https://www.podiuminfo.nl/concert/461195/Cyberia-Reunion-Rotersand/De-Helling/",
+          "description": "Dansen tussen de schaduwen op de beste new wave, electro en goth",
+          "url": "https://dehelling.nl/agenda/cyberia-reunion-rotersand-28-08-2026/",
           "tags": []
         },
         {
-          "id": "466199",
+          "id": "helling-breakdown-29-08-2026",
           "title": "Breakdown",
           "start": "2026-08-29T22:00:00+02:00",
-          "end": "2026-08-29T23:00:00.000Z",
+          "end": "2026-08-30T04:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Breakdown is een nieuw en dynamisch evenement dat een unieke cross-over biedt tussen metalcore, emo, drum & bass en dubstep. Het concept richt zich op liefhebbers van diverse hardere muziekstijlen, van gitaargestuurde metal tot elektronische bassklanken. Bezoekers kunnen een avond verwachten waar…",
-          "url": "https://www.podiuminfo.nl/concert/466199/Breakdown/De-Helling/",
+          "description": "Een crossover van metalcore en drum & bass",
+          "url": "https://dehelling.nl/agenda/breakdown-29-08-2026/",
           "tags": []
         },
         {
-          "id": "474233",
+          "id": "helling-summer-of-pride-kiki-iii-30-08-2026",
           "title": "Summer of Pride Kiki III",
           "start": "2026-08-30T17:00:00+02:00",
-          "end": "2026-08-30T18:00:00.000Z",
+          "end": "2026-08-30T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "De Helling organiseert de derde editie van Summer of Pride Kiki, een terugkerend ballroom evenement in Utrecht. Dit evenement belooft een feestelijke afsluiting van de zomer te worden. Summer of Pride Kiki 3 brengt hulde aan de transgemeenschap, die sinds het begin een fundamentele rol heeft…",
-          "url": "https://www.podiuminfo.nl/concert/474233/Summer-of-Pride-Kiki-III/De-Helling/",
+          "description": "Andrea 007 presents: the return of the Summer of Pride Kiki part THREE!",
+          "url": "https://dehelling.nl/agenda/summer-of-pride-kiki-iii-30-08-2026/",
           "tags": []
         },
         {
-          "id": "452735",
-          "title": "Foy Vance",
-          "start": "2026-09-08T19:15:00+02:00",
-          "end": "2026-09-08T20:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De fraai besnorde Noord-Ierse singer-songwriter Foy Vance brengt een kenmerkende mix van rock, folk en blues, gezongen met zijn rauwe en soulvolle stem. Hij wordt vaak vergeleken met artiesten als Van Morrison, Ray LaMontagne of Glen Hansard. Vance heeft zijn laatste vier albums uitgebracht bij het…",
-          "url": "https://www.podiuminfo.nl/concert/452735/Foy-Vance/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "464655",
+          "id": "helling-ora-cogan-10-09-2026",
           "title": "Ora Cogan",
           "start": "2026-09-10T20:15:00+02:00",
-          "end": "2026-09-10T21:15:00.000Z",
+          "end": "2026-09-10T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "De raadselachtige muziek van Ora Cogan laat zich maar moeilijk in een hokje stoppen. Haar muziek kan omschreven worden als behekste folk-gaze uit vervlogen tijden of filmische country-noir met een ijskoud vleugje gothic. Deze mystieke liedjes, geboren in de donkere naaldbossen van Vancouver Island,…",
-          "url": "https://www.podiuminfo.nl/concert/464655/Ora-Cogan/De-Helling/",
+          "description": "Bezwerende folk-noir uit de Canadese wouden",
+          "url": "https://dehelling.nl/agenda/ora-cogan-10-09-2026/",
           "tags": []
         },
         {
-          "id": "474614",
-          "title": "King Shiloh's Skanking Sunday",
+          "id": "helling-king-shilohs-skanking-sunday-13-09-2026",
+          "title": "King Shiloh’s Skanking Sunday",
           "start": "2026-09-13T23:00:00+02:00",
-          "end": "2026-09-14T00:00:00.000Z",
+          "end": "2026-09-14T04:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "King Shiloh, al jaren een toonaangevend soundsystem in Nederland en daarbuiten, keert terug naar De Helling met 'Skanking Sunday'. De formatie toert regelmatig met hun zelfontworpen en gebouwde SirRoundSound-geluidssysteem. 'Skanking Sunday' belooft een avond vol reggae en ska, met wapperende…",
-          "url": "https://www.podiuminfo.nl/concert/474614/King-Shilohs-Skanking-Sunday/De-Helling/",
+          "description": "Skanking Sunday",
+          "url": "https://dehelling.nl/agenda/king-shilohs-skanking-sunday-13-09-2026/",
           "tags": []
         },
         {
-          "id": "458282",
+          "id": "helling-white-denim-15-09-2026",
           "title": "White Denim",
           "start": "2026-09-15T20:15:00+02:00",
-          "end": "2026-09-15T21:15:00.000Z",
+          "end": "2026-09-15T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "White Denim brengt een explosieve mix van seventies psych-soul-jazz-funkrock naar De Helling. Deze Texaanse formatie staat bekend om hun nauwgezette studie van rockhelden uit de jaren ’70, waaraan ze een frisse en energieke draai geven. Hun muziek is een manische combinatie van diverse genres,…",
-          "url": "https://www.podiuminfo.nl/concert/458282/White-Denim/De-Helling/",
+          "description": "Seventies psych-soul-jazz-funkrock voor lichaam en ziel",
+          "url": "https://dehelling.nl/agenda/white-denim-15-09-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-hidden-secrets-18-09-2026",
+          "title": "Hidden Secrets",
+          "start": "2026-09-18T23:59:00+02:00",
+          "end": "2026-09-19T06:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "A close-up dance journey from hard house and bouncy techno to hard techno, right in the middle of the crowd",
+          "url": "https://dehelling.nl/agenda/hidden-secrets-18-09-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-earthdance-with-psychedelic-grateful-punks-19-09-2026",
+          "title": "Earthdance with Psychedelic Grateful Punks",
+          "start": "2026-09-19T23:59:00+02:00",
+          "end": "2026-09-20T06:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Wereldwijde dans voor vrede met psychedelic trance",
+          "url": "https://dehelling.nl/agenda/earthdance-with-psychedelic-grateful-punks-19-09-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-jesse-barnett-acoustic-in-stadsklooster-utrecht-22-09-2026",
+          "title": "Jesse Barnett – acoustic in Stadsklooster Utrecht",
+          "start": "2026-09-22T20:15:00+02:00",
+          "end": "2026-09-22T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Activistische frontman van Stick To Your Guns opent akoestische moshpit in Het Stadsklooster",
+          "url": "https://dehelling.nl/agenda/jesse-barnett-acoustic-in-stadsklooster-utrecht-22-09-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-dice-25-09-2026",
+          "title": "DICE",
+          "start": "2026-09-25T20:15:00+02:00",
+          "end": "2026-09-25T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Zonovergoten indiepoprock voor in het hier en nu",
+          "url": "https://dehelling.nl/agenda/dice-25-09-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-state-power-release-show-26-09-2026",
+          "title": "State Power release show",
+          "start": "2026-09-26T18:30:00+02:00",
+          "end": "2026-09-26T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Utrechts nieuwe hardcore-revelatie lanceert debuutalbum met mini-festival",
+          "url": "https://dehelling.nl/agenda/state-power-release-show-26-09-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-bare-jams-07-10-2026",
+          "title": "Bare Jams",
+          "start": "2026-10-07T20:15:00+01:00",
+          "end": "2026-10-07T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Feelgood-indiepop voor als het leven donker wordt ",
+          "url": "https://dehelling.nl/agenda/bare-jams-07-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-the-magic-numbers-12-10-2026",
+          "title": "The Magic Numbers",
+          "start": "2026-10-12T20:15:00+01:00",
+          "end": "2026-10-12T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Ambachtelijke retropop waar je vrolijk van wordt",
+          "url": "https://dehelling.nl/agenda/the-magic-numbers-12-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-krallice-15-10-2026",
+          "title": "Krallice",
+          "start": "2026-10-15T20:15:00+01:00",
+          "end": "2026-10-15T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "New Yorkse cultband vond de blackmetal al zo’n 20 keer opnieuw uit",
+          "url": "https://dehelling.nl/agenda/krallice-15-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-acres-wayside-what-lies-below-lifespark-21-10-2026",
+          "title": "Acres + Wayside + What Lies Below + Lifespark",
+          "start": "2026-10-21T19:30:00+01:00",
+          "end": "2026-10-21T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Emotionele metalcore vol hooks en verwoestende grooves",
+          "url": "https://dehelling.nl/agenda/acres-wayside-what-lies-below-lifespark-21-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-kruidkoek-joost-oomen-23-10-2026",
+          "title": "Kruidkoek & Joost Oomen",
+          "start": "2026-10-23T20:00:00+01:00",
+          "end": "2026-10-23T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Poëzie meets jazzpunk in de meest literaire moshpit van het jaar",
+          "url": "https://dehelling.nl/agenda/kruidkoek-joost-oomen-23-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-joy-division-undercover-24-10-2026",
+          "title": "Joy Division Undercover",
+          "start": "2026-10-24T20:15:00+01:00",
+          "end": "2026-10-24T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Doorgewinterde muzikanten brengen een ode aan de pioniers van de new wave",
+          "url": "https://dehelling.nl/agenda/joy-division-undercover-24-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-nasty-crawlspace-pintglass-premonition-30-10-2026",
+          "title": "Nasty + Crawlspace + Pintglass + Premonition",
+          "start": "2026-10-30T18:30:00+01:00",
+          "end": "2026-10-30T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Belgian-German aggro punk",
+          "url": "https://dehelling.nl/agenda/nasty-crawlspace-pintglass-premonition-30-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-bartofso-31-10-2026",
+          "title": "Bartofso",
+          "start": "2026-10-31T20:15:00+01:00",
+          "end": "2026-10-31T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Gemaskerde rapper tilt Haagse trapsound naar een nieuw level",
+          "url": "https://dehelling.nl/agenda/bartofso-31-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-momentum-iii-01-11-2026",
+          "title": "Momentum III",
+          "start": "2026-11-01T16:30:00+01:00",
+          "end": "2026-11-01T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Mini new wave/postpunkfestival met o.a. Potochkine, Vioflesh en Dear Omen",
+          "url": "https://dehelling.nl/agenda/momentum-iii-01-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-ciao-lucifer-05-11-2026",
+          "title": "Ciao Lucifer",
+          "start": "2026-11-05T20:15:00+01:00",
+          "end": "2026-11-05T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Amsterdams indiepopduo draagt de titel ‘feelgoodband’ met trots",
+          "url": "https://dehelling.nl/agenda/ciao-lucifer-05-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-freax-07-11-2026",
+          "title": "Freax",
+          "start": "2026-11-07T23:00:00+01:00",
+          "end": "2026-11-08T06:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Time to get freaky!",
+          "url": "https://dehelling.nl/agenda/freax-07-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-ghostly-kisses-08-11-2026",
+          "title": "Ghostly Kisses",
+          "start": "2026-11-08T20:15:00+01:00",
+          "end": "2026-11-08T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Minimalistische fluister-indie vol grote gevoelens",
+          "url": "https://dehelling.nl/agenda/ghostly-kisses-08-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-ash-1977-30th-anniversary-show-10-11-2026",
+          "title": "ASH – 1977 30th anniversary show",
+          "start": "2026-11-10T20:15:00+01:00",
+          "end": "2026-11-10T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Noord-Ierse Britrockers vieren de dertigste verjaardag van hun debuut in stijl",
+          "url": "https://dehelling.nl/agenda/ash-1977-30th-anniversary-show-10-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-boris-pink-20th-anniversary-tour-12-11-2026",
+          "title": "BORIS – PINK 20th Anniversary Tour",
+          "start": "2026-11-12T20:15:00+01:00",
+          "end": "2026-11-12T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Japanse metal-duizendpoten vieren 20-jarig bestaan van hun beste album",
+          "url": "https://dehelling.nl/agenda/boris-pink-20th-anniversary-tour-12-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-voidborn-vi-13-11-2026",
+          "title": "VOIDBORN VI",
+          "start": "2026-11-13T23:59:00+01:00",
+          "end": "2026-11-14T06:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Psychedelic Night",
+          "url": "https://dehelling.nl/agenda/voidborn-vi-13-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-joshua-idehen-18-11-2026",
+          "title": "Joshua Idehen",
+          "start": "2026-11-18T20:15:00+01:00",
+          "end": "2026-11-18T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Poëtische clubfilosoof veegt de (dans)vloer aan met het kwaad",
+          "url": "https://dehelling.nl/agenda/joshua-idehen-18-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-muylike-19-11-2026",
+          "title": "Muylike",
+          "start": "2026-11-19T20:15:00+01:00",
+          "end": "2026-11-19T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Indiedarling van Utrechtse bodem presenteert z’n beste album tot nu toe",
+          "url": "https://dehelling.nl/agenda/muylike-19-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-the-hillbilly-moonshiners-28-11-2026",
+          "title": "The Hillbilly Moonshiners",
+          "start": "2026-11-28T20:45:00+01:00",
+          "end": "2026-11-28T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Je favoriete hits in een bruinleren bluegrassjasje",
+          "url": "https://dehelling.nl/agenda/the-hillbilly-moonshiners-28-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-voxtechnik-04-12-2026",
+          "title": "VoxTechnik",
+          "start": "2026-12-04T20:00:00+01:00",
+          "end": "2026-12-04T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Half-mens-half-robotband neemt je mee naar de gouden dagen van de synthpop",
+          "url": "https://dehelling.nl/agenda/voxtechnik-04-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-the-scratch-07-12-2026",
+          "title": "The Scratch",
+          "start": "2026-12-07T20:15:00+01:00",
+          "end": "2026-12-07T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Oer-Ierse folkmetalheads met het hart op de juiste plek",
+          "url": "https://dehelling.nl/agenda/the-scratch-07-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-warbuhl-10-12-2026",
+          "title": "Warbuhl",
+          "start": "2026-12-10T20:00:00+01:00",
+          "end": "2026-12-10T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Nederpop-chaos waar je vrolijk van wordt",
+          "url": "https://dehelling.nl/agenda/warbuhl-10-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-the-smiths-presumably-12-12-2026",
+          "title": "The Smiths Presumably",
+          "start": "2026-12-12T20:15:00+01:00",
+          "end": "2026-12-12T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Smiths-tributeband met internationale reputatie",
+          "url": "https://dehelling.nl/agenda/the-smiths-presumably-12-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-no-barrier-x-mas-special-18-12-2026",
+          "title": "NO BARRIER X-MAS SPECIAL",
+          "start": "2026-12-18T21:00:00+01:00",
+          "end": "2026-12-19T02:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Punk, Emo, Rock & Metalcore Christmas Party",
+          "url": "https://dehelling.nl/agenda/no-barrier-x-mas-special-18-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-isabel-usher-19-12-2026",
+          "title": "Isabèl Usher",
+          "start": "2026-12-19T20:15:00+01:00",
+          "end": "2026-12-19T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Popster-in-wording met platinahit op zak",
+          "url": "https://dehelling.nl/agenda/isabel-usher-19-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-de-kift-speelt-de-eenzame-08-01-2027",
+          "title": "De Kift Speelt ‘De Eenzame’",
+          "start": "2027-01-08T20:15:00+01:00",
+          "end": "2027-01-08T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "De eenzaamste liedjes van De Kift",
+          "url": "https://dehelling.nl/agenda/de-kift-speelt-de-eenzame-08-01-2027/",
+          "tags": []
+        },
+        {
+          "id": "helling-dave-hause-sincere-engineer-21-01-2027",
+          "title": "Dave Hause + Sincere Engineer",
+          "start": "2027-01-21T20:15:00+01:00",
+          "end": "2027-01-21T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Punk-troubadour blijft zichzelf opnieuw uitvinden",
+          "url": "https://dehelling.nl/agenda/dave-hause-sincere-engineer-21-01-2027/",
+          "tags": []
+        },
+        {
+          "id": "helling-international-burlesque-circus-13-02-2027",
+          "title": "International Burlesque Circus",
+          "start": "2027-02-13T21:00:00+01:00",
+          "end": "2027-02-14T03:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Vampire Empire Edition",
+          "url": "https://dehelling.nl/agenda/international-burlesque-circus-13-02-2027/",
+          "tags": []
+        },
+        {
+          "id": "helling-ozric-tentacles-25-02-2027",
+          "title": "Ozric Tentacles",
+          "start": "2027-02-25T20:15:00+01:00",
+          "end": "2027-02-25T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Kosmische rocklegendes nemen je mee op een instrumentale reis door ruimte en tijd  ",
+          "url": "https://dehelling.nl/agenda/ozric-tentacles-25-02-2027/",
+          "tags": []
+        },
+        {
+          "id": "helling-morgan-wallen-tribute-22-03-2027",
+          "title": "Morgan Wallen Tribute",
+          "start": "2027-03-22T20:15:00+01:00",
+          "end": "2027-03-22T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Ode aan de nieuwe country-superster",
+          "url": "https://dehelling.nl/agenda/morgan-wallen-tribute-22-03-2027/",
           "tags": []
         }
       ]

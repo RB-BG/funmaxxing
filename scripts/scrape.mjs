@@ -6,9 +6,9 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_PATH = resolve(__dirname, '../public/events.json')
 
 const VENUES = [
-  { id: 'dbs-utrecht',       name: "dB's Utrecht",         color: '#ef4444', icon: '🎸', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/5465/concerten/dBs/Utrecht/' },
+  { id: 'dbs-utrecht',       name: "dB's Utrecht",         color: '#ef4444', icon: '🎸', type: 'dbs-ical',   feedUrl: 'https://dbstudio.nl/events/?ical=1' },
   { id: 'ekko-utrecht',      name: 'EKKO Utrecht',          color: '#0ea5e9', icon: '🔵', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/' },
-  { id: 'de-helling',        name: 'De Helling',            color: '#22c55e', icon: '🟢', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3/concerten/De-Helling/Utrecht/' },
+  { id: 'de-helling',        name: 'De Helling',            color: '#22c55e', icon: '🟢', type: 'helling',    feedUrl: 'https://dehelling.nl/agenda' },
   { id: 'nar-utrecht',       name: 'NAR Café der Kunsten',  color: '#a855f7', icon: '🟣', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/' },
   { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
   { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
@@ -118,6 +118,102 @@ async function scrapeWarhorn(venue) {
   return events
 }
 
+function parseIcalDatetime(dtStr) {
+  // "20260617T200000" (TZID=Europe/Amsterdam assumed)
+  const y = dtStr.slice(0, 4), mo = dtStr.slice(4, 6), d = dtStr.slice(6, 8)
+  const h = dtStr.slice(9, 11), mi = dtStr.slice(11, 13), s = dtStr.slice(13, 15)
+  const tz = (parseInt(mo) >= 4 && parseInt(mo) <= 9) ? '+02:00' : '+01:00'
+  return `${y}-${mo}-${d}T${h}:${mi}:${s}${tz}`
+}
+
+function unfoldIcal(text) {
+  return text.replace(/\r\n[ \t]/g, '').replace(/\r\n/g, '\n')
+}
+
+function unescapeIcal(val) {
+  return val.replace(/\\,/g, ',').replace(/\\;/g, ';').replace(/\\n/g, '\n').replace(/\\\\/g, '\\').trim()
+}
+
+async function scrapeDbsIcal(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const raw = unfoldIcal(await res.text())
+
+  const events = []
+  for (const [, block] of raw.matchAll(/BEGIN:VEVENT([\s\S]*?)END:VEVENT/g)) {
+    const get = (key) => {
+      const m = block.match(new RegExp(`^${key}[;:][^\n]*:([^\n]+)`, 'm'))
+        ?? block.match(new RegExp(`^${key}:([^\n]+)`, 'm'))
+      return m ? unescapeIcal(m[1]) : ''
+    }
+
+    const dtstart = block.match(/^DTSTART[^:]*:(\S+)/m)?.[1] ?? ''
+    const dtend   = block.match(/^DTEND[^:]*:(\S+)/m)?.[1] ?? ''
+    const url     = get('URL')
+    const uid     = get('UID')
+    const summary = get('SUMMARY')
+    const desc    = get('DESCRIPTION')
+    const loc     = get('LOCATION')
+    const cats    = get('CATEGORIES')
+
+    if (!dtstart || !summary) continue
+
+    events.push({
+      id: uid.split('-')[0] || uid,
+      title: summary,
+      start: parseIcalDatetime(dtstart),
+      end: dtend ? parseIcalDatetime(dtend) : addHours(parseIcalDatetime(dtstart), 3),
+      location: loc || "dB's, Vlampijpstraat 63, Utrecht",
+      description: truncate(desc),
+      url: url.startsWith('//') ? `https:${url}` : (url || venue.feedUrl),
+      tags: cats ? cats.split(',').map(t => t.trim()).filter(Boolean) : [],
+    })
+  }
+
+  return events
+}
+
+function parseHellingDatetime(str) {
+  // "2026-06-16 19:00:00" — no timezone, assume Amsterdam
+  const [date, time] = str.split(' ')
+  const month = parseInt(date.split('-')[1])
+  const tz = (month >= 4 && month <= 9) ? '+02:00' : '+01:00'
+  return `${date}T${time}${tz}`
+}
+
+async function scrapeHelling(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const events = []
+  for (const [, block] of html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)) {
+    let data
+    try { data = JSON.parse(block.trim()) } catch { continue }
+    if (data['@type'] !== 'Event') continue
+
+    const url = data.url ?? ''
+    const slug = url.split('/').filter(Boolean).pop() ?? ''
+
+    events.push({
+      id: `helling-${slug}`,
+      title: decodeXml(data.name ?? ''),
+      start: parseHellingDatetime(data.startDate),
+      end: data.endDate ? parseHellingDatetime(data.endDate) : addHours(parseHellingDatetime(data.startDate), 3),
+      location: 'De Helling, Helling 7, Utrecht',
+      description: truncate(decodeXml(data.description ?? '')),
+      url,
+      tags: [],
+    })
+  }
+
+  return events
+}
+
 async function scrapeBeton(venue) {
   const res = await fetch(venue.feedUrl, {
     headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
@@ -160,8 +256,10 @@ async function scrapeVenue(venue, fallback) {
   try {
     process.stdout.write(`  Scraping ${venue.name}… `)
     let events
-    if (venue.type === 'warhorn') events = await scrapeWarhorn(venue)
-    else if (venue.type === 'beton') events = await scrapeBeton(venue)
+    if (venue.type === 'warhorn')   events = await scrapeWarhorn(venue)
+    else if (venue.type === 'beton')    events = await scrapeBeton(venue)
+    else if (venue.type === 'dbs-ical') events = await scrapeDbsIcal(venue)
+    else if (venue.type === 'helling')  events = await scrapeHelling(venue)
     else events = await scrapePodiuminfo(venue)
     console.log(`${events.length} events`)
     return events

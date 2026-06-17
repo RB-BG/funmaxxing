@@ -60,6 +60,6 @@ export const SOURCES: Omit<Source, "events">[] = [
     name: "ACU Utrecht",
     color: "#84cc16",
     icon: "✊",
-    feedUrl: "https://acu.nl/agenda",
+    feedUrl: "https://acu.nl/events/feed/",
   },
 ]

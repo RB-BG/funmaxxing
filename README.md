@@ -80,7 +80,7 @@ npm run scrape    # haal verse events op en schrijf public/events.json
 | TivoliVredenburg | Podiuminfo JSON-LD | podiuminfo.nl |
 | RPG Night Utrecht | Warhorn Atom feed | warhorn.net |
 | Beton-T | HTML (vechtclub.nl) | eigen site |
-| ACU Utrecht | HTML (acu.nl) | eigen site |
+| ACU Utrecht | RSS feed (The Events Calendar) | eigen site |
 
 EKKO en TivoliVredenburg zijn JS-rendered — geen eigen feed beschikbaar, daarom via Podiuminfo.
 NAR heeft momenteel geen events op Podiuminfo; pikt automatisch op zodra ze publiceren.

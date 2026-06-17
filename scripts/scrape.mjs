@@ -13,7 +13,7 @@ const VENUES = [
   { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
   { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
   { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
-  { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   type: 'acu',       feedUrl: 'https://acu.nl/agenda' },
+  { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   type: 'acu',       feedUrl: 'https://acu.nl/events/feed/' },
 ]
 
 const NL_MONTHS = { jan:1, feb:2, mrt:3, apr:4, mei:5, jun:6, jul:7, aug:8, sep:9, okt:10, nov:11, dec:12 }
@@ -42,6 +42,10 @@ function decodeXml(str) {
 
 function stripHtml(html) {
   return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim()
+}
+
+function stripCdata(str) {
+  return str.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
 }
 
 function truncate(str, max = 300) {
@@ -254,40 +258,42 @@ async function scrapeBeton(venue) {
 }
 
 async function scrapeAcu(venue) {
+  // ACU runs WordPress + The Events Calendar, which exposes a stable RSS feed.
+  // The event date lives in the permalink (/events/YYYYMMDD/slug); the time is
+  // not a machine-readable field, so we read it from the text when present and
+  // otherwise fall back to a date-only event (the UI hides the time then).
   const res = await fetch(venue.feedUrl, {
     headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
   })
   if (!res.ok) throw new Error(`HTTP ${res.status}`)
-  const html = await res.text()
+  const xml = await res.text()
 
   const events = []
-  const seen = new Set()
+  for (const [, item] of xml.matchAll(/<item>([\s\S]*?)<\/item>/g)) {
+    const url = decodeXml(stripCdata(item.match(/<link>([\s\S]*?)<\/link>/)?.[1] ?? '')).trim()
+    const dateStr = url.match(/\/events\/(\d{8})\//)?.[1]
+    if (!dateStr) continue
 
-  for (const [, url, dateStr, block] of html.matchAll(
-    /<a[^>]*href="(https:\/\/acu\.nl\/events\/(\d{8})\/[^"]+)"[\s\S]*?>([\s\S]*?)<\/a>/g
-  )) {
-    if (seen.has(url)) continue
-    seen.add(url)
-
-    const title = block.match(/class="[^"]*pseudo-h2[^"]*">([^<]+)</)?.[1]?.trim()
-    const desc  = block.match(/class="[^"]*pseudo-h3[^"]*">([^<]+)</)?.[1]?.trim() ?? ''
-    const time  = block.match(/<span class="AgendaDetail">(\d{1,2}:\d{2})<\/span>/)?.[1]
-
+    const title = decodeXml(stripCdata(item.match(/<title>([\s\S]*?)<\/title>/)?.[1] ?? '')).trim()
     if (!title) continue
+
+    const desc = truncate(stripHtml(decodeXml(stripCdata(item.match(/<description>([\s\S]*?)<\/description>/)?.[1] ?? ''))))
 
     const y = dateStr.slice(0, 4), mo = dateStr.slice(4, 6), d = dateStr.slice(6, 8)
     const tz = (parseInt(mo) >= 4 && parseInt(mo) <= 9) ? '+02:00' : '+01:00'
-    const start = time
-      ? `${y}-${mo}-${d}T${time}:00${tz}`
+
+    const timeMatch = desc.match(/@\s*(\d{1,2})[.:](\d{2})/) ?? desc.match(/\b(\d{1,2})[.:](\d{2})\s*(?:uur|u\b)/)
+    const start = timeMatch
+      ? `${y}-${mo}-${d}T${timeMatch[1].padStart(2, '0')}:${timeMatch[2]}:00${tz}`
       : `${y}-${mo}-${d}T00:00:00${tz}`
 
     events.push({
-      id: `acu-${dateStr}-${url.split('/').pop()}`,
-      title: decodeXml(title),
+      id: `acu-${dateStr}-${url.split('/').filter(Boolean).pop()}`,
+      title,
       start,
       end: start,
       location: 'ACU, Voorstraat 71, Utrecht',
-      description: truncate(decodeXml(desc)),
+      description: desc,
       url,
       tags: [],
     })

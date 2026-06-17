@@ -2,6 +2,7 @@
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 @import "@fontsource-variable/geist";
+@import "@fontsource/vt323";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -10,18 +11,46 @@
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground;
+    background: var(--cream);
+    color: var(--ink);
     margin: 0;
+    /* Subtle Y2K dotted-grid wallpaper */
+    background-image: radial-gradient(var(--dot) 1px, transparent 1px);
+    background-size: 22px 22px;
   }
   html {
     @apply font-sans;
     scroll-behavior: smooth;
+  }
+  /* Hidden native cursor only when our custom cursor is active */
+  body.has-custom-cursor,
+  body.has-custom-cursor * {
+    cursor: none !important;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
   }
 }
 
 @theme inline {
   --font-heading: var(--font-sans);
   --font-sans: 'Geist Variable', sans-serif;
+  --font-display: 'VT323', monospace;
+
+  /* Y2K / indie-web palette (not the work brand green) */
+  --color-cream: var(--cream);
+  --color-ink: var(--ink);
+  --color-hot: var(--hot);
+  --color-cyan: var(--cyan);
+  --color-acid: var(--acid);
+  --color-grape: var(--grape);
+  /* Per-app swappable accent (Lowlands pattern) */
+  --color-app: var(--app-accent);
+  --color-app-2: var(--app-accent-2);
+
+  /* shadcn token bridge (kept for any shadcn primitives) */
   --color-ring: var(--ring);
   --color-input: var(--input);
   --color-border: var(--border);
@@ -47,6 +76,20 @@
 }
 
 :root {
+  /* Indie-web palette */
+  --cream: #f5f1e8;
+  --ink: #1a1423;
+  --hot: #ff2e93;
+  --cyan: #1fe0c8;
+  --acid: #ffd23f;
+  --grape: #6320ee;
+  --dot: #e3dccb;
+
+  /* Default app accent = agenda (hot pink + cyan). Apps override these. */
+  --app-accent: var(--hot);
+  --app-accent-2: var(--cyan);
+
+  /* shadcn neutral tokens */
   --background: oklch(0.985 0 0);
   --foreground: oklch(0.145 0 0);
   --card: oklch(1 0 0);
@@ -68,23 +111,32 @@
   --radius: 0.625rem;
 }
 
-.dark {
-  --background: oklch(0.145 0 0);
-  --foreground: oklch(0.985 0 0);
-  --card: oklch(0.205 0 0);
-  --card-foreground: oklch(0.985 0 0);
-  --popover: oklch(0.205 0 0);
-  --popover-foreground: oklch(0.985 0 0);
-  --primary: oklch(0.922 0 0);
-  --primary-foreground: oklch(0.205 0 0);
-  --secondary: oklch(0.269 0 0);
-  --secondary-foreground: oklch(0.985 0 0);
-  --muted: oklch(0.269 0 0);
-  --muted-foreground: oklch(0.708 0 0);
-  --accent: oklch(0.269 0 0);
-  --accent-foreground: oklch(0.985 0 0);
-  --destructive: oklch(0.704 0.191 22.216);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.556 0 0);
+@layer utilities {
+  /* Chunky retro bezel (outset). Pair with .bezel-in for pressed look. */
+  .bezel {
+    border: 2px solid var(--ink);
+    box-shadow: 4px 4px 0 0 var(--ink);
+  }
+  .bezel-sm {
+    border: 2px solid var(--ink);
+    box-shadow: 2px 2px 0 0 var(--ink);
+  }
+  .text-stroke-ink {
+    -webkit-text-stroke: 2px var(--ink);
+    paint-order: stroke fill;
+  }
+  .boot-caret {
+    animation: funmax-blink 1s steps(1) infinite;
+  }
+}
+
+@keyframes funmax-blink {
+  0%,
+  50% {
+    opacity: 1;
+  }
+  50.01%,
+  100% {
+    opacity: 0;
+  }
 }

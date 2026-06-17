@@ -22,41 +22,45 @@ Frontend (Vercel)
   └─ fetch('/events.json') bij page load → React state → render
 ```
 
+funmaxxing wordt op termijn meer dan een agenda (eigen tv-zender, radio, etc.). De code is
+daarom opgezet als losse "apps" onder een gedeelde, speelse indie-web UI-laag.
+
 ## Stack
 
 - **Vite 8** + **React 19** + **TypeScript 6**
 - **Tailwind CSS 4** (via `@tailwindcss/vite`) + **shadcn** (`base-nova`) + `tw-animate-css`
-- **lucide-react** iconen, **framer-motion**, **Geist** variable font
+- **framer-motion** (cursor, animaties), **canvas-confetti**, **react-fast-marquee**
+- Fonts: **Geist** (alle UI-tekst, leesbaar) + **VT323** (retro hero/cijfers)
+- Geluid via de **Web Audio API** (gesynthetiseerd, geen audio-assets)
 - Path-alias `@ -> ./src`, ESLint flat config (typescript-eslint + react-hooks)
 - Deploy op **Vercel** (Vite-preset, `vercel.json` met SPA-rewrite)
 
 ## Project-structuur
 
 ```
-public/
-  events.json           # live eventdata (gegenereerd door scraper)
-scripts/
-  scrape.mjs            # scraper: Podiuminfo + Warhorn → public/events.json
-.github/workflows/
-  sync-events.yml       # dagelijkse cron + workflow_dispatch
+public/events.json        # live eventdata (gegenereerd door scraper)
+scripts/scrape.mjs        # scraper: feeds/JSON-LD → public/events.json
+.github/workflows/        # sync-events.yml: dagelijkse cron
 src/
-  main.tsx              # React entrypoint
-  App.tsx               # rendert EventsPage
-  index.css             # Tailwind + shadcn theme tokens
-  types.ts              # EventItem / Source / EnrichedEvent / Category
-  data/
-    sources.ts          # venue-config (id, name, color, icon, feedUrl)
-  lib/
-    utils.ts            # cn() helper
-    classify.ts         # keyword-classificatie + filter-metadata
-    calendar.ts         # ICS-generatie, Google Agenda-URL, download
-  components/
-    FilterBar.tsx       # interesse-filters
-    EventCard.tsx       # event-kaart met selectie
-    ActionBar.tsx       # sticky balk: alles / wissen / download
-  pages/
-    EventsPage.tsx      # state, dag-groepering, compositie
+  main.tsx                # React entrypoint
+  App.tsx                 # providers + cursor + stickers, boot de agenda-app
+  index.css               # Tailwind + palette + theme tokens
+  types.ts                # EventItem / Source / EnrichedEvent / Category
+  shell/AppRegistry.ts    # lijst van apps (lazy) — basis voor toekomstige desktop-shell
+  ui/                     # gedeelde primitives (sound, cursor, WordArt, marquee, Panel/RetroButton, error boundary)
+  lib/                    # utils (cn), classify, calendar (ICS/gcal)
+  apps/
+    agenda/               # de agenda-app: AgendaApp.tsx + components/ (EventCard, Sidebar)
+  data/sources.ts         # venue-referentieconfig
 ```
+
+## Documentatie
+
+Diepere uitleg staat in [`docs/`](docs/):
+- [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) — apps/shell/ui/lib-opzet en dataflow
+- [docs/ADDING-AN-APP.md](docs/ADDING-AN-APP.md) — een nieuw appje toevoegen
+- [docs/DESIGN-SYSTEM.md](docs/DESIGN-SYSTEM.md) — palette, fonts, primitives, a11y
+- [docs/CONTENT.md](docs/CONTENT.md) — venues/events beheren
 
 ## Development
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T20:46:27.274Z",
+  "updatedAt": "2026-06-17T06:46:51.632Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -414,16 +414,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/",
       "events": [
         {
-          "id": "459735",
-          "title": "YIN YIN",
-          "start": "2026-06-16T20:00:00+02:00",
-          "end": "2026-06-16T21:00:00.000Z",
-          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
-          "description": "Het Maastrichtse viertal YĪN YĪN brengt disco, funk en psychedelica samen tot een onweerstaanbare, groove-gedreven sound. Wat begon als een experimentele jamsessie groeide uit tot een internationale live-sensatie, met shows op festivals als Lowlands, North Sea Jazz en Fuji Rock en in uitverkochte…",
-          "url": "https://www.podiuminfo.nl/concert/459735/YIN-YIN/EKKO/",
-          "tags": []
-        },
-        {
           "id": "478361",
           "title": "Sophie van Hilten - Komt Goed",
           "start": "2026-06-17T20:00:00+02:00",
@@ -652,16 +642,6 @@
       "icon": "🟢",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-hba-exf-16-06-2026",
-          "title": "HBA EXF",
-          "start": "2026-06-16T19:00:00+02:00",
-          "end": "2026-06-16T23:15:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Dé eindexamenshows van de popartiesten van de Herman Brood Academie met Haylid, Aluminium, Momo, Lena, Paro en Fit",
-          "url": "https://dehelling.nl/agenda/hba-exf-16-06-2026/",
-          "tags": []
-        },
         {
           "id": "helling-hba-exf-17-06-2026",
           "title": "HBA EXF",
@@ -1260,36 +1240,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "463073",
-          "title": "Dinsdagochtend Concert",
-          "start": "2026-06-16T11:00:00+02:00",
-          "end": "2026-06-16T12:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Dinsdagochtend Concerten bieden wekelijks een platform om nieuw muzikaal talent te ontdekken. Elk concert heeft een andere muzikale invulling, maar is altijd akoestisch en presenteert lokale artiesten. Het nieuwe podium in de gerenoveerde foyer van TivoliVredenburg biedt een intieme setting met…",
-          "url": "https://www.podiuminfo.nl/concert/463073/Dinsdagochtend-Concert/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452009",
-          "title": "Cory Wong & Metropole Orkest",
-          "start": "2026-06-16T20:30:00+02:00",
-          "end": "2026-06-16T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Legendarische Amerikaanse funk-/jazzgitarist - De Amerikaanse funk-/jazzgitarist Cory Wong is een muzikaal talent van Prince-achtige proporties. Behalve zijn vaardigheden deelt hij zijn oneindige werklust met het paarse genie: Wong was/is verbonden aan de bands Vulfpeck en Fearless Flyers, maar…",
-          "url": "https://www.podiuminfo.nl/concert/452009/Cory-Wong-Metropole-Orkest/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "479517",
-          "title": "Abigaël Ama",
-          "start": "2026-06-16T22:30:00+02:00",
-          "end": "2026-06-16T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Abigaël Ama is een singer-songwriter die indie-folk, soul en jazz combineert tot een warm en persoonlijk geluid. Ze schrijft liedjes in het Spaans en Engels, waarbij poëzie, introspectie en rijke vocale harmonieën centraal staan. Haar muziek, geïnspireerd door artiesten als Sara Tavares en Cleo…",
-          "url": "https://www.podiuminfo.nl/concert/479517/Abigael-Ama/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "449319",
           "title": "Richard Thompson",
           "start": "2026-06-17T20:00:00+02:00",
@@ -1498,6 +1448,36 @@
           "description": "De Amerikaanse rockband P.O.D. (een spirituele verwijzing naar de financiële term Payable On Death) draait al bijna 35 jaar mee met hun opzwepende mix van rap, metal en rock. ",
           "url": "https://www.podiuminfo.nl/concert/459757/P-O-D-/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "452903",
+          "title": "The Four Tops & The Temptations",
+          "start": "2026-06-23T20:15:00+02:00",
+          "end": "2026-06-23T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "The Temptations en The Four Tops vieren hun jubileum met een show vol hits, soul en karaktervolle livevocals.\r\n\r\n'I Can’t Help Myself (Sugar Pie Honey Bunch)', 'Reach Out (I’ll Be There)', 'Standing In The Shadows Of Love', 'Bernadette' en 'Walk Away Renee' zijn allemaal tijdloze klassiekers van de…",
+          "url": "https://www.podiuminfo.nl/concert/452903/The-Four-Tops-The-Temptations/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "453475",
+          "title": "Orville Peck",
+          "start": "2026-06-24T20:00:00+02:00",
+          "end": "2026-06-24T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De mysterieuze, gemaskerde Zuid-Afrikaanse countryzanger Orville Peck voelt zich naar eigen zeggen al zijn hele leven een cowboy. Niet zo vreemd dus dat hij zich laat inspireren door klassieke countrysterren als Merle Haggard, Willie Nelson en George Jones, al zijn ook moderne namen als Lana Del…",
+          "url": "https://www.podiuminfo.nl/concert/453475/Orville-Peck/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "457718",
+          "title": "Rosa's propaganda",
+          "start": "2026-06-24T20:00:00+02:00",
+          "end": "2026-06-24T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Rosa’s propaganda brengt duistere, industriële protestpop met goth- en metalinvloeden. Samen met haar band en 'The Choir of Liars' presenteert ze een complexe en politiek geladen liveshow die thema's als macht, gehoorzaamheid en verzet verkent. De show, die door 3voor12 Utrecht wordt omschreven als…",
+          "url": "https://www.podiuminfo.nl/concert/457718/Rosas-propaganda/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1667,35 +1647,6 @@
           ]
         },
         {
-          "id": "beton-salsa-nights-elke-woensdag-40",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-06-17T00:00:00+02:00",
-          "end": "2026-06-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-40/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-canal-do-samba",
-          "title": "Canal Do Samba",
-          "start": "2026-06-17T00:00:00+02:00",
-          "end": "2026-06-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/canal-do-samba/",
-          "tags": [
-            "Dans",
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-lievens-bike-fietsclub",
           "title": "Lievens Bike Fietsclub",
           "start": "2026-06-18T00:00:00+02:00",
@@ -1840,16 +1791,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "With Queer Arcana",
           "url": "https://acu.nl/events/20260617/queer-dd-nights-146",
-          "tags": []
-        },
-        {
-          "id": "acu-20260617-queer-pub-quiz",
-          "title": "Queer Pub Quiz",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T19:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "Every month an activist pub quiz at ACU!",
-          "url": "https://acu.nl/events/20260617/queer-pub-quiz",
           "tags": []
         },
         {

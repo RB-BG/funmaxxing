@@ -128,6 +128,9 @@
   .boot-caret {
     animation: funmax-blink 1s steps(1) infinite;
   }
+  .wordart-shimmer {
+    animation: wordart-shimmer 5s linear infinite;
+  }
 }
 
 @keyframes funmax-blink {
@@ -138,5 +141,20 @@
   50.01%,
   100% {
     opacity: 0;
+  }
+}
+
+@keyframes wordart-shimmer {
+  from {
+    background-position: 0% center;
+  }
+  to {
+    background-position: 220% center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wordart-shimmer {
+    animation: none;
   }
 }

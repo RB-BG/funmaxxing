@@ -1,4 +1,5 @@
-import { useEffect, useMemo, useState } from "react"
+import { useEffect, useMemo, useState, type MouseEvent as ReactMouseEvent } from "react"
+import { motion } from "framer-motion"
 import confetti from "canvas-confetti"
 import type { EnrichedEvent, Source } from "@/types"
 import { classify } from "@/lib/classify"
@@ -96,6 +97,19 @@ export function AgendaApp() {
     setSelected(new Set())
   }
 
+  function heroBoom(e: ReactMouseEvent) {
+    play("add")
+    if (!reduced) {
+      confetti({
+        particleCount: 90,
+        spread: 110,
+        startVelocity: 38,
+        origin: { x: e.clientX / window.innerWidth, y: e.clientY / window.innerHeight },
+        colors: ["#ff2e93", "#1fe0c8", "#ffd23f", "#6320ee"],
+      })
+    }
+  }
+
   function handleDownload() {
     const picked = allEvents.filter((e) => selected.has(e.id))
     if (picked.length === 0) return
@@ -114,13 +128,20 @@ export function AgendaApp() {
   return (
     <div style={skinVars(SKINS.agenda)} className="mx-auto min-h-screen max-w-[980px] px-4 pb-24 pt-5">
       <header className="mb-4 flex items-start justify-between gap-4 rounded-md border-2 border-ink bg-white p-5">
-        <div className="min-w-0">
-          <WordArt text="LOCAL EVENTS" className="block text-3xl sm:text-5xl" />
-          <WordArt text="UTRECHT" className="block text-3xl sm:text-5xl" />
+        <motion.div
+          data-cursor="grow"
+          onClick={heroBoom}
+          onMouseEnter={() => play("hover")}
+          whileTap={reduced ? undefined : { scale: 0.97, rotate: -1.2 }}
+          title="klik me"
+          className="min-w-0 cursor-pointer"
+        >
+          <WordArt animated text="LOCAL EVENTS" className="block text-3xl sm:text-5xl" />
+          <WordArt animated text="UTRECHT" className="block text-3xl sm:text-5xl" />
           <p className="mt-3 max-w-md text-sm font-medium text-ink/70">
             Kies events, download ze als .ics of voeg ze toe aan Google Agenda.
           </p>
-        </div>
+        </motion.div>
         <button
           type="button"
           onClick={toggle}
@@ -152,7 +173,7 @@ export function AgendaApp() {
               Geen events voor dit filter.
             </div>
           ) : (
-            <div className="flex flex-col gap-6">
+            <div key={activeFilter} className="flex flex-col gap-6">
               {days.map(([day, events]) => {
                 const dayDate = new Date(day + "T12:00:00")
                 const label = dayDate.toLocaleDateString("nl-NL", {
@@ -175,13 +196,19 @@ export function AgendaApp() {
                       <div className="h-0.5 flex-1 bg-ink/15" />
                     </div>
                     <div className="flex flex-col gap-2.5">
-                      {events.map((event) => (
-                        <EventCard
+                      {events.map((event, i) => (
+                        <motion.div
                           key={event.id}
-                          event={event}
-                          selected={selected.has(event.id)}
-                          onToggle={toggleEvent}
-                        />
+                          initial={reduced ? false : { opacity: 0, y: 14 }}
+                          animate={{ opacity: 1, y: 0 }}
+                          transition={{ delay: Math.min(i, 10) * 0.035, type: "spring", stiffness: 320, damping: 26 }}
+                        >
+                          <EventCard
+                            event={event}
+                            selected={selected.has(event.id)}
+                            onToggle={toggleEvent}
+                          />
+                        </motion.div>
                       ))}
                     </div>
                   </section>

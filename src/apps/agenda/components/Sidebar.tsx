@@ -12,6 +12,20 @@ const FILTER_OPTIONS: { key: Filter; label: string }[] = [
   { key: "NOS", label: "Zeroes & Heroes" },
 ]
 
+const WEEKEND_LABELS = [
+  "rustig thuisblijven",
+  "eentje is geentje",
+  "gezellig",
+  "druk weekendje",
+  "back to back",
+  "geen slaap meer",
+  "uitgaansmonster",
+]
+
+function weekendLabel(n: number): string {
+  return WEEKEND_LABELS[Math.min(n, WEEKEND_LABELS.length - 1)]
+}
+
 interface SidebarProps {
   active: Filter
   counts: Record<Filter, number>
@@ -89,6 +103,19 @@ export function Sidebar({
             >
               Wis
             </RetroButton>
+          </div>
+
+          <div className="mt-3">
+            <div className="mb-1 flex items-center justify-between text-[10px] font-bold uppercase tracking-wide text-ink/55">
+              <span>weekend-meter</span>
+              <span className="text-ink/80">{weekendLabel(selectedCount)}</span>
+            </div>
+            <div className="h-3 w-full overflow-hidden rounded-full border-2 border-ink bg-white">
+              <div
+                className="h-full transition-[width] duration-300 ease-out"
+                style={{ width: `${(Math.min(selectedCount, 8) / 8) * 100}%`, background: "var(--app-accent)" }}
+              />
+            </div>
           </div>
         </div>
       </Panel>

@@ -1,9 +1,12 @@
-import { motion } from "framer-motion"
+import type { PointerEvent as ReactPointerEvent } from "react"
+import { AnimatePresence, motion, useMotionValue, useSpring } from "framer-motion"
+import confetti from "canvas-confetti"
 import { Check } from "lucide-react"
 import type { EnrichedEvent } from "@/types"
 import { FILTER_META } from "@/lib/classify"
 import { fmtTime, gcalUrl } from "@/lib/calendar"
 import { useSound } from "@/ui/sound"
+import { useReducedMotion } from "@/ui/useReducedMotion"
 
 interface EventCardProps {
   event: EnrichedEvent
@@ -11,25 +14,83 @@ interface EventCardProps {
   onToggle: (id: string) => void
 }
 
+const MAX_TILT = 9 // degrees
+
 export function EventCard({ event, selected, onToggle }: EventCardProps) {
   const { source } = event
   const { play } = useSound()
+  const reduced = useReducedMotion()
   const timed = !event.start.includes("T00:00:00")
+
+  // Pointer-reactive 3D tilt: the card leans toward the cursor and lifts.
+  const rotateX = useSpring(useMotionValue(0), { stiffness: 300, damping: 22 })
+  const rotateY = useSpring(useMotionValue(0), { stiffness: 300, damping: 22 })
+
+  function handleMove(e: ReactPointerEvent<HTMLDivElement>) {
+    if (reduced) return
+    const rect = e.currentTarget.getBoundingClientRect()
+    const px = (e.clientX - rect.left) / rect.width - 0.5
+    const py = (e.clientY - rect.top) / rect.height - 0.5
+    rotateY.set(px * MAX_TILT * 2)
+    rotateX.set(-py * MAX_TILT)
+  }
+
+  function handleLeave() {
+    rotateX.set(0)
+    rotateY.set(0)
+  }
+
+  function handleClick(e: ReactPointerEvent<HTMLDivElement>) {
+    const willSelect = !selected
+    play(willSelect ? "select" : "deselect")
+    onToggle(event.id)
+    if (willSelect && !reduced) {
+      confetti({
+        particleCount: 24,
+        spread: 55,
+        startVelocity: 24,
+        scalar: 0.8,
+        ticks: 90,
+        origin: { x: e.clientX / window.innerWidth, y: e.clientY / window.innerHeight },
+        colors: [source.color, "#ffd23f", "#1fe0c8"],
+      })
+    }
+  }
 
   return (
     <motion.div
       data-cursor="grow"
+      onPointerMove={handleMove}
+      onPointerLeave={handleLeave}
       onMouseEnter={() => play("hover")}
-      onClick={() => {
-        play(selected ? "deselect" : "select")
-        onToggle(event.id)
+      onClick={handleClick}
+      style={{
+        rotateX: reduced ? 0 : rotateX,
+        rotateY: reduced ? 0 : rotateY,
+        transformPerspective: 800,
+        ...(selected ? { borderColor: source.color, background: source.color + "10" } : {}),
       }}
-      whileHover={{ y: -2 }}
-      whileTap={{ scale: 0.995 }}
-      style={selected ? { borderColor: source.color, background: source.color + "10" } : undefined}
-      className="flex cursor-pointer select-none overflow-hidden rounded-md border-2 border-ink bg-white"
+      whileHover={reduced ? undefined : { y: -4, scale: 1.015, boxShadow: "6px 10px 0 0 var(--ink)" }}
+      whileTap={reduced ? undefined : { scale: 0.99 }}
+      transition={{ type: "spring", stiffness: 400, damping: 25 }}
+      className="relative flex cursor-pointer select-none rounded-md border-2 border-ink bg-white"
     >
-      <div className="w-1.5 shrink-0" style={{ background: source.color }} />
+      <div className="w-1.5 shrink-0 rounded-l-[4px]" style={{ background: source.color }} />
+
+      <AnimatePresence>
+        {selected && (
+          <motion.div
+            initial={{ scale: 0, rotate: -32, opacity: 0 }}
+            animate={{ scale: 1, rotate: -10, opacity: 1 }}
+            exit={{ scale: 0, opacity: 0 }}
+            transition={{ type: "spring", stiffness: 500, damping: 16 }}
+            className="pointer-events-none absolute right-2 top-2 z-10 border-2 border-ink bg-acid px-1.5 py-px text-[10px] font-bold uppercase tracking-wide text-ink"
+          >
+            gekozen!
+          </motion.div>
+        )}
+      </AnimatePresence>
+
       <div className="flex flex-1 items-start gap-3 p-3">
         <div
           className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-[3px] border-2 border-ink"

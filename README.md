@@ -1,9 +1,10 @@
-# Local Events Utrecht (funmaxxing)
+# funmaxxing
 
-Een kleine event-kiezer voor Utrechtse podia. Selecteer concerten, clubnachten en
-RPG-avonden en exporteer ze als `.ics` of voeg ze direct toe aan Google Agenda.
-Events worden automatisch geclassificeerd op interesse (Game concerten, Drum & Bass,
-Zeroes & Heroes) via keyword-matching.
+Een speelse event-kiezer met **scenes** waartussen je schakelt: Utrechtse podia
+(concerten, clubnachten, RPG-avonden) en **Buhurt Europe** (geharnaste toernooien en
+fight nights door heel Europa). Selecteer events en exporteer ze als `.ics` of voeg ze
+toe aan Google Agenda. Per scene een eigen filter: Utrecht op interesse (Game/D&B/00s),
+Buhurt op land.
 
 ## Hoe het werkt
 
@@ -39,7 +40,8 @@ daarom opgezet als losse "apps" onder een gedeelde, speelse indie-web UI-laag.
 
 ```
 public/events.json        # live eventdata (gegenereerd door scraper)
-scripts/scrape.mjs        # scraper: feeds/JSON-LD → public/events.json
+scripts/scrape.mjs        # scraper: feeds/JSON-LD/HTML → public/events.json
+scripts/manual-buhurt.mjs # handmatige buhurt club nights (DISØRDER etc.)
 .github/workflows/        # sync-events.yml: dagelijkse cron
 src/
   main.tsx                # React entrypoint
@@ -50,7 +52,7 @@ src/
   ui/                     # gedeelde primitives (sound, cursor, WordArt, marquee, Panel/RetroButton, error boundary)
   lib/                    # utils (cn), classify, calendar (ICS/gcal)
   apps/
-    agenda/               # de agenda-app: AgendaApp.tsx + components/ (EventCard, Sidebar)
+    agenda/               # de events-app: AgendaApp.tsx, scenes.ts, components/ (EventCard, Sidebar)
   data/sources.ts         # venue-referentieconfig
 ```
 

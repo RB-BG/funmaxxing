@@ -13,6 +13,8 @@ export interface EventItem {
   description?: string
   url: string
   tags?: string[]
+  /** Country (used by non-Utrecht scenes like buhurt for filtering). */
+  country?: string
 }
 
 /** A venue / feed and its events. */
@@ -22,6 +24,8 @@ export interface Source {
   color: string
   icon: string
   feedUrl: string
+  /** The scene (city/topic) this source belongs to, e.g. "utrecht" | "buhurt". */
+  scene?: string
   events: EventItem[]
 }
 

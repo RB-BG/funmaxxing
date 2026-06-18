@@ -4,13 +4,15 @@ import confetti from "canvas-confetti"
 import type { EnrichedEvent, Source } from "@/types"
 import { classify } from "@/lib/classify"
 import { downloadICS } from "@/lib/calendar"
+import { cn } from "@/lib/utils"
 import { WordArt } from "@/ui/WordArt"
 import { MarqueeBar } from "@/ui/MarqueeBar"
 import { RetroButton } from "@/ui/Retro"
 import { useSound } from "@/ui/sound"
 import { useReducedMotion } from "@/ui/useReducedMotion"
-import { skinVars, SKINS } from "@/ui/theme"
-import { Sidebar, type Filter } from "./components/Sidebar"
+import { skinVars } from "@/ui/theme"
+import { SCENES, sceneById } from "./scenes"
+import { Sidebar, type FilterOption } from "./components/Sidebar"
 import { EventCard } from "./components/EventCard"
 
 function buildEvents(sources: Source[]): EnrichedEvent[] {
@@ -23,15 +25,12 @@ function buildEvents(sources: Source[]): EnrichedEvent[] {
   )
 }
 
-function matchesFilter(event: EnrichedEvent, filter: Filter): boolean {
-  return filter === "all" || event.categories.includes(filter)
-}
-
 export function AgendaApp() {
   const [sources, setSources] = useState<Source[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
-  const [activeFilter, setActiveFilter] = useState<Filter>("all")
+  const [activeScene, setActiveScene] = useState(SCENES[0].id)
+  const [activeFacet, setActiveFacet] = useState("all")
   const [selected, setSelected] = useState<Set<string>>(new Set())
   const { muted, toggle, play } = useSound()
   const reduced = useReducedMotion()
@@ -47,20 +46,29 @@ export function AgendaApp() {
       .finally(() => setLoading(false))
   }, [])
 
-  const allEvents = useMemo(() => buildEvents(sources), [sources])
+  const scene = sceneById(activeScene)
 
-  const counts = useMemo<Record<Filter, number>>(() => {
-    const c: Record<Filter, number> = { all: allEvents.length, GAME: 0, DNB: 0, NOS: 0 }
-    for (const e of allEvents) for (const cat of e.categories) c[cat]++
-    return c
-  }, [allEvents])
+  const allEvents = useMemo(() => buildEvents(sources), [sources])
+  const sceneEvents = useMemo(
+    () => allEvents.filter((e) => (e.source.scene ?? "utrecht") === activeScene),
+    [allEvents, activeScene],
+  )
+
+  const filterOptions = useMemo<FilterOption[]>(() => {
+    const counts = new Map<string, number>()
+    for (const e of sceneEvents) for (const f of scene.facetsOf(e)) counts.set(f, (counts.get(f) ?? 0) + 1)
+    const facets = [...counts.entries()]
+      .map(([key, count]) => ({ key, label: scene.facetLabel(key), count }))
+      .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label))
+    return [{ key: "all", label: "Alles", count: sceneEvents.length }, ...facets]
+  }, [sceneEvents, scene])
 
   const visible = useMemo(
     () =>
-      allEvents
-        .filter((e) => matchesFilter(e, activeFilter))
+      sceneEvents
+        .filter((e) => activeFacet === "all" || scene.facetsOf(e).includes(activeFacet))
         .sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime()),
-    [allEvents, activeFilter],
+    [sceneEvents, activeFacet, scene],
   )
 
   const ticker = useMemo(() => visible.slice(0, 16).map((e) => e.title), [visible])
@@ -77,9 +85,21 @@ export function AgendaApp() {
   }, [visible])
 
   const todayStr = new Date().toISOString().slice(0, 10)
+  const sceneSources = useMemo(
+    () => sources.filter((s) => (s.scene ?? "utrecht") === activeScene),
+    [sources, activeScene],
+  )
 
-  function handleFilter(filter: Filter) {
-    setActiveFilter(filter)
+  function switchScene(id: string) {
+    if (id === activeScene) return
+    play("whoosh")
+    setActiveScene(id)
+    setActiveFacet("all")
+    setSelected(new Set())
+  }
+
+  function handleFacet(facet: string) {
+    setActiveFacet(facet)
     setSelected(new Set())
   }
 
@@ -97,19 +117,6 @@ export function AgendaApp() {
     setSelected(new Set())
   }
 
-  function heroBoom(e: ReactMouseEvent) {
-    play("add")
-    if (!reduced) {
-      confetti({
-        particleCount: 90,
-        spread: 110,
-        startVelocity: 38,
-        origin: { x: e.clientX / window.innerWidth, y: e.clientY / window.innerHeight },
-        colors: ["#ff2e93", "#1fe0c8", "#ffd23f", "#6320ee"],
-      })
-    }
-  }
-
   function handleDownload() {
     const picked = allEvents.filter((e) => selected.has(e.id))
     if (picked.length === 0) return
@@ -125,8 +132,43 @@ export function AgendaApp() {
     downloadICS(picked)
   }
 
+  function heroBoom(e: ReactMouseEvent) {
+    play("add")
+    if (!reduced) {
+      confetti({
+        particleCount: 90,
+        spread: 110,
+        startVelocity: 38,
+        origin: { x: e.clientX / window.innerWidth, y: e.clientY / window.innerHeight },
+        colors: ["#ff2e93", "#1fe0c8", "#ffd23f", "#6320ee"],
+      })
+    }
+  }
+
   return (
-    <div style={skinVars(SKINS.agenda)} className="mx-auto min-h-screen max-w-[980px] px-4 pb-24 pt-5">
+    <div style={skinVars(scene.skin)} className="mx-auto min-h-screen max-w-[980px] px-4 pb-24 pt-5">
+      <nav className="mb-4 flex flex-wrap gap-2">
+        {SCENES.map((s) => {
+          const on = s.id === activeScene
+          return (
+            <button
+              key={s.id}
+              type="button"
+              onMouseEnter={() => play("hover")}
+              onClick={() => switchScene(s.id)}
+              style={on ? { background: s.skin.accent } : undefined}
+              className={cn(
+                "rounded-md border-2 border-ink px-3 py-1.5 text-xs font-bold uppercase tracking-wide shadow-[2px_2px_0_0_var(--ink)] transition-transform",
+                "hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5 active:shadow-none",
+                on ? "text-white" : "bg-white text-ink",
+              )}
+            >
+              {s.name}
+            </button>
+          )
+        })}
+      </nav>
+
       <header className="mb-4 flex items-start justify-between gap-4 rounded-md border-2 border-ink bg-white p-5">
         <motion.div
           data-cursor="grow"
@@ -136,11 +178,10 @@ export function AgendaApp() {
           title="klik me"
           className="min-w-0 cursor-pointer"
         >
-          <WordArt animated text="LOCAL EVENTS" className="block text-3xl sm:text-5xl" />
-          <WordArt animated text="UTRECHT" className="block text-3xl sm:text-5xl" />
-          <p className="mt-3 max-w-md text-sm font-medium text-ink/70">
-            Kies events, download ze als .ics of voeg ze toe aan Google Agenda.
-          </p>
+          {scene.titleLines.map((line) => (
+            <WordArt key={line} animated text={line} className="block text-3xl sm:text-5xl" />
+          ))}
+          <p className="mt-3 max-w-md text-sm font-medium text-ink/70">{scene.tagline}</p>
         </motion.div>
         <button
           type="button"
@@ -155,7 +196,7 @@ export function AgendaApp() {
       </header>
 
       <div className="mb-5">
-        <MarqueeBar items={ticker.length ? ticker : ["wat is er los in de stad"]} />
+        <MarqueeBar items={ticker.length ? ticker : ["wat is er los"]} />
       </div>
 
       <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_300px]">
@@ -173,7 +214,7 @@ export function AgendaApp() {
               Geen events voor dit filter.
             </div>
           ) : (
-            <div key={activeFilter} className="flex flex-col gap-6">
+            <div key={activeScene + activeFacet} className="flex flex-col gap-6">
               {days.map(([day, events]) => {
                 const dayDate = new Date(day + "T12:00:00")
                 const label = dayDate.toLocaleDateString("nl-NL", {
@@ -207,6 +248,7 @@ export function AgendaApp() {
                             event={event}
                             selected={selected.has(event.id)}
                             onToggle={toggleEvent}
+                            badges={scene.facetsOf(event).map(scene.facetLabel)}
                           />
                         </motion.div>
                       ))}
@@ -220,13 +262,13 @@ export function AgendaApp() {
 
         <aside className="order-first lg:order-none lg:sticky lg:top-4 lg:self-start">
           <Sidebar
-            active={activeFilter}
-            counts={counts}
-            onFilter={handleFilter}
+            filters={filterOptions}
+            active={activeFacet}
+            onFilter={handleFacet}
             selectedCount={selected.size}
             onClear={clearAll}
             onDownload={handleDownload}
-            sources={sources}
+            sources={sceneSources}
           />
         </aside>
       </div>

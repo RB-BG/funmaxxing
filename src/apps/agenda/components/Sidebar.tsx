@@ -1,16 +1,13 @@
-import type { Category, Source } from "@/types"
+import type { Source } from "@/types"
 import { cn } from "@/lib/utils"
 import { Panel, RetroButton } from "@/ui/Retro"
 import { useSound } from "@/ui/sound"
 
-export type Filter = "all" | Category
-
-const FILTER_OPTIONS: { key: Filter; label: string }[] = [
-  { key: "all", label: "Alles" },
-  { key: "GAME", label: "Game concerten" },
-  { key: "DNB", label: "Drum & Bass" },
-  { key: "NOS", label: "Zeroes & Heroes" },
-]
+export interface FilterOption {
+  key: string
+  label: string
+  count: number
+}
 
 const WEEKEND_LABELS = [
   "rustig thuisblijven",
@@ -27,9 +24,9 @@ function weekendLabel(n: number): string {
 }
 
 interface SidebarProps {
-  active: Filter
-  counts: Record<Filter, number>
-  onFilter: (filter: Filter) => void
+  filters: FilterOption[]
+  active: string
+  onFilter: (key: string) => void
   selectedCount: number
   onClear: () => void
   onDownload: () => void
@@ -37,8 +34,8 @@ interface SidebarProps {
 }
 
 export function Sidebar({
+  filters,
   active,
-  counts,
   onFilter,
   selectedCount,
   onClear,
@@ -52,7 +49,7 @@ export function Sidebar({
     <div className="flex flex-col gap-4">
       <Panel title="Filters">
         <nav className="flex flex-col">
-          {FILTER_OPTIONS.map(({ key, label }) => {
+          {filters.map(({ key, label, count }) => {
             const on = active === key
             return (
               <button
@@ -65,12 +62,12 @@ export function Sidebar({
                 }}
                 style={on ? { background: "var(--app-accent)" } : undefined}
                 className={cn(
-                  "flex items-center justify-between border-b-2 border-ink/10 px-3 py-2 text-left text-sm font-semibold transition-colors last:border-b-0",
+                  "flex items-center justify-between gap-2 border-b-2 border-ink/10 px-3 py-2 text-left text-sm font-semibold transition-colors last:border-b-0",
                   on ? "text-ink" : "text-ink/70 hover:bg-ink/5",
                 )}
               >
-                <span>{label}</span>
-                <span className="font-display text-base leading-none">{counts[key] ?? 0}</span>
+                <span className="truncate">{label}</span>
+                <span className="font-display text-base leading-none">{count}</span>
               </button>
             )
           })}
@@ -120,25 +117,27 @@ export function Sidebar({
         </div>
       </Panel>
 
-      <Panel title="Venues">
-        <ul className="flex flex-col">
-          {venues.map((s) => (
-            <li
-              key={s.id}
-              className="flex items-center justify-between gap-2 border-b-2 border-ink/10 px-3 py-1.5 text-sm last:border-b-0"
-            >
-              <span className="flex min-w-0 items-center gap-2">
-                <span
-                  className="h-3 w-3 shrink-0 rounded-[2px] border border-ink"
-                  style={{ background: s.color }}
-                />
-                <span className="truncate font-medium text-ink/80">{s.name}</span>
-              </span>
-              <span className="font-display text-base leading-none text-ink/50">{s.events.length}</span>
-            </li>
-          ))}
-        </ul>
-      </Panel>
+      {venues.length > 0 && (
+        <Panel title="Bronnen">
+          <ul className="flex flex-col">
+            {venues.map((s) => (
+              <li
+                key={s.id}
+                className="flex items-center justify-between gap-2 border-b-2 border-ink/10 px-3 py-1.5 text-sm last:border-b-0"
+              >
+                <span className="flex min-w-0 items-center gap-2">
+                  <span
+                    className="h-3 w-3 shrink-0 rounded-[2px] border border-ink"
+                    style={{ background: s.color }}
+                  />
+                  <span className="truncate font-medium text-ink/80">{s.name}</span>
+                </span>
+                <span className="font-display text-base leading-none text-ink/50">{s.events.length}</span>
+              </li>
+            ))}
+          </ul>
+        </Panel>
+      )}
     </div>
   )
 }

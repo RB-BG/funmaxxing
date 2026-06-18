@@ -1,22 +1,43 @@
 import { readFileSync, writeFileSync } from 'node:fs'
 import { resolve, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { MANUAL_BUHURT } from './manual-buhurt.mjs'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_PATH = resolve(__dirname, '../public/events.json')
 
+// Each source belongs to a "scene" (a city/topic the app can switch between).
 const VENUES = [
-  { id: 'dbs-utrecht',       name: "dB's Utrecht",         color: '#ef4444', icon: '🎸', type: 'dbs-ical',   feedUrl: 'https://dbstudio.nl/events/?ical=1' },
-  { id: 'ekko-utrecht',      name: 'EKKO Utrecht',          color: '#0ea5e9', icon: '🔵', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/' },
-  { id: 'de-helling',        name: 'De Helling',            color: '#22c55e', icon: '🟢', type: 'helling',    feedUrl: 'https://dehelling.nl/agenda' },
-  { id: 'nar-utrecht',       name: 'NAR Café der Kunsten',  color: '#a855f7', icon: '🟣', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/' },
-  { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
-  { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
-  { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
-  { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   type: 'acu',       feedUrl: 'https://acu.nl/events/feed/' },
+  { id: 'dbs-utrecht',       name: "dB's Utrecht",         color: '#ef4444', icon: '🎸', scene: 'utrecht', type: 'dbs-ical',   feedUrl: 'https://dbstudio.nl/events/?ical=1' },
+  { id: 'ekko-utrecht',      name: 'EKKO Utrecht',          color: '#0ea5e9', icon: '🔵', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/' },
+  { id: 'de-helling',        name: 'De Helling',            color: '#22c55e', icon: '🟢', scene: 'utrecht', type: 'helling',    feedUrl: 'https://dehelling.nl/agenda' },
+  { id: 'nar-utrecht',       name: 'NAR Café der Kunsten',  color: '#a855f7', icon: '🟣', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/' },
+  { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
+  { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', scene: 'utrecht', type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
+  { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  scene: 'utrecht', type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
+  { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   scene: 'utrecht', type: 'acu',       feedUrl: 'https://acu.nl/events/feed/' },
+
+  // Buhurt scene (medieval armored combat), Europe only.
+  { id: 'buhurt-eu',         name: 'Buhurt toernooien (EU)', color: '#b61e1e', icon: '⚔️', scene: 'buhurt', type: 'buhurt-wob',    feedUrl: 'https://www.worldofbuhurt.com/tournaments' },
+  { id: 'buhurt-clubnights', name: 'Buhurt club nights',     color: '#9b51e0', icon: '🛡️', scene: 'buhurt', type: 'buhurt-manual', feedUrl: '' },
 ]
 
 const NL_MONTHS = { jan:1, feb:2, mrt:3, apr:4, mei:5, jun:6, jul:7, aug:8, sep:9, okt:10, nov:11, dec:12 }
+
+const EN_MONTHS = {
+  january:1, february:2, march:3, april:4, may:5, june:6,
+  july:7, august:8, september:9, october:10, november:11, december:12,
+}
+
+// Country names (as worldofbuhurt spells them) that count as European.
+const EUROPEAN_COUNTRIES = new Set([
+  'Austria', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czechia', 'Czech Republic',
+  'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Iceland',
+  'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Malta', 'Moldova', 'Montenegro',
+  'Netherlands', 'North Macedonia', 'Norway', 'Poland', 'Portugal', 'Romania', 'Serbia',
+  'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'Ukraine',
+  'United Kingdom', 'UK', 'England', 'Scotland', 'Wales', 'Northern Ireland',
+])
 
 function parseDutchDate(str) {
   const parts = str.trim().split(/\s+/)
@@ -302,15 +323,93 @@ async function scrapeAcu(venue) {
   return events
 }
 
+/** Parse a worldofbuhurt date string like "10-12 July 2026" or "23 July 2026". */
+function parseWobDate(text) {
+  const m = text.match(/(\d{1,2})(?:\s*[–-]\s*(\d{1,2}))?\s+([A-Za-z]+)\s+(\d{4})/)
+  if (!m) return null
+  const mon = EN_MONTHS[m[3].toLowerCase()]
+  if (!mon) return null
+  const pad = (n) => String(n).padStart(2, '0')
+  const y = m[4]
+  const d1 = parseInt(m[1])
+  const d2 = m[2] ? parseInt(m[2]) : d1
+  const tz = mon >= 4 && mon <= 10 ? '+02:00' : '+01:00'
+  return {
+    start: `${y}-${pad(mon)}-${pad(d1)}T00:00:00${tz}`,
+    end: `${y}-${pad(mon)}-${pad(d2)}T23:00:00${tz}`,
+  }
+}
+
+/** Scrape worldofbuhurt's tournament list (SSR HTML), Europe only. */
+async function scrapeWob(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const events = []
+  const seen = new Set()
+  const re = /<a href="(https:\/\/www\.worldofbuhurt\.com\/tournaments\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/g
+  for (const [, url, block] of html.matchAll(re)) {
+    if (seen.has(url)) continue
+    seen.add(url)
+
+    const title = decodeXml(
+      (block.match(/<h3>([\s\S]*?)<\/h3>/)?.[1] ?? block.match(/alt="([^"]+)"/)?.[1] ?? '').trim(),
+    )
+    const locRaw = block.match(/tournament-small-location[^>]*>([\s\S]*?)<\/p>/)?.[1] ?? ''
+    // Strip tags, the "Location:" label and the trailing flag emoji (keep latin diacritics).
+    const locText = stripHtml(decodeXml(locRaw))
+      .replace(/^Location:\s*/i, '')
+      .replace(/[^ -ɏ,]/g, '')
+      .trim()
+    const dateText = stripHtml(block.match(/<p>Date:\s*([\s\S]*?)<\/p>/)?.[1] ?? '').trim()
+
+    if (!title || !locText || !dateText) continue
+
+    const country = locText.split(',').pop().trim()
+    if (!EUROPEAN_COUNTRIES.has(country)) continue
+
+    const when = parseWobDate(dateText)
+    if (!when) continue
+
+    const catRaw = block.match(/<p>Category:\s*([\s\S]*?)<\/p>/)?.[1]
+    const tags = catRaw ? stripHtml(catRaw).split(',').map((t) => t.trim()).filter(Boolean) : []
+
+    const slug = url.split('/').filter(Boolean).pop()
+    events.push({
+      id: `wob-${slug}`,
+      title,
+      start: when.start,
+      end: when.end,
+      location: locText,
+      country,
+      description: `Buhurt-toernooi in ${country}. ${dateText}.`,
+      url,
+      tags,
+    })
+  }
+
+  return events
+}
+
+/** Manually curated buhurt club nights (not in any tournament feed). */
+async function scrapeManualBuhurt() {
+  return MANUAL_BUHURT.map((e) => ({ ...e }))
+}
+
 async function scrapeVenue(venue, fallback) {
   try {
     process.stdout.write(`  Scraping ${venue.name}… `)
     let events
-    if (venue.type === 'warhorn')   events = await scrapeWarhorn(venue)
-    else if (venue.type === 'beton')    events = await scrapeBeton(venue)
-    else if (venue.type === 'dbs-ical') events = await scrapeDbsIcal(venue)
-    else if (venue.type === 'helling')  events = await scrapeHelling(venue)
-    else if (venue.type === 'acu')      events = await scrapeAcu(venue)
+    if (venue.type === 'warhorn')        events = await scrapeWarhorn(venue)
+    else if (venue.type === 'beton')         events = await scrapeBeton(venue)
+    else if (venue.type === 'dbs-ical')      events = await scrapeDbsIcal(venue)
+    else if (venue.type === 'helling')       events = await scrapeHelling(venue)
+    else if (venue.type === 'acu')           events = await scrapeAcu(venue)
+    else if (venue.type === 'buhurt-wob')    events = await scrapeWob(venue)
+    else if (venue.type === 'buhurt-manual') events = await scrapeManualBuhurt(venue)
     else events = await scrapePodiuminfo(venue)
     console.log(`${events.length} events`)
     return events
@@ -335,7 +434,7 @@ async function main() {
   for (const venue of VENUES) {
     const raw = await scrapeVenue(venue, existingByVenue[venue.id] ?? [])
     const events = raw.filter(e => new Date(e.start) >= today)
-    sources.push({ id: venue.id, name: venue.name, color: venue.color, icon: venue.icon, feedUrl: venue.feedUrl, events })
+    sources.push({ id: venue.id, name: venue.name, color: venue.color, icon: venue.icon, scene: venue.scene, feedUrl: venue.feedUrl, events })
     if (venue.type === 'podiuminfo') await new Promise(r => setTimeout(r, 500))
   }
 

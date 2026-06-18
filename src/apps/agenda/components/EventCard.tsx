@@ -3,7 +3,6 @@ import { AnimatePresence, motion, useMotionValue, useSpring } from "framer-motio
 import confetti from "canvas-confetti"
 import { Check } from "lucide-react"
 import type { EnrichedEvent } from "@/types"
-import { FILTER_META } from "@/lib/classify"
 import { fmtTime, gcalUrl } from "@/lib/calendar"
 import { useSound } from "@/ui/sound"
 import { useReducedMotion } from "@/ui/useReducedMotion"
@@ -12,11 +11,13 @@ interface EventCardProps {
   event: EnrichedEvent
   selected: boolean
   onToggle: (id: string) => void
+  /** Scene facet labels shown as highlight badges (e.g. interest or country). */
+  badges: string[]
 }
 
 const MAX_TILT = 9 // degrees
 
-export function EventCard({ event, selected, onToggle }: EventCardProps) {
+export function EventCard({ event, selected, onToggle, badges }: EventCardProps) {
   const { source } = event
   const { play } = useSound()
   const reduced = useReducedMotion()
@@ -121,14 +122,14 @@ export function EventCard({ event, selected, onToggle }: EventCardProps) {
             <span className="truncate">{event.location}</span>
           </div>
 
-          {(event.categories.length > 0 || (event.tags?.length ?? 0) > 0) && (
+          {(badges.length > 0 || (event.tags?.length ?? 0) > 0) && (
             <div className="mt-2 flex flex-wrap gap-1.5">
-              {event.categories.map((cat) => (
+              {badges.map((badge) => (
                 <span
-                  key={cat}
+                  key={badge}
                   className="border-2 border-ink bg-acid px-1.5 py-px text-[10px] font-bold uppercase tracking-wide text-ink"
                 >
-                  {FILTER_META[cat].label}
+                  {badge}
                 </span>
               ))}
               {event.tags?.map((tag) => (

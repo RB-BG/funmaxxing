@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-06-18T06:38:47.750Z",
+  "updatedAt": "2026-06-18T09:10:57.874Z",
   "sources": [
     {
       "id": "dbs-utrecht",
       "name": "dB's Utrecht",
       "color": "#ef4444",
       "icon": "🎸",
+      "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
         {
@@ -405,6 +406,7 @@
       "name": "EKKO Utrecht",
       "color": "#0ea5e9",
       "icon": "🔵",
+      "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/",
       "events": [
         {
@@ -626,6 +628,16 @@
           "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
           "url": "https://www.podiuminfo.nl/concert/477811/Vera-Siemons/EKKO/",
           "tags": []
+        },
+        {
+          "id": "477872",
+          "title": "Diep In De Groef",
+          "start": "2026-08-14T23:30:00+02:00",
+          "end": "2026-08-15T00:30:00.000Z",
+          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
+          "description": "Diep In De Groef is een terugkerende clubavond op vrijdag in EKKO, die zich profileert als een muzikaal alternatief met een steeds wisselende maar vertrouwde sfeer. Bezoekers kunnen de hele nacht dansen op een eclectische mix van nieuwe ontdekkingen, bekende clubhits en vergeten geluiden. De muziek…",
+          "url": "https://www.podiuminfo.nl/concert/477872/Diep-In-De-Groef/EKKO/",
+          "tags": []
         }
       ]
     },
@@ -634,6 +646,7 @@
       "name": "De Helling",
       "color": "#22c55e",
       "icon": "🟢",
+      "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
@@ -1223,6 +1236,7 @@
       "name": "NAR Café der Kunsten",
       "color": "#a855f7",
       "icon": "🟣",
+      "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/",
       "events": []
     },
@@ -1231,6 +1245,7 @@
       "name": "TivoliVredenburg",
       "color": "#e84b3a",
       "icon": "🎵",
+      "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
@@ -1480,6 +1495,7 @@
       "name": "RPG Night Utrecht",
       "color": "#6366f1",
       "icon": "🎲",
+      "scene": "utrecht",
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
@@ -1523,6 +1539,16 @@
           "tags": []
         },
         {
+          "id": "599577",
+          "title": "SPACEGUTS! [playtest session]",
+          "start": "2026-06-24T19:00:00+02:00",
+          "end": "2026-06-24T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "SPACEGUTS! [playtest session] Wed 24/6 7-10pm at Subcultures @Silver Heron Studios English, Spaceguts Written by Peter Klijn Spaceguts is a weird sci-fi game where you play surgeon-engineers fixing sentient spacevessels. You have sworn a medical oath to keep the vessels alive and you’re free to…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0425a1e2-0726-4df9-bd29-c3673cdabb5b",
+          "tags": []
+        },
+        {
           "id": "597150",
           "title": "Campagne: Koning van de Krotten",
           "start": "2026-06-24T19:00:00+02:00",
@@ -1539,6 +1565,7 @@
       "name": "Beton-T",
       "color": "#f97316",
       "icon": "🏗️",
+      "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
@@ -1558,6 +1585,19 @@
             "Skaten",
             "Terras",
             "Verhoogd geluidslimiet"
+          ]
+        },
+        {
+          "id": "beton-lievens-bike-fietsclub",
+          "title": "Lievens Bike Fietsclub",
+          "start": "2026-06-18T00:00:00+02:00",
+          "end": "2026-06-18T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lievens-bike-fietsclub/",
+          "tags": [
+            "Sport",
+            "Kantine"
           ]
         },
         {
@@ -1662,6 +1702,7 @@
       "name": "ACU Utrecht",
       "color": "#84cc16",
       "icon": "✊",
+      "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
         {
@@ -1723,6 +1764,95 @@
           "description": "July 2nd. MiMi ar Capricious, schoco mune, Vinnieragua's One Man Acid Band, Cen-Z, Ignore all previous instructions, Dj 9 to 5, Screaming into the void, The void screams back, You yes all of you. . 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾 ⚠️STROBE, NOISE AND HIGH…",
           "url": "https://acu.nl/events/20260702/hars-noise-meeting-noise-in-acu",
           "tags": []
+        }
+      ]
+    },
+    {
+      "id": "buhurt-eu",
+      "name": "Buhurt toernooien (EU)",
+      "color": "#b61e1e",
+      "icon": "⚔️",
+      "scene": "buhurt",
+      "feedUrl": "https://www.worldofbuhurt.com/tournaments",
+      "events": [
+        {
+          "id": "wob-the-knights-of-the-cage-2026",
+          "title": "The Knights of the Cage 2026",
+          "start": "2026-06-20T00:00:00+02:00",
+          "end": "2026-06-20T23:00:00+02:00",
+          "location": "Onet-le-Château, France",
+          "country": "France",
+          "description": "Buhurt-toernooi in France. 20 June 2026.",
+          "url": "https://www.worldofbuhurt.com/tournaments/the-knights-of-the-cage-2026",
+          "tags": [
+            "Profight"
+          ]
+        },
+        {
+          "id": "wob-tournament-of-deeds-2026",
+          "title": "Tournament of Deeds 2026",
+          "start": "2026-06-27T00:00:00+02:00",
+          "end": "2026-06-27T23:00:00+02:00",
+          "location": "Ledbury, United Kingdom",
+          "country": "United Kingdom",
+          "description": "Buhurt-toernooi in United Kingdom. 27 June 2026.",
+          "url": "https://www.worldofbuhurt.com/tournaments/tournament-of-deeds-2026",
+          "tags": [
+            "Melee"
+          ]
+        },
+        {
+          "id": "wob-tournament-of-visegrad-2026",
+          "title": "Tournament of Visegrád 2026",
+          "start": "2026-07-10T00:00:00+02:00",
+          "end": "2026-07-12T23:00:00+02:00",
+          "location": "Visegrád, Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary. 10-12 July 2026.",
+          "url": "https://www.worldofbuhurt.com/tournaments/tournament-of-visegrad-2026",
+          "tags": [
+            "Melee",
+            "Duels"
+          ]
+        },
+        {
+          "id": "wob-imcf-world-championship-2026",
+          "title": "IMCF World Championship 2026",
+          "start": "2026-07-23T00:00:00+02:00",
+          "end": "2026-07-26T23:00:00+02:00",
+          "location": "Spøttrup, Denmark",
+          "country": "Denmark",
+          "description": "Buhurt-toernooi in Denmark. 23-26 July 2026.",
+          "url": "https://www.worldofbuhurt.com/tournaments/imcf-world-championship-2026",
+          "tags": [
+            "Melee",
+            "Duels",
+            "Profight"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buhurt-clubnights",
+      "name": "Buhurt club nights",
+      "color": "#9b51e0",
+      "icon": "🛡️",
+      "scene": "buhurt",
+      "feedUrl": "",
+      "events": [
+        {
+          "id": "disorder-ii-2026",
+          "title": "DISØRDER II – Buhurt Fight Night & Rave",
+          "start": "2026-06-20T23:00:00+02:00",
+          "end": "2026-06-21T07:00:00+02:00",
+          "location": "SPOTx Club, Vegyigépgyár utca 1, Budapest",
+          "country": "Hungary",
+          "description": "Buhurt fight night & rave door Death Sector. Geharnast gevecht en clubnacht in één.",
+          "url": "https://cooltix.hu/event/6a1aca9ff4a48a4abf97aaca",
+          "tags": [
+            "Fight Night",
+            "Rave"
+          ]
         }
       ]
     }

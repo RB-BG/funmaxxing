@@ -48,9 +48,14 @@ scripts/scrape.mjs   (lokaal of via GitHub Actions cron, 1x/dag)
 AgendaApp.tsx
   └─ fetch('/events.json') bij mount
   └─ buildEvents(): flat + classify() per event  → EnrichedEvent[]
-  └─ filter (FilterBar) → sorteer op datum → groepeer per dag → render EventCards
-  └─ selectie in een Set<id>; ActionBar → downloadICS() / per-event Google Agenda-link
+  └─ kies scene (scene-switcher) → filter op scene
+  └─ facet-filter (Sidebar) → sorteer op datum → groepeer per dag → render EventCards
+  └─ selectie in een Set<id>; Sidebar/mobiele balk → downloadICS() / per-event Google Agenda-link
 ```
+
+De app is multi-**scene**: één codebase toont meerdere steden/onderwerpen (Utrecht, Buhurt EU)
+via een schakelaar. Scene-presentatie en facet-logica staan in
+[`apps/agenda/scenes.ts`](../src/apps/agenda/scenes.ts); zie [CONTENT.md](CONTENT.md).
 
 Zie [CONTENT.md](CONTENT.md) voor het beheren van venues/events en de scraper.
 

@@ -96,16 +96,18 @@ Naast Utrecht is er een **Buhurt Europe**-scene (zie [docs/CONTENT.md](docs/CONT
 
 ### Onderzochte venues die niet zijn toegevoegd
 
-| Venue | Reden |
-|---|---|
-| Werkspoorkathedraal | Next.js, geen structured data; Podiuminfo leeg |
-| Stathe | Wix, alleen losse tekst, geen feed |
-| Kabul à Gogo | Webflow, datums alleen als proza |
-| Café Hofman | WordPress, geen feed/iCal/JSON-LD |
-| De Nijverheid (Utrecht) | WordPress/Divi, geen events-feed |
-| Winkel van Sinkel / Café RASA | Site offline |
-| Subcultures | Spellenwinkel, geen eigen events |
-| Willem Twee | Zit in Den Bosch |
+| Venue | Gebouwd op | Blocker |
+|---|---|---|
+| Werkspoorkathedraal | Next.js | Geen structured data, Podiuminfo-profiel leeg |
+| Stathe | Wix | Wix geeft geen publieks-toegankelijke feed |
+| Kabul à Gogo | Webflow | Geen feed; datums als proza (wel mogelijk via fragiele HTML-parser, zie docs) |
+| Café Hofman | WordPress | Geen The Events Calendar plugin, alleen blogposts |
+| De Nijverheid (Utrecht) | WordPress/Divi | Divi zonder evenementenplugin, geen /events-endpoint |
+| Winkel van Sinkel / Café RASA | onbekend | Site offline |
+| Subcultures | eigen site | Spellenwinkel, organiseert geen eigen events |
+| Willem Twee | eigen site | Den Bosch, buiten Utrecht-scope |
+
+Zie [docs/CONTENT.md](docs/CONTENT.md) voor volledige bevindingen per venue (wat geprobeerd, alternatieve aanpak).
 
 ## Venue toevoegen
 

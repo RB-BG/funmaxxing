@@ -59,3 +59,44 @@ The Events Calendar). HTML/JSON-LD alleen als er geen feed is.
 Events worden geclassificeerd in GAME / DNB / NOS via keyword-matching in
 [`src/lib/classify.ts`](../src/lib/classify.ts) — geen AI. Pas de `KEYWORDS` daar aan om de
 filters bij te stellen, of voeg een categorie toe aan het `Category`-type en `FILTER_META`.
+
+---
+
+## Onderzochte venues die (nog) niet zijn toegevoegd
+
+Hieronder de venues die zijn bekeken en waarom ze niet in de scraper staan. Bewaard zodat
+toekomstige sessies niet opnieuw het wiel uitvinden.
+
+### Utrecht
+
+| Venue | Gebouwd op | Wat geprobeerd | Blocker |
+|---|---|---|---|
+| Werkspoorkathedraal | Next.js | HTML-scraping, Podiuminfo gezocht | Geen structured data (JSON-LD/microdata); Podiuminfo-profiel leeg |
+| Stathe | Wix | RSS/Atom, Wix-feed URLs gezocht | Wix levert geen publieks-toegankelijke feed; events alleen als losse tekst op de pagina |
+| Kabul à Gogo | Webflow | RSS/Atom, JSON-LD | Geen feed; datums zijn proza ("komende vrijdag") zonder machine-leesbaar formaat |
+| Café Hofman | WordPress | WordPress-feed (`/feed/`, `/events/feed/`) | WordPress zonder The Events Calendar plugin — alleen blogposts, geen events |
+| De Nijverheid (Utrecht) | WordPress/Divi | WordPress-feed, iCal | Divi-thema zonder evenementenplugin; geen /events-endpoint |
+| Winkel van Sinkel | ? | Site gezocht | Domein offline ten tijde van onderzoek |
+| Café RASA | ? | Site gezocht | Domein offline ten tijde van onderzoek |
+| Subcultures | eigen site | Sitestructuur bekeken | Spellenwinkel, organiseert geen eigen events |
+| Willem Twee | eigen site | Gecontroleerd | Zit in Den Bosch, valt buiten Utrecht-scope |
+
+**Kabul à Gogo: mogelijke toekomstige aanpak.** De event-URLs volgen het patroon
+`/events/YYYYMMDD-naam`. Met een headless browser (Playwright) of een fragiele `fetch` +
+cheerio-HTML-parser is een datumlijst te bouwen. Niet gedaan omdat het breekbaarder is dan
+een feed — maar haalbaar als er vraag naar is.
+
+**Werkspoorkathedraal: mogelijk via Podiuminfo.** Ze staan als venue op Podiuminfo.nl maar
+hadden bij onderzoek geen actieve events gepubliceerd. Als ze dat gaan doen, pikt de
+`podiuminfo`-scraper ze automatisch op zodra je het Podiuminfo-profiel-ID toevoegt.
+
+### Buhurt (Europa)
+
+| Bron | Wat geprobeerd | Status |
+|---|---|---|
+| buhurtinternational.com | HTML-scraping, RSS | Site geladen maar events niet machine-leesbaar in HTML; geen feed gevonden |
+| Instagram @deathsectorbp | Instagram API, scraping | Instagram API vereist app-goedkeuring en user-token; publieke HTML is niet scrapable zonder headless browser |
+
+Voor buhurt club nights (zoals DISØRDER) is handmatig bijhouden in
+[`scripts/manual-buhurt.mjs`](../scripts/manual-buhurt.mjs) de enige werkbare aanpak zolang
+er geen publieks-toegankelijke agenda-feed bestaat.

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T09:10:57.874Z",
+  "updatedAt": "2026-06-18T12:35:15.431Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1529,6 +1529,16 @@
           "tags": []
         },
         {
+          "id": "599589",
+          "title": "Flights of Fancy: Rock & Barrel Roll (lottery sign-up)",
+          "start": "2026-06-24T19:00:00+02:00",
+          "end": "2026-06-24T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Flights of Fancy: Rock &amp; Barrel Roll (lottery sign-up) Wed 24/6 7-10pm at Subcultures @De Bierkantine English, Mausritter Written by Peter Elroy &amp;amp;amp; Max Philippi Flights of Fancy is an aerial Mausritter adventure collection that takes you to the skies above and the vastness below.…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/fc88815a-6227-4112-acdd-b2875624468e",
+          "tags": []
+        },
+        {
           "id": "597424",
           "title": "Blades in the Dark – Sandmen",
           "start": "2026-06-24T19:00:00+02:00",
@@ -1556,6 +1566,36 @@
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Koning van de Krotten Wed 24/6 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/47eaf34d-9784-4959-b443-1e1b32797632",
+          "tags": []
+        },
+        {
+          "id": "599595",
+          "title": "Blades in the Dark - Sandmen [Beginner-friendly]",
+          "start": "2026-07-01T19:00:00+02:00",
+          "end": "2026-07-01T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Blades in the Dark - Sandmen [Beginner-friendly] Wed 1/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a6cd0972-44d0-4236-ac0a-9fcdbf600a46",
+          "tags": []
+        },
+        {
+          "id": "599596",
+          "title": "Blades in the Dark - Sandmen [Beginner-friendly]",
+          "start": "2026-07-15T19:00:00+02:00",
+          "end": "2026-07-15T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Blades in the Dark - Sandmen [Beginner-friendly] Wed 15/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a6e7028c-fe9f-49a0-8e3f-24c8e9153841",
+          "tags": []
+        },
+        {
+          "id": "599597",
+          "title": "Indie RPG - Blades in the Dark",
+          "start": "2026-07-22T19:00:00+02:00",
+          "end": "2026-07-22T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Indie RPG - Blades in the Dark Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases,…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/cc9a355e-b4bd-4d46-99ce-d20597dc9a50",
           "tags": []
         }
       ]
@@ -1694,6 +1734,20 @@
             "Workshop",
             "Vechtclub Keiland"
           ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-41",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-06-24T00:00:00+02:00",
+          "end": "2026-06-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-41/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
         }
       ]
     },
@@ -1763,6 +1817,277 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "July 2nd. MiMi ar Capricious, schoco mune, Vinnieragua's One Man Acid Band, Cen-Z, Ignore all previous instructions, Dj 9 to 5, Screaming into the void, The void screams back, You yes all of you. . 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾 ⚠️STROBE, NOISE AND HIGH…",
           "url": "https://acu.nl/events/20260702/hars-noise-meeting-noise-in-acu",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "basis-utrecht",
+      "name": "BASIS",
+      "color": "#14b8a6",
+      "icon": "🔊",
+      "scene": "utrecht",
+      "feedUrl": "https://clubbasis.nl/events/?ical=1",
+      "events": [
+        {
+          "id": "basis-utrecht-10001475-1781910000-1781935200",
+          "title": "BASIS/ EMILIJA/ Entasia/ FYALL/ Olive Anguz",
+          "start": "2026-06-19T23:00:00+02:00",
+          "end": "2026-06-20T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-emilija-entasia-fyall-olive-anguz/",
+          "tags": [
+            "Bounce",
+            "Hard house",
+            "Trance"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001471-1781996400-1782021600",
+          "title": "BASIS/ BSLS [hardware live]/ Miløw/ Ørgie/ Redbatun",
+          "start": "2026-06-20T23:00:00+02:00",
+          "end": "2026-06-21T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-bsls-hardware-live-ema-leo-milow-orgie-redbatun/",
+          "tags": [
+            "Industrial"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001463-1782514800-1782540000",
+          "title": "BASIS/ Kegffnayy/ L.ZWO/ SAMOH [live]/ Supergloss",
+          "start": "2026-06-26T23:00:00+02:00",
+          "end": "2026-06-27T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-kegffnayy-l-zwo-samoh-live-supergloss/",
+          "tags": [
+            "Acid Techno",
+            "Bounce"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001474-1782601200-1782626400",
+          "title": "BASIS/ MOONYEAN/ Noise Mafia/ Trias Kinetica/ Vall Du Son",
+          "start": "2026-06-27T23:00:00+02:00",
+          "end": "2026-06-28T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-moonyean-noise-mafia-trias-kinetica-vall-du-son/",
+          "tags": [
+            "Bounce",
+            "Hard house",
+            "Trance"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001467-1783159200-1783331999",
+          "title": "By The Creek 2026",
+          "start": "2026-07-04T00:00:00+02:00",
+          "end": "2026-07-07T00:00:00+02:00",
+          "location": "Recreatieterrein Middelwaard, Vianen",
+          "description": "00 AM\n/ 18+ ID card required",
+          "url": "https://clubbasis.nl/event/by-the-creek-2026/",
+          "tags": [
+            "Hardtechno",
+            "House",
+            "Techno",
+            "Trance"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001478-1783209540-1783231200",
+          "title": "BASIS x By The Creek After // Day 1",
+          "start": "2026-07-04T23:59:00+02:00",
+          "end": "2026-07-05T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-x-by-the-creek-after-day-1/",
+          "tags": []
+        },
+        {
+          "id": "basis-utrecht-10001476-1783295940-1783317600",
+          "title": "BASIS x By The Creek After // Day 2",
+          "start": "2026-07-05T23:59:00+02:00",
+          "end": "2026-07-06T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-x-by-the-creek-after-2/",
+          "tags": []
+        },
+        {
+          "id": "basis-utrecht-10001482-1783727940-1783749600",
+          "title": "BASIS Talent Night/ Forest Fire/ Joebe/ Lenny del Skon/ NT-FRAGILE",
+          "start": "2026-07-10T23:59:00+02:00",
+          "end": "2026-07-11T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-talent-night-forest-fire-joebe-lenny-del-skon-nt-fragile/",
+          "tags": [
+            "Hard house",
+            "House",
+            "Trance"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001479-1783814340-1783836000",
+          "title": "BASIS/ Alt8/ AMMARA/ APRD/ OLI'S",
+          "start": "2026-07-11T23:59:00+02:00",
+          "end": "2026-07-12T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-alt8-ammara-aprd-olis/",
+          "tags": [
+            "Bounce",
+            "Hard house"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001483-1784332740-1784354400",
+          "title": "BASIS Talent Night/ Ajonko/ FENNA/ Lunett/ Maccin",
+          "start": "2026-07-17T23:59:00+02:00",
+          "end": "2026-07-18T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-talent-night-ajonko-fenna-lunett-maccin/",
+          "tags": [
+            "House"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001486-1784419140-1784440800",
+          "title": "BASIS/ BLNK/ Blurred Movement/ Imperia/ Juul Exler",
+          "start": "2026-07-18T23:59:00+02:00",
+          "end": "2026-07-19T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-blnk-blurred-movement-imperia-juul-exler/",
+          "tags": [
+            "Hardtechno",
+            "Industrial"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001484-1784937540-1784959200",
+          "title": "BASIS Talent Night/ LAUZ/ Loyk/ Nito/ S.H.A.R.P",
+          "start": "2026-07-24T23:59:00+02:00",
+          "end": "2026-07-25T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-talent-night-lauz-loyk-nito-s-h-a-r-p/",
+          "tags": [
+            "Groovy techno",
+            "Hardgroove"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001487-1785023940-1785023940",
+          "title": "BASIS/ DJ Cringey/ Eva Bon/ Luca v/d Hombergh/ NYCO",
+          "start": "2026-07-25T23:59:00+02:00",
+          "end": "2026-07-25T23:59:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-dj-cringey-eva-bon-luca-v-d-hombergh-nyco/",
+          "tags": [
+            "Bounce",
+            "Hard house",
+            "House"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001485-1785542340-1785564000",
+          "title": "BASIS Talent Night/ Daniel Plainview/ DJ Zelda/ Hedemann/ Jssst",
+          "start": "2026-07-31T23:59:00+02:00",
+          "end": "2026-08-01T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-talent-night-daniel-plainview-dj-zelda-hedemann-jssst/",
+          "tags": [
+            "Hypnotic Techno",
+            "Underground techno"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001446-1785589200-1785625200",
+          "title": "BASIS Outdoor/ 2026",
+          "start": "2026-08-01T13:00:00+02:00",
+          "end": "2026-08-01T23:00:00+02:00",
+          "location": "Beton-T, Koningin Wilhelminalaan 4, Utrecht, Utrecht, , 3527 LD",
+          "description": "00, Utrecht.\nWe’re looking forward to dance with you in summer rays and sonic delights all day long! \nLINEUP\n/ Alycia Bezgo b2b Hurts\n/ Aphøtic b2b Tassery\n/ Beau Didier\n/ Dissolver [live]\n/ Laure Croft\n/ Lisa Korver\n/ Locus Error\n/ Mika Heggemann\n/ Nedir Nadir\n/ Raxeller\n/ Rikhter [live]\n/ Slimfit…",
+          "url": "https://clubbasis.nl/event/basis-outdoor-2026/",
+          "tags": [
+            "Bounce",
+            "Groovy techno",
+            "Hard house",
+            "Hardtechno",
+            "Techno",
+            "Trance"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001477-1786233540-1786255200",
+          "title": "BASIS/ Blame the Mono/ Fiene/ LENA/ Sons of Hidden (live)",
+          "start": "2026-08-08T23:59:00+02:00",
+          "end": "2026-08-09T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-blame-the-mono-fiene-lena-sons-of-hidden-live/",
+          "tags": [
+            "Acid Techno",
+            "Groovy techno",
+            "Old school techno",
+            "Underground techno"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001488-1788562800-1788588000",
+          "title": "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90",
+          "start": "2026-09-04T23:00:00+02:00",
+          "end": "2026-09-05T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-caiva-nedir-nadir-ramon-berendes-upper90/",
+          "tags": [
+            "House",
+            "Trance"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001462-1789214400-1789254000",
+          "title": "Smeerboel 2026",
+          "start": "2026-09-12T12:00:00+02:00",
+          "end": "2026-09-12T23:00:00+02:00",
+          "location": "Laagravenseplas Noord, Houtenseweg, Nieuwegein, Utrecht, 3439LP",
+          "description": "Al jarenlang dé plek waar we samen met de meest uiteenlopende artiesten, een knettergekke randprogrammering en flitsend feestgedruis heel Utrecht uit zijn plaat laten gaan. \nDus slinger je partymood aan, maak een driedubbele flikflak in een plas danswater en kom het festivalseizoen waardig…",
+          "url": "https://clubbasis.nl/event/smeerboel-2026/",
+          "tags": [
+            "Hard house",
+            "Hardtechno",
+            "House",
+            "Techno",
+            "Trance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soia-utrecht",
+      "name": "Strand Oog in Al",
+      "color": "#eab308",
+      "icon": "🏖️",
+      "scene": "utrecht",
+      "feedUrl": "https://soia.nl/agenda/feed/",
+      "events": [
+        {
+          "id": "soia-in-het-zand",
+          "title": "In het zand",
+          "start": "2026-08-08T14:00:00+02:00",
+          "end": "2026-08-08T21:00:00.000Z",
+          "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
+          "description": "In het zand festival Zaterdag 08/08/2026 14:00 - 23:00 Voor onze zevende editie houden we ons bij het vertrouwde recept: House & Disco, verdeeld over twee stages bij SOIA – Strand Oog in Al. Line-up (a-z) ADA AYS BENNY2 BERKAN V8 EILEEN EMVAE & MOXES KENNEDY KLÉO LUCKY DONE GONE & TSEPO SAIDAH Koop…",
+          "url": "https://soia.nl/agenda/in-het-zand/",
           "tags": []
         }
       ]

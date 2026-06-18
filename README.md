@@ -87,20 +87,24 @@ npm run scrape    # haal verse events op en schrijf public/events.json
 | RPG Night Utrecht | Warhorn Atom feed | warhorn.net |
 | Beton-T | HTML (vechtclub.nl) | eigen site |
 | ACU Utrecht | RSS feed (The Events Calendar) | eigen site |
+| BASIS | iCal feed (The Events Calendar) | eigen site |
+| Strand Oog in Al | RSS + tekst-datumparser | eigen site |
 
-EKKO en TivoliVredenburg zijn JS-rendered — geen eigen feed beschikbaar, daarom via Podiuminfo.
+EKKO en TivoliVredenburg zijn JS-rendered (geen eigen feed beschikbaar), daarom via Podiuminfo.
 NAR heeft momenteel geen events op Podiuminfo; pikt automatisch op zodra ze publiceren.
+Naast Utrecht is er een **Buhurt Europe**-scene (zie [docs/CONTENT.md](docs/CONTENT.md)).
 
 ### Onderzochte venues die niet zijn toegevoegd
 
 | Venue | Reden |
 |---|---|
-| Stathe Utrecht | JS-rendered, geen feed, vereist playwright |
-| Winkel van Sinkel | Site offline |
-| Club Poema / De Rechtbank / VOLT | Sites offline/onvindbaar |
-| Café RASA | Site offline |
+| Werkspoorkathedraal | Next.js, geen structured data; Podiuminfo leeg |
+| Stathe | Wix, alleen losse tekst, geen feed |
+| Kabul à Gogo | Webflow, datums alleen als proza |
+| Café Hofman | WordPress, geen feed/iCal/JSON-LD |
+| De Nijverheid (Utrecht) | WordPress/Divi, geen events-feed |
+| Winkel van Sinkel / Café RASA | Site offline |
 | Subcultures | Spellenwinkel, geen eigen events |
-| De Nijverheid | Zit in Hengelo, niet Utrecht |
 | Willem Twee | Zit in Den Bosch |
 
 ## Venue toevoegen

@@ -16,6 +16,8 @@ const VENUES = [
   { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', scene: 'utrecht', type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
   { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  scene: 'utrecht', type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
   { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   scene: 'utrecht', type: 'acu',       feedUrl: 'https://acu.nl/events/feed/' },
+  { id: 'basis-utrecht',     name: 'BASIS',                 color: '#14b8a6', icon: '🔊', scene: 'utrecht', type: 'ical',      feedUrl: 'https://clubbasis.nl/events/?ical=1' },
+  { id: 'soia-utrecht',      name: 'Strand Oog in Al',      color: '#eab308', icon: '🏖️', scene: 'utrecht', type: 'soia',      feedUrl: 'https://soia.nl/agenda/feed/' },
 
   // Buhurt scene (medieval armored combat), Europe only.
   { id: 'buhurt-eu',         name: 'Buhurt toernooien (EU)', color: '#b61e1e', icon: '⚔️', scene: 'buhurt', type: 'buhurt-wob',    feedUrl: 'https://www.worldofbuhurt.com/tournaments' },
@@ -158,6 +160,48 @@ function unfoldIcal(text) {
 
 function unescapeIcal(val) {
   return val.replace(/\\,/g, ',').replace(/\\;/g, ';').replace(/\\n/g, '\n').replace(/\\\\/g, '\\').trim()
+}
+
+/** Generic iCal scraper for The Events Calendar feeds (?ical=1). Source-prefixed ids. */
+async function scrapeIcal(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const raw = unfoldIcal(await res.text())
+
+  const events = []
+  for (const [, block] of raw.matchAll(/BEGIN:VEVENT([\s\S]*?)END:VEVENT/g)) {
+    const get = (key) => {
+      const m = block.match(new RegExp(`^${key}[;:][^\n]*:([^\n]+)`, 'm'))
+        ?? block.match(new RegExp(`^${key}:([^\n]+)`, 'm'))
+      return m ? unescapeIcal(m[1]) : ''
+    }
+
+    let dtstart = block.match(/^DTSTART[^:]*:(\S+)/m)?.[1] ?? ''
+    let dtend = block.match(/^DTEND[^:]*:(\S+)/m)?.[1] ?? ''
+    const uid = get('UID')
+    const summary = get('SUMMARY')
+    if (!dtstart || !summary) continue
+    // Handle all-day (DATE-only) values that lack a time component.
+    if (!dtstart.includes('T')) dtstart += 'T000000'
+    if (dtend && !dtend.includes('T')) dtend += 'T000000'
+
+    const url = get('URL')
+    const cats = get('CATEGORIES')
+    events.push({
+      id: `${venue.id}-${(uid.split('@')[0] || uid).slice(0, 48)}`,
+      title: summary,
+      start: parseIcalDatetime(dtstart),
+      end: dtend ? parseIcalDatetime(dtend) : addHours(parseIcalDatetime(dtstart), 3),
+      location: get('LOCATION') || `${venue.name}, Utrecht`,
+      description: truncate(get('DESCRIPTION')),
+      url: url.startsWith('//') ? `https:${url}` : url || venue.feedUrl,
+      tags: cats ? cats.split(',').map((t) => t.trim()).filter(Boolean) : [],
+    })
+  }
+
+  return events
 }
 
 async function scrapeDbsIcal(venue) {
@@ -323,6 +367,66 @@ async function scrapeAcu(venue) {
   return events
 }
 
+/** Parse a Dutch "DD/MM/YYYY HH:MM - HH:MM" date out of free text (Strand Oog in Al). */
+function parseSoiaDate(text) {
+  const m = text.match(/(\d{2})\/(\d{2})\/(\d{4})(?:[^\d]{0,4}(\d{1,2}):(\d{2})(?:\s*[-–]\s*(\d{1,2}):(\d{2}))?)?/)
+  if (!m) return null
+  const [, d, mo, y, sh0, sm0, eh, em] = m
+  if (parseInt(mo) < 1 || parseInt(mo) > 12) return null
+  const sh = sh0 ? sh0.padStart(2, '0') : '00'
+  const sm = sm0 ?? '00'
+  const tz = parseInt(mo) >= 4 && parseInt(mo) <= 10 ? '+02:00' : '+01:00'
+  const start = `${y}-${mo}-${d}T${sh}:${sm}:00${tz}`
+  let end
+  if (eh) {
+    let dur = (parseInt(eh) * 60 + parseInt(em)) - (parseInt(sh) * 60 + parseInt(sm))
+    if (dur <= 0) dur += 1440
+    end = addHours(start, dur / 60)
+  } else {
+    end = addHours(start, 4)
+  }
+  return { start, end }
+}
+
+/** Scrape Strand Oog in Al's WordPress RSS; event dates live as prose in the content. */
+async function scrapeSoia(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const xml = await res.text()
+
+  const events = []
+  for (const [, item] of xml.matchAll(/<item>([\s\S]*?)<\/item>/g)) {
+    const title = decodeXml(stripCdata(item.match(/<title>([\s\S]*?)<\/title>/)?.[1] ?? '')).trim()
+    const url = decodeXml(stripCdata(item.match(/<link>([\s\S]*?)<\/link>/)?.[1] ?? '')).trim()
+    const rawContent =
+      item.match(/<content:encoded>([\s\S]*?)<\/content:encoded>/)?.[1] ??
+      item.match(/<description>([\s\S]*?)<\/description>/)?.[1] ??
+      ''
+    const text = stripHtml(decodeXml(stripCdata(rawContent)))
+
+    const when = parseSoiaDate(text)
+    // Skip undated / recurring entries (no machine-placeable date).
+    if (!title || !url || !when) continue
+
+    const slug = url.split('/').filter(Boolean).pop()
+    const desc = text.replace(/^Home\s*>\s*agenda\s*/i, '').trim()
+    events.push({
+      id: `soia-${slug}`,
+      title,
+      start: when.start,
+      end: when.end,
+      location: 'Strand Oog in Al, Hof van Transwijk, Utrecht',
+      description: truncate(desc || text),
+      url,
+      tags: [],
+    })
+  }
+
+  return events
+}
+
 /** Parse a worldofbuhurt date string like "10-12 July 2026" or "23 July 2026". */
 function parseWobDate(text) {
   const m = text.match(/(\d{1,2})(?:\s*[–-]\s*(\d{1,2}))?\s+([A-Za-z]+)\s+(\d{4})/)
@@ -406,8 +510,10 @@ async function scrapeVenue(venue, fallback) {
     if (venue.type === 'warhorn')        events = await scrapeWarhorn(venue)
     else if (venue.type === 'beton')         events = await scrapeBeton(venue)
     else if (venue.type === 'dbs-ical')      events = await scrapeDbsIcal(venue)
+    else if (venue.type === 'ical')          events = await scrapeIcal(venue)
     else if (venue.type === 'helling')       events = await scrapeHelling(venue)
     else if (venue.type === 'acu')           events = await scrapeAcu(venue)
+    else if (venue.type === 'soia')          events = await scrapeSoia(venue)
     else if (venue.type === 'buhurt-wob')    events = await scrapeWob(venue)
     else if (venue.type === 'buhurt-manual') events = await scrapeManualBuhurt(venue)
     else events = await scrapePodiuminfo(venue)

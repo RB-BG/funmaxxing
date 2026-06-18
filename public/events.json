@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T07:25:25.935Z",
+  "updatedAt": "2026-06-18T06:38:47.750Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -8,24 +8,6 @@
       "icon": "🎸",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10000985",
-          "title": "* Sold out* MELT BANANA (Jap) + The Wacko's & DJ Steve",
-          "start": "2026-06-17T20:00:00+02:00",
-          "end": "2026-06-17T22:30:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "//dbstudio.nl/wp-content/uploads/2026/02/1000012593.mp4",
-          "url": "https://dbstudio.nl/event/melt-banana-jap/",
-          "tags": [
-            "Concert",
-            "Electronics",
-            "Hardcore",
-            "Noise",
-            "Post Punk",
-            "Punk",
-            "Techhouse"
-          ]
-        },
         {
           "id": "10001038",
           "title": "DAAN",
@@ -76,11 +58,11 @@
         },
         {
           "id": "10001067",
-          "title": "NeoN Noir - Queer Party",
+          "title": "NeoN Noir & Quatsch - Queer Party",
           "start": "2026-06-20T23:00:00+02:00",
           "end": "2026-06-21T03:00:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Ja natuurlijk zijn wij erbij in de pride maand. Maar dan wel op de 20e. Ben je weer lekker bijgetrokken van die hele canal pride en klaar om te dansen op duistere beats en zwoele vocalen. Deze editie is de laatste voor onze lekkere lange zomerstop, dus we gaan even flink uithalen. Doe je mooiste…",
+          "description": "Ja natuurlijk zijn wij erbij in de pride maand. Maar dan wel op de 20e. Ben je weer lekker bijgetrokken van die hele canal pride en klaar om te dansen op duistere beats en zwoele vocalen. Deze editie is heel bijzonder want dit keer gaan we vreemd met Quatsch, het andere leukste queer feest van…",
           "url": "https://dbstudio.nl/event/neon-noir-queer-party/",
           "tags": []
         },
@@ -403,6 +385,18 @@
           "tags": [
             "Death Metal"
           ]
+        },
+        {
+          "id": "10001028",
+          "title": "DEAD MEADOW (USA - HEAVY PSYCH SOUNDS)",
+          "start": "2026-08-06T20:00:00+02:00",
+          "end": "2026-08-06T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "De Amerikaanse vaandeldragers van de moderne psychedelische rock, Dead Meadow, zijn met hun nieuwe album Voyager To Voyager toe aan de tiende studioplaat in hun 25-jarig bestaan.  Het trio mochten we  eerder meermaals ontvangen in de oude dB’s maar dit keer is toch anders want Dead Meadow heeft met…",
+          "url": "https://dbstudio.nl/event/dead-meadow-usa-heavy-psych-sounds/",
+          "tags": [
+            "Psychedelic"
+          ]
         }
       ]
     },
@@ -413,16 +407,6 @@
       "icon": "🔵",
       "feedUrl": "https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/",
       "events": [
-        {
-          "id": "478361",
-          "title": "Sophie van Hilten - Komt Goed",
-          "start": "2026-06-17T20:00:00+02:00",
-          "end": "2026-06-17T21:00:00.000Z",
-          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
-          "description": "Tijdens haar afstudeerconcert ‘Komt Goed’ neemt Sophie van Hilten, bijgestaan door haar bandleden Renée Burger, Koen van Dijk, Renée Munneke, Elbrich van Stralen en Karan Kohabir, het publiek mee op een muzikale reis. De voorstelling verkent thema's als zorgen en wensen, en biedt een gevoel van…",
-          "url": "https://www.podiuminfo.nl/concert/478361/Sophie-van-Hilten-Komt-Goed/EKKO/",
-          "tags": []
-        },
         {
           "id": "472509",
           "title": "BUS 12",
@@ -652,16 +636,6 @@
       "icon": "🟢",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-hba-exf-17-06-2026",
-          "title": "HBA EXF",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T22:30:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Dé eindexamenshows van de popartiesten van de Herman Brood Academie met Alyssa Marli, Barbian, De Formule, Rommy Gabay en Semuta",
-          "url": "https://dehelling.nl/agenda/hba-exf-17-06-2026/",
-          "tags": []
-        },
         {
           "id": "helling-open-clawless-18-06-2026",
           "title": "OPEN CLAWLESS",
@@ -950,6 +924,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Feelgood-indiepop voor als het leven donker wordt ",
           "url": "https://dehelling.nl/agenda/bare-jams-07-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-john-coffey-09-10-2026",
+          "title": "John Coffey",
+          "start": "2026-10-09T19:45:00+01:00",
+          "end": "2026-10-09T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Utrechtse hardcore-legends zijn terug met vijfde album",
+          "url": "https://dehelling.nl/agenda/john-coffey-09-10-2026/",
           "tags": []
         },
         {
@@ -1250,36 +1234,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "449319",
-          "title": "Richard Thompson",
-          "start": "2026-06-17T20:00:00+02:00",
-          "end": "2026-06-17T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Folkrockicoon Richard Thompson is al decennialang een van de meest eigenzinnige en invloedrijke stemmen binnen zijn genre. Hij is medeoprichter van de folkrockband Fairport Convention, die het genre opnieuw uitvond. Met zijn meesterlijke beheersing van de akoestische en elektrische gitaar,…",
-          "url": "https://www.podiuminfo.nl/concert/449319/Richard-Thompson/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "477418",
-          "title": "Rabo Open Stage: The Intimate Sessions",
-          "start": "2026-06-17T20:00:00+02:00",
-          "end": "2026-06-17T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Drie singer-songwriters schijnen elk een ander licht op de wereld in de intieme setting van The Intimate Sessions, de tweemaandelijkse singer-songwriteravond op het kleinste podium in de centrale hal van TivoliVredenburg, bij Café Het Gegeven Paard. De avonden zijn gratis toegankelijk. Luna streeft…",
-          "url": "https://www.podiuminfo.nl/concert/477418/Rabo-Open-Stage-The-Intimate-Sessions/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452010",
-          "title": "Cory Wong & Metropole Orkest",
-          "start": "2026-06-17T20:30:00+02:00",
-          "end": "2026-06-17T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Legendarische Amerikaanse funk-/jazzgitarist - De Amerikaanse funk-/jazzgitarist Cory Wong is een muzikaal talent van Prince-achtige proporties. Behalve zijn vaardigheden deelt hij zijn oneindige werklust met het paarse genie: Wong was/is verbonden aan de bands Vulfpeck en Fearless Flyers, maar…",
-          "url": "https://www.podiuminfo.nl/concert/452010/Cory-Wong-Metropole-Orkest/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "479500",
           "title": "ULTRAJAZZ x TivoliVredenburg",
           "start": "2026-06-18",
@@ -1488,6 +1442,36 @@
           "description": "Rosa’s propaganda brengt duistere, industriële protestpop met goth- en metalinvloeden. Samen met haar band en 'The Choir of Liars' presenteert ze een complexe en politiek geladen liveshow die thema's als macht, gehoorzaamheid en verzet verkent. De show, die door 3voor12 Utrecht wordt omschreven als…",
           "url": "https://www.podiuminfo.nl/concert/457718/Rosas-propaganda/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "479520",
+          "title": "Ultrajazz: Fenne Scholte Trio & Jadi Peperzak Kwartet",
+          "start": "2026-06-24T20:00:00+02:00",
+          "end": "2026-06-24T21:00:00.000Z",
+          "location": "Muziekhuis, Loevenhoutsedijk 301, Utrecht",
+          "description": "Dit gratis concert presenteert een 'double bill' in Het Muziekhuis Utrecht. Het Fenne Scholte Trio creëert intieme en doorleefde liedjes met drie gitaren en stemmen, resulterend in rijke, dromerige klanklandschappen. Jadi Peperzak Kwartet, onder leiding van gitarist Jadi Peperzak, presenteert een…",
+          "url": "https://www.podiuminfo.nl/concert/479520/Ultrajazz-Fenne-Scholte-Trio-Jadi-Peperzak-Kwartet/Muziekhuis/",
+          "tags": []
+        },
+        {
+          "id": "453526",
+          "title": "The B-52's",
+          "start": "2026-06-25T20:00:00+02:00",
+          "end": "2026-06-25T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "The B-52's, vijftig jaar na hun oprichting, blijven de titel 'The World’s Greatest Party Band' eer aan doen. Het eclectische Amerikaanse gezelschap brak door met hun unieke mix van surfrock, kitsch en new wave, met hits als 'Rock Lobster' en 'Planet Claire'. Met hun opvallende outfits, pruiken en…",
+          "url": "https://www.podiuminfo.nl/concert/453526/The-B-52s/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "456890",
+          "title": "The Wailers",
+          "start": "2026-06-26T20:30:00+02:00",
+          "end": "2026-06-26T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De legendarische band The Wailers houdt de geest van de 'King of Reggae' Bob Marley levend. Deze tour viert het 50-jarig jubileum van hun achtste album, Rastaman Vibration (1976), dat klassiekers als 'Positive Vibration', 'War' en 'Roots, Rock, Reggae' bevat. De verbindende boodschap van deze…",
+          "url": "https://www.podiuminfo.nl/concert/456890/The-Wailers/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1498,86 +1482,6 @@
       "icon": "🎲",
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
-        {
-          "id": "599183",
-          "title": "CBR+PNK: Adspace Holepunch (beginner friendly, lottery sign-up)",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "CBR+PNK: Adspace Holepunch (beginner friendly, lottery sign-up) Wed 17/6 7-10pm at Subcultures @De Bierkantine English, CBR+PNK Written by Emanoel Melo In CBR+PNK (Cyber plus Punk) you play as a team of RUNNERS—mercs, criminals, activists living on the edge and running in the shadows of a gritty,…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/3420f795-ba73-4f79-84ce-d2d4a676d301",
-          "tags": []
-        },
-        {
-          "id": "598164",
-          "title": "D&D 5.5e: Dark Matter \"Welding\"",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "D&amp;D 5.5e: Dark Matter \"Welding\" Wed 17/6 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter campaign which…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/4bc43ef4-4bdb-4a60-afd8-521adf92d18c",
-          "tags": []
-        },
-        {
-          "id": "597423",
-          "title": "Blades in the Dark – Sandmen",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Blades in the Dark – Sandmen Wed 17/6 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/8d0a2bd5-02e9-4534-91a8-de9f9db8e963",
-          "tags": []
-        },
-        {
-          "id": "598172",
-          "title": "PFS2 Quest#14: The Swordlord’s Challenge (Beginner friendly, living campaign, pride month)",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "PFS2 Quest#14: The Swordlord’s Challenge (Beginner friendly, living campaign, pride month) Wed 17/6 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by Tineke Bolleman An Aldori…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/e6397938-6406-4910-bab1-e8f969205dca",
-          "tags": []
-        },
-        {
-          "id": "599132",
-          "title": "Heroes of Cerulea - Beginner Friendly 8-bit ttrpg",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T23:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Heroes of Cerulea - Beginner Friendly 8-bit ttrpg Wed 17/6 7-11pm at Subcultures @Silver Heron Studios English, Heroes of Cerulea Written by Lucas Falk Heroes of Cerulea is an adventure tabletop role-playing game where you explore dungeons, fight monsters, solve puzzles, gather keys, find new…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/d8bf0177-9535-4bb5-bc02-9c98e3e32ea4",
-          "tags": []
-        },
-        {
-          "id": "598320",
-          "title": "Spaceguts",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T23:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Spaceguts Wed 17/6 7-11pm at Subcultures @Silver Heron Studios English, Spaceguts Written by Peter Klijn Spaceguts is a weird sci-fi game where you play surgeon-engineers fixing sentient spacevessels. You have sworn a medical oath to keep the vessels alive and you’re free to shake hands with the…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/1d48e565-97db-4da6-b866-3b72cc7c1373",
-          "tags": []
-        },
-        {
-          "id": "598327",
-          "title": "Wanderhome - The Moongazers",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T23:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - The Moongazers Wed 17/6 7-11pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy fields,…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/1272811e-1b32-4acf-bf9d-b7460b0776eb",
-          "tags": []
-        },
-        {
-          "id": "598328",
-          "title": "Wanderhome - the boy in the castle (beginner friendly!)",
-          "start": "2026-06-17T19:00:00+02:00",
-          "end": "2026-06-17T23:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - the boy in the castle (beginner friendly!) Wed 17/6 7-11pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/66e9b20a-9a65-40e3-9a5d-1640133b3d94",
-          "tags": []
-        },
         {
           "id": "599156",
           "title": "Big Gay Orcs",
@@ -1654,48 +1558,6 @@
             "Skaten",
             "Terras",
             "Verhoogd geluidslimiet"
-          ]
-        },
-        {
-          "id": "beton-salsa-nights-elke-woensdag-40",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-06-17T00:00:00+02:00",
-          "end": "2026-06-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-40/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-canal-do-samba",
-          "title": "Canal Do Samba",
-          "start": "2026-06-17T00:00:00+02:00",
-          "end": "2026-06-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/canal-do-samba/",
-          "tags": [
-            "Dans",
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-lievens-bike-fietsclub",
-          "title": "Lievens Bike Fietsclub",
-          "start": "2026-06-18T00:00:00+02:00",
-          "end": "2026-06-18T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/lievens-bike-fietsclub/",
-          "tags": [
-            "Sport",
-            "Kantine"
           ]
         },
         {
@@ -1802,6 +1664,26 @@
       "icon": "✊",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260818-eectronic-open-stage-21",
+          "title": "EECtronic open stage",
+          "start": "2026-08-18T00:00:00+02:00",
+          "end": "2026-08-18T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "August 18th. For all your EECtronic experiments. Buildup starts at 19:00. The bar is open at: 19:00 We start playing around 20:00 – 20:30. We do generally not use the stage. Half a circle of tables is set up on the floor. If you arrive at 19:00 you can claim a spot and have roughly...",
+          "url": "https://acu.nl/events/20260818/eectronic-open-stage-21",
+          "tags": []
+        },
+        {
+          "id": "acu-20260723-nest-in-de-zeik-album-release",
+          "title": "NEST: In de Zeik EP RELEASE",
+          "start": "2026-07-23T00:00:00+02:00",
+          "end": "2026-07-23T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "July 23rd. SUPPORTS: WABR + THOR KISSING . Who gave these five idiots instruments to play? And why are these songs so catchy, yet so angry? NEST is a scrapbook of frustration with Dutch lyrics that’ll have you crying and music that will have you flying (over the dance floor). They take everything…",
+          "url": "https://acu.nl/events/20260723/nest-in-de-zeik-album-release",
+          "tags": []
+        },
         {
           "id": "acu-20260715-acu-pq-july2026",
           "title": "ACU Pub Quiz | July",

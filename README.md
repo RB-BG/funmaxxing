@@ -1,10 +1,9 @@
 # funmaxxing
 
 Een speelse event-kiezer met **scenes** waartussen je schakelt: Utrechtse podia
-(concerten, clubnachten, RPG-avonden) en **Buhurt Europe** (geharnaste toernooien en
-fight nights door heel Europa). Selecteer events en exporteer ze als `.ics` of voeg ze
-toe aan Google Agenda. Per scene een eigen filter: Utrecht op interesse (Game/D&B/00s),
-Buhurt op land.
+(concerten, clubnachten), **Spellen & Games** (Magic, Warhammer, tabletop RPG) en
+**Buhurt Europe** (geharnaste toernooien en fight nights). Selecteer events en exporteer
+ze als `.ics` of voeg ze toe aan Google Agenda. Per scene een eigen filter en skin.
 
 ## Hoe het werkt
 
@@ -92,7 +91,16 @@ npm run scrape    # haal verse events op en schrijf public/events.json
 
 EKKO en TivoliVredenburg zijn JS-rendered (geen eigen feed beschikbaar), daarom via Podiuminfo.
 NAR heeft momenteel geen events op Podiuminfo; pikt automatisch op zodra ze publiceren.
-Naast Utrecht is er een **Buhurt Europe**-scene (zie [docs/CONTENT.md](docs/CONTENT.md)).
+
+### Spellen & Games-scene
+
+| Venue | Bron | Link |
+|---|---|---|
+| RPG Night Utrecht | Warhorn Atom feed | warhorn.net |
+| Lab Monkey | WooCommerce RSS + titel-datumparser | eigen site |
+| Casual Carnage | WordPress REST API (`/wp-json/wp/v2/evge_event`) | eigen site |
+
+Naast Utrecht en Spellen is er een **Buhurt Europe**-scene (zie [docs/CONTENT.md](docs/CONTENT.md)).
 
 ### Onderzochte venues die niet zijn toegevoegd
 

@@ -41,12 +41,27 @@ export const SOURCES: Omit<Source, "events">[] = [
     icon: "🎵",
     feedUrl: "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
   },
+  // Games scene
   {
     id: "rpg-night-utrecht",
     name: "RPG Night Utrecht",
     color: "#6366f1",
     icon: "🎲",
     feedUrl: "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+  },
+  {
+    id: "lab-monkey",
+    name: "Lab Monkey",
+    color: "#16a34a",
+    icon: "🃏",
+    feedUrl: "https://www.lab-monkey.nl/product-categorie/magic_events/magic_event_prerelease/?feed=rss2",
+  },
+  {
+    id: "casual-carnage",
+    name: "Casual Carnage",
+    color: "#c2410c",
+    icon: "🎯",
+    feedUrl: "https://www.casualcarnage.nl/wp-json/wp/v2/evge_event",
   },
   {
     id: "beton-t",

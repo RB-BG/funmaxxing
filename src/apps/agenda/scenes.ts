@@ -30,6 +30,15 @@ export const SCENES: SceneDef[] = [
     facetLabel: (f) => (f in FILTER_META ? FILTER_META[f as keyof typeof FILTER_META].label : f),
   },
   {
+    id: "games",
+    name: "Spellen",
+    titleLines: ["SPELLEN", "& GAMES"],
+    tagline: "Magic, Warhammer, tabletop RPG en meer rond Utrecht.",
+    skin: { accent: "#d97706", accent2: "#6366f1" },
+    facetsOf: (e) => [e.source.name],
+    facetLabel: (f) => f,
+  },
+  {
     id: "buhurt",
     name: "Buhurt EU",
     titleLines: ["BUHURT", "EUROPE"],

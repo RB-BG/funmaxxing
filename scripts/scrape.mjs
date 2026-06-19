@@ -13,7 +13,9 @@ const VENUES = [
   { id: 'de-helling',        name: 'De Helling',            color: '#22c55e', icon: '🟢', scene: 'utrecht', type: 'helling',    feedUrl: 'https://dehelling.nl/agenda' },
   { id: 'nar-utrecht',       name: 'NAR Café der Kunsten',  color: '#a855f7', icon: '🟣', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/' },
   { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
-  { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', scene: 'utrecht', type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
+  { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', scene: 'games',   type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
+  { id: 'lab-monkey',        name: 'Lab Monkey',            color: '#16a34a', icon: '🃏', scene: 'games',   type: 'lab-monkey',     feedUrl: 'https://www.lab-monkey.nl/product-categorie/magic_events/magic_event_prerelease/?feed=rss2' },
+  { id: 'casual-carnage',    name: 'Casual Carnage',        color: '#c2410c', icon: '🎯', scene: 'games',   type: 'casual-carnage', feedUrl: 'https://www.casualcarnage.nl/wp-json/wp/v2/evge_event' },
   { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  scene: 'utrecht', type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
   { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   scene: 'utrecht', type: 'acu',       feedUrl: 'https://acu.nl/events/feed/' },
   { id: 'basis-utrecht',     name: 'BASIS',                 color: '#14b8a6', icon: '🔊', scene: 'utrecht', type: 'ical',      feedUrl: 'https://clubbasis.nl/events/?ical=1' },
@@ -140,6 +142,111 @@ async function scrapeWarhorn(venue) {
       description: truncate(stripHtml(decodeXml(rawContent))),
       url,
       tags: [],
+    })
+  }
+
+  return events
+}
+
+/** Lab Monkey (Utrecht): Magic events via WooCommerce RSS. Dates live in product titles. */
+async function scrapeLabMonkey(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const xml = await res.text()
+
+  const now = new Date()
+  const events = []
+
+  for (const [, item] of xml.matchAll(/<item>([\s\S]*?)<\/item>/g)) {
+    const title = decodeXml(stripCdata(item.match(/<title>([\s\S]*?)<\/title>/)?.[1] ?? '')).trim()
+    const url = decodeXml(stripCdata(item.match(/<link>([\s\S]*?)<\/link>/)?.[1] ?? '')).trim()
+    if (!title || !url) continue
+
+    // Date is embedded in the product title: "Prerelease Ticket - Zondag 21-06- 11:00 - …"
+    // Pattern captures DD-MM and HH:MM, with an optional trailing dash before the time.
+    const m = title.match(/(\d{1,2})-(\d{2})-?\s*(\d{1,2}):(\d{2})/)
+    if (!m) continue
+
+    const day = parseInt(m[1]), month = parseInt(m[2])
+    const hour = parseInt(m[3]), min = m[4]
+    if (month < 1 || month > 12 || day < 1 || day > 31) continue
+
+    // Infer year: use next year if the date is already in the past.
+    let year = now.getFullYear()
+    if (new Date(year, month - 1, day) < now) year++
+
+    const pad = (n) => String(n).padStart(2, '0')
+    const tz = (month >= 4 && month <= 9) ? '+02:00' : '+01:00'
+    const start = `${year}-${pad(month)}-${pad(day)}T${pad(hour)}:${min}:00${tz}`
+
+    const slug = url.split('/').filter(Boolean).pop() ?? url
+    events.push({
+      id: `labmonkey-${slug}`,
+      title,
+      start,
+      end: addHours(start, 4),
+      location: 'Lab Monkey, Lange Viestraat 2B, Utrecht',
+      description: '',
+      url,
+      tags: ['Magic'],
+    })
+  }
+
+  return events
+}
+
+/** Casual Carnage (Warhammer/tabletop in Utrecht): WP REST API.
+ *  Date comes from the event title ("Casual Carnage: August 8th");
+ *  start time from content ("First game start: HH.MM"). */
+async function scrapeCasualCarnage(venue) {
+  const res = await fetch(`${venue.feedUrl}?per_page=20&status=publish`, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const items = await res.json()
+  if (!Array.isArray(items)) throw new Error('Unexpected response format')
+
+  const now = new Date()
+  const events = []
+
+  for (const item of items) {
+    const title = stripHtml(item.title?.rendered ?? '').trim()
+    const url = item.link ?? ''
+    if (!title || !url) continue
+
+    // Date in title: "Casual Carnage: August 8th"
+    const dm = title.match(/:\s+([A-Za-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?/i)
+    if (!dm) continue
+
+    const month = EN_MONTHS[dm[1].toLowerCase()]
+    if (!month) continue
+    const day = parseInt(dm[2])
+
+    // Infer year: use next year if the month/day is already past.
+    let year = now.getFullYear()
+    if (new Date(year, month - 1, day) < now) year++
+
+    const content = item.content?.rendered ?? ''
+    // Start time from content: "First game start: 11.15" (uses dots)
+    const tm = content.match(/First game start[^:]*:\s*(\d{1,2})[.:](\d{2})/i)
+    const sh = tm ? parseInt(tm[1]) : 11
+    const sm = tm ? tm[2] : '00'
+
+    const pad = (n) => String(n).padStart(2, '0')
+    const tz = (month >= 4 && month <= 9) ? '+02:00' : '+01:00'
+    const start = `${year}-${pad(month)}-${pad(day)}T${pad(sh)}:${sm}:00${tz}`
+
+    events.push({
+      id: `casualcarnage-${item.id}`,
+      title,
+      start,
+      end: addHours(start, 9),
+      location: 'Silver Heron Studios, Utrecht',
+      description: '',
+      url,
+      tags: ['Warhammer'],
     })
   }
 
@@ -516,6 +623,8 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'soia')          events = await scrapeSoia(venue)
     else if (venue.type === 'buhurt-wob')    events = await scrapeWob(venue)
     else if (venue.type === 'buhurt-manual') events = await scrapeManualBuhurt(venue)
+    else if (venue.type === 'lab-monkey')    events = await scrapeLabMonkey(venue)
+    else if (venue.type === 'casual-carnage') events = await scrapeCasualCarnage(venue)
     else events = await scrapePodiuminfo(venue)
     console.log(`${events.length} events`)
     return events

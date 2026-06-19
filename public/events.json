@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T06:48:21.662Z",
+  "updatedAt": "2026-06-19T09:14:08.493Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -631,6 +631,16 @@
           "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
           "description": "Diep In De Groef is een terugkerende clubavond op vrijdag in EKKO, die zich profileert als een muzikaal alternatief met een steeds wisselende maar vertrouwde sfeer. Bezoekers kunnen de hele nacht dansen op een eclectische mix van nieuwe ontdekkingen, bekende clubhits en vergeten geluiden. De muziek…",
           "url": "https://www.podiuminfo.nl/concert/477872/Diep-In-De-Groef/EKKO/",
+          "tags": []
+        },
+        {
+          "id": "460649",
+          "title": "Prostitute",
+          "start": "2026-08-28T20:00:00+02:00",
+          "end": "2026-08-28T21:00:00.000Z",
+          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
+          "description": "Prostitute, een experimentele postpunk- en noiserockband uit Michigan, staat bekend om hun compromisloze geluid en intense liveshows. De band creëert een rauw en hypnotiserend geluid dat zowel chaotisch als doordacht is, met invloeden uit Arabische muziek, industrial en noise. Ze speelden eerder al…",
+          "url": "https://www.podiuminfo.nl/concert/460649/Prostitute/EKKO/",
           "tags": []
         }
       ]
@@ -1479,7 +1489,7 @@
       "name": "RPG Night Utrecht",
       "color": "#6366f1",
       "icon": "🎲",
-      "scene": "utrecht",
+      "scene": "games",
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
@@ -1685,6 +1695,98 @@
       ]
     },
     {
+      "id": "lab-monkey",
+      "name": "Lab Monkey",
+      "color": "#16a34a",
+      "icon": "🃏",
+      "scene": "games",
+      "feedUrl": "https://www.lab-monkey.nl/product-categorie/magic_events/magic_event_prerelease/?feed=rss2",
+      "events": [
+        {
+          "id": "labmonkey-prerelease-zondag",
+          "title": "Prerelease Ticket – Zondag 21-06- 11:00 – 1v1 – Marvel",
+          "start": "2026-06-21T11:00:00+02:00",
+          "end": "2026-06-21T13:00:00.000Z",
+          "location": "Lab Monkey, Lange Viestraat 2B, Utrecht",
+          "description": "",
+          "url": "https://www.lab-monkey.nl/product/prerelease-zondag/",
+          "tags": [
+            "Magic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "casual-carnage",
+      "name": "Casual Carnage",
+      "color": "#c2410c",
+      "icon": "🎯",
+      "scene": "games",
+      "feedUrl": "https://www.casualcarnage.nl/wp-json/wp/v2/evge_event",
+      "events": [
+        {
+          "id": "casualcarnage-241",
+          "title": "Casual Carnage: August 8th",
+          "start": "2026-08-08T11:15:00+02:00",
+          "end": "2026-08-08T18:15:00.000Z",
+          "location": "Silver Heron Studios, Utrecht",
+          "description": "",
+          "url": "https://www.casualcarnage.nl/event/casual-carnage-august-8th/",
+          "tags": [
+            "Warhammer"
+          ]
+        },
+        {
+          "id": "casualcarnage-238",
+          "title": "Casual Carnage: July 11th",
+          "start": "2026-07-11T11:15:00+02:00",
+          "end": "2026-07-11T18:15:00.000Z",
+          "location": "Silver Heron Studios, Utrecht",
+          "description": "",
+          "url": "https://www.casualcarnage.nl/event/casual-carnage-july-11th/",
+          "tags": [
+            "Warhammer"
+          ]
+        },
+        {
+          "id": "casualcarnage-119",
+          "title": "Casual Carnage: June 27th",
+          "start": "2026-06-27T11:15:00+02:00",
+          "end": "2026-06-27T18:15:00.000Z",
+          "location": "Silver Heron Studios, Utrecht",
+          "description": "",
+          "url": "https://www.casualcarnage.nl/event/casual-carnage-june-27th/",
+          "tags": [
+            "Warhammer"
+          ]
+        },
+        {
+          "id": "casualcarnage-118",
+          "title": "Casual Carnage: May 16th",
+          "start": "2027-05-16T11:15:00+02:00",
+          "end": "2027-05-16T18:15:00.000Z",
+          "location": "Silver Heron Studios, Utrecht",
+          "description": "",
+          "url": "https://www.casualcarnage.nl/event/casual-carnage-may-16th/",
+          "tags": [
+            "Warhammer"
+          ]
+        },
+        {
+          "id": "casualcarnage-101",
+          "title": "Casual Carnage: April 18th",
+          "start": "2027-04-18T11:15:00+02:00",
+          "end": "2027-04-18T18:15:00.000Z",
+          "location": "Silver Heron Studios, Utrecht",
+          "description": "",
+          "url": "https://www.casualcarnage.nl/event/casual-carnage-april-18th/",
+          "tags": [
+            "Warhammer"
+          ]
+        }
+      ]
+    },
+    {
       "id": "beton-t",
       "name": "Beton-T",
       "color": "#f97316",
@@ -1709,6 +1811,19 @@
             "Skaten",
             "Terras",
             "Verhoogd geluidslimiet"
+          ]
+        },
+        {
+          "id": "beton-workshop-useless-machine-creatiehallen",
+          "title": "Workshop Useless Machine – Creatiehallen",
+          "start": "2026-06-19T00:00:00+02:00",
+          "end": "2026-06-19T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/workshop-useless-machine-creatiehallen/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
           ]
         },
         {
@@ -1818,6 +1933,19 @@
           "tags": [
             "Muziek",
             "Kantine"
+          ]
+        },
+        {
+          "id": "beton-workshop-useless-machine-creatiehallen-2",
+          "title": "Workshop Useless Machine – Creatiehallen",
+          "start": "2026-06-26T00:00:00+02:00",
+          "end": "2026-06-26T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/workshop-useless-machine-creatiehallen-2/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
           ]
         }
       ]

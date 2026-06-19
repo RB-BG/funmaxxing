@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T12:35:15.431Z",
+  "updatedAt": "2026-06-19T06:48:21.662Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,16 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001038",
-          "title": "DAAN",
-          "start": "2026-06-18T20:00:00+02:00",
-          "end": "2026-06-18T23:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "DAAN maakt gedurfde Nederlandstalige alternatieve popmuziek met beeldende teksten die zowel kunnen schuren als troosten. Haar nummers zijn explosief en verfijnd, kwetsbaar en krachtig tegelijk en ze bewegen moeiteloos tussen deze uitersten. In ‘Vrije Val‘ neemt ze je mee in het moment waarop…",
-          "url": "https://dbstudio.nl/event/daan/",
-          "tags": []
-        },
         {
           "id": "10001070",
           "title": "WK Voetbal Zweden - Nederland",
@@ -398,6 +388,20 @@
           "tags": [
             "Psychedelic"
           ]
+        },
+        {
+          "id": "10000990",
+          "title": "LUNA KILLS (Fin) ism TivoliVredenburg",
+          "start": "2026-08-08T20:00:00+02:00",
+          "end": "2026-08-08T22:30:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "debuutalbum Deathmatch (2025) klinkt nog het meest als de soundtrack van een dystopische videogame!\nIN 2025 al te zien op ESNS en volgens insiders een band om in de gaten te houden. Nu gaan zien in een kleine zaal voor het beste effect.",
+          "url": "https://dbstudio.nl/event/luna-kills-fin-ism-tivolivredenburg/",
+          "tags": [
+            "Concert",
+            "Electronics",
+            "Metal"
+          ]
         }
       ]
     },
@@ -409,16 +413,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/",
       "events": [
-        {
-          "id": "472509",
-          "title": "BUS 12",
-          "start": "2026-06-18T23:00:00+02:00",
-          "end": "2026-06-19T00:00:00.000Z",
-          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
-          "description": "BUS 12 biedt elke donderdag in EKKO een avond vol verfrissende hits en nieuwe muzikale ontdekkingen. Deze clubnacht haalt bezoekers op voor een reis langs diverse muzikale haltes en verrassende hit-trajecten. Met een ervaren buschauffeur aan het stuur wordt een memorabele reis beloofd, die soms een…",
-          "url": "https://www.podiuminfo.nl/concert/472509/BUS-12/EKKO/",
-          "tags": []
-        },
         {
           "id": "462706",
           "title": "Oxis",
@@ -649,16 +643,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-open-clawless-18-06-2026",
-          "title": "OPEN CLAWLESS",
-          "start": "2026-06-18T20:00:00+02:00",
-          "end": "2026-06-18T23:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Queer & female-friendly avond voor iedereen die zich ‘s nachts wel eens onveilig voelt ",
-          "url": "https://dehelling.nl/agenda/open-clawless-18-06-2026/",
-          "tags": []
-        },
         {
           "id": "helling-terug-in-de-tijd-19-06-2026",
           "title": "Terug in de Tijd",
@@ -1249,26 +1233,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "479500",
-          "title": "ULTRAJAZZ x TivoliVredenburg",
-          "start": "2026-06-18",
-          "end": "2026-06-18T03:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De donderdagavonden op Rabo Open Stage staan in het teken van jazz, talentontwikkeling en muzikale ontmoeting. Onder de vlag van ULTRAJAZZ organiseren Kika Sprangers en Bob Roos om de week bruisende jamsessies. Elke sessie vangt aan met een krachtige openingsset van een uur, waarin de host telkens…",
-          "url": "https://www.podiuminfo.nl/concert/479500/ULTRAJAZZ-x-TivoliVredenburg/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452756",
-          "title": "Jontavious Willis",
-          "start": "2026-06-18T20:30:00+02:00",
-          "end": "2026-06-18T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse bluesman Jontavious Willis blaast de vooroorlogse, akoestische blues nieuw leven in. Nu zijn er meer artiesten die dat doen, maar Willis is ‘the real deal’ – al bij zijn eerste zangnoten is het duidelijk dat er een oude ziel in zijn jonge lichaam huist. Willis, die de legendarische…",
-          "url": "https://www.podiuminfo.nl/concert/452756/Jontavious-Willis/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "476087",
           "title": "Iris Jenster Group - Lunchconcert Jazz",
           "start": "2026-06-19T12:30:00+02:00",
@@ -1487,6 +1451,26 @@
           "description": "De legendarische band The Wailers houdt de geest van de 'King of Reggae' Bob Marley levend. Deze tour viert het 50-jarig jubileum van hun achtste album, Rastaman Vibration (1976), dat klassiekers als 'Positive Vibration', 'War' en 'Roots, Rock, Reggae' bevat. De verbindende boodschap van deze…",
           "url": "https://www.podiuminfo.nl/concert/456890/The-Wailers/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "477420",
+          "title": "Rabo Open Stage: BothWorlds",
+          "start": "2026-06-26T22:30:00+02:00",
+          "end": "2026-06-26T23:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Rabo Open Stage presenteert BothWorlds, een indiefolk duo uit Nashville. De band, geleid door Eva Busacker Arnby en Ben Becker, staat bekend om het vervagen van genregrenzen. Na de lancering van hun debuutsingle dit voorjaar, bereiden BothWorlds zich voor op een tour door Europa. Ze presenteren een…",
+          "url": "https://www.podiuminfo.nl/concert/477420/Rabo-Open-Stage-BothWorlds/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "458157",
+          "title": "Dekoor Close Harmony - Heb Ik Dat Nodig?",
+          "start": "2026-06-27T20:00:00+02:00",
+          "end": "2026-06-27T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Dekoor Close Harmony presenteert 'Heb Ik Dat Nodig?', een meeslepende koormuziekvoorstelling in samenwerking met muzikant en geluidskunstenaar De Machinefabriek. Deze show, die jazz, pop, klassiek, gospel en wereldmuziek via elektronische intermezzo's verbindt, vertelt een aangrijpend verhaal over…",
+          "url": "https://www.podiuminfo.nl/concert/458157/Dekoor-Close-Harmony-Heb-Ik-Dat-Nodig-/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1569,6 +1553,16 @@
           "tags": []
         },
         {
+          "id": "599599",
+          "title": "EIDOLON: Become Your Best Self [One-Shot]",
+          "start": "2026-07-01T19:00:00+02:00",
+          "end": "2026-07-01T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "EIDOLON: Become Your Best Self [One-Shot] Wed 1/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Molly Rhinebeck and Luke Varner EIDOLON: Become Your Best Self is a tabletop RPG where you look deep inside yourself to find the power lying dormant within, nourish that power…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/671a9ffd-909e-4401-b872-e1e363ee3e2a",
+          "tags": []
+        },
+        {
           "id": "599595",
           "title": "Blades in the Dark - Sandmen [Beginner-friendly]",
           "start": "2026-07-01T19:00:00+02:00",
@@ -1576,6 +1570,66 @@
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Blades in the Dark - Sandmen [Beginner-friendly] Wed 1/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a6cd0972-44d0-4236-ac0a-9fcdbf600a46",
+          "tags": []
+        },
+        {
+          "id": "599620",
+          "title": "Crash Pandas (beginner friendly)",
+          "start": "2026-07-01T19:00:00+02:00",
+          "end": "2026-07-01T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Crash Pandas (beginner friendly) Wed 1/7 7-10pm at Subcultures @De Bierkantine English, Crash Pandas In this indie racing RPG one-shot, take on the role of a group of small raccoons who must work together to drive a racecar and win street races! Together, you must use your small raccoon selves to…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a6748e6c-6e23-455c-9076-8176865a51ca",
+          "tags": []
+        },
+        {
+          "id": "599638",
+          "title": "PF2: Cleanup Duty and Hillcross Roundup [Beginner-friendly]",
+          "start": "2026-07-01T19:00:00+02:00",
+          "end": "2026-07-01T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "PF2: Cleanup Duty and Hillcross Roundup [Beginner-friendly] Wed 1/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Elizabeth V Nold A time-displaced alchemist hires the PCs to clear…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/bffa2692-af84-4164-876d-0c645d08777f",
+          "tags": []
+        },
+        {
+          "id": "599601",
+          "title": "Star Wars - Edge of the Empire",
+          "start": "2026-07-01T19:00:00+02:00",
+          "end": "2026-07-01T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Star Wars - Edge of the Empire Wed 1/7 7-10pm at Subcultures @De Bierkantine English, Star Wars: Edge of the Empire Participate in grim and gritty adventures in places where morality is gray and nothing is certain. Ply your trade as a smuggler in the Outer Rim, collect bounties on the scum that…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/06d45e45-eaa3-4bf2-ac3e-8805ae0a7f91",
+          "tags": []
+        },
+        {
+          "id": "599664",
+          "title": "Wanderhome - the shaded hallow (beginner friendly!)",
+          "start": "2026-07-01T19:00:00+02:00",
+          "end": "2026-07-01T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - the shaded hallow (beginner friendly!) Wed 1/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/55ef8635-6ac0-4640-a8e1-1d9328307e0a",
+          "tags": []
+        },
+        {
+          "id": "599662",
+          "title": "Wanderhome - The Silkweavers",
+          "start": "2026-07-01T19:00:00+02:00",
+          "end": "2026-07-01T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - The Silkweavers Wed 1/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy fields,…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/79ba9bfb-0c18-4975-a0d2-c32c521e3697",
+          "tags": []
+        },
+        {
+          "id": "599642",
+          "title": "Heart - The City Beneath",
+          "start": "2026-07-08T19:00:00+02:00",
+          "end": "2026-07-08T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Heart - The City Beneath Wed 8/7 7-10pm at Subcultures @De Bierkantine English, Heart: The City Beneath RPG Heart: The City Beneath is a tabletop roleplaying game about delving into a nightmare undercity that will give you everything you've ever dreamed of or kill you in the process. It is a…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a10860e9-d75c-4280-9b64-f87f8b43c472",
           "tags": []
         },
         {
@@ -1589,13 +1643,43 @@
           "tags": []
         },
         {
+          "id": "599629",
+          "title": "PF2: Treasure off the Coast and Fishing in Anthusis [Beginner-friendly]",
+          "start": "2026-07-15T19:00:00+02:00",
+          "end": "2026-07-15T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "PF2: Treasure off the Coast and Fishing in Anthusis [Beginner-friendly] Wed 15/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Brent Bowser A former slave seeks to reclaim a life’s…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/935fff91-b588-4a14-bcfe-4bb0cdef08a9",
+          "tags": []
+        },
+        {
           "id": "599597",
-          "title": "Indie RPG - Blades in the Dark",
+          "title": "Blades in the Dark - Sandmen [Beginner-friendly]",
           "start": "2026-07-22T19:00:00+02:00",
           "end": "2026-07-22T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Indie RPG - Blades in the Dark Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases,…",
+          "description": "Blades in the Dark - Sandmen [Beginner-friendly] Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/cc9a355e-b4bd-4d46-99ce-d20597dc9a50",
+          "tags": []
+        },
+        {
+          "id": "599598",
+          "title": "Blades in the Dark - Sandmen [Beginner-friendly]",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Blades in the Dark - Sandmen [Beginner-friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/818a15b9-2ee4-42d5-9f5e-79f644bc0d27",
+          "tags": []
+        },
+        {
+          "id": "599630",
+          "title": "PFS2: Port Peril Pub Crawl [Beginner-friendly]",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "PFS2: Port Peril Pub Crawl [Beginner-friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by James Case Venture-Captain Calisro Benarry has arranged for the PC’s…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/09ec8453-f786-401c-94bf-2c7092978f9c",
           "tags": []
         }
       ]
@@ -1625,32 +1709,6 @@
             "Skaten",
             "Terras",
             "Verhoogd geluidslimiet"
-          ]
-        },
-        {
-          "id": "beton-lievens-bike-fietsclub",
-          "title": "Lievens Bike Fietsclub",
-          "start": "2026-06-18T00:00:00+02:00",
-          "end": "2026-06-18T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/lievens-bike-fietsclub/",
-          "tags": [
-            "Sport",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-workshop-useless-machine-creatiehallen",
-          "title": "Workshop Useless Machine – Creatiehallen",
-          "start": "2026-06-19T00:00:00+02:00",
-          "end": "2026-06-19T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/workshop-useless-machine-creatiehallen/",
-          "tags": [
-            "Workshop",
-            "Vechtclub Keiland"
           ]
         },
         {
@@ -1748,6 +1806,19 @@
             "Muziek",
             "Workshop"
           ]
+        },
+        {
+          "id": "beton-mediamart-barely-working-album-release",
+          "title": "Mediamart ‘Barely Working’ Album Release",
+          "start": "2026-06-26T00:00:00+02:00",
+          "end": "2026-06-26T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/mediamart-barely-working-album-release/",
+          "tags": [
+            "Muziek",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -1815,7 +1886,7 @@
           "start": "2026-07-02T00:00:00+02:00",
           "end": "2026-07-02T00:00:00+02:00",
           "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 2nd. MiMi ar Capricious, schoco mune, Vinnieragua's One Man Acid Band, Cen-Z, Ignore all previous instructions, Dj 9 to 5, Screaming into the void, The void screams back, You yes all of you. . 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾 ⚠️STROBE, NOISE AND HIGH…",
+          "description": "July 2nd. MiMi ar Capricious, schoco mune, Vinnieragua's One Man Acid Band, StöRenFrieD, Cen-Z, Ignore all previous instructions, Dj 9 to 5, Screaming into the void, The void screams back, You yes all of you. . 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾 ⚠️STROBE, NOISE…",
           "url": "https://acu.nl/events/20260702/hars-noise-meeting-noise-in-acu",
           "tags": []
         }
@@ -2052,6 +2123,18 @@
           "tags": [
             "House",
             "Trance"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001489-1788649200-1788674400",
+          "title": "BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH",
+          "start": "2026-09-05T23:00:00+02:00",
+          "end": "2026-09-06T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-anouque-cybersex-dj-horde-dj-sportschuh/",
+          "tags": [
+            "Speed House"
           ]
         },
         {

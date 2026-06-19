@@ -77,6 +77,35 @@ export const SOURCES: Omit<Source, "events">[] = [
     icon: "🎯",
     feedUrl: "https://www.casualcarnage.nl/wp-json/wp/v2/evge_event",
   },
+  // Beurzen scene
+  {
+    id: "dcc",
+    name: "Heroes Dutch Comic Con",
+    color: "#1d4ed8",
+    icon: "🦸",
+    feedUrl: "https://www.dutchcomiccon.com/",
+  },
+  {
+    id: "spellenspektakel",
+    name: "Spellenspektakel",
+    color: "#16a34a",
+    icon: "🎲",
+    feedUrl: "https://spellenspektakel.nl/",
+  },
+  {
+    id: "abunai",
+    name: "Abunai!",
+    color: "#e11d48",
+    icon: "🌸",
+    feedUrl: "https://abunaicon.nl/",
+  },
+  {
+    id: "animecon",
+    name: "AnimeCon",
+    color: "#9333ea",
+    icon: "⛩️",
+    feedUrl: "https://animecon.nl/",
+  },
   {
     id: "beton-t",
     name: "Beton-T",

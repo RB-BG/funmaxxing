@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T10:55:29.346Z",
+  "updatedAt": "2026-06-19T11:35:27.303Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1885,6 +1885,97 @@
           "description": "P\n\nYou can bring your own games or play those brought by others. There are also dozens of games available for us at Het Lab.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for players…",
           "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/315275746/",
           "tags": []
+        }
+      ]
+    },
+    {
+      "id": "dcc",
+      "name": "Heroes Dutch Comic Con",
+      "color": "#1d4ed8",
+      "icon": "🦸",
+      "scene": "beurzen",
+      "feedUrl": "https://www.dutchcomiccon.com/",
+      "events": [
+        {
+          "id": "dcc-20260620",
+          "title": "Heroes Dutch Comic Con",
+          "start": "2026-06-20T10:00:00+02:00",
+          "end": "2026-06-21T18:00:00+02:00",
+          "location": "Jaarbeurs Utrecht, Jaarbeursplein 6, 3521 AL Utrecht",
+          "description": "Heroes Dutch Comic Con is the largest Comic Con in the Netherlands. An entertaining event full of experiences where you’ll find everything related to movies, series, comics, cosplay, games, superheroes, fantasy/science fiction and anime in form of activities, shows, panels, fanclubs, workshops and…",
+          "url": "https://www.dutchcomiccon.com",
+          "tags": [
+            "Comic Con",
+            "Pop Culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spellenspektakel",
+      "name": "Spellenspektakel",
+      "color": "#16a34a",
+      "icon": "🎲",
+      "scene": "beurzen",
+      "feedUrl": "https://spellenspektakel.nl/",
+      "events": [
+        {
+          "id": "spellenspektakel-2026",
+          "title": "Spellenspektakel 2026",
+          "start": "2026-11-07T10:00:00+01:00",
+          "end": "2026-11-08T18:00:00+01:00",
+          "location": "Jaarbeurs Utrecht",
+          "description": "Grootste bordspellenbeurs van Nederland.",
+          "url": "https://spellenspektakel.nl/",
+          "tags": [
+            "Bordspellen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abunai",
+      "name": "Abunai!",
+      "color": "#e11d48",
+      "icon": "🌸",
+      "scene": "beurzen",
+      "feedUrl": "https://abunaicon.nl/",
+      "events": [
+        {
+          "id": "abunai-2026",
+          "title": "Abunai! 2026",
+          "start": "2026-08-07T10:00:00+02:00",
+          "end": "2026-08-09T22:00:00+02:00",
+          "location": "NH Koningshof, Veldhoven",
+          "description": "Japanse anime- en mangaconventie in Veldhoven.",
+          "url": "https://abunaicon.nl/",
+          "tags": [
+            "Anime",
+            "Manga"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "animecon",
+      "name": "AnimeCon",
+      "color": "#9333ea",
+      "icon": "⛩️",
+      "scene": "beurzen",
+      "feedUrl": "https://animecon.nl/",
+      "events": [
+        {
+          "id": "animecon-2027",
+          "title": "AnimeCon 2027",
+          "start": "2027-04-16T14:00:00+02:00",
+          "end": "2027-04-19T18:00:00+02:00",
+          "location": "De Broodfabriek Expo, Rijswijk",
+          "description": "De grootste anime-conventie van Nederland.",
+          "url": "https://animecon.nl/",
+          "tags": [
+            "Anime",
+            "Manga"
+          ]
         }
       ]
     },

@@ -18,6 +18,13 @@ const VENUES = [
   { id: 'casual-carnage',    name: 'Casual Carnage',        color: '#c2410c', icon: '🎯', scene: 'games',   type: 'casual-carnage', feedUrl: 'https://www.casualcarnage.nl/wp-json/wp/v2/evge_event' },
   { id: 'ducosim',           name: 'Ducosim',               color: '#7c3aed', icon: '🎲', scene: 'games',   type: 'tribe',          feedUrl: 'https://www.ducosim.nl/wp-json/tribe/events/v1/events' },
   { id: 'weighted-dice',     name: 'Weighted Dice Utrecht', color: '#0891b2', icon: '🎯', scene: 'games',   type: 'ical',           feedUrl: 'https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/' },
+
+  // Beurzen scene (conventions & fairs)
+  { id: 'dcc',              name: 'Heroes Dutch Comic Con', color: '#1d4ed8', icon: '🦸', scene: 'beurzen', type: 'dcc',              feedUrl: 'https://www.dutchcomiccon.com/' },
+  { id: 'spellenspektakel', name: 'Spellenspektakel',       color: '#16a34a', icon: '🎲', scene: 'beurzen', type: 'spellenspektakel', feedUrl: 'https://spellenspektakel.nl/' },
+  { id: 'abunai',           name: 'Abunai!',                color: '#e11d48', icon: '🌸', scene: 'beurzen', type: 'abunai',           feedUrl: 'https://abunaicon.nl/' },
+  { id: 'animecon',         name: 'AnimeCon',               color: '#9333ea', icon: '⛩️', scene: 'beurzen', type: 'animecon',         feedUrl: 'https://animecon.nl/' },
+
   { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  scene: 'utrecht', type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
   { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   scene: 'utrecht', type: 'acu',       feedUrl: 'https://acu.nl/events/feed/' },
   { id: 'basis-utrecht',     name: 'BASIS',                 color: '#14b8a6', icon: '🔊', scene: 'utrecht', type: 'ical',      feedUrl: 'https://clubbasis.nl/events/?ical=1' },
@@ -661,6 +668,141 @@ async function scrapeWob(venue) {
   return events
 }
 
+/** Heroes Dutch Comic Con: JSON-LD Festival schema on the homepage. */
+async function scrapeDcc(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  for (const [, block] of html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)) {
+    let data
+    try { data = JSON.parse(block.trim()) } catch { continue }
+    if (data['@type'] !== 'Festival') continue
+    if (!data.startDate) continue
+
+    const fixTz = (s) => {
+      // "+2:00" → "+02:00" (single-digit hour offset in the wild)
+      s = s.replace(/([+-])(\d):(\d{2})$/, (_, sign, h, m) => `${sign}0${h}:${m}`)
+      // Add Amsterdam TZ if no offset present at all
+      if (!s.includes('Z') && !/[+-]\d{2}:\d{2}$/.test(s)) {
+        const mo = parseInt(s.slice(5, 7))
+        s += mo >= 4 && mo <= 9 ? '+02:00' : '+01:00'
+      }
+      return s
+    }
+
+    const start = fixTz(data.startDate)
+    const end   = data.endDate ? fixTz(data.endDate) : addHours(start, 32)
+
+    const loc = data.location?.name
+      ? [data.location.name, data.location.address].filter(Boolean).join(', ')
+      : 'Jaarbeurs Utrecht'
+
+    const dateTag = data.startDate.slice(0, 10).replace(/-/g, '')
+    return [{
+      id: `dcc-${dateTag}`,
+      title: data.name ?? 'Heroes Dutch Comic Con',
+      start,
+      end,
+      location: loc,
+      description: truncate(data.description ?? ''),
+      url: data.url ?? venue.feedUrl,
+      tags: ['Comic Con', 'Pop Culture'],
+    }]
+  }
+
+  return []
+}
+
+/** Spellenspektakel (board game fair, Jaarbeurs Utrecht): hardcoded — site blocks all HTTP scrapers (Cloudflare 403). Update annually. */
+async function scrapeSpellenspektakel(venue) {
+  return [
+    {
+      id: 'spellenspektakel-2026',
+      title: 'Spellenspektakel 2026',
+      start: '2026-11-07T10:00:00+01:00',
+      end:   '2026-11-08T18:00:00+01:00',
+      location: 'Jaarbeurs Utrecht',
+      description: 'Grootste bordspellenbeurs van Nederland.',
+      url: venue.feedUrl,
+      tags: ['Bordspellen'],
+    },
+  ]
+}
+
+/** Abunai! (anime convention, Veldhoven): date parsed from homepage H1 text. */
+async function scrapeAbunai(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  // "7, 8 &amp; 9 August 2026" (days-first Dutch layout, month name in English)
+  const m = html.match(/(\d{1,2}),\s*\d+\s*(?:&amp;|&)\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/)
+  if (!m) return []
+
+  const startDay = parseInt(m[1])
+  const endDay   = parseInt(m[2])
+  const month    = EN_MONTHS[m[3].toLowerCase()]
+  const year     = m[4]
+  if (!month) return []
+
+  const pad = (n) => String(n).padStart(2, '0')
+  const tz  = month >= 4 && month <= 9 ? '+02:00' : '+01:00'
+
+  return [{
+    id: `abunai-${year}`,
+    title: `Abunai! ${year}`,
+    start: `${year}-${pad(month)}-${pad(startDay)}T10:00:00${tz}`,
+    end:   `${year}-${pad(month)}-${pad(endDay)}T22:00:00${tz}`,
+    location: 'NH Koningshof, Veldhoven',
+    description: 'Japanse anime- en mangaconventie in Veldhoven.',
+    url: venue.feedUrl,
+    tags: ['Anime', 'Manga'],
+  }]
+}
+
+/** AnimeCon (anime convention, Netherlands): date from homepage text. */
+async function scrapeAnimecon(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  // "AnimeCon 2027 will start on April 16th at 14:00 CEST"
+  const startM = html.match(/AnimeCon\s+(\d{4})\s+will\s+start\s+on\s+([A-Za-z]+)\s+(\d{1,2})/)
+  if (!startM) return []
+
+  const year     = startM[1]
+  const month    = EN_MONTHS[startM[2].toLowerCase()]
+  const startDay = parseInt(startM[3])
+  if (!month) return []
+
+  // Look for end-day in a range pattern like "April 16 – 18" or "April 17-19"
+  const rangeM = html.match(/([A-Za-z]+)\s+(\d{1,2})\s*[-–]\s*(\d{1,2})/)
+  const endDay = rangeM && EN_MONTHS[rangeM[1].toLowerCase()] === month
+    ? parseInt(rangeM[3])
+    : startDay + 2
+
+  const pad = (n) => String(n).padStart(2, '0')
+  const tz  = month >= 4 && month <= 9 ? '+02:00' : '+01:00'
+
+  return [{
+    id: `animecon-${year}`,
+    title: `AnimeCon ${year}`,
+    start: `${year}-${pad(month)}-${pad(startDay)}T14:00:00${tz}`,
+    end:   `${year}-${pad(month)}-${pad(endDay)}T18:00:00${tz}`,
+    location: 'De Broodfabriek Expo, Rijswijk',
+    description: 'De grootste anime-conventie van Nederland.',
+    url: venue.feedUrl,
+    tags: ['Anime', 'Manga'],
+  }]
+}
+
 /** Manually curated buhurt club nights (not in any tournament feed). */
 async function scrapeManualBuhurt() {
   return MANUAL_BUHURT.map((e) => ({ ...e }))
@@ -682,6 +824,10 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'tribe')          events = await scrapeTribe(venue)
     else if (venue.type === 'lab-monkey')    events = await scrapeLabMonkey(venue)
     else if (venue.type === 'casual-carnage') events = await scrapeCasualCarnage(venue)
+    else if (venue.type === 'dcc')              events = await scrapeDcc(venue)
+    else if (venue.type === 'spellenspektakel') events = await scrapeSpellenspektakel(venue)
+    else if (venue.type === 'abunai')           events = await scrapeAbunai(venue)
+    else if (venue.type === 'animecon')         events = await scrapeAnimecon(venue)
     else events = await scrapePodiuminfo(venue)
 
     // Sanity check: a silent break (HTML restructured, feed empty) returns 0 without throwing.

@@ -39,6 +39,15 @@ export const SCENES: SceneDef[] = [
     facetLabel: (f) => f,
   },
   {
+    id: "beurzen",
+    name: "Beurzen",
+    titleLines: ["BEURZEN", "& CONS"],
+    tagline: "Comic con, anime-cons en spellenmarkten in Nederland.",
+    skin: { accent: "#2563eb", accent2: "#db2777" },
+    facetsOf: (e) => [e.source.name],
+    facetLabel: (f) => f,
+  },
+  {
     id: "buhurt",
     name: "Buhurt EU",
     titleLines: ["BUHURT", "EUROPE"],

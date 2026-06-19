@@ -54,7 +54,21 @@ export const SOURCES: Omit<Source, "events">[] = [
     name: "Lab Monkey",
     color: "#16a34a",
     icon: "🃏",
-    feedUrl: "https://www.lab-monkey.nl/product-categorie/magic_events/magic_event_prerelease/?feed=rss2",
+    feedUrl: "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
+  },
+  {
+    id: "ducosim",
+    name: "Ducosim",
+    color: "#7c3aed",
+    icon: "🎲",
+    feedUrl: "https://www.ducosim.nl/wp-json/tribe/events/v1/events",
+  },
+  {
+    id: "weighted-dice",
+    name: "Weighted Dice Utrecht",
+    color: "#0891b2",
+    icon: "🎯",
+    feedUrl: "https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/",
   },
   {
     id: "casual-carnage",

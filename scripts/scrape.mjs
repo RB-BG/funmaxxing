@@ -14,8 +14,10 @@ const VENUES = [
   { id: 'nar-utrecht',       name: 'NAR Café der Kunsten',  color: '#a855f7', icon: '🟣', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/' },
   { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
   { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', scene: 'games',   type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
-  { id: 'lab-monkey',        name: 'Lab Monkey',            color: '#16a34a', icon: '🃏', scene: 'games',   type: 'lab-monkey',     feedUrl: 'https://www.lab-monkey.nl/product-categorie/magic_events/magic_event_prerelease/?feed=rss2' },
+  { id: 'lab-monkey',        name: 'Lab Monkey',            color: '#16a34a', icon: '🃏', scene: 'games',   type: 'tribe',          feedUrl: 'https://www.lab-monkey.nl/wp-json/tribe/events/v1/events' },
   { id: 'casual-carnage',    name: 'Casual Carnage',        color: '#c2410c', icon: '🎯', scene: 'games',   type: 'casual-carnage', feedUrl: 'https://www.casualcarnage.nl/wp-json/wp/v2/evge_event' },
+  { id: 'ducosim',           name: 'Ducosim',               color: '#7c3aed', icon: '🎲', scene: 'games',   type: 'tribe',          feedUrl: 'https://www.ducosim.nl/wp-json/tribe/events/v1/events' },
+  { id: 'weighted-dice',     name: 'Weighted Dice Utrecht', color: '#0891b2', icon: '🎯', scene: 'games',   type: 'ical',           feedUrl: 'https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/' },
   { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  scene: 'utrecht', type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
   { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   scene: 'utrecht', type: 'acu',       feedUrl: 'https://acu.nl/events/feed/' },
   { id: 'basis-utrecht',     name: 'BASIS',                 color: '#14b8a6', icon: '🔊', scene: 'utrecht', type: 'ical',      feedUrl: 'https://clubbasis.nl/events/?ical=1' },
@@ -253,8 +255,62 @@ async function scrapeCasualCarnage(venue) {
   return events
 }
 
+/** Generic scraper for sites running The Events Calendar plugin (tribe/events/v1/events REST API). */
+function formatTribeDate(d) {
+  const mo = String(d.month).padStart(2, '0')
+  const dy = String(d.day).padStart(2, '0')
+  const h  = String(d.hour).padStart(2, '0')
+  const mi = String(d.minutes).padStart(2, '0')
+  const tz = parseInt(d.month) >= 4 && parseInt(d.month) <= 9 ? '+02:00' : '+01:00'
+  return `${d.year}-${mo}-${dy}T${h}:${mi}:00${tz}`
+}
+
+async function scrapeTribe(venue) {
+  const today = new Date().toISOString().slice(0, 10)
+  const res = await fetch(`${venue.feedUrl}?per_page=50&start_date=${today}`, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const data = await res.json()
+  if (!Array.isArray(data.events)) throw new Error('Unexpected response — no events array')
+
+  return data.events.map((event) => {
+    const start = event.start_date_details
+      ? formatTribeDate(event.start_date_details)
+      : event.start_date.replace(' ', 'T') + '+01:00'
+    const end = event.end_date_details
+      ? formatTribeDate(event.end_date_details)
+      : event.end_date
+        ? event.end_date.replace(' ', 'T') + '+01:00'
+        : addHours(start, 3)
+    const loc = event.venue?.venue
+      ? [event.venue.venue, event.venue.city].filter(Boolean).join(', ')
+      : venue.name
+    return {
+      id: `${venue.id}-${event.id}`,
+      title: decodeXml(stripHtml(event.title ?? '')).trim(),
+      start,
+      end,
+      location: loc,
+      description: truncate(stripHtml(event.description ?? '')),
+      url: event.url ?? venue.feedUrl,
+      tags: (event.categories ?? []).map((c) => c.name).filter(Boolean),
+    }
+  })
+}
+
 function parseIcalDatetime(dtStr) {
-  // "20260617T200000" (TZID=Europe/Amsterdam assumed)
+  // Handles both "20260617T200000" (Amsterdam assumed) and "20260617T180000Z" (UTC).
+  if (dtStr.endsWith('Z')) {
+    const utc = new Date(dtStr.replace(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z/, '$1-$2-$3T$4:$5:$6Z'))
+    const parts = new Intl.DateTimeFormat('en', {
+      timeZone: 'Europe/Amsterdam', year: 'numeric', month: '2-digit', day: '2-digit',
+      hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false,
+    }).formatToParts(utc)
+    const get = (type) => parts.find((p) => p.type === type)?.value ?? '00'
+    const tz = parseInt(get('month')) >= 4 && parseInt(get('month')) <= 9 ? '+02:00' : '+01:00'
+    return `${get('year')}-${get('month')}-${get('day')}T${get('hour')}:${get('minute')}:${get('second')}${tz}`
+  }
   const y = dtStr.slice(0, 4), mo = dtStr.slice(4, 6), d = dtStr.slice(6, 8)
   const h = dtStr.slice(9, 11), mi = dtStr.slice(11, 13), s = dtStr.slice(13, 15)
   const tz = (parseInt(mo) >= 4 && parseInt(mo) <= 9) ? '+02:00' : '+01:00'
@@ -623,6 +679,7 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'soia')          events = await scrapeSoia(venue)
     else if (venue.type === 'buhurt-wob')    events = await scrapeWob(venue)
     else if (venue.type === 'buhurt-manual') events = await scrapeManualBuhurt(venue)
+    else if (venue.type === 'tribe')          events = await scrapeTribe(venue)
     else if (venue.type === 'lab-monkey')    events = await scrapeLabMonkey(venue)
     else if (venue.type === 'casual-carnage') events = await scrapeCasualCarnage(venue)
     else events = await scrapePodiuminfo(venue)

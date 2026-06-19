@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T09:21:29.836Z",
+  "updatedAt": "2026-06-19T10:55:29.346Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1700,18 +1700,30 @@
       "color": "#16a34a",
       "icon": "🃏",
       "scene": "games",
-      "feedUrl": "https://www.lab-monkey.nl/product-categorie/magic_events/magic_event_prerelease/?feed=rss2",
+      "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "labmonkey-prerelease-zondag",
-          "title": "Prerelease Ticket – Zondag 21-06- 11:00 – 1v1 – Marvel",
+          "id": "lab-monkey-22647",
+          "title": "Prerelease Ticket – Zondag 11:00 – 1v1 – Marvel",
           "start": "2026-06-21T11:00:00+02:00",
-          "end": "2026-06-21T13:00:00.000Z",
-          "location": "Lab Monkey, Lange Viestraat 2B, Utrecht",
-          "description": "",
-          "url": "https://www.lab-monkey.nl/product/prerelease-zondag/",
+          "end": "2026-06-21T17:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "Een nieuwe set betekend een prerelease! Let op wij beginnen om 11:00! Je krijgt 6 boosters, een random foil promo en natuurlijk de befaamde spindown dobbelsteen. Deelnamekosten: €50,-. We spelen 4 rondes Swiss (je kunt elke ronde spelen). Per speler gaat er 1.5 Play Booster in de prijzenpot. Bestel…",
+          "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zondag-1100-1v1-marvel/",
           "tags": [
-            "Magic"
+            "Pre-release"
+          ]
+        },
+        {
+          "id": "lab-monkey-11402",
+          "title": "Ladies Knight",
+          "start": "2026-06-23T19:00:00+02:00",
+          "end": "2026-06-23T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "Zin om Magic te spelen met andere vrouwen? Voelt het weleens intimiderend om de enige meid te zijn aan tafel? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het je graag. &nbsp; Op 23…",
+          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
+          "tags": [
+            "Ladies'(K)night"
           ]
         }
       ]
@@ -1783,6 +1795,96 @@
           "tags": [
             "Warhammer"
           ]
+        }
+      ]
+    },
+    {
+      "id": "ducosim",
+      "name": "Ducosim",
+      "color": "#7c3aed",
+      "icon": "🎲",
+      "scene": "games",
+      "feedUrl": "https://www.ducosim.nl/wp-json/tribe/events/v1/events",
+      "events": [
+        {
+          "id": "ducosim-9702",
+          "title": "Noorderspel 2026",
+          "start": "2026-09-19T10:00:00+02:00",
+          "end": "2026-09-19T18:00:00+02:00",
+          "location": "Martinikerk, Groningen, Groningen",
+          "description": "De volgende Noorderspel is op zaterdag 19 september 2026 in de schitterende Martinikerk in Groningen. Van 10.00 uur tot 18.00 uur wordt er weer gezellig gespeeld. Voor kinderen vanaf 4 jaar oud tot en met expert spelers worden er spellen gedemonstreerd. De editie van 2024 was een groot succes met…",
+          "url": "https://www.ducosim.nl/agenda/noorderspel-2026/",
+          "tags": []
+        },
+        {
+          "id": "ducosim-8210",
+          "title": "Ducosim spellenbeurs",
+          "start": "2026-10-03T10:00:00+01:00",
+          "end": "2026-10-03T17:30:00+01:00",
+          "location": "Flint theater, Amersfoort",
+          "description": "",
+          "url": "https://www.ducosim.nl/agenda/ducosim-spellenbeurs-2026-4/",
+          "tags": []
+        },
+        {
+          "id": "ducosim-8216",
+          "title": "Ducosim spellenbeurs",
+          "start": "2027-01-16T10:00:00+01:00",
+          "end": "2027-01-16T17:30:00+01:00",
+          "location": "Flint theater, Amersfoort",
+          "description": "",
+          "url": "https://www.ducosim.nl/agenda/ducosim-spellenbeurs-2027-1/",
+          "tags": []
+        },
+        {
+          "id": "ducosim-8214",
+          "title": "Ducosim spellenbeurs",
+          "start": "2027-05-29T10:00:00+02:00",
+          "end": "2027-05-29T17:30:00+02:00",
+          "location": "Flint theater, Amersfoort",
+          "description": "",
+          "url": "https://www.ducosim.nl/agenda/ducosim-spellenbeurs-2027-2/",
+          "tags": []
+        },
+        {
+          "id": "ducosim-8212",
+          "title": "Ducosim spellenbeurs",
+          "start": "2027-09-18T08:00:00+02:00",
+          "end": "2027-09-18T17:30:00+02:00",
+          "location": "Flint theater, Amersfoort",
+          "description": "",
+          "url": "https://www.ducosim.nl/agenda/ducosim-spellenbeurs-2027-3/",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "weighted-dice",
+      "name": "Weighted Dice Utrecht",
+      "color": "#0891b2",
+      "icon": "🎯",
+      "scene": "games",
+      "feedUrl": "https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/",
+      "events": [
+        {
+          "id": "weighted-dice-event_314821792",
+          "title": "June Board Games Meetup",
+          "start": "2026-06-20T13:00:00+02:00",
+          "end": "2026-06-20T23:00:00+02:00",
+          "location": "Weighted Dice Utrecht, Utrecht",
+          "description": "P\n\nYou can bring your own games and/or play those brought by others.\nAlso, plenty of games to be chosen from Het Lab to be played.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for…",
+          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/314821792/",
+          "tags": []
+        },
+        {
+          "id": "weighted-dice-event_315275746",
+          "title": "July Board Gaming Meetup",
+          "start": "2026-07-18T13:00:00+02:00",
+          "end": "2026-07-18T23:00:00+02:00",
+          "location": "Weighted Dice Utrecht, Utrecht",
+          "description": "P\n\nYou can bring your own games or play those brought by others. There are also dozens of games available for us at Het Lab.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for players…",
+          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/315275746/",
+          "tags": []
         }
       ]
     },

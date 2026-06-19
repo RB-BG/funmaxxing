@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T11:43:25.469Z",
+  "updatedAt": "2026-06-19T12:05:19.867Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -2558,6 +2558,45 @@
             "Duels",
             "Profight"
           ]
+        },
+        {
+          "id": "wob-severnside-clash-2026",
+          "title": "Severnside Clash 2026",
+          "start": "2026-07-25T00:00:00+02:00",
+          "end": "2026-07-25T23:00:00+02:00",
+          "location": "Gloucester, United Kingdom",
+          "country": "United Kingdom",
+          "description": "Buhurt-toernooi in United Kingdom. 25 July 2026.",
+          "url": "https://www.worldofbuhurt.com/tournaments/severnside-clash-2026",
+          "tags": [
+            "Melee"
+          ]
+        },
+        {
+          "id": "wob-way-of-honor-2026",
+          "title": "Way of Honor 2026",
+          "start": "2026-08-08T00:00:00+02:00",
+          "end": "2026-08-09T23:00:00+02:00",
+          "location": "Pfaffen-Schwabenheim, Germany",
+          "country": "Germany",
+          "description": "Buhurt-toernooi in Germany. 08-09 August 2026.",
+          "url": "https://www.worldofbuhurt.com/tournaments/way-of-honor-2026",
+          "tags": [
+            "Melee"
+          ]
+        },
+        {
+          "id": "wob-heritage-shield-2026",
+          "title": "Heritage Shield 2026",
+          "start": "2026-10-03T00:00:00+02:00",
+          "end": "2026-10-03T23:00:00+02:00",
+          "location": "Ledbury, United Kingdom",
+          "country": "United Kingdom",
+          "description": "Buhurt-toernooi in United Kingdom. 03 October 2026.",
+          "url": "https://www.worldofbuhurt.com/tournaments/heritage-shield-2026",
+          "tags": [
+            "Melee"
+          ]
         }
       ]
     },
@@ -2582,6 +2621,148 @@
             "Fight Night",
             "Rave"
           ]
+        }
+      ]
+    },
+    {
+      "id": "buhurt-bi",
+      "name": "Buhurt International",
+      "color": "#7f1d1d",
+      "icon": "⚔️",
+      "scene": "buhurt",
+      "feedUrl": "https://www.buhurtinternational.com/tournaments",
+      "events": [
+        {
+          "id": "bi-desafio-belmonte-2026",
+          "title": "Desafio Belmonte 2026",
+          "start": "2026-09-19T00:00:00+02:00",
+          "end": "2026-09-19T23:00:00+02:00",
+          "location": "Spain",
+          "country": "Spain",
+          "description": "Buhurt-toernooi in Spain.",
+          "url": "https://www.buhurtinternational.com/tournament/desafio-belmonte-2026",
+          "tags": []
+        },
+        {
+          "id": "bi-alpine-warrior-2027",
+          "title": "Alpine Warrior 2027",
+          "start": "2027-05-01T00:00:00+02:00",
+          "end": "2027-05-01T23:00:00+02:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
+          "tags": []
+        },
+        {
+          "id": "bi-tournoi-des-bermond-2026",
+          "title": "TOURNOI DES BERMOND 2026",
+          "start": "2026-07-11T00:00:00+02:00",
+          "end": "2026-07-11T23:00:00+02:00",
+          "location": "France",
+          "country": "France",
+          "description": "Buhurt-toernooi in France.",
+          "url": "https://www.buhurtinternational.com/tournament/tournoi-des-bermond-2026",
+          "tags": []
+        },
+        {
+          "id": "bi-tavola-rotonda-2026",
+          "title": "Tavola Rotonda 2026",
+          "start": "2026-09-26T00:00:00+02:00",
+          "end": "2026-09-26T23:00:00+02:00",
+          "location": "Italy",
+          "country": "Italy",
+          "description": "Buhurt-toernooi in Italy.",
+          "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
+          "tags": []
+        },
+        {
+          "id": "bi-sudovo-cup",
+          "title": "Sudovo Cup 2026",
+          "start": "2026-08-29T00:00:00+02:00",
+          "end": "2026-08-29T23:00:00+02:00",
+          "location": "Czech Republic",
+          "country": "Czech Republic",
+          "description": "Buhurt-toernooi in Czech Republic.",
+          "url": "https://www.buhurtinternational.com/tournament/sudovo-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-pálóci-boarnament",
+          "title": "Pálóci Boarnament 2026",
+          "start": "2026-09-19T00:00:00+02:00",
+          "end": "2026-09-19T23:00:00+02:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/pálóci-boarnament",
+          "tags": []
+        },
+        {
+          "id": "bi-tournament-of-the-mace-and-shield",
+          "title": "Tournament of the Mace and Seal 2026",
+          "start": "2026-08-16T00:00:00+02:00",
+          "end": "2026-08-16T23:00:00+02:00",
+          "location": "Ireland",
+          "country": "Ireland",
+          "description": "Buhurt-toernooi in Ireland.",
+          "url": "https://www.buhurtinternational.com/tournament/tournament-of-the-mace-and-shield",
+          "tags": []
+        },
+        {
+          "id": "bi-st.-georgen-cup",
+          "title": "St. Georgen Cup 2026",
+          "start": "2026-09-05T00:00:00+02:00",
+          "end": "2026-09-05T23:00:00+02:00",
+          "location": "Germany",
+          "country": "Germany",
+          "description": "Buhurt-toernooi in Germany.",
+          "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-tournament-of-visegrád-2026",
+          "title": "Tournament of Visegrád 2026",
+          "start": "2026-07-10T00:00:00+02:00",
+          "end": "2026-07-10T23:00:00+02:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/tournament-of-visegrád-2026",
+          "tags": []
+        },
+        {
+          "id": "bi-tournament-of-deeds",
+          "title": "Tournament of Deeds 2026",
+          "start": "2026-06-27T00:00:00+02:00",
+          "end": "2026-06-27T23:00:00+02:00",
+          "location": "United Kingdom",
+          "country": "United Kingdom",
+          "description": "Buhurt-toernooi in United Kingdom.",
+          "url": "https://www.buhurtinternational.com/tournament/tournament-of-deeds",
+          "tags": []
+        },
+        {
+          "id": "bi-\"way-of-honor\"",
+          "title": "Way of Honor 2026",
+          "start": "2026-08-07T00:00:00+02:00",
+          "end": "2026-08-07T23:00:00+02:00",
+          "location": "Germany",
+          "country": "Germany",
+          "description": "Buhurt-toernooi in Germany.",
+          "url": "https://www.buhurtinternational.com/tournament/\"way-of-honor\"",
+          "tags": []
+        },
+        {
+          "id": "bi-severnside-clash",
+          "title": "Severnside Clash 2026",
+          "start": "2026-07-25T00:00:00+02:00",
+          "end": "2026-07-25T23:00:00+02:00",
+          "location": "United Kingdom",
+          "country": "United Kingdom",
+          "description": "Buhurt-toernooi in United Kingdom.",
+          "url": "https://www.buhurtinternational.com/tournament/severnside-clash",
+          "tags": []
         }
       ]
     }

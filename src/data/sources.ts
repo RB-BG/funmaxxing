@@ -120,4 +120,12 @@ export const SOURCES: Omit<Source, "events">[] = [
     icon: "✊",
     feedUrl: "https://acu.nl/events/feed/",
   },
+  // Buhurt extra source
+  {
+    id: "buhurt-bi",
+    name: "Buhurt International",
+    color: "#7f1d1d",
+    icon: "⚔️",
+    feedUrl: "https://www.buhurtinternational.com/tournaments",
+  },
 ]

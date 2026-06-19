@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from 'node:fs'
+﻿import { readFileSync, writeFileSync } from 'node:fs'
 import { resolve, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { MANUAL_BUHURT } from './manual-buhurt.mjs'
@@ -33,6 +33,7 @@ const VENUES = [
   // Buhurt scene (medieval armored combat), Europe only.
   { id: 'buhurt-eu',         name: 'Buhurt toernooien (EU)', color: '#b61e1e', icon: '⚔️', scene: 'buhurt', type: 'buhurt-wob',    feedUrl: 'https://www.worldofbuhurt.com/tournaments' },
   { id: 'buhurt-clubnights', name: 'Buhurt club nights',     color: '#9b51e0', icon: '🛡️', scene: 'buhurt', type: 'buhurt-manual', feedUrl: '' },
+  { id: 'buhurt-bi',         name: 'Buhurt International',   color: '#7f1d1d', icon: '⚔️', scene: 'buhurt', type: 'buhurt-bi',     feedUrl: 'https://www.buhurtinternational.com/tournaments' },
 ]
 
 const NL_MONTHS = { jan:1, feb:2, mrt:3, apr:4, mei:5, jun:6, jul:7, aug:8, sep:9, okt:10, nov:11, dec:12 }
@@ -614,16 +615,8 @@ function parseWobDate(text) {
   }
 }
 
-/** Scrape worldofbuhurt's tournament list (SSR HTML), Europe only. */
-async function scrapeWob(venue) {
-  const res = await fetch(venue.feedUrl, {
-    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
-  })
-  if (!res.ok) throw new Error(`HTTP ${res.status}`)
-  const html = await res.text()
-
-  const events = []
-  const seen = new Set()
+/** Extract WOB events from one page of HTML. Mutates seen + events in place. */
+function extractWobEventsFromHtml(html, seen, events) {
   const re = /<a href="(https:\/\/www\.worldofbuhurt\.com\/tournaments\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/g
   for (const [, url, block] of html.matchAll(re)) {
     if (seen.has(url)) continue
@@ -633,10 +626,9 @@ async function scrapeWob(venue) {
       (block.match(/<h3>([\s\S]*?)<\/h3>/)?.[1] ?? block.match(/alt="([^"]+)"/)?.[1] ?? '').trim(),
     )
     const locRaw = block.match(/tournament-small-location[^>]*>([\s\S]*?)<\/p>/)?.[1] ?? ''
-    // Strip tags, the "Location:" label and the trailing flag emoji (keep latin diacritics).
     const locText = stripHtml(decodeXml(locRaw))
       .replace(/^Location:\s*/i, '')
-      .replace(/[^ -ɏ,]/g, '')
+      .replace(/[^ -ɏ,]/g, '')
       .trim()
     const dateText = stripHtml(block.match(/<p>Date:\s*([\s\S]*?)<\/p>/)?.[1] ?? '').trim()
 
@@ -664,10 +656,105 @@ async function scrapeWob(venue) {
       tags,
     })
   }
+}
+
+/** Scrape worldofbuhurt's tournament list (SSR HTML), Europe only. Handles pagination. */
+async function scrapeWob(venue) {
+  const UA = { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' }
+  const events = []
+  const seen = new Set()
+
+  for (let page = 1; page <= 10; page++) {
+    const url = page === 1 ? venue.feedUrl : `${venue.feedUrl}/page:${page}`
+    const res = await fetch(url, { headers: UA })
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    const html = await res.text()
+
+    extractWobEventsFromHtml(html, seen, events)
+
+    if (!html.includes(`/tournaments/page:${page + 1}`)) break
+  }
 
   return events
 }
 
+/** Fetch a single buhurtinternational.com tournament page and return a structured event, or null. */
+async function fetchBiPage(url) {
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' } })
+    if (!res.ok) return null
+    const html = await res.text()
+
+    // Wix template: 1st 40px span = tournament name, 2nd 40px span = host country.
+    const spans40 = [...html.matchAll(/font-size:40px[^>]*>(?:<[^>]*>)*([^<]+)<\/span/g)]
+      .map((m) => m[1].trim()).filter(Boolean)
+    const country = spans40[1] ?? ''
+    if (!EUROPEAN_COUNTRIES.has(country)) return null
+
+    // First EN date in a 22px h2 = tournament start date (registration deadlines follow).
+    const dateRaw = html.match(
+      /font-size:22px[^>]*>[\s\S]{0,400}?((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+\d{4})/
+    )?.[1]
+    if (!dateRaw) return null
+    const dm = dateRaw.match(/([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})/)
+    if (!dm) return null
+    const month = EN_MONTHS[dm[1].toLowerCase()]
+    if (!month) return null
+
+    const day  = parseInt(dm[2])
+    const year = dm[3]
+    const name = spans40[0] ?? html.match(/<title>([^<]+)<\/title>/)?.[1]?.trim() ?? 'Buhurt Tournament'
+    const slug = url.split('/tournament/').pop()
+    const pad  = (n) => String(n).padStart(2, '0')
+    const tz   = month >= 4 && month <= 9 ? '+02:00' : '+01:00'
+
+    return {
+      id: `bi-${slug}`,
+      title: name,
+      start: `${year}-${pad(month)}-${pad(day)}T00:00:00${tz}`,
+      end:   `${year}-${pad(month)}-${pad(day)}T23:00:00${tz}`,
+      location: country,
+      country,
+      description: `Buhurt-toernooi in ${country}.`,
+      url,
+      tags: [],
+    }
+  } catch {
+    return null
+  }
+}
+
+/** Scrape buhurtinternational.com via tournament sitemap + individual pages (Wix site, no public API).
+ *  Filters to recently-modified entries, batch-fetches pages, keeps European future events. */
+async function scrapeBuhurtInternational(venue) {
+  const UA = { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' }
+  const SITEMAP = 'https://www.buhurtinternational.com/dynamic-tournament_p_6c8bf2fe_955a_4c5d_96da_cca47bae6c0e_0_5000-sitemap.xml'
+
+  const sitemapRes = await fetch(SITEMAP, { headers: UA })
+  if (!sitemapRes.ok) throw new Error(`BI sitemap HTTP ${sitemapRes.status}`)
+  const xml = await sitemapRes.text()
+
+  const cutoff = new Date()
+  cutoff.setDate(cutoff.getDate() - 60)
+  const cutoffStr = cutoff.toISOString().slice(0, 10)
+
+  const urls = []
+  for (const [, block] of xml.matchAll(/<url>([\s\S]*?)<\/url>/g)) {
+    const loc     = block.match(/<loc>([^<]+)<\/loc>/)?.[1] ?? ''
+    const lastmod = block.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1] ?? ''
+    if (lastmod >= cutoffStr && loc.includes('/tournament/')) urls.push(decodeURIComponent(loc))
+  }
+  process.stdout.write(`(${urls.length} candidates) `)
+
+  const BATCH = 8
+  const events = []
+  for (let i = 0; i < urls.length; i += BATCH) {
+    const results = await Promise.all(urls.slice(i, i + BATCH).map(fetchBiPage))
+    events.push(...results.filter(Boolean))
+  }
+
+  return events
+}
 /** Heroes Dutch Comic Con: JSON-LD Festival schema on the homepage. */
 async function scrapeDcc(venue) {
   const res = await fetch(venue.feedUrl, {
@@ -821,6 +908,7 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'soia')          events = await scrapeSoia(venue)
     else if (venue.type === 'buhurt-wob')    events = await scrapeWob(venue)
     else if (venue.type === 'buhurt-manual') events = await scrapeManualBuhurt(venue)
+    else if (venue.type === 'buhurt-bi')     events = await scrapeBuhurtInternational(venue)
     else if (venue.type === 'tribe')          events = await scrapeTribe(venue)
     else if (venue.type === 'lab-monkey')    events = await scrapeLabMonkey(venue)
     else if (venue.type === 'casual-carnage') events = await scrapeCasualCarnage(venue)

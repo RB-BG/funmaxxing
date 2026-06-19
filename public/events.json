@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T11:35:27.303Z",
+  "updatedAt": "2026-06-19T11:43:25.469Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1803,7 +1803,7 @@
       "name": "Ducosim",
       "color": "#7c3aed",
       "icon": "🎲",
-      "scene": "games",
+      "scene": "beurzen",
       "feedUrl": "https://www.ducosim.nl/wp-json/tribe/events/v1/events",
       "events": [
         {

@@ -16,7 +16,7 @@ const VENUES = [
   { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', scene: 'games',   type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
   { id: 'lab-monkey',        name: 'Lab Monkey',            color: '#16a34a', icon: '🃏', scene: 'games',   type: 'tribe',          feedUrl: 'https://www.lab-monkey.nl/wp-json/tribe/events/v1/events' },
   { id: 'casual-carnage',    name: 'Casual Carnage',        color: '#c2410c', icon: '🎯', scene: 'games',   type: 'casual-carnage', feedUrl: 'https://www.casualcarnage.nl/wp-json/wp/v2/evge_event' },
-  { id: 'ducosim',           name: 'Ducosim',               color: '#7c3aed', icon: '🎲', scene: 'games',   type: 'tribe',          feedUrl: 'https://www.ducosim.nl/wp-json/tribe/events/v1/events' },
+  { id: 'ducosim',           name: 'Ducosim',               color: '#7c3aed', icon: '🎲', scene: 'beurzen',   type: 'tribe',          feedUrl: 'https://www.ducosim.nl/wp-json/tribe/events/v1/events' },
   { id: 'weighted-dice',     name: 'Weighted Dice Utrecht', color: '#0891b2', icon: '🎯', scene: 'games',   type: 'ical',           feedUrl: 'https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/' },
 
   // Beurzen scene (conventions & fairs)

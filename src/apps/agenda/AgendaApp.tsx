@@ -96,6 +96,10 @@ export function AgendaApp() {
     () => sources.filter((s) => (s.scene ?? "utrecht") === activeScene),
     [sources, activeScene],
   )
+  const brokenSources = useMemo(
+    () => sceneSources.filter((s) => s.broken),
+    [sceneSources],
+  )
 
   function switchScene(id: string) {
     if (id === activeScene) return
@@ -217,6 +221,16 @@ export function AgendaApp() {
       <div className="mb-5">
         <MarqueeBar items={ticker.length ? ticker : ["wat is er los"]} />
       </div>
+
+      {brokenSources.length > 0 && (
+        <div className="mb-4 flex flex-wrap items-center gap-2 rounded-md border-2 border-ink bg-acid px-4 py-2.5">
+          <span className="text-xs font-bold uppercase tracking-wide text-ink">Feed kapot</span>
+          <span className="h-3 w-0.5 bg-ink/30" />
+          <span className="text-xs font-medium text-ink/80">
+            {brokenSources.map((s) => s.name).join(", ")} — events kunnen verouderd zijn
+          </span>
+        </div>
+      )}
 
       <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_300px]">
         <main className="min-w-0">

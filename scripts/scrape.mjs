@@ -626,11 +626,23 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'lab-monkey')    events = await scrapeLabMonkey(venue)
     else if (venue.type === 'casual-carnage') events = await scrapeCasualCarnage(venue)
     else events = await scrapePodiuminfo(venue)
+
+    // Sanity check: a silent break (HTML restructured, feed empty) returns 0 without throwing.
+    // Flag as broken when the count drops suspiciously vs the previous run.
+    const oldCount = fallback.length
+    const suspicious =
+      (events.length === 0 && oldCount > 3) ||
+      (events.length < oldCount * 0.3 && oldCount > 5)
+    if (suspicious) {
+      console.log(`⚠ suspicious drop (${oldCount} → ${events.length}) — keeping existing, marking broken`)
+      return { events: fallback, broken: true }
+    }
+
     console.log(`${events.length} events`)
-    return events
+    return { events, broken: false }
   } catch (err) {
-    console.log(`failed (${err.message}) — keeping existing`)
-    return fallback
+    console.log(`failed (${err.message}) — keeping existing, marking broken`)
+    return { events: fallback, broken: true }
   }
 }
 
@@ -647,9 +659,9 @@ async function main() {
   console.log('Scraping venues…')
   const sources = []
   for (const venue of VENUES) {
-    const raw = await scrapeVenue(venue, existingByVenue[venue.id] ?? [])
+    const { events: raw, broken } = await scrapeVenue(venue, existingByVenue[venue.id] ?? [])
     const events = raw.filter(e => new Date(e.start) >= today)
-    sources.push({ id: venue.id, name: venue.name, color: venue.color, icon: venue.icon, scene: venue.scene, feedUrl: venue.feedUrl, events })
+    sources.push({ id: venue.id, name: venue.name, color: venue.color, icon: venue.icon, scene: venue.scene, feedUrl: venue.feedUrl, events, ...(broken ? { broken: true } : {}) })
     if (venue.type === 'podiuminfo') await new Promise(r => setTimeout(r, 500))
   }
 

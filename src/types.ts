@@ -27,6 +27,8 @@ export interface Source {
   /** The scene (city/topic) this source belongs to, e.g. "utrecht" | "buhurt". */
   scene?: string
   events: EventItem[]
+  /** True when the last scrape returned suspiciously few events or threw an error. */
+  broken?: boolean
 }
 
 /** An event enriched at runtime with its source and derived categories. */

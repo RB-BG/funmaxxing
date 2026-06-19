@@ -145,6 +145,11 @@ export function Sidebar({
                       <span className={cn("truncate font-medium text-ink/80", hidden && "line-through")}>
                         {s.name}
                       </span>
+                      {s.broken && (
+                        <span className="shrink-0 border border-ink bg-acid px-1 py-px text-[9px] font-bold uppercase leading-none tracking-wide text-ink">
+                          kapot
+                        </span>
+                      )}
                     </span>
                     <span className="font-display text-base leading-none text-ink/50">{s.events.length}</span>
                   </button>

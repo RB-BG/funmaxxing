@@ -32,6 +32,7 @@ export function AgendaApp() {
   const [activeScene, setActiveScene] = useState(SCENES[0].id)
   const [activeFacet, setActiveFacet] = useState("all")
   const [selected, setSelected] = useState<Set<string>>(new Set())
+  const [hiddenSources, setHiddenSources] = useState<Set<string>>(new Set())
   const { muted, toggle, play } = useSound()
   const reduced = useReducedMotion()
 
@@ -54,21 +55,27 @@ export function AgendaApp() {
     [allEvents, activeScene],
   )
 
+  // Events from active (non-hidden) sources only — drives both filter counts and the visible list.
+  const activeSceneEvents = useMemo(
+    () => sceneEvents.filter((e) => !hiddenSources.has(e.source.id)),
+    [sceneEvents, hiddenSources],
+  )
+
   const filterOptions = useMemo<FilterOption[]>(() => {
     const counts = new Map<string, number>()
-    for (const e of sceneEvents) for (const f of scene.facetsOf(e)) counts.set(f, (counts.get(f) ?? 0) + 1)
+    for (const e of activeSceneEvents) for (const f of scene.facetsOf(e)) counts.set(f, (counts.get(f) ?? 0) + 1)
     const facets = [...counts.entries()]
       .map(([key, count]) => ({ key, label: scene.facetLabel(key), count }))
       .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label))
-    return [{ key: "all", label: "Alles", count: sceneEvents.length }, ...facets]
-  }, [sceneEvents, scene])
+    return [{ key: "all", label: "Alles", count: activeSceneEvents.length }, ...facets]
+  }, [activeSceneEvents, scene])
 
   const visible = useMemo(
     () =>
-      sceneEvents
+      activeSceneEvents
         .filter((e) => activeFacet === "all" || scene.facetsOf(e).includes(activeFacet))
         .sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime()),
-    [sceneEvents, activeFacet, scene],
+    [activeSceneEvents, activeFacet, scene],
   )
 
   const ticker = useMemo(() => visible.slice(0, 16).map((e) => e.title), [visible])
@@ -96,10 +103,22 @@ export function AgendaApp() {
     setActiveScene(id)
     setActiveFacet("all")
     setSelected(new Set())
+    setHiddenSources(new Set())
   }
 
   function handleFacet(facet: string) {
     setActiveFacet(facet)
+    setSelected(new Set())
+  }
+
+  function toggleSource(id: string) {
+    play("click")
+    setHiddenSources((prev) => {
+      const next = new Set(prev)
+      if (next.has(id)) next.delete(id)
+      else next.add(id)
+      return next
+    })
     setSelected(new Set())
   }
 
@@ -269,6 +288,8 @@ export function AgendaApp() {
             onClear={clearAll}
             onDownload={handleDownload}
             sources={sceneSources}
+            hiddenSources={hiddenSources}
+            onToggleSource={toggleSource}
           />
         </aside>
       </div>

@@ -31,6 +31,8 @@ interface SidebarProps {
   onClear: () => void
   onDownload: () => void
   sources: Source[]
+  hiddenSources: Set<string>
+  onToggleSource: (id: string) => void
 }
 
 export function Sidebar({
@@ -41,6 +43,8 @@ export function Sidebar({
   onClear,
   onDownload,
   sources,
+  hiddenSources,
+  onToggleSource,
 }: SidebarProps) {
   const { play } = useSound()
   const venues = sources.filter((s) => s.events.length > 0)
@@ -120,21 +124,33 @@ export function Sidebar({
       {venues.length > 0 && (
         <Panel title="Bronnen">
           <ul className="flex flex-col">
-            {venues.map((s) => (
-              <li
-                key={s.id}
-                className="flex items-center justify-between gap-2 border-b-2 border-ink/10 px-3 py-1.5 text-sm last:border-b-0"
-              >
-                <span className="flex min-w-0 items-center gap-2">
-                  <span
-                    className="h-3 w-3 shrink-0 rounded-[2px] border border-ink"
-                    style={{ background: s.color }}
-                  />
-                  <span className="truncate font-medium text-ink/80">{s.name}</span>
-                </span>
-                <span className="font-display text-base leading-none text-ink/50">{s.events.length}</span>
-              </li>
-            ))}
+            {venues.map((s) => {
+              const hidden = hiddenSources.has(s.id)
+              return (
+                <li key={s.id} className="border-b-2 border-ink/10 last:border-b-0">
+                  <button
+                    type="button"
+                    onMouseEnter={() => play("hover")}
+                    onClick={() => onToggleSource(s.id)}
+                    className={cn(
+                      "flex w-full items-center justify-between gap-2 px-3 py-1.5 text-left text-sm transition-colors hover:bg-ink/5",
+                      hidden && "opacity-40",
+                    )}
+                  >
+                    <span className="flex min-w-0 items-center gap-2">
+                      <span
+                        className="h-3 w-3 shrink-0 rounded-[2px] border border-ink transition-colors"
+                        style={hidden ? undefined : { background: s.color }}
+                      />
+                      <span className={cn("truncate font-medium text-ink/80", hidden && "line-through")}>
+                        {s.name}
+                      </span>
+                    </span>
+                    <span className="font-display text-base leading-none text-ink/50">{s.events.length}</span>
+                  </button>
+                </li>
+              )
+            })}
           </ul>
         </Panel>
       )}

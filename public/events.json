@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T12:05:19.867Z",
+  "updatedAt": "2026-06-20T06:34:20.809Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -414,26 +414,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/",
       "events": [
         {
-          "id": "462706",
-          "title": "Oxis",
-          "start": "2026-06-19T20:00:00+02:00",
-          "end": "2026-06-19T21:00:00.000Z",
-          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
-          "description": "Oxis, het alias van Valentina Cy, creëert met haar zelfbenoemde ‘marine electronica’ een eigenzinnig universum. Sinds 2023 bracht ze in hoog tempo acht releases uit, waarin minimalistische beats, gitaarloops en dromerige pop samenkomen tot een intieme en futuristische sound. Met een snelgroeiende…",
-          "url": "https://www.podiuminfo.nl/concert/462706/Oxis/EKKO/",
-          "tags": []
-        },
-        {
-          "id": "472510",
-          "title": "Diep In De Groef",
-          "start": "2026-06-19T23:30:00+02:00",
-          "end": "2026-06-20T00:30:00.000Z",
-          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
-          "description": "Diep In De Groef presenteert elke vrijdag in EKKO een muzikaal alternatief voor de traditionele clubavond. Bezoekers worden meegenomen op een reis door een grenzeloze mix van de nieuwste vondsten, clubhits en onterecht vergeten geluiden. Deze avond wordt samengesteld door lokale selectors en een…",
-          "url": "https://www.podiuminfo.nl/concert/472510/Diep-In-De-Groef/EKKO/",
-          "tags": []
-        },
-        {
           "id": "463186",
           "title": "Club EKKO met Identified Patient, RAGA en VOLPEVOLPE",
           "start": "2026-06-20T23:30:00+02:00",
@@ -643,7 +623,8 @@
           "url": "https://www.podiuminfo.nl/concert/460649/Prostitute/EKKO/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "de-helling",
@@ -653,16 +634,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-terug-in-de-tijd-19-06-2026",
-          "title": "Terug in de Tijd",
-          "start": "2026-06-19T23:00:00+02:00",
-          "end": "2026-06-20T04:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Terug naar de beste herinneringen uit 2016-2020",
-          "url": "https://dehelling.nl/agenda/terug-in-de-tijd-19-06-2026/",
-          "tags": []
-        },
         {
           "id": "helling-freedom-city-krump-hiphop-battles-20-06-2026",
           "title": "Freedom City – Krump & Hiphop Battles",
@@ -1243,76 +1214,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "476087",
-          "title": "Iris Jenster Group - Lunchconcert Jazz",
-          "start": "2026-06-19T12:30:00+02:00",
-          "end": "2026-06-19T13:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Iris Jenster, opgegroeid in Californië, kwam al vroeg in aanraking met jazz dankzij haar muzikale ouders. Na haar verhuizing naar Nederland op twaalfjarige leeftijd, ontwikkelde ze haar muzikale basis en artistieke stem verder. Jenster studeert sinds september 2024 fulltime aan de bacheloropleiding…",
-          "url": "https://www.podiuminfo.nl/concert/476087/Iris-Jenster-Group-Lunchconcert-Jazz/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "459378",
-          "title": "Kreukelzone presenteert: Schamele Troost",
-          "start": "2026-06-19T15:00:00+02:00",
-          "end": "2026-06-19T16:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Op de Vredenburg Open Stage presenteert 'Kreukelzone' tweemaal per maand 'Schamele Troost', een programma met semi-akoestische popmuziek vol levenservaring. De Utrechtse groep Schamele Troost, ontstaan in Café de Stad, brengt sinds eind 2022 eigenzinnige hertalingen van bekende en minder bekende…",
-          "url": "https://www.podiuminfo.nl/concert/459378/Kreukelzone-presenteert-Schamele-Troost/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "451662",
-          "title": "De Microclub",
-          "start": "2026-06-19T20:00:00+02:00",
-          "end": "2026-06-19T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Eerder clubben! - Wie zegt dat een geweldige avond pas laat begint? Deze clubavond is speciaal voor de 23+ generatie die weet wat ze wil: toffe sfeer, goede muziek en een beetje op tijd naar bed! Vanaf 20.00 uur kun je volledig losgaan op een zorgvuldig samengestelde mix van funky house beats,…",
-          "url": "https://www.podiuminfo.nl/concert/451662/De-Microclub/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "457691",
-          "title": "Amal Maher",
-          "start": "2026-06-19T20:15:00+02:00",
-          "end": "2026-06-19T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Amal Maher, geboren in Caïro in 1985, is een vooraanstaande Egyptische zangeres die geroemd wordt om haar krachtige stem en vertolkingen van klassieke Arabische muziek. Ze begon haar zangcarrière op dertienjarige leeftijd, geïnspireerd door legendarische artiesten zoals Umm Kulthum. Haar…",
-          "url": "https://www.podiuminfo.nl/concert/457691/Amal-Maher/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "458155",
-          "title": "Maghreb Icons",
-          "start": "2026-06-19T20:15:00+02:00",
-          "end": "2026-06-19T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Welkom in Café AAO voor 'Maghreb Icons', een betoverende muzikale reis naar de Maghreb, een smeltkroes van diverse volkeren en culturen. Het programma belooft een prachtige mix van muziekgenres, geïnspireerd op de rijke cafécultuur van de regio. Geniet van de meeslepende Gnawa blues van Nass Al…",
-          "url": "https://www.podiuminfo.nl/concert/458155/Maghreb-Icons/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "451604",
-          "title": "Josua Peter",
-          "start": "2026-06-19T20:30:00+02:00",
-          "end": "2026-06-19T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Officiële presentatie van Josua Peters debuut-ep Bones! Deze opkomende Nederlandse singer-songwriter (begin dit jaar stond hij nog op Eurosonic Noorderslag) maakt momenteel furore met zijn eerste single Bones (Radio 2 Top Song), een rauw, emotioneel en oprecht nummer waarmee hij zijn eigen stem…",
-          "url": "https://www.podiuminfo.nl/concert/451604/Josua-Peter/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "474220",
-          "title": "Fiesta Macumba",
-          "start": "2026-06-19T23:55:00+02:00",
-          "end": "2026-06-20T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Fiesta Macumba trapt op 19 juni officieel af in TivoliVredenburg en viert de zomer met een reeks Latin-feesten. Het belooft een nacht te worden vol dans, gezelligheid en de lekkerste Música Latina. De sfeer wordt compleet gemaakt door de tropische klanken en zomerse vibes die het publiek omringen.…",
-          "url": "https://www.podiuminfo.nl/concert/474220/Fiesta-Macumba/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "456939",
           "title": "Het Danspaleis",
           "start": "2026-06-20T14:00:00+02:00",
@@ -1481,6 +1382,66 @@
           "description": "Dekoor Close Harmony presenteert 'Heb Ik Dat Nodig?', een meeslepende koormuziekvoorstelling in samenwerking met muzikant en geluidskunstenaar De Machinefabriek. Deze show, die jazz, pop, klassiek, gospel en wereldmuziek via elektronische intermezzo's verbindt, vertelt een aangrijpend verhaal over…",
           "url": "https://www.podiuminfo.nl/concert/458157/Dekoor-Close-Harmony-Heb-Ik-Dat-Nodig-/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "457286",
+          "title": "The Opposites",
+          "start": "2026-06-27T20:30:00+02:00",
+          "end": "2026-06-27T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Nederlandse rapduo The Opposites koppelt al sinds 2005 tekstuele spitsvondigheden aan meezingrefreinen, geserveerd op een bedje van beukende beats. ",
+          "url": "https://www.podiuminfo.nl/concert/457286/The-Opposites/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "474227",
+          "title": "Pop-O-Matic",
+          "start": "2026-06-27T23:00:00+02:00",
+          "end": "2026-06-28T00:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Pop-O-Matic transformeert Pandora tot een veelzijdige dansvloer waar DJ St. Paul en VJ Switchdoctor een eclectische mix van stijlen, tijden en subculturen presenteren. De muzikale selectie is actueel en trendsettend. Dit evenement biedt een dynamische avond voor liefhebbers van diverse…",
+          "url": "https://www.podiuminfo.nl/concert/474227/Pop-O-Matic/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "474039",
+          "title": "Mama Africa",
+          "start": "2026-06-27T23:55:00+02:00",
+          "end": "2026-06-28T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Mama Africa keert terug naar TivoliVredenburg voor een avond vol ritme, energie en pure vibes. Het publiek kan een volle dansvloer verwachten met de sounds van Afro Beats en andere Afrikaanse genres, waaronder kuduro, mbalax en coupé-décalé. Dit evenement belooft een onvergetelijke belevenis te…",
+          "url": "https://www.podiuminfo.nl/concert/474039/Mama-Africa/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "453762",
+          "title": "Steve 'n' Seagulls",
+          "start": "2026-06-28T20:00:00+02:00",
+          "end": "2026-06-28T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Finse band Steve ‘n’ Seagulls staat bekend om hun humoristische benadering van muziek, door heavymetalcovers in bluegrass-stijl te spelen. Ze braken door in 2014 met hun virale versie van AC/DC's 'Thunderstruck', waarmee ze hun muzikale virtuositeit bewezen. Inmiddels zijn ze een geliefde…",
+          "url": "https://www.podiuminfo.nl/concert/453762/Steve-n-Seagulls/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "456970",
+          "title": "Eric Hutchinson",
+          "start": "2026-06-30",
+          "end": "2026-06-30T03:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het geplande concert van Eric Hutchinson op 30 juni 2026 is helaas afgelast wegens onvoorziene omstandigheden. De artiest heeft via een statement laten weten dat hij zijn geplande shows in Europa in 2026 niet kan uitvoeren en heeft besloten de data te annuleren. Hij betuigt zijn excuses aan alle…",
+          "url": "https://www.podiuminfo.nl/concert/456970/Eric-Hutchinson/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "454809",
+          "title": "Elvis Costello / Elvis Costello & the Imposters",
+          "start": "2026-06-30T20:30:00+02:00",
+          "end": "2026-06-30T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het newwave-icoon heeft na zijn eerste drie seventies-platen (My Aim Is True, This Year’s Model en Armed Forces) nog zo’n 30 albums uitgebracht. Intelligente, vaak bijtende teksten vormen Costello’s handelsmerk, samen met een uitstekend gevoel voor het perfecte popliedje.",
+          "url": "https://www.podiuminfo.nl/concert/454809/Elvis-Costello-Elvis-Costello-the-Imposters/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1560,6 +1521,16 @@
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Koning van de Krotten Wed 24/6 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/47eaf34d-9784-4959-b443-1e1b32797632",
+          "tags": []
+        },
+        {
+          "id": "599748",
+          "title": "D&D 5.5e: Dark Matter \"Is the moon made of Cheese?\"",
+          "start": "2026-07-01T19:00:00+02:00",
+          "end": "2026-07-01T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5.5e: Dark Matter \"Is the moon made of Cheese?\" Wed 1/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/5ac8f9d8-ca61-4faf-8173-e5fbee4db87d",
           "tags": []
         },
         {
@@ -1726,7 +1697,8 @@
             "Ladies'(K)night"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "casual-carnage",
@@ -1796,7 +1768,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2007,32 +1980,6 @@
           ]
         },
         {
-          "id": "beton-workshop-useless-machine-creatiehallen",
-          "title": "Workshop Useless Machine – Creatiehallen",
-          "start": "2026-06-19T00:00:00+02:00",
-          "end": "2026-06-19T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/workshop-useless-machine-creatiehallen/",
-          "tags": [
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
-          "id": "beton-a-summer-jam-with-tlm",
-          "title": "A SUMMER JAM with TLM",
-          "start": "2026-06-20T00:00:00+02:00",
-          "end": "2026-06-20T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/a-summer-jam-with-tlm/",
-          "tags": [
-            "Festival",
-            "Muziek"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-4",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-06-22T00:00:00+02:00",
@@ -2152,6 +2099,16 @@
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
         {
+          "id": "acu-20260710-heavy-jam",
+          "title": "Heavy Jam",
+          "start": "2026-07-10T00:00:00+02:00",
+          "end": "2026-07-10T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "July 10th. with Goodnight Mars. Leave your blues at the door, because this session is not for lightweights! 🏋️ Coming this July 10, ACU is proud to host the 2nd edition of Heavy Jam. So bring us your roughest riffs, 🎸and your grimmiest grunts, 🎤 and get ready to have a blast! Everyone is…",
+          "url": "https://acu.nl/events/20260710/heavy-jam",
+          "tags": []
+        },
+        {
           "id": "acu-20260818-eectronic-open-stage-21",
           "title": "EECtronic open stage",
           "start": "2026-08-18T00:00:00+02:00",
@@ -2221,20 +2178,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001475-1781910000-1781935200",
-          "title": "BASIS/ EMILIJA/ Entasia/ FYALL/ Olive Anguz",
-          "start": "2026-06-19T23:00:00+02:00",
-          "end": "2026-06-20T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-emilija-entasia-fyall-olive-anguz/",
-          "tags": [
-            "Bounce",
-            "Hard house",
-            "Trance"
-          ]
-        },
         {
           "id": "basis-utrecht-10001471-1781996400-1782021600",
           "title": "BASIS/ BSLS [hardware live]/ Miløw/ Ørgie/ Redbatun",
@@ -2474,7 +2417,8 @@
             "Trance"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "soia-utrecht",
@@ -2504,19 +2448,6 @@
       "scene": "buhurt",
       "feedUrl": "https://www.worldofbuhurt.com/tournaments",
       "events": [
-        {
-          "id": "wob-the-knights-of-the-cage-2026",
-          "title": "The Knights of the Cage 2026",
-          "start": "2026-06-20T00:00:00+02:00",
-          "end": "2026-06-20T23:00:00+02:00",
-          "location": "Onet-le-Château, France",
-          "country": "France",
-          "description": "Buhurt-toernooi in France. 20 June 2026.",
-          "url": "https://www.worldofbuhurt.com/tournaments/the-knights-of-the-cage-2026",
-          "tags": [
-            "Profight"
-          ]
-        },
         {
           "id": "wob-tournament-of-deeds-2026",
           "title": "Tournament of Deeds 2026",
@@ -2598,7 +2529,8 @@
             "Melee"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "buhurt-clubnights",

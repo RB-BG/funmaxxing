@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T06:34:20.809Z",
+  "updatedAt": "2026-06-21T06:38:28.151Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,54 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001070",
-          "title": "WK Voetbal Zweden - Nederland",
-          "start": "2026-06-20T19:00:00+02:00",
-          "end": "2026-06-20T21:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Ja hoor, ook bij dB’s alle wedstrijden van het Nederlands elftal op groot scherm (echt een GROOT scherm). \nDe tweede tegenstander is Zweden, aftrap 19 uur, een keurige tijd… \nGratis. \nPS. andere wedstrijden zenden we ook uit, de vide boven de bar wordt het match centre. \nPS 2. Heel veel actie deze…",
-          "url": "https://dbstudio.nl/event/wk-voetbal-zweden-nederland/",
-          "tags": [
-            "WK Voetbal"
-          ]
-        },
-        {
-          "id": "10001085",
-          "title": "WK Voetbal - Alle wedstrijden van Oranje op groot scherm",
-          "start": "2026-06-20T19:00:00+02:00",
-          "end": "2026-06-20T22:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Kom lekker bij ons kijken. Biertje erbij, borrelnootje,eten bij Punkdog  en een heel groot scherm. \nEn voetbal. Op het scherm.",
-          "url": "https://dbstudio.nl/event/wk-voetbal-alle-wedstrijden-op-groot-scherm/2026-06-20/",
-          "tags": []
-        },
-        {
-          "id": "10000954",
-          "title": "GUITAR WOLF (Jet RnR from JAPAN!!!) + THe Anomalys + The Protos",
-          "start": "2026-06-20T20:00:00+02:00",
-          "end": "2026-06-20T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "THE ANOMALYS, sinds jaar en dag ’the best band in the world’ met de Amsterdamse legende Bone & de al even legendarische Fransozen Remi & Looch Vibrato, en kroonpretendenten The Protos, beide 2x gitaar & drums, catchy riffs, raw 100% power no bullshit primitive Garage RnR! \nFFO The Oblivians,…",
-          "url": "https://dbstudio.nl/event/guitar-wolf-jet-rnr-from-japan/",
-          "tags": [
-            "Concert",
-            "Garage",
-            "Noise",
-            "Punk",
-            "Rock 'n Roll"
-          ]
-        },
-        {
-          "id": "10001067",
-          "title": "NeoN Noir & Quatsch - Queer Party",
-          "start": "2026-06-20T23:00:00+02:00",
-          "end": "2026-06-21T03:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Ja natuurlijk zijn wij erbij in de pride maand. Maar dan wel op de 20e. Ben je weer lekker bijgetrokken van die hele canal pride en klaar om te dansen op duistere beats en zwoele vocalen. Deze editie is heel bijzonder want dit keer gaan we vreemd met Quatsch, het andere leukste queer feest van…",
-          "url": "https://dbstudio.nl/event/neon-noir-queer-party/",
-          "tags": []
-        },
         {
           "id": "10000976",
           "title": "THE DWARVES (USA - Punk Rock Legends) + The Etters",
@@ -402,6 +354,57 @@
             "Electronics",
             "Metal"
           ]
+        },
+        {
+          "id": "10001071",
+          "title": "Gijsjaradijsja + Kinderleed + ZOEKHETUITMAN + Fokko (solo)",
+          "start": "2026-08-14T19:30:00+02:00",
+          "end": "2026-08-15T01:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Anti-alles. Geen maatschappelijk of controversieel onderwerp gaat deze band te ver. Bekend van ruige, knallende nummers als PFAS, WILLEM DE LAATSTE en BLOED. \nNormaliter een Nederrockband, maar ditmaal komt Fokko de boel in zijn eentje rocken. Met oorwurmerige nummers en een hoop energie. Bekend…",
+          "url": "https://dbstudio.nl/event/gijsjaradijsja-kinderleed-zoekhetuitman-fokko-solo/",
+          "tags": [
+            "Concert"
+          ]
+        },
+        {
+          "id": "10001041",
+          "title": "FILTH (USA)",
+          "start": "2026-08-17T20:00:00+02:00",
+          "end": "2026-08-17T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "𝗙𝗜𝗟𝗧𝗛 brengt hun eigen snoeiharde mix van rapteksten, smerige vocals en loeizware breakdowns. De band uit North Carolina bewijst wederom dat hiphop en deathcore hand in hand gaan. Het album Southern Hostility (2024) bevatte al een aantal ijzersterke beukers, nieuwste release Welcome To Shell…",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-filth-usa/",
+          "tags": [
+            "Deathcore",
+            "Rap"
+          ]
+        },
+        {
+          "id": "10000951",
+          "title": "DUISTER COLLECTIEF Part I",
+          "start": "2026-08-22T13:00:00+02:00",
+          "end": "2026-08-22T23:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "LL\nSwerve\nSvjetlost\nINVUNCHE\nOnhou\nIskandr\nModder\nSun Worship\nAlkerdeel\nBombstrap\nMathlovsky\n\nDagtickets gaan binnenkort in de verkoop.",
+          "url": "https://dbstudio.nl/event/duister-collectief/",
+          "tags": [
+            "Concert",
+            "Duister Collectief Outdoor Fest"
+          ]
+        },
+        {
+          "id": "10000952",
+          "title": "DUISTER COLLECTIEF Part II",
+          "start": "2026-08-23T13:00:00+02:00",
+          "end": "2026-08-23T23:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Angles Mort\nRuona Neida\nDoodseskader\nIneptitude\nNista\nGrey Aura\n30,000 Monkies\nBloed\nMorvigor\nTERZIJ DE HORDE",
+          "url": "https://dbstudio.nl/event/duister-collectief-2/",
+          "tags": [
+            "Concert",
+            "Duister Collectief Outdoor Fest"
+          ]
         }
       ]
     },
@@ -413,16 +416,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/",
       "events": [
-        {
-          "id": "463186",
-          "title": "Club EKKO met Identified Patient, RAGA en VOLPEVOLPE",
-          "start": "2026-06-20T23:30:00+02:00",
-          "end": "2026-06-21T00:30:00.000Z",
-          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
-          "description": "Duik in de intieme clubnacht van EKKO, speciaal samengesteld voor het veertigjarig jubileum. De avond staat in het teken van Identified Patient, een toonaangevende naam uit de Nederlandse underground scene. De Amsterdamse dj en producer staat bekend om zijn onvoorspelbare sets, waarin hij…",
-          "url": "https://www.podiuminfo.nl/concert/463186/Club-EKKO-met-Identified-Patient-RAGA-en-VOLPEVOLPE/EKKO/",
-          "tags": []
-        },
         {
           "id": "464807",
           "title": "Consensual Peggy",
@@ -635,16 +628,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-freedom-city-krump-hiphop-battles-20-06-2026",
-          "title": "Freedom City – Krump & Hiphop Battles",
-          "start": "2026-06-20T12:00:00+02:00",
-          "end": "2026-06-20T22:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Duik in de underground hiphop scene met dansbattles en rap cyphers",
-          "url": "https://dehelling.nl/agenda/freedom-city-krump-hiphop-battles-20-06-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-tivoli-de-naborrel-21-06-2026",
           "title": "Tivoli – De Naborrel",
           "start": "2026-06-21T19:00:00+02:00",
@@ -822,6 +805,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Bezwerende folk-noir uit de Canadese wouden",
           "url": "https://dehelling.nl/agenda/ora-cogan-10-09-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-pann-25-11-09-2026",
+          "title": "PANN 25+",
+          "start": "2026-09-11T23:00:00+02:00",
+          "end": "2026-09-12T04:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Het leukste LHBTQIA+ event van Nederland",
+          "url": "https://dehelling.nl/agenda/pann-25-11-09-2026/",
           "tags": []
         },
         {
@@ -1214,36 +1207,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "456939",
-          "title": "Het Danspaleis",
-          "start": "2026-06-20T14:00:00+02:00",
-          "end": "2026-06-20T15:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Danspaleis organiseert een ouderwets gezellige dansmiddag, toegankelijk voor ouderen en iedereen die graag danst. Het initiatief heeft als doel om ouderen vitaal en betrokken te houden door middel van muziek, die mensen samenbrengt en aan het bewegen krijgt. De PlatenDraaier draait klassieke…",
-          "url": "https://www.podiuminfo.nl/concert/456939/Het-Danspaleis/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "455057",
-          "title": "Diyar",
-          "start": "2026-06-20T20:00:00+02:00",
-          "end": "2026-06-20T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Koerdische zanger Diyar komt op zaterdag 20 juni Naar Nederland. Met zijn karakteristieke, emotionele stem geldt hij al jaren als een van de herkenbare stemmen binnen de Koerdische muziek.",
-          "url": "https://www.podiuminfo.nl/concert/455057/Diyar/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "462610",
-          "title": "PANN XL: Summer Break",
-          "start": "2026-06-20T23:00:00+02:00",
-          "end": "2026-06-21T00:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "PANN XL: Summer Break is het tweemaandelijkse LHBTQIA+ evenement van Nederland. Op zaterdag 20 juni wordt het seizoen afgesloten met een zomerse XL-editie. TivoliVredenburg wordt deze avond omgetoverd tot een tropisch queer paradijs met meerdere areas. Bezoekers kunnen de lekkerste pop- en…",
-          "url": "https://www.podiuminfo.nl/concert/462610/PANN-XL-Summer-Break/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "456940",
           "title": "Slotconcert Dag van de Componist",
           "start": "2026-06-21T20:00:00+02:00",
@@ -1442,6 +1405,36 @@
           "description": "Het newwave-icoon heeft na zijn eerste drie seventies-platen (My Aim Is True, This Year’s Model en Armed Forces) nog zo’n 30 albums uitgebracht. Intelligente, vaak bijtende teksten vormen Costello’s handelsmerk, samen met een uitstekend gevoel voor het perfecte popliedje.",
           "url": "https://www.podiuminfo.nl/concert/454809/Elvis-Costello-Elvis-Costello-the-Imposters/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "454779",
+          "title": "Candy Dulfer - The Purple Jam",
+          "start": "2026-07-02T20:00:00+02:00",
+          "end": "2026-07-02T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Candy Dulfer presenteert 'The Purple Jam', een speciale muzikale ode aan Prince ter gelegenheid van zijn tiende sterfdag. Op het podium wordt Candy Dulfer vergezeld door enkele muzikanten die nauw met Prince samenwerkten: trombonist Greg Boyer, drummer Kirk Johnson en zangeres Shelby J. Samen…",
+          "url": "https://www.podiuminfo.nl/concert/454779/Candy-Dulfer-The-Purple-Jam/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "464648",
+          "title": "90'S NOW - Vroege Tijden",
+          "start": "2026-07-03T21:00:00+02:00",
+          "end": "2026-07-03T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Op vrijdag 3 juli vindt de vroege editie van 90’S NOW plaats. Bezoekers kunnen een jaren 90 walhalla instappen en teruggaan naar de tijd van flippo’s en My First Sony’s. De avond staat in het teken van knallers en onvergetelijke klassiekers uit de jaren 90, met muziek variërend van Gigi D'Agostino…",
+          "url": "https://www.podiuminfo.nl/concert/464648/90S-NOW-Vroege-Tijden/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "476541",
+          "title": "After Sun: Midnight Melodies",
+          "start": "2026-07-03T22:00:00+02:00",
+          "end": "2026-07-03T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Ontdek 'After Sun: Midnight Melodies', een nieuwe zomernacht in de Ronda van TivoliVredenburg, ideaal om af te koelen na een warme dag. Bezoekers kunnen vanaf 22:00 uur de dansvloer betreden en genieten van een brede selectie aan muziek, variërend van de grootste festivalhits tot zwoele R&B-tracks…",
+          "url": "https://www.podiuminfo.nl/concert/476541/After-Sun-Midnight-Melodies/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1485,11 +1478,11 @@
         },
         {
           "id": "599589",
-          "title": "Flights of Fancy: Rock & Barrel Roll (lottery sign-up)",
+          "title": "Flights of Fancy: Rock & Barrel Roll",
           "start": "2026-06-24T19:00:00+02:00",
           "end": "2026-06-24T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Flights of Fancy: Rock &amp; Barrel Roll (lottery sign-up) Wed 24/6 7-10pm at Subcultures @De Bierkantine English, Mausritter Written by Peter Elroy &amp;amp;amp; Max Philippi Flights of Fancy is an aerial Mausritter adventure collection that takes you to the skies above and the vastness below.…",
+          "description": "Flights of Fancy: Rock &amp; Barrel Roll Wed 24/6 7-10pm at Subcultures @De Bierkantine English, Mausritter Written by Peter Elroy &amp;amp;amp; Max Philippi Flights of Fancy is an aerial Mausritter adventure collection that takes you to the skies above and the vastness below. TL;DR: Where; De…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/fc88815a-6227-4112-acdd-b2875624468e",
           "tags": []
         },
@@ -1697,8 +1690,7 @@
             "Ladies'(K)night"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "casual-carnage",
@@ -1768,8 +1760,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -1840,16 +1831,6 @@
       "feedUrl": "https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/",
       "events": [
         {
-          "id": "weighted-dice-event_314821792",
-          "title": "June Board Games Meetup",
-          "start": "2026-06-20T13:00:00+02:00",
-          "end": "2026-06-20T23:00:00+02:00",
-          "location": "Weighted Dice Utrecht, Utrecht",
-          "description": "P\n\nYou can bring your own games and/or play those brought by others.\nAlso, plenty of games to be chosen from Het Lab to be played.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for…",
-          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/314821792/",
-          "tags": []
-        },
-        {
           "id": "weighted-dice-event_315275746",
           "title": "July Board Gaming Meetup",
           "start": "2026-07-18T13:00:00+02:00",
@@ -1868,21 +1849,7 @@
       "icon": "🦸",
       "scene": "beurzen",
       "feedUrl": "https://www.dutchcomiccon.com/",
-      "events": [
-        {
-          "id": "dcc-20260620",
-          "title": "Heroes Dutch Comic Con",
-          "start": "2026-06-20T10:00:00+02:00",
-          "end": "2026-06-21T18:00:00+02:00",
-          "location": "Jaarbeurs Utrecht, Jaarbeursplein 6, 3521 AL Utrecht",
-          "description": "Heroes Dutch Comic Con is the largest Comic Con in the Netherlands. An entertaining event full of experiences where you’ll find everything related to movies, series, comics, cosplay, games, superheroes, fantasy/science fiction and anime in form of activities, shows, panels, fanclubs, workshops and…",
-          "url": "https://www.dutchcomiccon.com",
-          "tags": [
-            "Comic Con",
-            "Pop Culture"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "spellenspektakel",
@@ -2087,6 +2054,21 @@
             "Workshop",
             "Vechtclub Keiland"
           ]
+        },
+        {
+          "id": "beton-buitenspeeldag-voor-kinderen-4",
+          "title": "Buitenspeeldag voor Kinderen",
+          "start": "2026-06-27T00:00:00+02:00",
+          "end": "2026-06-27T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/buitenspeeldag-voor-kinderen-4/",
+          "tags": [
+            "Gratis",
+            "Kinderen",
+            "Terras",
+            "Workshop"
+          ]
         }
       ]
     },
@@ -2178,18 +2160,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001471-1781996400-1782021600",
-          "title": "BASIS/ BSLS [hardware live]/ Miløw/ Ørgie/ Redbatun",
-          "start": "2026-06-20T23:00:00+02:00",
-          "end": "2026-06-21T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-bsls-hardware-live-ema-leo-milow-orgie-redbatun/",
-          "tags": [
-            "Industrial"
-          ]
-        },
         {
           "id": "basis-utrecht-10001463-1782514800-1782540000",
           "title": "BASIS/ Kegffnayy/ L.ZWO/ SAMOH [live]/ Supergloss",
@@ -2417,8 +2387,7 @@
             "Trance"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "soia-utrecht",
@@ -2529,8 +2498,7 @@
             "Melee"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "buhurt-clubnights",
@@ -2539,22 +2507,7 @@
       "icon": "🛡️",
       "scene": "buhurt",
       "feedUrl": "",
-      "events": [
-        {
-          "id": "disorder-ii-2026",
-          "title": "DISØRDER II – Buhurt Fight Night & Rave",
-          "start": "2026-06-20T23:00:00+02:00",
-          "end": "2026-06-21T07:00:00+02:00",
-          "location": "SPOTx Club, Vegyigépgyár utca 1, Budapest",
-          "country": "Hungary",
-          "description": "Buhurt fight night & rave door Death Sector. Geharnast gevecht en clubnacht in één.",
-          "url": "https://cooltix.hu/event/6a1aca9ff4a48a4abf97aaca",
-          "tags": [
-            "Fight Night",
-            "Rave"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "buhurt-bi",

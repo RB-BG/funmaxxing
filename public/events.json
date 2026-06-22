@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T06:38:28.151Z",
+  "updatedAt": "2026-06-22T06:52:41.299Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -417,16 +417,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/",
       "events": [
         {
-          "id": "464807",
-          "title": "Consensual Peggy",
-          "start": "2026-06-21T20:00:00+02:00",
-          "end": "2026-06-21T21:00:00.000Z",
-          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
-          "description": "“Any man can be a father, but it takes someone special to be a daddy.”\r\nDe Utrechtse punkband Consensual Peggy claimt vaderdag voor een recalcitrant daddyfest. Daddyfest gaat over queerness, over sexy daddy zijn voor jezelf of een ander, en vooral over de performativiteit van gender. ",
-          "url": "https://www.podiuminfo.nl/concert/464807/Consensual-Peggy/EKKO/",
-          "tags": []
-        },
-        {
           "id": "477419",
           "title": "Chiel Rusken - Aan een stuk Door",
           "start": "2026-06-24T20:00:00+02:00",
@@ -627,16 +617,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-tivoli-de-naborrel-21-06-2026",
-          "title": "Tivoli – De Naborrel",
-          "start": "2026-06-21T19:00:00+02:00",
-          "end": "2026-06-21T23:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "…na De Toegift eindelijk De Naborrel",
-          "url": "https://dehelling.nl/agenda/tivoli-de-naborrel-21-06-2026/",
-          "tags": []
-        },
         {
           "id": "helling-yungblud-showcase-23-06-2026",
           "title": "Yungblud showcase",
@@ -1207,16 +1187,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "456940",
-          "title": "Slotconcert Dag van de Componist",
-          "start": "2026-06-21T20:00:00+02:00",
-          "end": "2026-06-21T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Slotconcert van de Dag van de Componist presenteert een avond vol nieuwe klassieke muziek met het Radio Filharmonisch Orkest onder leiding van dirigent Markus Stenz. Centraal staat het bekroonde vioolconcert ‘Out of the Deep’ van Joey Roukens, speciaal geschreven voor en uitgevoerd door…",
-          "url": "https://www.podiuminfo.nl/concert/456940/Slotconcert-Dag-van-de-Componist/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "455741",
           "title": "Balance And Composure",
           "start": "2026-06-22T20:00:00+02:00",
@@ -1434,6 +1404,26 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Ontdek 'After Sun: Midnight Melodies', een nieuwe zomernacht in de Ronda van TivoliVredenburg, ideaal om af te koelen na een warme dag. Bezoekers kunnen vanaf 22:00 uur de dansvloer betreden en genieten van een brede selectie aan muziek, variërend van de grootste festivalhits tot zwoele R&B-tracks…",
           "url": "https://www.podiuminfo.nl/concert/476541/After-Sun-Midnight-Melodies/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "479501",
+          "title": "Afrolounge",
+          "start": "2026-07-04T19:30:00+02:00",
+          "end": "2026-07-04T20:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Afrolounge is een concept van Stichting Omroep AfroNet en Stichting Anansi Instituut, georganiseerd bij TivoliVredenburg. Deze avond staat in het teken van sfeer, muziek en connectie, en biedt een consistente ervaring gericht op ontspanning, dansen en het ontmoeten van nieuwe mensen. Het programma…",
+          "url": "https://www.podiuminfo.nl/concert/479501/Afrolounge/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "462611",
+          "title": "Busty and The Bass",
+          "start": "2026-07-05T20:15:00+02:00",
+          "end": "2026-07-05T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Busty and the Bass uit Montreal navigeert vrijelijk tussen jazz, alternatieve R&B, funk en dance. Dit collectief, opgericht in 2011 aan het lokale conservatorium, heeft inmiddels drie albums uitgebracht. In 2024 werden ze genomineerd voor een JUNO Award, de Canadese evenknie van de Grammy’s. Hun…",
+          "url": "https://www.podiuminfo.nl/concert/462611/Busty-and-The-Bass/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -1667,15 +1657,15 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-22647",
-          "title": "Prerelease Ticket – Zondag 11:00 – 1v1 – Marvel",
-          "start": "2026-06-21T11:00:00+02:00",
-          "end": "2026-06-21T17:00:00+02:00",
+          "id": "lab-monkey-22708",
+          "title": "Commander Tuesday",
+          "start": "2026-06-23T18:00:00+02:00",
+          "end": "2026-06-23T23:00:00+02:00",
           "location": "t Lab, Utrecht",
-          "description": "Een nieuwe set betekend een prerelease! Let op wij beginnen om 11:00! Je krijgt 6 boosters, een random foil promo en natuurlijk de befaamde spindown dobbelsteen. Deelnamekosten: €50,-. We spelen 4 rondes Swiss (je kunt elke ronde spelen). Per speler gaat er 1.5 Play Booster in de prijzenpot. Bestel…",
-          "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zondag-1100-1v1-marvel/",
+          "description": "De gebruikelijke Commander Tuesday bij &#8216;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-231/",
           "tags": [
-            "Pre-release"
+            "Commander"
           ]
         },
         {
@@ -1688,6 +1678,18 @@
           "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
           "tags": [
             "Ladies'(K)night"
+          ]
+        },
+        {
+          "id": "lab-monkey-22710",
+          "title": "Weekly Draft",
+          "start": "2026-06-25T19:00:00+02:00",
+          "end": "2026-06-25T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-117/",
+          "tags": [
+            "Draft"
           ]
         }
       ]
@@ -1947,75 +1949,6 @@
           ]
         },
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-4",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-4/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-27",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-27/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-9",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-9/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-26",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-26/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-5",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-5/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-41",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-06-24T00:00:00+02:00",
@@ -2068,6 +2001,23 @@
             "Kinderen",
             "Terras",
             "Workshop"
+          ]
+        },
+        {
+          "id": "beton-de-betonnerie-tweedekansmarkt-16",
+          "title": "De Betonnerie – tweedekansmarkt",
+          "start": "2026-06-28T00:00:00+02:00",
+          "end": "2026-06-28T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/de-betonnerie-tweedekansmarkt-16/",
+          "tags": [
+            "Eten / Drinken",
+            "Gratis",
+            "Markt",
+            "Muziek",
+            "Studio-T",
+            "Terras"
           ]
         }
       ]

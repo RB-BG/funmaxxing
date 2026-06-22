@@ -56,6 +56,15 @@ export const SCENES: SceneDef[] = [
     facetsOf: (e) => (e.country ? [e.country] : []),
     facetLabel: (f) => f,
   },
+  {
+    id: "middeleeuwen",
+    name: "Middeleeuwen",
+    titleLines: ["FANTASY", "& RIDDERS"],
+    tagline: "Fantasy fairs, riddertoernooien en middeleeuwse festivals in Nederland.",
+    skin: { accent: "#92400e", accent2: "#166534" },
+    facetsOf: (e) => [e.source.name],
+    facetLabel: (f) => f,
+  },
 ]
 
 export function sceneById(id: string): SceneDef {

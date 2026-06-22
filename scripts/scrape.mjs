@@ -30,6 +30,13 @@ const VENUES = [
   { id: 'basis-utrecht',     name: 'BASIS',                 color: '#14b8a6', icon: '🔊', scene: 'utrecht', type: 'ical',      feedUrl: 'https://clubbasis.nl/events/?ical=1' },
   { id: 'soia-utrecht',      name: 'Strand Oog in Al',      color: '#eab308', icon: '🏖️', scene: 'utrecht', type: 'soia',      feedUrl: 'https://soia.nl/agenda/feed/' },
 
+  // Middeleeuwen scene (fantasy fairs, medieval festivals, SCA)
+  { id: 'polderslot-sca',         name: 'Polderslot (SCA)',       color: '#92400e', icon: '⚔️',  scene: 'middeleeuwen', type: 'drachenwald-sca',      feedUrl: 'https://dis.drachenwald.sca.org/data/calendar.json' },
+  { id: 'castlefest',             name: 'Castlefest',             color: '#166534', icon: '🏰', scene: 'middeleeuwen', type: 'castlefest',           feedUrl: 'https://castlefest.nl/nl' },
+  { id: 'elfia',                  name: 'Elfia',                  color: '#6d28d9', icon: '🧝', scene: 'middeleeuwen', type: 'elfia',                feedUrl: 'https://elfia.com' },
+  { id: 'archeon',                name: 'Archeon',                color: '#b45309', icon: '🏛️', scene: 'middeleeuwen', type: 'archeon',              feedUrl: 'https://archeon.eu' },
+  { id: 'kommus-kasteelfestival', name: 'KommuS Kasteelfestival', color: '#0f766e', icon: '🎭', scene: 'middeleeuwen', type: 'kommus-kasteelfestival', feedUrl: 'https://castlefestival.nl' },
+
   // Buhurt scene (medieval armored combat), Europe only.
   { id: 'buhurt-eu',         name: 'Buhurt toernooien (EU)', color: '#b61e1e', icon: '⚔️', scene: 'buhurt', type: 'buhurt-wob',    feedUrl: 'https://www.worldofbuhurt.com/tournaments' },
   { id: 'buhurt-clubnights', name: 'Buhurt club nights',     color: '#9b51e0', icon: '🛡️', scene: 'buhurt', type: 'buhurt-manual', feedUrl: '' },
@@ -947,6 +954,207 @@ async function scrapeEkkoWp(venue) {
   return events
 }
 
+/** Polderslot / SCA — filter Dutch events from the Drachenwald kingdom calendar. */
+async function scrapeDrachenwaldSca(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const data = await res.json()
+
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const todayStr = today.toISOString().slice(0, 10)
+  const pad = n => String(n).padStart(2, '0')
+
+  return data
+    .filter(e => {
+      const country = (e['country'] ?? '').trim().toLowerCase()
+      const branch  = (e['host-branch'] ?? '').trim().toLowerCase()
+      const isNl    = country.includes('netherlands') || country.includes('nederland') || branch.includes('polderslot')
+      const isFuture    = (e['start-date'] ?? '') >= todayStr
+      const notCancelled = !(e['status'] ?? '').toLowerCase().includes('cancel')
+      const notInfo      = (e['type'] ?? '') !== 'other'
+      return isNl && isFuture && notCancelled && notInfo
+    })
+    .map(e => {
+      const start  = e['start-date']
+      const end    = e['end-date'] || start
+      const month  = parseInt(start.slice(5, 7))
+      const tz     = month >= 4 && month <= 9 ? '+02:00' : '+01:00'
+      const slug   = e['slug'] ?? ''
+      const location = [e['town'], e['site-address']].filter(Boolean).join(', ') || 'Nederland'
+      const url    = e['website'] || (slug ? `https://polderslot.info/agenda/#/${slug}` : venue.feedUrl)
+      return {
+        id:          `sca-${slug || start + '-' + (e['event-name'] ?? '').replace(/\s+/g, '-').toLowerCase()}`,
+        title:       e['event-name'] ?? '',
+        start:       `${start}T12:00:00${tz}`,
+        end:         `${end}T23:00:00${tz}`,
+        location,
+        description: truncate(stripHtml(e['summary'] ?? '')),
+        url,
+        tags:        [],
+      }
+    })
+}
+
+/** Castlefest (medieval/fantasy festival, Kasteel Keukenhof, Lisse): hardcoded — site blocks scrapers. Update annually. */
+async function scrapeCastlefest(venue) {
+  return [{
+    id:          'castlefest-2026',
+    title:       'Castlefest 2026',
+    start:       '2026-07-30T11:00:00+02:00',
+    end:         '2026-08-02T23:00:00+02:00',
+    location:    'Kasteel Keukenhof, Lisse',
+    description: 'Vier dagen fantasy, middeleeuwen en live muziek bij Kasteel Keukenhof.',
+    url:         venue.feedUrl,
+    tags:        [],
+  }]
+}
+
+/** Parse Elfia date strings like "19th and 20th September 2026" or "8th, 9th, 10th May 2026". */
+function parseElfiaDate(str) {
+  // "19th and 20th September 2026"
+  let m = str.match(/(\d{1,2})(?:st|nd|rd|th)?[^a-z]+and[^a-z]+(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+(\d{4})/i)
+  if (m) {
+    const month = EN_MONTHS[m[3].toLowerCase()]
+    if (month) return { year: parseInt(m[4]), month, startDay: parseInt(m[1]), endDay: parseInt(m[2]) }
+  }
+  // "8th, 9th, 10th May 2026" — take first and last day number
+  m = str.match(/(\d{1,2})(?:st|nd|rd|th)?(?:[^0-9]+\d{1,2}(?:st|nd|rd|th)?)+[^0-9]+(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+(\d{4})/i)
+  if (m) {
+    const month = EN_MONTHS[m[3].toLowerCase()]
+    if (month) return { year: parseInt(m[4]), month, startDay: parseInt(m[1]), endDay: parseInt(m[2]) }
+  }
+  // "20 - 21 September 2025"
+  m = str.match(/(\d{1,2})\s*[-–]\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/i)
+  if (m) {
+    const month = EN_MONTHS[m[3].toLowerCase()]
+    if (month) return { year: parseInt(m[4]), month, startDay: parseInt(m[1]), endDay: parseInt(m[2]) }
+  }
+  return null
+}
+
+/** Elfia (fantasy fair) — parses upcoming editions from the versioned landmark-page.js. */
+async function scrapeElfia(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const jsM = html.match(/src="([^"]*landmark-page\.js[^"]*)"/)
+  if (!jsM) return []
+  const jsUrl = new URL(jsM[1].replace(/^\.\//, ''), venue.feedUrl).href
+
+  const jsRes = await fetch(jsUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!jsRes.ok) throw new Error(`HTTP ${jsRes.status}`)
+  const js = await jsRes.text()
+
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const todayStr = today.toISOString().slice(0, 10)
+  const pad = n => String(n).padStart(2, '0')
+  const seen = new Set()
+  const events = []
+
+  for (const [, title, date] of js.matchAll(/title:\s*'([^']+)'[\s\S]{0,1200}?date:\s*'([^']+)'/g)) {
+    const key = title + '|' + date
+    if (seen.has(key)) continue
+    seen.add(key)
+
+    const parsed = parseElfiaDate(date)
+    if (!parsed) continue
+
+    const { year, month, startDay, endDay } = parsed
+    const startStr = `${year}-${pad(month)}-${pad(startDay)}`
+    if (startStr < todayStr) continue
+
+    const tz = month >= 4 && month <= 9 ? '+02:00' : '+01:00'
+    const cleanTitle = title.replace(/\s*Castle\s+|\s*Gardens?\s*/gi, ' ').trim()
+    events.push({
+      id:          `elfia-${cleanTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-${year}`,
+      title:       `Elfia ${cleanTitle} ${year}`,
+      start:       `${startStr}T10:00:00${tz}`,
+      end:         `${year}-${pad(month)}-${pad(endDay)}T22:00:00${tz}`,
+      location:    `${title}, Nederland`,
+      description: `Outdoor fantasy fair bij ${title}.`,
+      url:         venue.feedUrl,
+      tags:        [],
+    })
+  }
+
+  return events
+}
+
+/** Archeon (historical theme park, Alphen a/d Rijn) — reads special-event WP pages by slug. */
+async function scrapeArcheon(venue) {
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const todayStr = today.toISOString().slice(0, 10)
+  const pad = n => String(n).padStart(2, '0')
+
+  const eventPages = [
+    { slug: 'midzomerfair',  label: 'Midzomer Fair' },
+    { slug: 'midwinterfair', label: 'Midwinter Fair' },
+  ]
+
+  const events = []
+  for (const { slug, label } of eventPages) {
+    const res = await fetch(
+      `https://archeon.eu/wp-json/wp/v2/pages?slug=${slug}&_fields=title,content,link`,
+      { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' } },
+    )
+    if (!res.ok) continue
+    const pages = await res.json()
+    if (!pages.length) continue
+
+    const content = pages[0].content?.rendered ?? ''
+    // "4 &#038; 5 juli 2026"  or  "12 &amp; 13 december 2026"
+    const m = content.match(/(\d{1,2})\s*(?:&#0*38;|&amp;|&)\s*(\d{1,2})\s+([a-zéëïáó]+)\s+(\d{4})/i)
+    if (!m) continue
+
+    const startDay = parseInt(m[1])
+    const endDay   = parseInt(m[2])
+    const month    = NL_MONTHS[m[3].toLowerCase().slice(0, 3)]
+    const year     = m[4]
+    if (!month) continue
+
+    const startStr = `${year}-${pad(month)}-${pad(startDay)}`
+    if (startStr < todayStr) continue
+
+    const tz = month >= 4 && month <= 9 ? '+02:00' : '+01:00'
+    events.push({
+      id:          `archeon-${slug}-${year}`,
+      title:       `Archeon ${label} ${year}`,
+      start:       `${startStr}T11:00:00${tz}`,
+      end:         `${year}-${pad(month)}-${pad(endDay)}T23:00:00${tz}`,
+      location:    'Archeon Museumpark, Alphen aan den Rijn',
+      description: truncate(stripHtml(content).slice(0, 400)),
+      url:         pages[0].link ?? venue.feedUrl,
+      tags:        [],
+    })
+  }
+
+  return events
+}
+
+/** KommuS Kasteelfestival (Geldrop): hardcoded — site has no scrape-friendly API. Update annually. */
+async function scrapeKommusKasteelfestival(venue) {
+  return [{
+    id:          'kommus-kasteelfestival-2026',
+    title:       'KommuS Kasteelfestival 2026',
+    start:       '2026-07-04T13:00:00+02:00',
+    end:         '2026-07-05T23:30:00+02:00',
+    location:    'Kasteeltuin, Geldrop',
+    description: 'Jubileumeditie (10e keer) van het jaarlijkse kasteelfestival in de tuin van Kasteel Geldrop.',
+    url:         venue.feedUrl,
+    tags:        [],
+  }]
+}
+
 /** Manually curated buhurt club nights (not in any tournament feed). */
 async function scrapeManualBuhurt() {
   return MANUAL_BUHURT.map((e) => ({ ...e }))
@@ -973,7 +1181,12 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'spellenspektakel') events = await scrapeSpellenspektakel(venue)
     else if (venue.type === 'abunai')           events = await scrapeAbunai(venue)
     else if (venue.type === 'animecon')         events = await scrapeAnimecon(venue)
-    else if (venue.type === 'ekko-wp')          events = await scrapeEkkoWp(venue)
+    else if (venue.type === 'ekko-wp')               events = await scrapeEkkoWp(venue)
+    else if (venue.type === 'drachenwald-sca')       events = await scrapeDrachenwaldSca(venue)
+    else if (venue.type === 'castlefest')             events = await scrapeCastlefest(venue)
+    else if (venue.type === 'elfia')                  events = await scrapeElfia(venue)
+    else if (venue.type === 'archeon')                events = await scrapeArcheon(venue)
+    else if (venue.type === 'kommus-kasteelfestival') events = await scrapeKommusKasteelfestival(venue)
     else events = await scrapePodiuminfo(venue)
 
     // Sanity check: a silent break (HTML restructured, feed empty) returns 0 without throwing.

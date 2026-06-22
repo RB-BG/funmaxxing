@@ -9,7 +9,7 @@ const OUTPUT_PATH = resolve(__dirname, '../public/events.json')
 // Each source belongs to a "scene" (a city/topic the app can switch between).
 const VENUES = [
   { id: 'dbs-utrecht',       name: "dB's Utrecht",         color: '#ef4444', icon: '🎸', scene: 'utrecht', type: 'dbs-ical',   feedUrl: 'https://dbstudio.nl/events/?ical=1' },
-  { id: 'ekko-utrecht',      name: 'EKKO Utrecht',          color: '#0ea5e9', icon: '🔵', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/60/concerten/EKKO/Utrecht/' },
+  { id: 'ekko-utrecht',      name: 'EKKO Utrecht',          color: '#0ea5e9', icon: '🔵', scene: 'utrecht', type: 'ekko-wp',    feedUrl: 'https://ekko.nl/wp-json/wp/v2/event' },
   { id: 'de-helling',        name: 'De Helling',            color: '#22c55e', icon: '🟢', scene: 'utrecht', type: 'helling',    feedUrl: 'https://dehelling.nl/agenda' },
   { id: 'nar-utrecht',       name: 'NAR Café der Kunsten',  color: '#a855f7', icon: '🟣', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/' },
   { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
@@ -890,6 +890,63 @@ async function scrapeAnimecon(venue) {
   }]
 }
 
+/** EKKO Utrecht — WordPress REST API with ACF event fields. */
+async function scrapeEkkoWp(venue) {
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const todayStr = today.toISOString().slice(0, 10)
+
+  const events = []
+  const seenSlugs = new Set()
+
+  for (let page = 1; page <= 5; page++) {
+    const res = await fetch(
+      `https://ekko.nl/wp-json/wp/v2/event?per_page=100&_fields=id,slug,title,link,acf,content&orderby=modified&order=desc&page=${page}`,
+      { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' } },
+    )
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    const data = await res.json()
+    if (!data.length) break
+
+    let foundFuture = 0
+    for (const e of data) {
+      if (e.link.includes('/en/event/')) continue  // skip English duplicates
+      const slug = e.slug ?? String(e.id)
+      if (seenSlugs.has(slug)) continue
+      seenSlugs.add(slug)
+
+      const dateTime = e.acf?.date_time
+      if (!dateTime || dateTime.slice(0, 10) < todayStr) continue
+      foundFuture++
+
+      const dt = dateTime.replace(' ', 'T')
+      const month = parseInt(dateTime.slice(5, 7))
+      const tz = (month >= 4 && month <= 9) ? '+02:00' : '+01:00'
+      const start = dt + tz
+
+      const endDateTime = e.acf?.date_time_end
+      const end = endDateTime
+        ? endDateTime.replace(' ', 'T') + ((parseInt(endDateTime.slice(5, 7)) >= 4 && parseInt(endDateTime.slice(5, 7)) <= 9) ? '+02:00' : '+01:00')
+        : addHours(start, 3)
+
+      events.push({
+        id: String(e.id),
+        title: decodeXml(e.title?.rendered ?? ''),
+        start,
+        end,
+        location: 'EKKO, Bemuurde Weerd OZ 3, Utrecht',
+        description: truncate(stripHtml(e.content?.rendered ?? e.acf?.one_liner ?? '')),
+        url: e.link,
+        tags: [],
+      })
+    }
+
+    if (foundFuture === 0) break
+  }
+
+  return events
+}
+
 /** Manually curated buhurt club nights (not in any tournament feed). */
 async function scrapeManualBuhurt() {
   return MANUAL_BUHURT.map((e) => ({ ...e }))
@@ -916,6 +973,7 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'spellenspektakel') events = await scrapeSpellenspektakel(venue)
     else if (venue.type === 'abunai')           events = await scrapeAbunai(venue)
     else if (venue.type === 'animecon')         events = await scrapeAnimecon(venue)
+    else if (venue.type === 'ekko-wp')          events = await scrapeEkkoWp(venue)
     else events = await scrapePodiuminfo(venue)
 
     // Sanity check: a silent break (HTML restructured, feed empty) returns 0 without throwing.

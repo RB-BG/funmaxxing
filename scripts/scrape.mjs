@@ -36,6 +36,11 @@ const VENUES = [
   { id: 'elfia',                  name: 'Elfia',                  color: '#6d28d9', icon: '🧝', scene: 'middeleeuwen', type: 'elfia',                feedUrl: 'https://elfia.com' },
   { id: 'archeon',                name: 'Archeon',                color: '#b45309', icon: '🏛️', scene: 'middeleeuwen', type: 'archeon',              feedUrl: 'https://archeon.eu' },
   { id: 'kommus-kasteelfestival', name: 'KommuS Kasteelfestival', color: '#0f766e', icon: '🎭', scene: 'middeleeuwen', type: 'kommus-kasteelfestival', feedUrl: 'https://castlefestival.nl' },
+  { id: 'muiderslot',           name: 'Muiderslot',             color: '#78350f', icon: '🏰', scene: 'middeleeuwen', type: 'muiderslot',           feedUrl: 'https://muiderslot.nl/ontdek-het-muiderslot/agenda/' },
+  { id: 'slot-loevestein',      name: 'Slot Loevestein',        color: '#1e3a5f', icon: '⚔️',  scene: 'middeleeuwen', type: 'slot-loevestein',      feedUrl: 'https://www.slotloevestein.nl/agenda/' },
+  { id: 'ruine-brederode',      name: 'Ruïne van Brederode',    color: '#713f12', icon: '🏚️', scene: 'middeleeuwen', type: 'ruine-brederode',      feedUrl: 'https://ruinevanbrederode.nl/activiteiten/' },
+  { id: 'hoensbroek',           name: 'Kasteel Hoensbroek',     color: '#7c2d12', icon: '🛡️', scene: 'middeleeuwen', type: 'hoensbroek',           feedUrl: 'https://www.kasteelhoensbroek.nl/wat-is-er-te-doen/' },
+  { id: 'montfort',             name: 'Middeleeuws Montfort',   color: '#14532d', icon: '⚔️',  scene: 'middeleeuwen', type: 'montfort',             feedUrl: 'https://middeleeuwsmontfort.nl/' },
 
   // Buhurt scene (medieval armored combat), Europe only.
   { id: 'buhurt-eu',         name: 'Buhurt toernooien (EU)', color: '#b61e1e', icon: '⚔️', scene: 'buhurt', type: 'buhurt-wob',    feedUrl: 'https://www.worldofbuhurt.com/tournaments' },
@@ -1155,6 +1160,311 @@ async function scrapeKommusKasteelfestival(venue) {
   }]
 }
 
+/** Resolve a Dutch month word (full or abbreviated) to a 1-12 number. */
+function nlMonth(str) {
+  const full = { maart: 3, februari: 2, augustus: 8, september: 9, oktober: 10, november: 11, december: 12 }
+  const s = str.toLowerCase()
+  return full[s] ?? NL_MONTHS[s.slice(0, 3)] ?? null
+}
+
+/**
+ * Parse a Dutch date string (without year) into { startDay, startMonth, endDay, endMonth }.
+ * Handles: "8 juni t/m 30 augustus", "4 t/m 26 juli", "26 juni", "13, 14 en 15 juli".
+ */
+function parseDutchDateRange(str) {
+  const s = str.trim().toLowerCase().replace(/&amp;/g, '&').replace(/&#[0-9]+;/g, ' ')
+
+  // "8 juni t/m 30 augustus" (cross-month)
+  const MONTH_WORD = 'jan(?:uari)?|feb(?:ruari)?|maart|apr(?:il)?|mei|jun(?:i)?|jul(?:i)?|aug(?:ustus)?|sep(?:tember)?|okt(?:ober)?|nov(?:ember)?|dec(?:ember)?'
+  let m = s.match(new RegExp(`(\\d{1,2})\\s+(${MONTH_WORD})\\s+t\\/m\\s+(\\d{1,2})\\s+(${MONTH_WORD})`))
+  if (m) {
+    const sm = nlMonth(m[2]), em = nlMonth(m[4])
+    if (sm && em) return { startDay: +m[1], startMonth: sm, endDay: +m[3], endMonth: em }
+  }
+
+  // Find the month name, then collect all day-numbers that appear before it
+  const monM = s.match(/\b(januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|november|december)\b/)
+  if (!monM) return null
+  const mon = nlMonth(monM[1])
+  if (!mon) return null
+
+  // "4 t/m 26 juli" or "13, 14 en 15 juli" — grab all 1-2 digit numbers before the month name
+  const before = s.slice(0, monM.index)
+  const nums = [...before.matchAll(/\b(\d{1,2})\b/g)].map(n => +n[1]).filter(n => n >= 1 && n <= 31)
+  if (!nums.length) return null
+
+  return { startDay: nums[0], startMonth: mon, endDay: nums[nums.length - 1], endMonth: mon }
+}
+
+/**
+ * Return year for a given month/day.
+ * - If the date is in the future this year → current year.
+ * - If the date just passed (< 60 days ago) → current year (will be filtered as past).
+ * - If the date is clearly past (≥ 60 days ago) → next year (website lists recurring events early).
+ */
+function inferYear(month, day) {
+  const now = new Date()
+  const y = now.getFullYear()
+  const thisYear = new Date(y, month - 1, day)
+  return now - thisYear > 60 * 24 * 60 * 60 * 1000 ? y + 1 : y
+}
+
+/** Muiderslot (medieval castle, Muiden): agenda page with Dutch date strings. */
+async function scrapeMuiderslot(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const todayStr = today.toISOString().slice(0, 10)
+  const pad = n => String(n).padStart(2, '0')
+  const events = []
+  const seen = new Set()
+
+  // Each event card: <a href=".../activiteit/..." title="..."><img>...<div>date</div>...<h3>title</h3>...</a>
+  for (const [, url, titleAttr, inner] of html.matchAll(
+    /<a\s[^>]*href="(https?:\/\/muiderslot\.nl\/activiteit\/[^"]+)"[^>]*title="([^"]*)"[^>]*>([\s\S]*?)<\/a>/g,
+  )) {
+    if (seen.has(url)) continue
+    seen.add(url)
+
+    // Date is in the first <div> inside the card
+    const dateM = inner.match(/<div[^>]*>([^<]+)<\/div>/)
+    if (!dateM) continue
+    const dateStr = dateM[1].trim()
+
+    const parsed = parseDutchDateRange(dateStr)
+    if (!parsed) continue
+
+    const { startDay, startMonth, endDay, endMonth } = parsed
+    const year = inferYear(startMonth, startDay)
+    const startStr = `${year}-${pad(startMonth)}-${pad(startDay)}`
+    if (startStr < todayStr) continue
+
+    const endYear = endMonth < startMonth ? year + 1 : year
+    const tz = startMonth >= 4 && startMonth <= 9 ? '+02:00' : '+01:00'
+    const slug = url.replace(/.*\/activiteit\//, '').replace(/\/$/, '')
+
+    events.push({
+      id:          `muiderslot-${slug}-${year}`,
+      title:       stripHtml(titleAttr).trim() || 'Muiderslot activiteit',
+      start:       `${startStr}T10:00:00${tz}`,
+      end:         `${endYear}-${pad(endMonth)}-${pad(endDay)}T18:00:00${tz}`,
+      location:    'Muiderslot, Muiden',
+      description: '',
+      url,
+      tags:        [],
+    })
+  }
+
+  return events
+}
+
+/** Slot Loevestein (historic fortress, Poederooijen): agenda page with Dutch dates including year. */
+async function scrapeSlotLoevestein(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const todayStr = today.toISOString().slice(0, 10)
+  const pad = n => String(n).padStart(2, '0')
+  const events = []
+  const seen = new Set()
+
+  // Pattern: <h2/h3 class="t-entry-title ..."><a href="URL">title</a></h2/h3> ... <span class="t-entry-date">date</span>
+  for (const [, url, rawTitle, dateStr] of html.matchAll(
+    /<h[23][^>]*t-entry-title[^>]*>\s*<a\s+href="(https?:\/\/www\.slotloevestein\.nl\/agenda\/[^"]+)"[^>]*>([\s\S]*?)<\/a>\s*<\/h[23]>[\s\S]{0,400}?<span[^>]*t-entry-date[^>]*>([\s\S]*?)<\/span>/g,
+  )) {
+    if (seen.has(url)) continue
+    seen.add(url)
+
+    const title = stripHtml(rawTitle).trim()
+    const dateTxt = stripHtml(dateStr).trim()
+
+    // "4 juli 2026 — 30 augustus 2026" or "25 juli 2026 — 26 juli 2026"
+    let startStr, endStr, tz
+    const rangeM = dateTxt.match(/(\d{1,2})\s+([a-z]+)\s+(\d{4})\s*(?:—|–|-+)\s*(\d{1,2})\s+([a-z]+)\s+(\d{4})/i)
+    if (rangeM) {
+      const sm = nlMonth(rangeM[2])
+      const em = nlMonth(rangeM[5])
+      if (!sm || !em) continue
+      startStr = `${rangeM[3]}-${pad(sm)}-${pad(+rangeM[1])}`
+      endStr   = `${rangeM[6]}-${pad(em)}-${pad(+rangeM[4])}`
+      tz = sm >= 4 && sm <= 9 ? '+02:00' : '+01:00'
+    } else {
+      // "26 september 2026" — single date
+      const singleM = dateTxt.match(/(\d{1,2})\s+([a-z]+)\s+(\d{4})/i)
+      if (!singleM) continue
+      const mon = nlMonth(singleM[2])
+      if (!mon) continue
+      startStr = `${singleM[3]}-${pad(mon)}-${pad(+singleM[1])}`
+      endStr   = startStr
+      tz = mon >= 4 && mon <= 9 ? '+02:00' : '+01:00'
+    }
+
+    if (startStr < todayStr) continue
+    const slug = url.replace(/.*\/agenda\//, '').replace(/\/$/, '')
+
+    events.push({
+      id:          `loevestein-${slug}-${startStr.slice(0, 7)}`,
+      title,
+      start:       `${startStr}T10:00:00${tz}`,
+      end:         `${endStr}T18:00:00${tz}`,
+      location:    'Slot Loevestein, Poederooijen',
+      description: '',
+      url,
+      tags:        [],
+    })
+  }
+
+  return events
+}
+
+/** Ruïne van Brederode (Santpoort-Zuid): filter to Ruïne Bewoond + falconry/archery events. */
+async function scrapeRuineBrederode(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const todayStr = today.toISOString().slice(0, 10)
+  const pad = n => String(n).padStart(2, '0')
+  const KEEP = /ruïne bewoond|bewoond|valkenier|roofvogel|middeleeuw|ridder|boogschiet/i
+  // Structure: <p>date</p> ... <h4>title</h4> ... <a href="URL">
+  const DAYS = 'maandag|dinsdag|woensdag|donderdag|vrijdag|zaterdag|zondag'
+  const events = []
+  const seenIds = new Set()
+
+  for (const [titleTag, titlePos] of [...html.matchAll(/<h4[^>]*>([\s\S]*?)<\/h4>/g)].map(m => [m[1], m.index])) {
+    const rawTitle = stripHtml(titleTag).replace(/&#0*38;/g, '&').trim()
+    if (!rawTitle || !KEEP.test(rawTitle)) continue
+
+    // URL in <a href> within 1000 chars after the <h4>
+    const after = html.slice(titlePos, titlePos + 1000)
+    const linkM = after.match(/href="(https?:\/\/ruinevanbrederode\.nl\/[^"]+)"/)
+
+    // Strategy 1: date embedded in the title (e.g. "Ruïne Bewoond 11 en 12 juli")
+    let startDay, endDay, mon, title
+    const titleDateM = rawTitle.match(/\b(\d{1,2})\s+en\s+(\d{1,2})\s+([a-z]+)\b/i)
+      ?? rawTitle.match(/\b(\d{1,2})\s*(?:&#0*38;|&)\s*(\d{1,2})\s+([a-z]+)\b/i)
+    if (titleDateM) {
+      startDay = +titleDateM[1]; endDay = +titleDateM[2]; mon = nlMonth(titleDateM[3])
+      // Clean the title: remove the date part
+      title = rawTitle.replace(/\s*\d{1,2}\s+en\s+\d{1,2}\s+\S+/i, '').replace(/\s*\d{1,2}\s*(?:&amp;|&)\s*\d{1,2}\s+\S+/i, '').trim()
+    } else {
+      const titleSingleM = rawTitle.match(/\b(\d{1,2})\s+([a-z]{4,})\b/i)
+      if (titleSingleM && nlMonth(titleSingleM[2])) {
+        startDay = +titleSingleM[1]; endDay = startDay; mon = nlMonth(titleSingleM[2])
+        title = rawTitle.replace(/\s*\d{1,2}\s+[a-z]{4,}/i, '').trim()
+      }
+    }
+
+    // Strategy 2: date in last <p dayname...> within 600 chars before the <h4>
+    if (!mon) {
+      title = rawTitle
+      const before = html.slice(Math.max(0, titlePos - 600), titlePos)
+      const allDatePs = [...before.matchAll(new RegExp(`<p[^>]*>\\s*((?:${DAYS})\\s[^<]{2,50})<\\/p>`, 'gi'))]
+      if (!allDatePs.length) continue
+      const dateText = allDatePs[allDatePs.length - 1][1].trim()
+
+      const rangeM = dateText.match(new RegExp(`(?:${DAYS})\\s+(\\d{1,2})\\s+en\\s+(?:${DAYS})\\s+(\\d{1,2})\\s+([a-z]+)`, 'i'))
+      if (rangeM) {
+        startDay = +rangeM[1]; endDay = +rangeM[2]; mon = nlMonth(rangeM[3])
+      } else {
+        const singleM = dateText.match(new RegExp(`(?:${DAYS})\\s+(\\d{1,2})\\s+([a-z]+)`, 'i'))
+        if (!singleM) continue
+        startDay = +singleM[1]; endDay = startDay; mon = nlMonth(singleM[2])
+      }
+    }
+    if (!mon || !title) continue
+
+    const year = inferYear(mon, startDay)
+    const startStr = `${year}-${pad(mon)}-${pad(startDay)}`
+    if (startStr < todayStr) continue
+
+    const tz = mon >= 4 && mon <= 9 ? '+02:00' : '+01:00'
+    const id = `brederode-${title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-${year}-${pad(mon)}-${pad(startDay)}`
+    if (seenIds.has(id)) continue
+    seenIds.add(id)
+
+    events.push({
+      id,
+      title,
+      start:       `${startStr}T11:00:00${tz}`,
+      end:         `${year}-${pad(mon)}-${pad(endDay)}T17:00:00${tz}`,
+      location:    'Ruïne van Brederode, Santpoort-Zuid',
+      description: '',
+      url:         linkM ? linkM[1] : venue.feedUrl,
+      tags:        [],
+    })
+  }
+
+  return events
+}
+
+/** Kasteel Hoensbroek (Limburg): overview page, extract annual Spectaculair Ridderfestijn date. */
+async function scrapeHoensbroek(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const todayStr = today.toISOString().slice(0, 10)
+  const pad = n => String(n).padStart(2, '0')
+
+  // Find the ridderfestijn article: <a href="...spectaculair-ridderfestijn/...">...<h3>...<date>
+  const blockM = html.match(/<a\s[^>]*href="([^"]*spectaculair-ridderfestijn[^"]*)"[\s\S]*?Events\s*\|\s*(\d{1,2})\s*(?:&amp;|&|en)\s*(\d{1,2})\s+([a-z]+)\s+(\d{4})/i)
+  if (!blockM) return []
+
+  const eventUrl = blockM[1]
+  const startDay = +blockM[2], endDay = +blockM[3]
+  const mon = nlMonth(blockM[4])
+  const year = blockM[5]
+  if (!mon) return []
+
+  const startStr = `${year}-${pad(mon)}-${pad(startDay)}`
+  if (startStr < todayStr) return []
+
+  const tz = mon >= 4 && mon <= 9 ? '+02:00' : '+01:00'
+  return [{
+    id:          `hoensbroek-ridderfestijn-${year}`,
+    title:       `Spectaculair Ridderfestijn Kasteel Hoensbroek ${year}`,
+    start:       `${startStr}T10:00:00${tz}`,
+    end:         `${year}-${pad(mon)}-${pad(endDay)}T17:00:00${tz}`,
+    location:    'Kasteel Hoensbroek, Hoensbroek',
+    description: 'Spectaculaire strijd om de Heerlijkheid Hoensbroeck. Ridders te paard op het toernooiveld.',
+    url:         eventUrl || venue.feedUrl,
+    tags:        ['Riddertoernooi'],
+  }]
+}
+
+/** Middeleeuws Montfort (annual medieval festival at Kasteel Montfort, Roermond): hardcoded. */
+async function scrapeMontfort(venue) {
+  return [{
+    id:          'montfort-2026',
+    title:       'Middeleeuws Montfort 2026',
+    start:       '2026-07-18T11:00:00+02:00',
+    end:         '2026-07-19T18:00:00+02:00',
+    location:    'Kasteel Montfort, Huysdijk 4, Montfort',
+    description: 'Het grootste middeleeuwse festijn van Zuid-Nederland. Ridders, jonkvrouwen, ambachtslieden en een grote middeleeuwse markt rondom Kasteel Montfort.',
+    url:         venue.feedUrl,
+    tags:        ['Festival', 'Middeleeuwen'],
+  }]
+}
+
 /** Manually curated buhurt club nights (not in any tournament feed). */
 async function scrapeManualBuhurt() {
   return MANUAL_BUHURT.map((e) => ({ ...e }))
@@ -1187,6 +1497,11 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'elfia')                  events = await scrapeElfia(venue)
     else if (venue.type === 'archeon')                events = await scrapeArcheon(venue)
     else if (venue.type === 'kommus-kasteelfestival') events = await scrapeKommusKasteelfestival(venue)
+    else if (venue.type === 'muiderslot')            events = await scrapeMuiderslot(venue)
+    else if (venue.type === 'slot-loevestein')       events = await scrapeSlotLoevestein(venue)
+    else if (venue.type === 'ruine-brederode')       events = await scrapeRuineBrederode(venue)
+    else if (venue.type === 'hoensbroek')            events = await scrapeHoensbroek(venue)
+    else if (venue.type === 'montfort')              events = await scrapeMontfort(venue)
     else events = await scrapePodiuminfo(venue)
 
     // Sanity check: a silent break (HTML restructured, feed empty) returns 0 without throwing.

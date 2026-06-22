@@ -1015,7 +1015,7 @@ async function scrapeCastlefest(venue) {
 /** Parse Elfia date strings like "19th and 20th September 2026" or "8th, 9th, 10th May 2026". */
 function parseElfiaDate(str) {
   // "19th and 20th September 2026"
-  let m = str.match(/(\d{1,2})(?:st|nd|rd|th)?[^a-z]+and[^a-z]+(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+(\d{4})/i)
+  let m = str.match(/(\d{1,2})(?:st|nd|rd|th)?\s+and\s+(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+(\d{4})/i)
   if (m) {
     const month = EN_MONTHS[m[3].toLowerCase()]
     if (month) return { year: parseInt(m[4]), month, startDay: parseInt(m[1]), endDay: parseInt(m[2]) }

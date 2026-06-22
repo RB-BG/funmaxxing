@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T18:36:10.013Z",
+  "updatedAt": "2026-06-22T19:15:50.849Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -2946,6 +2946,156 @@
           "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
           "description": "In het zand festival Zaterdag 08/08/2026 14:00 - 23:00 Voor onze zevende editie houden we ons bij het vertrouwde recept: House & Disco, verdeeld over twee stages bij SOIA – Strand Oog in Al. Line-up (a-z) ADA AYS BENNY2 BERKAN V8 EILEEN EMVAE & MOXES KENNEDY KLÉO LUCKY DONE GONE & TSEPO SAIDAH Koop…",
           "url": "https://soia.nl/agenda/in-het-zand/",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "polderslot-sca",
+      "name": "Polderslot (SCA)",
+      "color": "#92400e",
+      "icon": "⚔️",
+      "scene": "middeleeuwen",
+      "feedUrl": "https://dis.drachenwald.sca.org/data/calendar.json",
+      "events": [
+        {
+          "id": "sca-polderslot/23-aug-2026/polderslot-shire-gathering",
+          "title": "Polderslot Shire Gathering ",
+          "start": "2026-08-23T12:00:00+02:00",
+          "end": "2026-08-23T23:00:00+02:00",
+          "location": "Utrecht (Lunetten railway station), Oude Liesbosweg 76, 3524 SB Utrecht",
+          "description": "Polderslot’s Shire Gathering is an informal social event with heavy fighting, archery and arts&sciences activities. The event is mainly in garb but modern dress is also accepted. There is a potluck feast and contributions to the feast are welcome.",
+          "url": "https://polderslot.info/agenda/#/polderslot/23-aug-2026/polderslot-shire-gathering",
+          "tags": []
+        },
+        {
+          "id": "sca-polderslot/11-sept-2026/drowning-arrow",
+          "title": "Drowning arrow",
+          "start": "2026-09-11T12:00:00+02:00",
+          "end": "2026-09-13T23:00:00+02:00",
+          "location": "Nederland",
+          "description": "A weekend of archery, though there will be plenty on space for fighting and A&S. There will be camping space, as well as regular dorms. More info to follow.",
+          "url": "https://polderslot.info/agenda/#/polderslot/11-sept-2026/drowning-arrow",
+          "tags": []
+        },
+        {
+          "id": "sca-polderslot/3-oct-2026/the-grand-tour",
+          "title": "The Grand Tour",
+          "start": "2026-10-03T12:00:00+01:00",
+          "end": "2026-10-03T23:00:00+01:00",
+          "location": "Hoorn, Midwoud",
+          "description": "Maestro Giano Balestriere and Rae are excited to be your guides as you set off on your Grand Tour across Europe in search of enlightenment, architecture and art. ‘The Grand Tour’ is an SCA adjacent time period multi-course feast exploring the foods travellers enjoyed as they went out to build their…",
+          "url": "https://forms.gle/ERY5BAfYzP2A2De78",
+          "tags": []
+        },
+        {
+          "id": "sca-polderslot/25-oct-2026/polderslot-shire-gathering",
+          "title": "Polderslot Shire Gathering ",
+          "start": "2026-10-25T12:00:00+01:00",
+          "end": "2026-10-25T23:00:00+01:00",
+          "location": "Utrecht ( Lunetten railway station) , Oude Liesbosweg 76, 3524 SB Utrecht",
+          "description": "Polderslot’s Shire Gathering is an informal social event with heavy fighting, archery and A&S. The event is mainly in garb but modern clothing is also accepted. There is a potluck feast and food contributions are welcome.",
+          "url": "https://polderslot.info/agenda/#/polderslot/25-oct-2026/polderslot-shire-gathering",
+          "tags": []
+        },
+        {
+          "id": "sca-polderslot/8-jan-2027/twelfth-night-coronation",
+          "title": "Twelfth Night Coronation",
+          "start": "2027-01-08T12:00:00+01:00",
+          "end": "2027-01-10T23:00:00+01:00",
+          "location": "Rijssen, De Langenberg, Enterveenweg 10, Rijssen, 7461 PB, The Netherlands",
+          "description": "The shire of Polderslot invites you to Drachenwald’s Twelfth Night Coronation. Come join us as we celebrate the Coronation of the next Majesties to sit on the Black Dragon Thrones.",
+          "url": "https://coronation2027.polderslot.info/",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "castlefest",
+      "name": "Castlefest",
+      "color": "#166534",
+      "icon": "🏰",
+      "scene": "middeleeuwen",
+      "feedUrl": "https://castlefest.nl/nl",
+      "events": [
+        {
+          "id": "castlefest-2026",
+          "title": "Castlefest 2026",
+          "start": "2026-07-30T11:00:00+02:00",
+          "end": "2026-08-02T23:00:00+02:00",
+          "location": "Kasteel Keukenhof, Lisse",
+          "description": "Vier dagen fantasy, middeleeuwen en live muziek bij Kasteel Keukenhof.",
+          "url": "https://castlefest.nl/nl",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "elfia",
+      "name": "Elfia",
+      "color": "#6d28d9",
+      "icon": "🧝",
+      "scene": "middeleeuwen",
+      "feedUrl": "https://elfia.com",
+      "events": [
+        {
+          "id": "elfia-arcen-2026",
+          "title": "Elfia Arcen 2026",
+          "start": "2026-09-19T10:00:00+02:00",
+          "end": "2026-09-00T22:00:00+02:00",
+          "location": "Arcen Castle Gardens, Nederland",
+          "description": "Outdoor fantasy fair bij Arcen Castle Gardens.",
+          "url": "https://elfia.com",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "archeon",
+      "name": "Archeon",
+      "color": "#b45309",
+      "icon": "🏛️",
+      "scene": "middeleeuwen",
+      "feedUrl": "https://archeon.eu",
+      "events": [
+        {
+          "id": "archeon-midzomerfair-2026",
+          "title": "Archeon Midzomer Fair 2026",
+          "start": "2026-07-04T11:00:00+02:00",
+          "end": "2026-07-05T23:00:00+02:00",
+          "location": "Archeon Museumpark, Alphen aan den Rijn",
+          "description": "4 &#038; 5 juli 2026 Waar historie en fantasie samenkomen Line up zaterdag Line up zondag Informatie &#038; tickets Standhouders Overnachten Archeon Museumpark presenteert de viering van de Zonnewende. Op dit moment bereikt de zon haar noordelijkste positie aan de hemel ten opzichte van de evenaar.…",
+          "url": "https://archeon.eu/midzomerfair/",
+          "tags": []
+        },
+        {
+          "id": "archeon-midwinterfair-2026",
+          "title": "Archeon Midwinter Fair 2026",
+          "start": "2026-12-12T11:00:00+01:00",
+          "end": "2026-12-13T23:00:00+01:00",
+          "location": "Archeon Museumpark, Alphen aan den Rijn",
+          "description": "Waar Fantasy en Historie samenkomen 12 &amp; 13 december 2026 Midwinter Fair | 22e editie Heel museumpark Archeon staat in het teken van de 22e Midwinter Fair, het Winterse Fantasy festival van Nederland! Waan je in een magische wereld vol Heidense muziek, unieke producten op de Fantasy markt en…",
+          "url": "https://archeon.eu/midwinterfair/",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "kommus-kasteelfestival",
+      "name": "KommuS Kasteelfestival",
+      "color": "#0f766e",
+      "icon": "🎭",
+      "scene": "middeleeuwen",
+      "feedUrl": "https://castlefestival.nl",
+      "events": [
+        {
+          "id": "kommus-kasteelfestival-2026",
+          "title": "KommuS Kasteelfestival 2026",
+          "start": "2026-07-04T13:00:00+02:00",
+          "end": "2026-07-05T23:30:00+02:00",
+          "location": "Kasteeltuin, Geldrop",
+          "description": "Jubileumeditie (10e keer) van het jaarlijkse kasteelfestival in de tuin van Kasteel Geldrop.",
+          "url": "https://castlefestival.nl",
           "tags": []
         }
       ]

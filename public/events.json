@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T19:53:43.679Z",
+  "updatedAt": "2026-06-23T06:29:37.893Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -449,7 +449,7 @@
         {
           "id": "29987",
           "title": "Synthese x BUI",
-          "start": "2026-07-03T17:15:00+02:00",
+          "start": "2026-07-03T17:00:00+02:00",
           "end": "2026-07-03T22:00:00+02:00",
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Synthese is een muzikale ontdekkingsreis langs de verhalen en klanken van erfgoed op onconventionele locaties in Utrecht. De forten in de Utrechtse wijk Lunetten hebben al veel verschillende functies gehad. Eerst waren ze onderdeel van de Hollandse verdedigingslinie, daarna deed een van de forten…",
@@ -1645,7 +1645,8 @@
       "icon": "🟣",
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/",
-      "events": []
+      "events": [],
+      "broken": true
     },
     {
       "id": "tivoli-vredenburg",
@@ -1655,26 +1656,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "455741",
-          "title": "Balance And Composure",
-          "start": "2026-06-22T20:00:00+02:00",
-          "end": "2026-06-22T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse alternatieve rockband Balance And Composure wordt vaak een emoband genoemd, maar hun stijl is breder: ook post-hardcore en melodieuze indie- en shoegaze-invloeden zijn hoorbaar. De band debuteerde met het nogal intense album Separation (2011), opvolgers The Things We Think We're…",
-          "url": "https://www.podiuminfo.nl/concert/455741/Balance-And-Composure/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "477362",
-          "title": "Salsa on Monday",
-          "start": "2026-06-22T20:15:00+02:00",
-          "end": "2026-06-22T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "TivoliVredenburg organiseert 'Salsa on Monday', een toegankelijke dansavond voor zowel beginners als gevorderden. De avond start met een workshop om de basispassen te leren of op te frissen, waarna dj's een mix van klassieke en moderne salsahits draaien. Iedereen is welkom om te dansen, te leren en…",
-          "url": "https://www.podiuminfo.nl/concert/477362/Salsa-on-Monday/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "463075",
           "title": "Dinsdagochtend Concert",
@@ -1753,6 +1734,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "The B-52's, vijftig jaar na hun oprichting, blijven de titel 'The World’s Greatest Party Band' eer aan doen. Het eclectische Amerikaanse gezelschap brak door met hun unieke mix van surfrock, kitsch en new wave, met hits als 'Rock Lobster' en 'Planet Claire'. Met hun opvallende outfits, pruiken en…",
           "url": "https://www.podiuminfo.nl/concert/453526/The-B-52s/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "481170",
+          "title": "ULTRAJAZZ x TivoliVredenburg",
+          "start": "2026-06-25T21:00:00+02:00",
+          "end": "2026-06-25T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Elke donderdagavond staat de Rabo Open Stage in het teken van jazz, talentontwikkeling en muzikale ontmoeting onder de vlag van ULTRAJAZZ. Kika Sprangers en Bob Roos organiseren om de week bruisende jamsessies, die starten met een krachtige openingsset van een uur. Hierbij nodigt de host telkens…",
+          "url": "https://www.podiuminfo.nl/concert/481170/ULTRAJAZZ-x-TivoliVredenburg/TivoliVredenburg/",
           "tags": []
         },
         {
@@ -1893,6 +1884,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Busty and the Bass uit Montreal navigeert vrijelijk tussen jazz, alternatieve R&B, funk en dance. Dit collectief, opgericht in 2011 aan het lokale conservatorium, heeft inmiddels drie albums uitgebracht. In 2024 werden ze genomineerd voor een JUNO Award, de Canadese evenknie van de Grammy’s. Hun…",
           "url": "https://www.podiuminfo.nl/concert/462611/Busty-and-The-Bass/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "462845",
+          "title": "Los Mirlos",
+          "start": "2026-07-05T20:30:00+02:00",
+          "end": "2026-07-05T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Peruaanse band Los Mirlos is een pionier van de psychedelische cumbia, het genre waarin traditionele Latijns-Amerikaanse ritmes worden vermengd met elektrische gitaren, echo-effecten en surfrock. Los Mirlos bestaat al sinds 1973 en heeft veel bezettingswisselingen gekend, maar aan het hoofd…",
+          "url": "https://www.podiuminfo.nl/concert/462845/Los-Mirlos/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2201,7 +2202,8 @@
             "Draft"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "casual-carnage",
@@ -2271,7 +2273,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2455,75 +2458,6 @@
             "Skaten",
             "Terras",
             "Verhoogd geluidslimiet"
-          ]
-        },
-        {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-4",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-4/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-27",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-27/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-9",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-9/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-26",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-26/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-5",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-06-22T00:00:00+02:00",
-          "end": "2026-06-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-5/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
           ]
         },
         {
@@ -4069,17 +4003,6 @@
           "country": "Germany",
           "description": "Buhurt-toernooi in Germany.",
           "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
-          "tags": []
-        },
-        {
-          "id": "bi-tournament-of-visegrád-2026",
-          "title": "Tournament of Visegrád 2026",
-          "start": "2026-07-10T00:00:00+02:00",
-          "end": "2026-07-10T23:00:00+02:00",
-          "location": "Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary.",
-          "url": "https://www.buhurtinternational.com/tournament/tournament-of-visegrád-2026",
           "tags": []
         },
         {

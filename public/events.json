@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T07:34:00.405Z",
+  "updatedAt": "2026-06-24T08:11:30.186Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -2269,7 +2269,7 @@
       "name": "Ducosim",
       "color": "#7c3aed",
       "icon": "🎲",
-      "scene": "beurzen",
+      "scene": "games",
       "feedUrl": "https://www.ducosim.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
@@ -2349,7 +2349,7 @@
       "name": "Heroes Dutch Comic Con",
       "color": "#1d4ed8",
       "icon": "🦸",
-      "scene": "beurzen",
+      "scene": "games",
       "feedUrl": "https://www.dutchcomiccon.com/",
       "events": []
     },
@@ -2358,7 +2358,7 @@
       "name": "Spellenspektakel",
       "color": "#16a34a",
       "icon": "🎲",
-      "scene": "beurzen",
+      "scene": "games",
       "feedUrl": "https://spellenspektakel.nl/",
       "events": [
         {
@@ -2380,7 +2380,7 @@
       "name": "Abunai!",
       "color": "#e11d48",
       "icon": "🌸",
-      "scene": "beurzen",
+      "scene": "games",
       "feedUrl": "https://abunaicon.nl/",
       "events": [
         {
@@ -2403,7 +2403,7 @@
       "name": "AnimeCon",
       "color": "#9333ea",
       "icon": "⛩️",
-      "scene": "beurzen",
+      "scene": "games",
       "feedUrl": "https://animecon.nl/",
       "events": [
         {

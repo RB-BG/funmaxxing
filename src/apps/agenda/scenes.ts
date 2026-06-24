@@ -39,6 +39,22 @@ export const SCENES: SceneDef[] = [
     facetLabel: (f) => f,
   },
   {
+    id: "orkest",
+    name: "Soundtracks Live",
+    titleLines: ["FILM &", "GAME CONCERTS"],
+    tagline: "Orkesten die game- en filmmuziek spelen, live in concert door heel Nederland.",
+    skin: { accent: "#f59e0b", accent2: "#7c3aed" },
+    facetsOf: (e) => {
+      const text = (e.title + ' ' + (e.description ?? '')).toLowerCase()
+      const tags: string[] = []
+      if (/game|zelda|mario|pokemon|final fantasy|world of warcraft|halo|sonic|playstation|nintendo/i.test(text)) tags.push('Game')
+      if (/star wars|harry potter|lord of the rings|marvel|disney|pixar|film|cinema|movie|miyazaki|zimmer|williams/i.test(text)) tags.push('Film')
+      if (/anime|ghibli|one piece|naruto/i.test(text)) tags.push('Anime')
+      return tags.length ? tags : ['Overig']
+    },
+    facetLabel: (f) => f,
+  },
+  {
     id: "buhurt",
     name: "Buhurt EU",
     titleLines: ["BUHURT", "EUROPE"],

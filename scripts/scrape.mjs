@@ -30,6 +30,9 @@ const VENUES = [
   { id: 'basis-utrecht',     name: 'BASIS',                 color: '#14b8a6', icon: '🔊', scene: 'utrecht', type: 'ical',      feedUrl: 'https://clubbasis.nl/events/?ical=1' },
   { id: 'soia-utrecht',      name: 'Strand Oog in Al',      color: '#eab308', icon: '🏖️', scene: 'utrecht', type: 'soia',      feedUrl: 'https://soia.nl/agenda/feed/' },
 
+  // Orkest scene (film & game music live in concert, Netherlands)
+  { id: 'mic-nederland', name: 'Movies in Concert NL', color: '#f59e0b', icon: '🎻', scene: 'orkest', type: 'mic', feedUrl: 'https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum' },
+
   // Middeleeuwen scene (fantasy fairs, medieval festivals, SCA)
   { id: 'polderslot-sca',         name: 'Polderslot (SCA)',       color: '#92400e', icon: '⚔️',  scene: 'middeleeuwen', type: 'drachenwald-sca',      feedUrl: 'https://dis.drachenwald.sca.org/data/calendar.json' },
   { id: 'castlefest',             name: 'Castlefest',             color: '#166534', icon: '🏰', scene: 'middeleeuwen', type: 'castlefest',           feedUrl: 'https://castlefest.nl/nl' },
@@ -1502,6 +1505,7 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'ruine-brederode')       events = await scrapeRuineBrederode(venue)
     else if (venue.type === 'hoensbroek')            events = await scrapeHoensbroek(venue)
     else if (venue.type === 'montfort')              events = await scrapeMontfort(venue)
+    else if (venue.type === 'mic')                   events = await scrapeMoviesInConcert(venue)
     else events = await scrapePodiuminfo(venue)
 
     // Sanity check: a silent break (HTML restructured, feed empty) returns 0 without throwing.
@@ -1521,6 +1525,70 @@ async function scrapeVenue(venue, fallback) {
     console.log(`failed (${err.message}) — keeping existing, marking broken`)
     return { events: fallback, broken: true }
   }
+}
+
+async function scrapeMoviesInConcert(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const MONTHS = { Jan:0, Feb:1, Mar:2, Apr:3, May:4, Jun:5, Jul:6, Aug:7, Sep:8, Oct:9, Nov:10, Dec:11 }
+  function decodeHtml(s) {
+    return s
+      .replace(/&amp;/g, '&').replace(/&nbsp;/g, ' ').replace(/&ndash;/g, '–')
+      .replace(/&ldquo;/g, '“').replace(/&rdquo;/g, '”')
+      .replace(/&lsquo;/g, '‘').replace(/&rsquo;/g, '’')
+      .replace(/&#039;/g, "'").replace(/&quot;/g, '"')
+      .replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim()
+  }
+
+  const events = []
+  // Each row: date | country | venue? | city | title+link
+  for (const [, row] of html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi)) {
+    if (!row.includes('Netherlands')) continue
+
+    const cells = [...row.matchAll(/<td[^>]*>([\s\S]*?)<\/td>/gi)].map(m =>
+      m[1].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim()
+    )
+    if (cells.length < 5) continue
+
+    // Parse date like "23 Jun 2026"
+    const dateParts = cells[0].match(/(\d+)\s+([A-Za-z]+)\s+(\d{4})/)
+    if (!dateParts) continue
+    const [, day, mon, year] = dateParts
+    const month = MONTHS[mon]
+    if (month === undefined) continue
+    const start = new Date(+year, month, +day, 20, 0, 0)
+    const end   = new Date(+year, month, +day, 23, 0, 0)
+
+    // City is col 4 (index 3), venue hint in col 3 (index 2)
+    const city = decodeHtml(cells[3])
+    const venueHint = decodeHtml(cells[2])
+    const location = [venueHint, city, 'Netherlands'].filter(Boolean).join(', ')
+
+    // Title and URL — onmouseover="return overlib('...')" can contain >, so match href and
+    // then find the link text via the fixed onmouseout="return nd();"> sentinel.
+    const hrefMatch = row.match(/href="([^"]+)"/)
+    if (!hrefMatch) continue
+    const relUrl = hrefMatch[1]
+    const afterTag = row.match(/onmouseout="return nd\(\);">([\s\S]*?)<\/a>/i)
+    const title = afterTag ? decodeHtml(afterTag[1].replace(/<[^>]+>/g, '')) : ''
+    if (!title) continue
+
+    const url = relUrl.startsWith('http') ? relUrl : `https://www.moviesinconcert.nl/${relUrl}`
+    const idMatch = relUrl.match(/id=(\d+)/)
+    const id = idMatch ? idMatch[1] : url
+
+    // Description from overlib tooltip
+    const descMatch = row.match(/overlib\('([\s\S]*?)'\)/)
+    const description = descMatch ? truncate(decodeHtml(descMatch[1])) : undefined
+
+    events.push({ id, title, start: start.toISOString(), end: end.toISOString(), location, url, description, tags: [] })
+  }
+
+  return events
 }
 
 async function main() {

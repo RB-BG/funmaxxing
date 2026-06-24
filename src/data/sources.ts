@@ -127,6 +127,14 @@ export const SOURCES: Omit<Source, "events">[] = [
     icon: "✊",
     feedUrl: "https://acu.nl/events/feed/",
   },
+  // Orkest scene
+  {
+    id: "mic-nederland",
+    name: "Movies in Concert NL",
+    color: "#f59e0b",
+    icon: "🎻",
+    feedUrl: "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
+  },
   // Buhurt extra source
   {
     id: "buhurt-bi",

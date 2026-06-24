@@ -1,5 +1,5 @@
 import type { EnrichedEvent } from "@/types"
-import { FILTER_META, utrechtGenres, UTRECHT_GENRE_META } from "@/lib/classify"
+import { utrechtGenres, UTRECHT_GENRE_META } from "@/lib/classify"
 import type { AppSkin } from "@/ui/theme"
 
 /**

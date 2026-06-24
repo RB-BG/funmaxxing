@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState, type MouseEvent as ReactMouseEvent } from "react"
-import { motion } from "framer-motion"
+import { AnimatePresence, motion } from "framer-motion"
 import confetti from "canvas-confetti"
 import type { EnrichedEvent, Source } from "@/types"
 import { classify } from "@/lib/classify"
@@ -35,6 +35,7 @@ export function AgendaApp() {
   const [activeFacet, setActiveFacet] = useState("all")
   const [selected, setSelected] = useState<Set<string>>(new Set())
   const [hiddenSources, setHiddenSources] = useState<Set<string>>(new Set())
+  const [drawerOpen, setDrawerOpen] = useState(false)
   const { muted, toggle, play } = useSound()
   const reduced = useReducedMotion()
 
@@ -316,7 +317,7 @@ export function AgendaApp() {
           />
 
           {recommended.length > 0 && (
-            <div className="rounded-md border-2 border-ink bg-white p-3">
+            <div className="hidden rounded-md border-2 border-ink bg-white p-3 lg:block">
               <h2 className="mb-2.5 text-sm font-bold uppercase tracking-wide text-ink">
                 ✨ Misschien ook leuk
               </h2>
@@ -335,14 +336,89 @@ export function AgendaApp() {
         </aside>
       </div>
 
-      {selected.size > 0 && (
-        <div className="fixed bottom-3 left-1/2 z-[60] flex -translate-x-1/2 items-center gap-3 rounded-md border-2 border-ink bg-cream px-3 py-2 shadow-[3px_3px_0_0_var(--ink)] lg:hidden">
-          <span className="text-xs font-bold uppercase text-ink">{selected.size} gekozen</span>
-          <RetroButton type="button" onClick={handleDownload} style={{ background: "var(--app-accent)" }}>
-            Download .ics
-          </RetroButton>
-        </div>
+      {/* Mobile: sticky selection bar that opens a drawer with recommendations. */}
+      {selected.size > 0 && !drawerOpen && (
+        <button
+          type="button"
+          onClick={() => {
+            play("click")
+            setDrawerOpen(true)
+          }}
+          className="fixed bottom-3 left-1/2 z-[60] flex -translate-x-1/2 items-center gap-2 rounded-md border-2 border-ink bg-cream px-4 py-2.5 shadow-[3px_3px_0_0_var(--ink)] lg:hidden"
+        >
+          <span className="text-sm font-bold uppercase tracking-wide text-ink">
+            {selected.size} gekozen
+          </span>
+          <span className="text-xs font-bold uppercase tracking-wide text-ink/55">· bekijk ▲</span>
+        </button>
       )}
+
+      <AnimatePresence>
+        {selected.size > 0 && drawerOpen && (
+          <>
+            <motion.div
+              key="drawer-backdrop"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              onClick={() => setDrawerOpen(false)}
+              className="fixed inset-0 z-[70] bg-ink/40 lg:hidden"
+            />
+            <motion.div
+              key="drawer-sheet"
+              initial={{ y: "100%" }}
+              animate={{ y: 0 }}
+              exit={{ y: "100%" }}
+              transition={{ type: "spring", stiffness: 320, damping: 32 }}
+              className="fixed inset-x-0 bottom-0 z-[80] max-h-[80vh] overflow-y-auto rounded-t-xl border-t-2 border-ink bg-cream p-4 lg:hidden"
+            >
+              <div className="mx-auto mb-3 h-1.5 w-12 rounded-full bg-ink/20" />
+              <div className="mb-3 flex items-center justify-between">
+                <span className="text-sm font-bold uppercase tracking-wide text-ink">
+                  {selected.size} gekozen
+                </span>
+                <button
+                  type="button"
+                  onClick={() => setDrawerOpen(false)}
+                  className="text-xs font-bold uppercase tracking-wide text-ink/55"
+                >
+                  Sluit ✕
+                </button>
+              </div>
+              <div className="mb-4 flex gap-2">
+                <RetroButton
+                  type="button"
+                  onClick={handleDownload}
+                  style={{ background: "var(--app-accent)" }}
+                  className="flex-1"
+                >
+                  Download .ics
+                </RetroButton>
+                <RetroButton type="button" onClick={clearAll}>
+                  Wis
+                </RetroButton>
+              </div>
+              {recommended.length > 0 && (
+                <div>
+                  <h2 className="mb-2 text-sm font-bold uppercase tracking-wide text-ink">
+                    ✨ Misschien ook leuk
+                  </h2>
+                  <div className="flex flex-col gap-2">
+                    {recommended.map((event) => (
+                      <RecoCard
+                        key={event.id}
+                        event={event}
+                        selected={selected.has(event.id)}
+                        onToggle={toggleEvent}
+                      />
+                    ))}
+                  </div>
+                </div>
+              )}
+            </motion.div>
+          </>
+        )}
+      </AnimatePresence>
     </div>
   )
 }

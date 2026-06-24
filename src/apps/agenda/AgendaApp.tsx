@@ -169,7 +169,7 @@ export function AgendaApp() {
   }
 
   return (
-    <div style={skinVars(scene.skin)} className="mx-auto min-h-screen max-w-[980px] px-4 pb-24 pt-5">
+    <div style={skinVars(scene.skin)} className="mx-auto min-h-screen max-w-[980px] overflow-x-hidden px-4 pb-24 pt-5">
       <nav className="mb-4 flex flex-wrap gap-2">
         {SCENES.map((s) => {
           const on = s.id === activeScene

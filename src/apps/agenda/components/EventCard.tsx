@@ -111,7 +111,7 @@ export function EventCard({ event, selected, onToggle, badges }: EventCardProps)
             </span>
           </div>
 
-          <h3 className="text-[15px] font-bold leading-snug text-ink">{event.title}</h3>
+          <h3 className="break-words text-[15px] font-bold leading-snug text-ink">{event.title}</h3>
 
           <div className="mt-1 flex flex-wrap items-center gap-x-3 gap-y-0.5 text-xs font-medium text-ink/60">
             {timed && (
@@ -119,7 +119,7 @@ export function EventCard({ event, selected, onToggle, badges }: EventCardProps)
                 {fmtTime(event.start)} – {fmtTime(event.end)}
               </span>
             )}
-            <span className="truncate">{event.location}</span>
+            <span className="break-words">{event.location}</span>
           </div>
 
           {(badges.length > 0 || (event.tags?.length ?? 0) > 0) && (

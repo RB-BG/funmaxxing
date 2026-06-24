@@ -1,5 +1,5 @@
 import type { EnrichedEvent } from "@/types"
-import { FILTER_META } from "@/lib/classify"
+import { FILTER_META, utrechtGenres, UTRECHT_GENRE_META } from "@/lib/classify"
 import type { AppSkin } from "@/ui/theme"
 
 /**
@@ -26,8 +26,8 @@ export const SCENES: SceneDef[] = [
     titleLines: ["LOCAL EVENTS", "UTRECHT"],
     tagline: "Kies events, download ze als .ics of voeg ze toe aan Google Agenda.",
     skin: { accent: "var(--hot)", accent2: "var(--cyan)" },
-    facetsOf: (e) => e.categories,
-    facetLabel: (f) => (f in FILTER_META ? FILTER_META[f as keyof typeof FILTER_META].label : f),
+    facetsOf: (e) => utrechtGenres(e.tags ?? []),
+    facetLabel: (f) => (f in UTRECHT_GENRE_META ? `${UTRECHT_GENRE_META[f as keyof typeof UTRECHT_GENRE_META].emoji} ${UTRECHT_GENRE_META[f as keyof typeof UTRECHT_GENRE_META].label}` : f),
   },
   {
     id: "games",

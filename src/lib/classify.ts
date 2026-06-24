@@ -7,6 +7,45 @@ export const FILTER_META: Record<Category, { label: string; emoji: string }> = {
   NOS: { label: "Zeroes & Heroes", emoji: "🕹️" },
 }
 
+// ---------------------------------------------------------------------------
+// Utrecht genre buckets
+// ---------------------------------------------------------------------------
+
+export type UtrechtGenre = "ELECTRONIC" | "ROCK" | "REGGAE" | "WORKSHOP" | "GRATIS"
+
+export const UTRECHT_GENRE_META: Record<UtrechtGenre, { label: string; emoji: string }> = {
+  ELECTRONIC: { label: "Electronic / Dance", emoji: "🎛️" },
+  ROCK:       { label: "Rock / Punk / Metal", emoji: "🎸" },
+  REGGAE:     { label: "Reggae / Ska / Dub", emoji: "🌿" },
+  WORKSHOP:   { label: "Workshop", emoji: "🛠️" },
+  GRATIS:     { label: "Gratis", emoji: "🆓" },
+}
+
+const UTRECHT_GENRE_TAGS: Record<UtrechtGenre, string[]> = {
+  ELECTRONIC: [
+    "house", "techno", "trance", "bounce", "hard house", "hardtechno",
+    "groovy techno", "acid techno", "underground techno", "hardgroove",
+    "hypnotic techno", "old school techno", "speed house", "industrial",
+    "dansavond", "dj's in cafe", "electronics",
+  ],
+  ROCK: [
+    "rock", "punk", "garage", "metal", "hardcore", "post hardcore",
+    "progressive metal", "death metal", "deathcore", "blues", "psychedelic",
+    "rock 'n roll", "new wave", "wave", "queercore", "angry",
+  ],
+  REGGAE: ["reggae", "ska", "dub", "rocksteady"],
+  WORKSHOP: ["workshop"],
+  GRATIS: ["gratis"],
+}
+
+/** Return Utrecht genre buckets for an event based on its tags. */
+export function utrechtGenres(tags: string[]): UtrechtGenre[] {
+  const normalised = tags.map((t) => t.toLowerCase())
+  return (Object.keys(UTRECHT_GENRE_TAGS) as UtrechtGenre[]).filter((genre) =>
+    UTRECHT_GENRE_TAGS[genre].some((kw) => normalised.some((t) => t.includes(kw))),
+  )
+}
+
 /** Keywords used for automatic classification (replaces the AI step in the Cowork artifact). */
 const KEYWORDS: Record<Category, string[]> = {
   GAME: [

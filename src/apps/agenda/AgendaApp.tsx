@@ -302,7 +302,7 @@ export function AgendaApp() {
           )}
         </main>
 
-        <aside className="order-first space-y-4 lg:order-none lg:sticky lg:top-4 lg:self-start">
+        <aside className="order-first space-y-4 lg:order-none lg:sticky lg:top-4 lg:max-h-[calc(100vh-2rem)] lg:self-start lg:overflow-y-auto lg:overflow-x-hidden lg:pr-1">
           <Sidebar
             filters={filterOptions}
             active={activeFacet}

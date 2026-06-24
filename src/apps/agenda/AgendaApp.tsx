@@ -241,35 +241,8 @@ export function AgendaApp() {
         </div>
       )}
 
-      <div
-        className={cn(
-          "grid gap-5",
-          recommended.length > 0
-            ? "lg:grid-cols-[220px_minmax(0,1fr)_290px]"
-            : "lg:grid-cols-[minmax(0,1fr)_300px]",
-        )}
-      >
-        {recommended.length > 0 && (
-          <aside className="order-2 lg:order-none lg:sticky lg:top-4 lg:self-start">
-            <div className="rounded-md border-2 border-ink bg-white p-3">
-              <h2 className="mb-2.5 text-sm font-bold uppercase tracking-wide text-ink">
-                ✨ Misschien ook leuk
-              </h2>
-              <div className="flex flex-col gap-2">
-                {recommended.map((event) => (
-                  <RecoCard
-                    key={event.id}
-                    event={event}
-                    selected={selected.has(event.id)}
-                    onToggle={toggleEvent}
-                  />
-                ))}
-              </div>
-            </div>
-          </aside>
-        )}
-
-        <main className="order-3 min-w-0 lg:order-none">
+      <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_300px]">
+        <main className="min-w-0">
           {loading ? (
             <div className="rounded-md border-2 border-ink bg-white p-10 text-center text-sm font-semibold text-ink/60">
               Events laden…
@@ -329,7 +302,7 @@ export function AgendaApp() {
           )}
         </main>
 
-        <aside className="order-first lg:order-none lg:sticky lg:top-4 lg:self-start">
+        <aside className="order-first space-y-4 lg:order-none lg:sticky lg:top-4 lg:self-start">
           <Sidebar
             filters={filterOptions}
             active={activeFacet}
@@ -341,6 +314,24 @@ export function AgendaApp() {
             hiddenSources={hiddenSources}
             onToggleSource={toggleSource}
           />
+
+          {recommended.length > 0 && (
+            <div className="rounded-md border-2 border-ink bg-white p-3">
+              <h2 className="mb-2.5 text-sm font-bold uppercase tracking-wide text-ink">
+                ✨ Misschien ook leuk
+              </h2>
+              <div className="flex flex-col gap-2">
+                {recommended.map((event) => (
+                  <RecoCard
+                    key={event.id}
+                    event={event}
+                    selected={selected.has(event.id)}
+                    onToggle={toggleEvent}
+                  />
+                ))}
+              </div>
+            </div>
+          )}
         </aside>
       </div>
 

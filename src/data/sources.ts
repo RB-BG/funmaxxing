@@ -41,6 +41,13 @@ export const SOURCES: Omit<Source, "events">[] = [
     icon: "🎵",
     feedUrl: "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
   },
+  {
+    id: "gietijzer",
+    name: "Gietijzer",
+    color: "#7c3aed",
+    icon: "🏭",
+    feedUrl: "https://www.podiuminfo.nl/podium/6061/concerten/m-1/Gietijzer/Utrecht/",
+  },
   // Games scene
   {
     id: "rpg-night-utrecht",

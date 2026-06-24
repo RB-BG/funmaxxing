@@ -13,6 +13,7 @@ const VENUES = [
   { id: 'de-helling',        name: 'De Helling',            color: '#22c55e', icon: '🟢', scene: 'utrecht', type: 'helling',    feedUrl: 'https://dehelling.nl/agenda' },
   { id: 'nar-utrecht',       name: 'NAR Café der Kunsten',  color: '#a855f7', icon: '🟣', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/' },
   { id: 'tivoli-vredenburg', name: 'TivoliVredenburg',      color: '#e84b3a', icon: '🎵', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/' },
+  { id: 'gietijzer',        name: 'Gietijzer',             color: '#7c3aed', icon: '🏭', scene: 'utrecht', type: 'podiuminfo', feedUrl: 'https://www.podiuminfo.nl/podium/6061/concerten/m-1/Gietijzer/Utrecht/' },
   { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', scene: 'games',   type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
   { id: 'lab-monkey',        name: 'Lab Monkey',            color: '#16a34a', icon: '🃏', scene: 'games',   type: 'tribe',          feedUrl: 'https://www.lab-monkey.nl/wp-json/tribe/events/v1/events' },
   { id: 'casual-carnage',    name: 'Casual Carnage',        color: '#c2410c', icon: '🎯', scene: 'games',   type: 'casual-carnage', feedUrl: 'https://www.casualcarnage.nl/wp-json/wp/v2/evge_event' },

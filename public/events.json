@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:25:56.802Z",
+  "updatedAt": "2026-06-24T07:34:00.405Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1661,8 +1661,7 @@
       "icon": "🟣",
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/",
-      "events": [],
-      "broken": true
+      "events": []
     },
     {
       "id": "tivoli-vredenburg",
@@ -1913,6 +1912,15 @@
           "tags": []
         }
       ]
+    },
+    {
+      "id": "gietijzer",
+      "name": "Gietijzer",
+      "color": "#7c3aed",
+      "icon": "🏭",
+      "scene": "utrecht",
+      "feedUrl": "https://www.podiuminfo.nl/podium/6061/concerten/m-1/Gietijzer/Utrecht/",
+      "events": []
     },
     {
       "id": "rpg-night-utrecht",
@@ -2438,6 +2446,20 @@
             "Skaten",
             "Terras",
             "Verhoogd geluidslimiet"
+          ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-41",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-06-24T00:00:00+02:00",
+          "end": "2026-06-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-41/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
           ]
         },
         {

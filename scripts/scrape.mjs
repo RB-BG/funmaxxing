@@ -31,7 +31,7 @@ const VENUES = [
   { id: 'soia-utrecht',      name: 'Strand Oog in Al',      color: '#eab308', icon: '🏖️', scene: 'utrecht', type: 'soia',      feedUrl: 'https://soia.nl/agenda/feed/' },
 
   // Uit in Utrecht scene (outdoor festivals, markets, food events)
-  { id: 'festivalfans-utrecht', name: 'Festivals Utrecht', color: '#f97316', icon: '🎪', scene: 'uitinutrecht', type: 'festivalfans', feedUrl: 'https://festivalfans.nl/stad/utrecht/' },
+  { id: 'festivalfans-utrecht', name: 'Festivals Utrecht', color: '#f97316', icon: '🎪', scene: 'utrecht', type: 'festivalfans', feedUrl: 'https://festivalfans.nl/stad/utrecht/' },
 
   // Orkest scene (film & game music live in concert, Netherlands)
   { id: 'mic-nederland', name: 'Movies in Concert NL', color: '#f59e0b', icon: '🎻', scene: 'orkest', type: 'mic', feedUrl: 'https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum' },

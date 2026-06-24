@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T10:10:35.782Z",
+  "updatedAt": "2026-06-24T10:25:18.749Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -2956,7 +2956,7 @@
       "name": "Festivals Utrecht",
       "color": "#f97316",
       "icon": "🎪",
-      "scene": "uitinutrecht",
+      "scene": "utrecht",
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
         {
@@ -5723,17 +5723,6 @@
           "country": "Germany",
           "description": "Buhurt-toernooi in Germany.",
           "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
-          "tags": []
-        },
-        {
-          "id": "bi-tournament-of-visegrád-2026",
-          "title": "Tournament of Visegrád 2026",
-          "start": "2026-07-10T00:00:00+02:00",
-          "end": "2026-07-10T23:00:00+02:00",
-          "location": "Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary.",
-          "url": "https://www.buhurtinternational.com/tournament/tournament-of-visegrád-2026",
           "tags": []
         },
         {

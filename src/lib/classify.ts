@@ -11,7 +11,7 @@ export const FILTER_META: Record<Category, { label: string; emoji: string }> = {
 // Utrecht genre buckets
 // ---------------------------------------------------------------------------
 
-export type UtrechtGenre = "ELECTRONIC" | "ROCK" | "REGGAE" | "WORKSHOP" | "GRATIS"
+export type UtrechtGenre = "ELECTRONIC" | "ROCK" | "REGGAE" | "WORKSHOP" | "GRATIS" | "FESTIVAL"
 
 export const UTRECHT_GENRE_META: Record<UtrechtGenre, { label: string; emoji: string }> = {
   ELECTRONIC: { label: "Electronic / Dance", emoji: "🎛️" },
@@ -19,6 +19,7 @@ export const UTRECHT_GENRE_META: Record<UtrechtGenre, { label: string; emoji: st
   REGGAE:     { label: "Reggae / Ska / Dub", emoji: "🌿" },
   WORKSHOP:   { label: "Workshop", emoji: "🛠️" },
   GRATIS:     { label: "Gratis", emoji: "🆓" },
+  FESTIVAL:   { label: "Festival & Outdoor", emoji: "🎪" },
 }
 
 const UTRECHT_GENRE_TAGS: Record<UtrechtGenre, string[]> = {

@@ -26,7 +26,7 @@ export const SCENES: SceneDef[] = [
     titleLines: ["LOCAL EVENTS", "UTRECHT"],
     tagline: "Kies events, download ze als .ics of voeg ze toe aan Google Agenda.",
     skin: { accent: "var(--hot)", accent2: "var(--cyan)" },
-    facetsOf: (e) => utrechtGenres(e.tags ?? []),
+    facetsOf: (e) => e.source.id === "festivalfans-utrecht" ? ["FESTIVAL"] : utrechtGenres(e.tags ?? []),
     facetLabel: (f) => (f in UTRECHT_GENRE_META ? `${UTRECHT_GENRE_META[f as keyof typeof UTRECHT_GENRE_META].emoji} ${UTRECHT_GENRE_META[f as keyof typeof UTRECHT_GENRE_META].label}` : f),
   },
   {
@@ -36,23 +36,6 @@ export const SCENES: SceneDef[] = [
     tagline: "Magic, Warhammer, tabletop RPG, anime-cons en spellenmarkten.",
     skin: { accent: "#d97706", accent2: "#6366f1" },
     facetsOf: (e) => [e.source.name],
-    facetLabel: (f) => f,
-  },
-  {
-    id: "uitinutrecht",
-    name: "Uit in Utrecht",
-    titleLines: ["UIT IN", "UTRECHT"],
-    tagline: "Festivals, markten, foodtrucks en outdoor events in en om Utrecht.",
-    skin: { accent: "#f97316", accent2: "#16a34a" },
-    facetsOf: (e) => {
-      const text = (e.title + ' ' + (e.description ?? '')).toLowerCase()
-      const tags = e.tags ?? []
-      if (tags.includes('gratis')) return ['🆓 Gratis']
-      if (/food|eten|drinken|foodtruck|markt|restaurant|proeven/.test(text)) return ['🍔 Eten & Drinken']
-      if (/dans|dance|elektronisch|techno|house|trance|dj/.test(text)) return ['🎛️ Dance']
-      if (/muziek|concert|festival|band|live/.test(text)) return ['🎶 Muziek']
-      return ['🎪 Overig']
-    },
     facetLabel: (f) => f,
   },
   {

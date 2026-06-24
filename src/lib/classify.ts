@@ -37,6 +37,7 @@ const UTRECHT_GENRE_TAGS: Record<UtrechtGenre, string[]> = {
   REGGAE: ["reggae", "ska", "dub", "rocksteady"],
   WORKSHOP: ["workshop"],
   GRATIS: ["gratis"],
+  FESTIVAL: [],
 }
 
 /** Return Utrecht genre buckets for an event based on its tags. */

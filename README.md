@@ -1,9 +1,10 @@
 # funmaxxing
 
 Een speelse event-kiezer met **scenes** waartussen je schakelt: Utrechtse podia
-(concerten, clubnachten), **Spellen & Games** (Magic, Warhammer, tabletop RPG) en
-**Buhurt Europe** (geharnaste toernooien en fight nights). Selecteer events en exporteer
-ze als `.ics` of voeg ze toe aan Google Agenda. Per scene een eigen filter en skin.
+(concerten, clubnachten), **Spellen & Games** (Magic, Warhammer, tabletop RPG),
+**Beurzen & Cons** (comic cons, anime-cons, spellenmarkten), **Middeleeuwen & Fantasy**
+(riddertoernooien, fantasy fairs) en **Buhurt Europe** (geharnaste toernooien en fight nights).
+Selecteer events en exporteer ze als `.ics` of voeg ze toe aan Google Agenda. Per scene een eigen filter en skin.
 
 ## Hoe het werkt
 
@@ -32,6 +33,7 @@ daarom opgezet als losse "apps" onder een gedeelde, speelse indie-web UI-laag.
 - **framer-motion** (cursor, animaties), **canvas-confetti**, **react-fast-marquee**
 - Fonts: **Geist** (alle UI-tekst, leesbaar) + **VT323** (retro hero/cijfers)
 - Geluid via de **Web Audio API** (gesynthetiseerd, geen audio-assets)
+- **@vercel/analytics** (pageview tracking)
 - Path-alias `@ -> ./src`, ESLint flat config (typescript-eslint + react-hooks)
 - Deploy op **Vercel** (Vite-preset, `vercel.json` met SPA-rewrite)
 

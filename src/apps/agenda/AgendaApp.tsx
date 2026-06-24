@@ -3,6 +3,7 @@ import { motion } from "framer-motion"
 import confetti from "canvas-confetti"
 import type { EnrichedEvent, Source } from "@/types"
 import { classify } from "@/lib/classify"
+import { recommend } from "@/lib/recommend"
 import { downloadICS } from "@/lib/calendar"
 import { cn } from "@/lib/utils"
 import { WordArt } from "@/ui/WordArt"
@@ -79,6 +80,13 @@ export function AgendaApp() {
   )
 
   const ticker = useMemo(() => visible.slice(0, 16).map((e) => e.title), [visible])
+
+  // Content-based recommendations from the current selection, drawn from the
+  // whole scene (so it can surface events outside the active filter).
+  const recommended = useMemo(
+    () => recommend(selected, activeSceneEvents, (e) => scene.facetsOf(e)),
+    [selected, activeSceneEvents, scene],
+  )
 
   const days = useMemo(() => {
     const groups = new Map<string, EnrichedEvent[]>()
@@ -234,6 +242,25 @@ export function AgendaApp() {
 
       <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_300px]">
         <main className="min-w-0">
+          {!loading && !error && recommended.length > 0 && (
+            <section className="mb-6">
+              <div className="mb-2 flex items-center gap-3">
+                <h2 className="text-lg font-bold uppercase tracking-wide text-ink">✨ Misschien ook leuk</h2>
+                <div className="h-0.5 flex-1 bg-ink/15" />
+              </div>
+              <div className="flex flex-col gap-2.5">
+                {recommended.map((event) => (
+                  <EventCard
+                    key={event.id}
+                    event={event}
+                    selected={selected.has(event.id)}
+                    onToggle={toggleEvent}
+                    badges={scene.facetsOf(event).map(scene.facetLabel)}
+                  />
+                ))}
+              </div>
+            </section>
+          )}
           {loading ? (
             <div className="rounded-md border-2 border-ink bg-white p-10 text-center text-sm font-semibold text-ink/60">
               Events laden…

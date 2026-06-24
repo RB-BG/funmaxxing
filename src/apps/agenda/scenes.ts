@@ -39,6 +39,23 @@ export const SCENES: SceneDef[] = [
     facetLabel: (f) => f,
   },
   {
+    id: "uitinutrecht",
+    name: "Uit in Utrecht",
+    titleLines: ["UIT IN", "UTRECHT"],
+    tagline: "Festivals, markten, foodtrucks en outdoor events in en om Utrecht.",
+    skin: { accent: "#f97316", accent2: "#16a34a" },
+    facetsOf: (e) => {
+      const text = (e.title + ' ' + (e.description ?? '')).toLowerCase()
+      const tags = e.tags ?? []
+      if (tags.includes('gratis')) return ['🆓 Gratis']
+      if (/food|eten|drinken|foodtruck|markt|restaurant|proeven/.test(text)) return ['🍔 Eten & Drinken']
+      if (/dans|dance|elektronisch|techno|house|trance|dj/.test(text)) return ['🎛️ Dance']
+      if (/muziek|concert|festival|band|live/.test(text)) return ['🎶 Muziek']
+      return ['🎪 Overig']
+    },
+    facetLabel: (f) => f,
+  },
+  {
     id: "orkest",
     name: "Soundtracks Live",
     titleLines: ["FILM &", "GAME CONCERTS"],

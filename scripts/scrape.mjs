@@ -30,6 +30,9 @@ const VENUES = [
   { id: 'basis-utrecht',     name: 'BASIS',                 color: '#14b8a6', icon: '🔊', scene: 'utrecht', type: 'ical',      feedUrl: 'https://clubbasis.nl/events/?ical=1' },
   { id: 'soia-utrecht',      name: 'Strand Oog in Al',      color: '#eab308', icon: '🏖️', scene: 'utrecht', type: 'soia',      feedUrl: 'https://soia.nl/agenda/feed/' },
 
+  // Uit in Utrecht scene (outdoor festivals, markets, food events)
+  { id: 'festivalfans-utrecht', name: 'Festivals Utrecht', color: '#f97316', icon: '🎪', scene: 'uitinutrecht', type: 'festivalfans', feedUrl: 'https://festivalfans.nl/stad/utrecht/' },
+
   // Orkest scene (film & game music live in concert, Netherlands)
   { id: 'mic-nederland', name: 'Movies in Concert NL', color: '#f59e0b', icon: '🎻', scene: 'orkest', type: 'mic', feedUrl: 'https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum' },
 
@@ -1505,6 +1508,7 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'ruine-brederode')       events = await scrapeRuineBrederode(venue)
     else if (venue.type === 'hoensbroek')            events = await scrapeHoensbroek(venue)
     else if (venue.type === 'montfort')              events = await scrapeMontfort(venue)
+    else if (venue.type === 'festivalfans')          events = await scrapeFestivalfans(venue)
     else if (venue.type === 'mic')                   events = await scrapeMoviesInConcert(venue)
     else events = await scrapePodiuminfo(venue)
 
@@ -1525,6 +1529,49 @@ async function scrapeVenue(venue, fallback) {
     console.log(`failed (${err.message}) — keeping existing, marking broken`)
     return { events: fallback, broken: true }
   }
+}
+
+async function scrapeFestivalfans(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const TYPES = ['Event', 'MusicEvent', 'Festival', 'SocialEvent', 'FoodEvent']
+  const events = []
+
+  for (const [, block] of html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)) {
+    let data
+    try { data = JSON.parse(block.trim()) } catch { continue }
+
+    const items = Array.isArray(data) ? data : (data['@graph'] ?? [data])
+    for (const item of items) {
+      if (!TYPES.includes(item['@type'])) continue
+      if (!item.startDate || !item.name || !item.url) continue
+
+      const loc = item.location
+      const location = loc
+        ? [loc.name, loc.address?.addressLocality].filter(Boolean).join(', ')
+        : venue.name
+
+      const price = parseFloat(item.offers?.price ?? '0')
+      const tags = price === 0 ? ['gratis'] : []
+
+      events.push({
+        id: item.url.split('/').filter(Boolean).pop(),
+        title: item.name,
+        start: item.startDate,
+        end: item.endDate ?? addHours(item.startDate, 8),
+        location,
+        description: truncate(item.description ?? ''),
+        url: item.url,
+        tags,
+      })
+    }
+  }
+
+  return events
 }
 
 async function scrapeMoviesInConcert(venue) {

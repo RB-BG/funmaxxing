@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T09:33:03.191Z",
+  "updatedAt": "2026-06-24T10:10:35.782Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -2947,6 +2947,98 @@
           "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
           "description": "In het zand festival Zaterdag 08/08/2026 14:00 - 23:00 Voor onze zevende editie houden we ons bij het vertrouwde recept: House & Disco, verdeeld over twee stages bij SOIA – Strand Oog in Al. Line-up (a-z) ADA AYS BENNY2 BERKAN V8 EILEEN EMVAE & MOXES KENNEDY KLÉO LUCKY DONE GONE & TSEPO SAIDAH Koop…",
           "url": "https://soia.nl/agenda/in-het-zand/",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "festivalfans-utrecht",
+      "name": "Festivals Utrecht",
+      "color": "#f97316",
+      "icon": "🎪",
+      "scene": "uitinutrecht",
+      "feedUrl": "https://festivalfans.nl/stad/utrecht/",
+      "events": [
+        {
+          "id": "lepeltje-lepeltje-utrecht",
+          "title": "Lepeltje Lepeltje Utrecht",
+          "start": "2026-06-25T12:00:00+00:00",
+          "end": "2026-05-28T00:00:00+00:00",
+          "location": "Park Lepelenburg, Utrecht",
+          "description": "Lepeltje Lepeltje Utrecht is weer terug van 25 t/m 28 juni. Lees op deze pagina alles over de foodtruck line-up & meer.",
+          "url": "https://festivalfans.nl/event/lepeltje-lepeltje-utrecht/",
+          "tags": [
+            "gratis"
+          ]
+        },
+        {
+          "id": "tapt-festival-utrecht",
+          "title": "TAPT Festival Utrecht",
+          "start": "2026-07-03T13:00:00+00:00",
+          "end": "2026-07-04T23:00:00+00:00",
+          "location": "Julianapark Utrecht, Utrecht",
+          "description": "Op 3 & 4 juli 2026 komt het TAPT Festival naar Utrecht! Alle informatie over dit lekkere evenement vind je hier!",
+          "url": "https://festivalfans.nl/event/tapt-festival-utrecht/",
+          "tags": []
+        },
+        {
+          "id": "by-the-creek-festival",
+          "title": "By the Creek Festival",
+          "start": "2026-07-04T12:00:00+00:00",
+          "end": "2026-07-05T23:00:00+00:00",
+          "location": "Recreatieterrein Middelwaard, Vianen",
+          "description": "Lees alles over By the Creek Festival 2026. Info over de kaartverkoop, het programma en de sfeer van dit festival check je hier.",
+          "url": "https://festivalfans.nl/event/by-the-creek-festival/",
+          "tags": []
+        },
+        {
+          "id": "ultrasonic-festival",
+          "title": "Ultrasonic Festival",
+          "start": "2026-07-11T12:00:00+00:00",
+          "end": "2026-07-11T12:00:00+00:00",
+          "location": "Maarsseveense Plassen, Utrecht",
+          "description": "Ultrasonic Festival komt weer terug op de Maarsseveense Plassen in Utrecht. Lees hier alles over de kaartverkoop & de line-up.",
+          "url": "https://festivalfans.nl/event/ultrasonic-festival/",
+          "tags": []
+        },
+        {
+          "id": "de-leuke-festival",
+          "title": "De Leuke Festival",
+          "start": "2026-07-18T12:00:00+00:00",
+          "end": "2026-07-18T12:00:00+00:00",
+          "location": "Voorveldse Polder, Utrecht",
+          "description": "De Leuke Festival is er in 2026 ook weer bij! Dansen op pop, de beste livebands en hiphop. Check onze site voor o.a. tickets & Line-up",
+          "url": "https://festivalfans.nl/event/de-leuke-festival/",
+          "tags": []
+        },
+        {
+          "id": "geheime-liefde-tuinen-van-geluk",
+          "title": "Geheime Liefde: Tuinen van Geluk",
+          "start": "2026-07-25T14:00:00+00:00",
+          "end": "2026-07-25T14:00:00+00:00",
+          "location": "De Middengaarde, Utrecht",
+          "description": "Geheime Liefde organiseer in juli nóg een event: Tuinen van Geluk. Lees hier alles over dit speciale festival op zaterdag 25 juli.",
+          "url": "https://festivalfans.nl/event/geheime-liefde-tuinen-van-geluk/",
+          "tags": []
+        },
+        {
+          "id": "basis-outdoor",
+          "title": "BASIS Outdoor",
+          "start": "2026-08-01T13:00:00+00:00",
+          "end": "2026-08-01T13:00:00+00:00",
+          "location": "Beton-T, Utrecht",
+          "description": "Lees alles hier over BASIS Outdoor 2026 (Beton-T, Utrecht). Van de kaartverkoop tot line-up en de sfeer van dit festival.",
+          "url": "https://festivalfans.nl/event/basis-outdoor/",
+          "tags": []
+        },
+        {
+          "id": "into-the-woods",
+          "title": "Into the Woods",
+          "start": "2026-09-18T12:00:00+00:00",
+          "end": "2026-09-19T00:00:00+00:00",
+          "location": "Openluchttheater, Amersfoort",
+          "description": "Into the Woods is een van de beste manieren om het festivalseizoen af te sluiten. Lees hier alles over tickets, line-up van ITTW 2026.",
+          "url": "https://festivalfans.nl/event/into-the-woods/",
           "tags": []
         }
       ]

@@ -127,6 +127,14 @@ export const SOURCES: Omit<Source, "events">[] = [
     icon: "✊",
     feedUrl: "https://acu.nl/events/feed/",
   },
+  // Uit in Utrecht scene
+  {
+    id: "festivalfans-utrecht",
+    name: "Festivals Utrecht",
+    color: "#f97316",
+    icon: "🎪",
+    feedUrl: "https://festivalfans.nl/stad/utrecht/",
+  },
   // Orkest scene
   {
     id: "mic-nederland",

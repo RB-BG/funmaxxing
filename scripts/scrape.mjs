@@ -17,14 +17,13 @@ const VENUES = [
   { id: 'rpg-night-utrecht', name: 'RPG Night Utrecht',     color: '#6366f1', icon: '🎲', scene: 'games',   type: 'warhorn',    feedUrl: 'https://warhorn.net/events/rpg-night-utrecht/schedule.atom' },
   { id: 'lab-monkey',        name: 'Lab Monkey',            color: '#16a34a', icon: '🃏', scene: 'games',   type: 'tribe',          feedUrl: 'https://www.lab-monkey.nl/wp-json/tribe/events/v1/events' },
   { id: 'casual-carnage',    name: 'Casual Carnage',        color: '#c2410c', icon: '🎯', scene: 'games',   type: 'casual-carnage', feedUrl: 'https://www.casualcarnage.nl/wp-json/wp/v2/evge_event' },
-  { id: 'ducosim',           name: 'Ducosim',               color: '#7c3aed', icon: '🎲', scene: 'beurzen',   type: 'tribe',          feedUrl: 'https://www.ducosim.nl/wp-json/tribe/events/v1/events' },
+  { id: 'ducosim',           name: 'Ducosim',               color: '#7c3aed', icon: '🎲', scene: 'games',   type: 'tribe',          feedUrl: 'https://www.ducosim.nl/wp-json/tribe/events/v1/events' },
   { id: 'weighted-dice',     name: 'Weighted Dice Utrecht', color: '#0891b2', icon: '🎯', scene: 'games',   type: 'ical',           feedUrl: 'https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/' },
 
-  // Beurzen scene (conventions & fairs)
-  { id: 'dcc',              name: 'Heroes Dutch Comic Con', color: '#1d4ed8', icon: '🦸', scene: 'beurzen', type: 'dcc',              feedUrl: 'https://www.dutchcomiccon.com/' },
-  { id: 'spellenspektakel', name: 'Spellenspektakel',       color: '#16a34a', icon: '🎲', scene: 'beurzen', type: 'spellenspektakel', feedUrl: 'https://spellenspektakel.nl/' },
-  { id: 'abunai',           name: 'Abunai!',                color: '#e11d48', icon: '🌸', scene: 'beurzen', type: 'abunai',           feedUrl: 'https://abunaicon.nl/' },
-  { id: 'animecon',         name: 'AnimeCon',               color: '#9333ea', icon: '⛩️', scene: 'beurzen', type: 'animecon',         feedUrl: 'https://animecon.nl/' },
+  { id: 'dcc',              name: 'Heroes Dutch Comic Con', color: '#1d4ed8', icon: '🦸', scene: 'games', type: 'dcc',              feedUrl: 'https://www.dutchcomiccon.com/' },
+  { id: 'spellenspektakel', name: 'Spellenspektakel',       color: '#16a34a', icon: '🎲', scene: 'games', type: 'spellenspektakel', feedUrl: 'https://spellenspektakel.nl/' },
+  { id: 'abunai',           name: 'Abunai!',                color: '#e11d48', icon: '🌸', scene: 'games', type: 'abunai',           feedUrl: 'https://abunaicon.nl/' },
+  { id: 'animecon',         name: 'AnimeCon',               color: '#9333ea', icon: '⛩️', scene: 'games', type: 'animecon',         feedUrl: 'https://animecon.nl/' },
 
   { id: 'beton-t',           name: 'Beton-T',               color: '#f97316', icon: '🏗️',  scene: 'utrecht', type: 'beton',     feedUrl: 'https://www.vechtclub.nl/beton-t/agenda' },
   { id: 'acu-utrecht',       name: 'ACU Utrecht',           color: '#84cc16', icon: '✊',   scene: 'utrecht', type: 'acu',       feedUrl: 'https://acu.nl/events/feed/' },

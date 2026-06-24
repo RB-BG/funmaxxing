@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T06:29:37.893Z",
+  "updatedAt": "2026-06-24T06:25:56.802Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10000976",
-          "title": "THE DWARVES (USA - Punk Rock Legends) + The Etters",
-          "start": "2026-06-23T20:00:00+02:00",
-          "end": "2026-06-23T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "THE DWARVES!!\nDe band rond zanger Blag Dahlia en met Nick Olivieri op bas is een van de overlevende PUNKROCK LEGENDS in de koude showbizzwereld.\nMet meer dan 1000 shows achter hun naam en nog steeds een verschroeiende livereputatie gaan deze mannen anno 2026 nog steeds harder dan een straaljager.…",
-          "url": "https://dbstudio.nl/event/the-dwarves-usa-punk-rock-legends/",
-          "tags": [
-            "Concert",
-            "Punk"
-          ]
-        },
         {
           "id": "10001081",
           "title": "CLUB 3voor12 Utrecht w/ Turmeric + MOMO + REZA",
@@ -186,6 +173,28 @@
           ]
         },
         {
+          "id": "10001091",
+          "title": "KAOS KARAOKE, FREE KAOS EVENT!",
+          "start": "2026-07-10T21:00:00+02:00",
+          "end": "2026-07-10T23:30:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Altijd al op het dB’s podium willen optreden maar geen muzikaal talent? \nOf heel veel talent maar geplaagd door onzekerheid? \nOf veel talent en heel zeker van jezelf maar geen band? \nGEEN PROBLEEM WANT KAOS KAROAKE HAS YOUR BACK! \n10 juli is het podium beschikbaar om jouw zangkwaliteiten te showen.…",
+          "url": "https://dbstudio.nl/event/kaos-karaoke-free-kaos-event/",
+          "tags": [
+            "Concert"
+          ]
+        },
+        {
+          "id": "10001092",
+          "title": "Expect Kaos, Create Kaos, it's Karaoke innit!",
+          "start": "2026-07-10T21:00:00+02:00",
+          "end": "2026-07-11T01:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Altijd al op het dB’s podium op willen treden maar je hebt geen muzikaal talent?\nOf heel veel talent maar je bent erg onzeker?\nOf talent en zeker van jezelf maar je zit niet in een band?\nGeen probleem want Kaos Karaoke has your back!\n10 juli is het podium beschikbaar om jouw zang kwaliteiten te…",
+          "url": "https://dbstudio.nl/event/expect-kaos-create-kaos-its-karaoke-innit/",
+          "tags": []
+        },
+        {
           "id": "10001063",
           "title": "SOLD OUT!   PLF, Pseudo Logica Fantastica",
           "start": "2026-07-11T21:00:00+02:00",
@@ -223,11 +232,11 @@
         },
         {
           "id": "10001027",
-          "title": "THE QUEERS + PANSY DIVISION > an evening of Punk Rock Royalty",
+          "title": "THE QUEERS + PANSY DIVISION  + The 66ers> an evening of Punk Rock Royalty",
           "start": "2026-07-14T20:00:00+02:00",
           "end": "2026-07-14T22:30:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Life In A Gay Rock Band uit 2008. \nFokkin’ legendarisch, beide bands. Veel zin in!",
+          "description": "Life In A Gay Rock Band uit 2008. \nFokkin’ legendarisch, beide bands. Veel zin in! \nOpener is het eveneens Amerikaanse The 66ers, garage, surf en powerpop waarin Joe Queer ook de snaren beroert. Aanvang 20 uur sharp!",
           "url": "https://dbstudio.nl/event/the-queers-pansy-division-an-evening-of-punk-rock-royalty/",
           "tags": [
             "Angry",
@@ -293,11 +302,11 @@
         },
         {
           "id": "10001039",
-          "title": "N8NOFACE (USA)",
+          "title": "N8NOFACE (USA) + FERAL",
           "start": "2026-07-23T20:00:00+02:00",
           "end": "2026-07-23T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "𝟬𝟬 𝗔𝗠 𝗶𝗻 𝗱𝗲 𝘃𝗲𝗿𝗸𝗼𝗼𝗽! \nN8NOFACE (uitgesproken als “Nate No Face”) is de artiestennaam van Nathan Hose, een uitzonderlijke Amerikaanse muzikant, rapper en producer uit Tucson, Arizona, die tegenwoordig in Los Angeles woont.  Deze zwaar besnorde en kaal behaarde outsider is niet exact…",
+          "description": "N8NOFACE (uitgesproken als “Nate No Face”) is de artiestennaam van Nathan Hose, een uitzonderlijke Amerikaanse muzikant, rapper en producer uit Tucson, Arizona, die tegenwoordig in Los Angeles woont.  Deze zwaar besnorde en kaal behaarde outsider is niet exact het prototype rockster maar live knalt…",
           "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-n8noface-usa/",
           "tags": [
             "Rap",
@@ -306,11 +315,11 @@
         },
         {
           "id": "10001032",
-          "title": "DZ DEATHRAYS (OZ)",
+          "title": "DZ DEATHRAYS (OZ) + MANNEQUIN DEATH SQUAD (OZ) + Badminton",
           "start": "2026-07-26T20:00:00+02:00",
           "end": "2026-07-26T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Remember It’s For Fun!",
+          "description": "Remember It’s For Fun! \nEn deze avond gaat FUN worden ook, met de toevoeging van twee mooie openers. Allereerst het Nederlandse Badminton dat hard op weg is een vaste waarde te worden in de NL rockscene met hun energieke mix van alt rock en garage. \nEn we zijn ook zeer blij om het Australische duo…",
           "url": "https://dbstudio.nl/event/dbs-en-tivoli-vredenburg-present-dz-deathrays-oz/",
           "tags": [
             "Garage",
@@ -331,7 +340,7 @@
         },
         {
           "id": "10001028",
-          "title": "DEAD MEADOW (USA - HEAVY PSYCH SOUNDS)",
+          "title": "DEAD MEADOW (USA - HEAVY PSYCH SOUNDS) + Dan Green & the Mystery Machine",
           "start": "2026-08-06T20:00:00+02:00",
           "end": "2026-08-06T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
@@ -343,11 +352,11 @@
         },
         {
           "id": "10000990",
-          "title": "LUNA KILLS (Fin) ism TivoliVredenburg",
+          "title": "LUNA KILLS (Fin) ism TivoliVredenburg + Pacemaker",
           "start": "2026-08-08T20:00:00+02:00",
           "end": "2026-08-08T22:30:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "debuutalbum Deathmatch (2025) klinkt nog het meest als de soundtrack van een dystopische videogame!\nIN 2025 al te zien op ESNS en volgens insiders een band om in de gaten te houden. Nu gaan zien in een kleine zaal voor het beste effect.",
+          "description": "debuutalbum Deathmatch (2025) klinkt nog het meest als de soundtrack van een dystopische videogame!\nIN 2025 al te zien op ESNS en volgens insiders een band om in de gaten te houden. Nu gaan zien in een kleine zaal voor het beste effect. \nOpener is het Tilburgse Nu Metal gezelschap PACEMAKER",
           "url": "https://dbstudio.nl/event/luna-kills-fin-ism-tivolivredenburg/",
           "tags": [
             "Concert",
@@ -392,19 +401,6 @@
             "Concert",
             "Duister Collectief Outdoor Fest"
           ]
-        },
-        {
-          "id": "10000952",
-          "title": "DUISTER COLLECTIEF Part II",
-          "start": "2026-08-23T13:00:00+02:00",
-          "end": "2026-08-23T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Angles Mort\nRuona Neida\nDoodseskader\nIneptitude\nNista\nGrey Aura\n30,000 Monkies\nBloed\nMorvigor\nTERZIJ DE HORDE",
-          "url": "https://dbstudio.nl/event/duister-collectief-2/",
-          "tags": [
-            "Concert",
-            "Duister Collectief Outdoor Fest"
-          ]
         }
       ]
     },
@@ -416,6 +412,36 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30244",
+          "title": "Mensen Zeggen Dingen",
+          "start": "2026-09-16T20:30:00+02:00",
+          "end": "2026-09-16T22:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Mensen Zeggen Dingen reist het land door met avonden vol hoogwaardige schrijvers, performers, spoken word-artiesten en andere podiumbeesten. Voor het EKKO-jubileum komen ze met een primo selectie van deze artiesten die de spreekwoordelijke slingers komen ophangen. Kom luisteren en proosten! Host:…",
+          "url": "https://ekko.nl/event/mensen-zeggen-dingen-2026/",
+          "tags": []
+        },
+        {
+          "id": "30233",
+          "title": "Ratboys",
+          "start": "2026-09-12T20:30:00+02:00",
+          "end": "2026-09-12T23:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Ratboys maakt warme, gitaargedreven indierock waarin invloeden van powerpop, americana en alt-country moeiteloos samenvloeien. Op hun zesde album ‘Singin’ to an Empty Chair’ presenteert het viertal uit Chicago elf nummers over vervreemding, therapie en de wens om een onmogelijk gesprek toch te…",
+          "url": "https://ekko.nl/event/ratboys-1/",
+          "tags": []
+        },
+        {
+          "id": "30224",
+          "title": "Grace Cummings",
+          "start": "2026-11-19T20:00:00+01:00",
+          "end": "2026-11-19T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Grace Cummings maakt als singer-songwriter muziek die even rauw als meeslepend klinkt. De Australische zangeres staat bekend om haar diepe, onmiskenbare stem en intense nummers waarin kwetsbaarheid en kracht samenkomen. Op haar nieuwe album ‘Bloodhorse!’ verruilt ze de kampvuurintimiteit van…",
+          "url": "https://ekko.nl/event/grace-cummings/",
+          "tags": []
+        },
         {
           "id": "29813",
           "title": "Spelersbus 12 (NEDERLAND-TUNESIË OP GROOT SCHERM)",
@@ -1067,16 +1093,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-yungblud-showcase-23-06-2026",
-          "title": "Yungblud showcase",
-          "start": "2026-06-23T16:00:00+02:00",
-          "end": "2026-06-23T21:15:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "In Conversation With",
-          "url": "https://dehelling.nl/agenda/yungblud-showcase-23-06-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-youth-code-king-yosef-24-06-2026",
           "title": "Youth Code + King Yosef",
           "start": "2026-06-24T20:15:00+02:00",
@@ -1657,46 +1673,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "463075",
-          "title": "Dinsdagochtend Concert",
-          "start": "2026-06-23T11:00:00+02:00",
-          "end": "2026-06-23T12:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Dinsdagochtend Concerten bieden wekelijks een platform om nieuw muzikaal talent te ontdekken. Elk concert heeft een andere muzikale invulling, maar is altijd akoestisch en presenteert lokale artiesten. Het nieuwe podium in de gerenoveerde foyer van TivoliVredenburg biedt een intieme setting met…",
-          "url": "https://www.podiuminfo.nl/concert/463075/Dinsdagochtend-Concert/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452463",
-          "title": "Jesse Daniel",
-          "start": "2026-06-23T20:00:00+02:00",
-          "end": "2026-06-23T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Je hoeft maar één blik op de hoes van Jesse Daniels vierde album Countin’ The Miles (2024) te werpen om te zien dat deze man een liefhebber is van de traditionele country – in zijn geval de zonnige, Californische variant. Daniel begon zijn carrière in zijn jonge jaren als drummer in punkbands, maar…",
-          "url": "https://www.podiuminfo.nl/concert/452463/Jesse-Daniel/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "459757",
-          "title": "P.O.D.",
-          "start": "2026-06-23T20:00:00+02:00",
-          "end": "2026-06-23T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse rockband P.O.D. (een spirituele verwijzing naar de financiële term Payable On Death) draait al bijna 35 jaar mee met hun opzwepende mix van rap, metal en rock. ",
-          "url": "https://www.podiuminfo.nl/concert/459757/P-O-D-/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452903",
-          "title": "The Four Tops & The Temptations",
-          "start": "2026-06-23T20:15:00+02:00",
-          "end": "2026-06-23T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "The Temptations en The Four Tops vieren hun jubileum met een show vol hits, soul en karaktervolle livevocals.\r\n\r\n'I Can’t Help Myself (Sugar Pie Honey Bunch)', 'Reach Out (I’ll Be There)', 'Standing In The Shadows Of Love', 'Bernadette' en 'Walk Away Renee' zijn allemaal tijdloze klassiekers van de…",
-          "url": "https://www.podiuminfo.nl/concert/452903/The-Four-Tops-The-Temptations/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "453475",
           "title": "Orville Peck",
           "start": "2026-06-24T20:00:00+02:00",
@@ -1724,6 +1700,16 @@
           "location": "Muziekhuis, Loevenhoutsedijk 301, Utrecht",
           "description": "Dit gratis concert presenteert een 'double bill' in Het Muziekhuis Utrecht. Het Fenne Scholte Trio creëert intieme en doorleefde liedjes met drie gitaren en stemmen, resulterend in rijke, dromerige klanklandschappen. Jadi Peperzak Kwartet, onder leiding van gitarist Jadi Peperzak, presenteert een…",
           "url": "https://www.podiuminfo.nl/concert/479520/Ultrajazz-Fenne-Scholte-Trio-Jadi-Peperzak-Kwartet/Muziekhuis/",
+          "tags": []
+        },
+        {
+          "id": "481229",
+          "title": "Ailig Macleod Moreno & The Backbones",
+          "start": "2026-06-24T22:30:00+02:00",
+          "end": "2026-06-24T23:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Ailig Macleod Moreno is een getalenteerde indie/folk singer-songwriter afkomstig uit Nederland. Met zijn diepgewortelde Spaanse en Schotse afkomst, vertaalt hij levenservaringen en observaties naar zijn muzikale werk. Hij heeft door de jaren heen een reputatie opgebouwd met zijn straatoptredens,…",
+          "url": "https://www.podiuminfo.nl/concert/481229/Ailig-Macleod-Moreno-The-Backbones/TivoliVredenburg/",
           "tags": []
         },
         {
@@ -1895,6 +1881,36 @@
           "description": "De Peruaanse band Los Mirlos is een pionier van de psychedelische cumbia, het genre waarin traditionele Latijns-Amerikaanse ritmes worden vermengd met elektrische gitaren, echo-effecten en surfrock. Los Mirlos bestaat al sinds 1973 en heeft veel bezettingswisselingen gekend, maar aan het hoofd…",
           "url": "https://www.podiuminfo.nl/concert/462845/Los-Mirlos/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "462548",
+          "title": "Action Bronson",
+          "start": "2026-07-06T20:00:00+02:00",
+          "end": "2026-07-06T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De New Yorkse rapper Action Bronson (echte naam: Ariyan Arslani) is waarschijnlijk de rapper met de meeste culinaire referenties in zijn teksten – hij is dan ook een voormalig chef-kok.",
+          "url": "https://www.podiuminfo.nl/concert/462548/Action-Bronson/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "463526",
+          "title": "Utrechtse Studenten Bigband",
+          "start": "2026-07-06T20:30:00+02:00",
+          "end": "2026-07-06T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Utrechtse Studenten Bigband (USBB) viert midden in een groots feestjaar hun 20-jarig jubileum in Cloud Nine. Op 6 juli presenteren zij het project 'Big Back to the Future', dat verleden, heden en toekomst combineert in een avond vol muziek, samenwerking en vernieuwing. De verbinding tussen…",
+          "url": "https://www.podiuminfo.nl/concert/463526/Utrechtse-Studenten-Bigband/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "471779",
+          "title": "JENNFR",
+          "start": "2026-07-07T11:00:00+02:00",
+          "end": "2026-07-07T12:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Dinsdagochtend Concerten bieden wekelijks een platform voor nieuw muzikaal talent. Elk concert, met een andere invulling, is akoestisch en presenteert lokale artiesten. Het nieuwe podium in de gerenoveerde foyer, met prachtig uitzicht, creëert een intieme en informele sfeer nabij de koffiebar,…",
+          "url": "https://www.podiuminfo.nl/concert/471779/JENNFR/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1924,16 +1940,6 @@
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "D&amp;D 5.5e Phandelver: Thralls of Eternality Wed 24/6 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/87a11357-ec97-4c97-8be2-638c37db2387",
-          "tags": []
-        },
-        {
-          "id": "598795",
-          "title": "DDHC-WBW The Wild Beyond the Witchlight",
-          "start": "2026-06-24T19:00:00+02:00",
-          "end": "2026-06-24T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "DDHC-WBW The Wild Beyond the Witchlight Wed 24/6 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign (WBW) Character levels 1-8 Written by Wizards of the Coast Once every eight years, the fantastic Witchlight…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/72df65c3-3239-4db9-9497-8778e24a71b8",
           "tags": []
         },
         {
@@ -2167,30 +2173,6 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-22708",
-          "title": "Commander Tuesday",
-          "start": "2026-06-23T18:00:00+02:00",
-          "end": "2026-06-23T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8216;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-231/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
-          "id": "lab-monkey-11402",
-          "title": "Ladies Knight",
-          "start": "2026-06-23T19:00:00+02:00",
-          "end": "2026-06-23T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "Zin om Magic te spelen met andere vrouwen? Voelt het weleens intimiderend om de enige meid te zijn aan tafel? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het je graag. &nbsp; Op 23…",
-          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
-          "tags": [
-            "Ladies'(K)night"
-          ]
-        },
-        {
           "id": "lab-monkey-22710",
           "title": "Weekly Draft",
           "start": "2026-06-25T19:00:00+02:00",
@@ -2202,8 +2184,7 @@
             "Draft"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2273,8 +2254,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -2461,20 +2441,6 @@
           ]
         },
         {
-          "id": "beton-salsa-nights-elke-woensdag-41",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-06-24T00:00:00+02:00",
-          "end": "2026-06-24T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-41/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
           "id": "beton-mediamart-barely-working-album-release",
           "title": "Mediamart ‘Barely Working’ Album Release",
           "start": "2026-06-26T00:00:00+02:00",
@@ -2511,8 +2477,7 @@
           "tags": [
             "Gratis",
             "Kinderen",
-            "Terras",
-            "Workshop"
+            "Terras"
           ]
         },
         {
@@ -2543,6 +2508,76 @@
           "tags": [
             "Workshop",
             "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-28",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-06-29T00:00:00+02:00",
+          "end": "2026-06-29T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-28/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-10",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-06-29T00:00:00+02:00",
+          "end": "2026-06-29T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-10/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-27",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-06-29T00:00:00+02:00",
+          "end": "2026-06-29T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-27/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-6",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-06-29T00:00:00+02:00",
+          "end": "2026-06-29T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-6/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-42",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-07-01T00:00:00+02:00",
+          "end": "2026-07-01T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-42/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
           ]
         }
       ]
@@ -3073,6 +3108,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-workshop-groeipapier-maken-2026",
+          "title": "Workshop: Groeipapier maken",
+          "start": "2026-07-04T10:00:00+02:00",
+          "end": "2026-07-26T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/workshop-groeipapier-maken/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-creatief-met-water-in-het-atelier-2026",
           "title": "Creatief met water in het atelier",
           "start": "2026-07-04T10:00:00+02:00",
@@ -3113,16 +3158,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-circus-olifant-9-juli-2026",
-          "title": "Circus Olifant &#8211; 9 juli 2026",
-          "start": "2026-07-09T10:00:00+02:00",
-          "end": "2026-07-09T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/circus-olifant-9-juli/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot-2026",
           "title": "De Maaltuin: Zomerse 5-gangendiners op het Muiderslot",
           "start": "2026-07-09T10:00:00+02:00",
@@ -3133,6 +3168,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-circus-olifant-9-juli-2026",
+          "title": "Circus Olifant &#8211; 9 juli 2026",
+          "start": "2026-07-09T10:00:00+02:00",
+          "end": "2026-07-09T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/circus-olifant-9-juli/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-schiet-het-waterschap-te-hulp-2026",
           "title": "Schiet het waterschap te hulp",
           "start": "2026-07-13T10:00:00+02:00",
@@ -3140,16 +3185,6 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/schiet-het-waterschap-te-hulp/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-workshop-groeipapier-maken-2026",
-          "title": "Workshop: Groeipapier maken",
-          "start": "2026-07-13T10:00:00+02:00",
-          "end": "2026-07-15T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/workshop-groeipapier-maken/",
           "tags": []
         },
         {
@@ -3400,6 +3435,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/mindful-muiderslot-yoga-5/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-familietheater-hakim-op-zn-best-6-sep-2026-2026",
+          "title": "Familietheater: Hakim op z&#8217;n best",
+          "start": "2026-09-06T10:00:00+02:00",
+          "end": "2026-09-06T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/familietheater-hakim-op-zn-best-6-sep-2026/",
           "tags": []
         },
         {
@@ -3918,6 +3963,17 @@
       "feedUrl": "https://www.buhurtinternational.com/tournaments",
       "events": [
         {
+          "id": "bi-v.-veszprém-medieval-day",
+          "title": "V. Veszprém Medieval Day",
+          "start": "2026-10-10T00:00:00+01:00",
+          "end": "2026-10-10T23:00:00+01:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/v.-veszprém-medieval-day",
+          "tags": []
+        },
+        {
           "id": "bi-desafio-belmonte-2026",
           "title": "Desafio Belmonte 2026",
           "start": "2026-09-19T00:00:00+02:00",
@@ -4003,6 +4059,17 @@
           "country": "Germany",
           "description": "Buhurt-toernooi in Germany.",
           "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-tournament-of-visegrád-2026",
+          "title": "Tournament of Visegrád 2026",
+          "start": "2026-07-10T00:00:00+02:00",
+          "end": "2026-07-10T23:00:00+02:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/tournament-of-visegrád-2026",
           "tags": []
         },
         {

@@ -51,7 +51,7 @@ export function Sidebar({
 
   return (
     <div className="flex flex-col gap-4">
-      <Panel title="Filters">
+      <Panel title="Filters" collapsible defaultOpen={false}>
         <nav className="flex flex-col">
           {filters.map(({ key, label, count }) => {
             const on = active === key
@@ -122,7 +122,7 @@ export function Sidebar({
       </Panel>
 
       {venues.length > 0 && (
-        <Panel title="Bronnen">
+        <Panel title="Bronnen" collapsible defaultOpen={false}>
           <ul className="flex flex-col">
             {venues.map((s) => {
               const hidden = hiddenSources.has(s.id)

@@ -26,7 +26,7 @@ export const SCENES: SceneDef[] = [
     titleLines: ["LOCAL EVENTS", "UTRECHT"],
     tagline: "Kies events, download ze als .ics of voeg ze toe aan Google Agenda.",
     skin: { accent: "var(--hot)", accent2: "var(--cyan)" },
-    facetsOf: (e) => e.source.id === "festivalfans-utrecht" ? ["FESTIVAL"] : utrechtGenres(e.tags ?? []),
+    facetsOf: (e) => e.source.id === "festivalfans-utrecht" ? ["FESTIVAL"] : utrechtGenres(e),
     facetLabel: (f) => (f in UTRECHT_GENRE_META ? `${UTRECHT_GENRE_META[f as keyof typeof UTRECHT_GENRE_META].emoji} ${UTRECHT_GENRE_META[f as keyof typeof UTRECHT_GENRE_META].label}` : f),
   },
   {

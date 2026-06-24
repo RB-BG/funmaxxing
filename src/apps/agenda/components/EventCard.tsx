@@ -3,6 +3,7 @@ import { AnimatePresence, motion, useMotionValue, useSpring } from "framer-motio
 import confetti from "canvas-confetti"
 import { Check } from "lucide-react"
 import type { EnrichedEvent } from "@/types"
+import { cleanTitle, isSoldOut } from "@/lib/classify"
 import { fmtTime, gcalUrl } from "@/lib/calendar"
 import { useSound } from "@/ui/sound"
 import { useReducedMotion } from "@/ui/useReducedMotion"
@@ -22,6 +23,7 @@ export function EventCard({ event, selected, onToggle, badges }: EventCardProps)
   const { play } = useSound()
   const reduced = useReducedMotion()
   const timed = !event.start.includes("T00:00:00")
+  const soldOut = isSoldOut(event)
 
   // Pointer-reactive 3D tilt: the card leans toward the cursor and lifts.
   const rotateX = useSpring(useMotionValue(0), { stiffness: 300, damping: 22 })
@@ -111,9 +113,14 @@ export function EventCard({ event, selected, onToggle, badges }: EventCardProps)
             </span>
           </div>
 
-          <h3 className="break-words text-[15px] font-bold leading-snug text-ink">{event.title}</h3>
+          <h3 className="break-words text-[15px] font-bold leading-snug text-ink">{cleanTitle(event.title)}</h3>
 
           <div className="mt-1 flex flex-wrap items-center gap-x-3 gap-y-0.5 text-xs font-medium text-ink/60">
+            {soldOut && (
+              <span className="border-2 border-ink bg-[#e84b3a] px-1.5 py-px text-[10px] font-bold uppercase tracking-wide text-white">
+                Uitverkocht
+              </span>
+            )}
             {timed && (
               <span>
                 {fmtTime(event.start)} – {fmtTime(event.end)}

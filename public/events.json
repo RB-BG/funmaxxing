@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T10:25:18.749Z",
+  "updatedAt": "2026-06-25T06:28:07.692Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -413,6 +413,16 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "30257",
+          "title": "bby",
+          "start": "2026-10-28T20:00:00+01:00",
+          "end": "2026-10-28T22:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het Londense vijftal bby combineert aanstekelijke alternatieve indie met invloeden uit folk en elektronica. De band geeft vaak DIY-optredens in hun hoofdkwartier in Oost-Londen, waarbij ze rauwe, energieke shows geven die doen denken aan de chaos van klassieke punkconcerten op huisfeesten. Met hun…",
+          "url": "https://ekko.nl/event/bby/",
+          "tags": []
+        },
+        {
           "id": "30263",
           "title": "Madra Salach",
           "start": "2026-09-19T20:00:00+02:00",
@@ -670,16 +680,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
           "url": "https://ekko.nl/event/diep-in-de-groef-219/",
-          "tags": []
-        },
-        {
-          "id": "30018",
-          "title": "Aan een stuk Door",
-          "start": "2026-06-24T20:00:00+02:00",
-          "end": "2026-06-24T23:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Deze avond kijk ik, graag samen met jullie, terug op een periode gevuld met kansen, liefde en ontwikkeling. Een leven wat ondanks en dankzij al het mooie, momenten met zich meebrengt waar je de controle even dreigt te verliezen, of nog erger; de plank zo nu en dan toch volledig misslaat… Veel…",
-          "url": "https://ekko.nl/event/aan-een-stuk-door/",
           "tags": []
         },
         {
@@ -1103,16 +1103,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-youth-code-king-yosef-24-06-2026",
-          "title": "Youth Code + King Yosef",
-          "start": "2026-06-24T20:15:00+02:00",
-          "end": "2026-06-24T23:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Industrieel EBM-duo met hardcore punkspirit",
-          "url": "https://dehelling.nl/agenda/youth-code-king-yosef-24-06-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-fc-de-helling-tun-ned-25-06-2026",
           "title": "FC De Helling TUN – NED",
           "start": "2026-06-25T22:30:00+02:00",
@@ -1120,6 +1110,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Je favoriete nieuwe voetbalclub",
           "url": "https://dehelling.nl/agenda/fc-de-helling-tun-ned-25-06-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-the-sun-x-spain-viewing-party-26-06-2026",
+          "title": "The Sun x SPAIN Viewing Party",
+          "start": "2026-06-26T23:59:00+02:00",
+          "end": "2026-06-27T05:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "WK SPAIN + Dj",
+          "url": "https://dehelling.nl/agenda/the-sun-x-spain-viewing-party-26-06-2026/",
           "tags": []
         },
         {
@@ -1671,7 +1671,8 @@
       "icon": "🟣",
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/5623/concerten/NAR-Cafe-der-Kunsten/Utrecht/",
-      "events": []
+      "events": [],
+      "broken": true
     },
     {
       "id": "tivoli-vredenburg",
@@ -1681,46 +1682,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "453475",
-          "title": "Orville Peck",
-          "start": "2026-06-24T20:00:00+02:00",
-          "end": "2026-06-24T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De mysterieuze, gemaskerde Zuid-Afrikaanse countryzanger Orville Peck voelt zich naar eigen zeggen al zijn hele leven een cowboy. Niet zo vreemd dus dat hij zich laat inspireren door klassieke countrysterren als Merle Haggard, Willie Nelson en George Jones, al zijn ook moderne namen als Lana Del…",
-          "url": "https://www.podiuminfo.nl/concert/453475/Orville-Peck/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "457718",
-          "title": "Rosa's propaganda",
-          "start": "2026-06-24T20:00:00+02:00",
-          "end": "2026-06-24T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Rosa’s propaganda brengt duistere, industriële protestpop met goth- en metalinvloeden. Samen met haar band en 'The Choir of Liars' presenteert ze een complexe en politiek geladen liveshow die thema's als macht, gehoorzaamheid en verzet verkent. De show, die door 3voor12 Utrecht wordt omschreven als…",
-          "url": "https://www.podiuminfo.nl/concert/457718/Rosas-propaganda/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "479520",
-          "title": "Ultrajazz: Fenne Scholte Trio & Jadi Peperzak Kwartet",
-          "start": "2026-06-24T20:00:00+02:00",
-          "end": "2026-06-24T21:00:00.000Z",
-          "location": "Muziekhuis, Loevenhoutsedijk 301, Utrecht",
-          "description": "Dit gratis concert presenteert een 'double bill' in Het Muziekhuis Utrecht. Het Fenne Scholte Trio creëert intieme en doorleefde liedjes met drie gitaren en stemmen, resulterend in rijke, dromerige klanklandschappen. Jadi Peperzak Kwartet, onder leiding van gitarist Jadi Peperzak, presenteert een…",
-          "url": "https://www.podiuminfo.nl/concert/479520/Ultrajazz-Fenne-Scholte-Trio-Jadi-Peperzak-Kwartet/Muziekhuis/",
-          "tags": []
-        },
-        {
-          "id": "481229",
-          "title": "Ailig Macleod Moreno & The Backbones",
-          "start": "2026-06-24T22:30:00+02:00",
-          "end": "2026-06-24T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Ailig Macleod Moreno is een getalenteerde indie/folk singer-songwriter afkomstig uit Nederland. Met zijn diepgewortelde Spaanse en Schotse afkomst, vertaalt hij levenservaringen en observaties naar zijn muzikale werk. Hij heeft door de jaren heen een reputatie opgebouwd met zijn straatoptredens,…",
-          "url": "https://www.podiuminfo.nl/concert/481229/Ailig-Macleod-Moreno-The-Backbones/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "453526",
           "title": "The B-52's",
@@ -1920,6 +1881,46 @@
           "description": "De Dinsdagochtend Concerten bieden wekelijks een platform voor nieuw muzikaal talent. Elk concert, met een andere invulling, is akoestisch en presenteert lokale artiesten. Het nieuwe podium in de gerenoveerde foyer, met prachtig uitzicht, creëert een intieme en informele sfeer nabij de koffiebar,…",
           "url": "https://www.podiuminfo.nl/concert/471779/JENNFR/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "477158",
+          "title": "Amber Webber and Stephen McBean - Black Mountain",
+          "start": "2026-07-07T20:00:00+02:00",
+          "end": "2026-07-07T21:00:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Op dinsdag 7 juli 2026 presenteren TivoliVredenburg en dB's een intieme show met Amber Webber en Stephen McBean in dB's, Utrecht. Deze twee prominente leden van de Canadese psychedelische rockformatie Black Mountain treden op onder hun alias Twin Oscillations. Het duo zal de rijke muzikale…",
+          "url": "https://www.podiuminfo.nl/concert/477158/Amber-Webber-and-Stephen-McBean-Black-Mountain/dBs/",
+          "tags": []
+        },
+        {
+          "id": "449095",
+          "title": "José James",
+          "start": "2026-07-07T20:15:00+02:00",
+          "end": "2026-07-07T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Presents the 50th Anniversary of Marvin Gaye’s ‘I Want you’  Featuring China Moses - De Amerikaanse jazz- en soulzanger José James brengt een ode aan het legendarische album I Want You van Marvin Gaye, dat (niet toevallig) in 2026 vijftig jaar bestaat. I Want You is een sensuele klassieker die vele…",
+          "url": "https://www.podiuminfo.nl/concert/449095/Jose-James/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "458785",
+          "title": "Emily Nenni",
+          "start": "2026-07-07T20:30:00+02:00",
+          "end": "2026-07-07T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse countryzangeres Emily Nenni brengt, ondanks haar jonge leeftijd, het klassieke honky-tonkgeluid levend. Met reeds drie albums op haar naam, brak ze door met 'On The Ranch' (2022), waarin ze bewijst dat oude muziek kan samengaan met een moderne levenshouding. Haar vierde album,…",
+          "url": "https://www.podiuminfo.nl/concert/458785/Emily-Nenni/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "451318",
+          "title": "Slot Zeist Live: Katie Melua",
+          "start": "2026-07-08T18:00:00+02:00",
+          "end": "2026-07-08T19:00:00.000Z",
+          "location": "Slot Zeist, Zinzendorflaan 1, Zeist",
+          "description": "De Brits-Georgische zangeres en songwriter Ketevan “Katie” Melua brak al op jonge leeftijd door. De voormalige student van de fameuze BRIT School (o.a. Adele, Amy Winehouse en Olivia Dean) debuteerde als negentienjarige met Call Off The Search, haar eerste album. Het werd een nummer 1 album en…",
+          "url": "https://www.podiuminfo.nl/concert/451318/Slot-Zeist-Live-Katie-Melua/Slot-Zeist/",
+          "tags": []
         }
       ]
     },
@@ -1940,66 +1941,6 @@
       "scene": "games",
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
-        {
-          "id": "599156",
-          "title": "Big Gay Orcs",
-          "start": "2026-06-24T19:00:00+02:00",
-          "end": "2026-06-24T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Big Gay Orcs Wed 24/6 7-10pm at Subcultures @Silver Heron Studios English, One-Page RPGs by Grant Howitt Written by Grant Howitt You are a champion amongst orcs. The Warlord is dead by an assassin’s hand. You have received orders from the Great Khan: your fortress is the last defence that stands…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/70fb5a8e-80cf-4844-9ebf-e56dedb9336d",
-          "tags": []
-        },
-        {
-          "id": "599092",
-          "title": "D&D 5.5e Phandelver: Thralls of Eternality",
-          "start": "2026-06-24T19:00:00+02:00",
-          "end": "2026-06-24T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "D&amp;D 5.5e Phandelver: Thralls of Eternality Wed 24/6 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/87a11357-ec97-4c97-8be2-638c37db2387",
-          "tags": []
-        },
-        {
-          "id": "599589",
-          "title": "Flights of Fancy: Rock & Barrel Roll",
-          "start": "2026-06-24T19:00:00+02:00",
-          "end": "2026-06-24T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Flights of Fancy: Rock &amp; Barrel Roll Wed 24/6 7-10pm at Subcultures @De Bierkantine English, Mausritter Written by Peter Elroy &amp;amp;amp; Max Philippi Flights of Fancy is an aerial Mausritter adventure collection that takes you to the skies above and the vastness below. TL;DR: Where; De…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/fc88815a-6227-4112-acdd-b2875624468e",
-          "tags": []
-        },
-        {
-          "id": "597424",
-          "title": "Blades in the Dark – Sandmen",
-          "start": "2026-06-24T19:00:00+02:00",
-          "end": "2026-06-24T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Blades in the Dark – Sandmen Wed 24/6 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/90271929-69a0-4243-877a-8c79dae812bd",
-          "tags": []
-        },
-        {
-          "id": "599577",
-          "title": "SPACEGUTS! [playtest session]",
-          "start": "2026-06-24T19:00:00+02:00",
-          "end": "2026-06-24T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "SPACEGUTS! [playtest session] Wed 24/6 7-10pm at Subcultures @Silver Heron Studios English, Spaceguts Written by Peter Klijn Spaceguts is a weird sci-fi game where you play surgeon-engineers fixing sentient spacevessels. You have sworn a medical oath to keep the vessels alive and you’re free to…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0425a1e2-0726-4df9-bd29-c3673cdabb5b",
-          "tags": []
-        },
-        {
-          "id": "597150",
-          "title": "Campagne: Koning van de Krotten",
-          "start": "2026-06-24T19:00:00+02:00",
-          "end": "2026-06-24T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Campagne: Koning van de Krotten Wed 24/6 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/47eaf34d-9784-4959-b443-1e1b32797632",
-          "tags": []
-        },
         {
           "id": "599748",
           "title": "D&D 5.5e: Dark Matter \"Is the moon made of Cheese?\"",
@@ -2272,7 +2213,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2361,7 +2303,21 @@
       "icon": "🦸",
       "scene": "games",
       "feedUrl": "https://www.dutchcomiccon.com/",
-      "events": []
+      "events": [
+        {
+          "id": "dcc-20261121",
+          "title": "Heroes Dutch Comic Con",
+          "start": "2026-11-21T10:00+02:00",
+          "end": "2026-11-22T18:00+01:00",
+          "location": "Jaarbeurs, Jaarbeurs Utrecht, Jaarbeursplein 15, 3521 AM Utrecht",
+          "description": "Heroes Dutch Comic Con is the largest Comic Con in the Netherlands. An entertaining event full of experiences where you’ll find everything related to movies, series, comics, cosplay, games, superheroes, fantasy/science fiction and anime in form of activities, shows, panels, fanclubs, workshops and…",
+          "url": "https://www.dutchcomiccon.com/",
+          "tags": [
+            "Comic Con",
+            "Pop Culture"
+          ]
+        }
+      ]
     },
     {
       "id": "spellenspektakel",
@@ -2456,20 +2412,6 @@
             "Skaten",
             "Terras",
             "Verhoogd geluidslimiet"
-          ]
-        },
-        {
-          "id": "beton-salsa-nights-elke-woensdag-41",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-06-24T00:00:00+02:00",
-          "end": "2026-06-24T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-41/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
           ]
         },
         {
@@ -2623,6 +2565,16 @@
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
         {
+          "id": "acu-20260626-alkaline-karaoke",
+          "title": "Alkaline + Karaoke",
+          "start": "2026-06-26T00:00:00+02:00",
+          "end": "2026-06-26T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "June 26th. Studio mbo organizes a night out for mbo students!. Studio mbo organizes a night out for mbo students (everyone is welcome) because there is no student association for mbo students and we wantend to organize a fun night out with loud music and karaoke to get mbo students together!…",
+          "url": "https://acu.nl/events/20260626/alkaline-karaoke",
+          "tags": []
+        },
+        {
           "id": "acu-20260710-heavy-jam",
           "title": "Heavy Jam",
           "start": "2026-07-10T00:00:00+02:00",
@@ -2680,16 +2632,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "July 3rd. Live bands, DJs AND MOORE. The Vondelbunker needs help! One of our sibling venues in Amsterdam has been hosting the greatest shows that the Vondelpark has ever seen, but without help they can not keep going. ACU and Vondelbunker have put our hands together for a fundraiser. All proceeds…",
           "url": "https://acu.nl/events/20260703/acubunker-fundraiser-for-vondelbunker",
-          "tags": []
-        },
-        {
-          "id": "acu-20260702-hars-noise-meeting-noise-in-acu",
-          "title": "Hars Noise Meeting / NOISE IN ACU",
-          "start": "2026-07-02T00:00:00+02:00",
-          "end": "2026-07-02T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 2nd. MiMi ar Capricious, schoco mune, Vinnieragua's One Man Acid Band, StöRenFrieD, Cen-Z, Ignore all previous instructions, Dj 9 to 5, Screaming into the void, The void screams back, You yes all of you. . 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾 ⚠️STROBE, NOISE…",
-          "url": "https://acu.nl/events/20260702/hars-noise-meeting-noise-in-acu",
           "tags": []
         }
       ]
@@ -2874,6 +2816,19 @@
           ]
         },
         {
+          "id": "basis-utrecht-10001490-1785628740-1785650400",
+          "title": "BASIS Outdoor After/ Lisa Korver/ Mika Heggemann/ Slimfit",
+          "start": "2026-08-01T23:59:00+02:00",
+          "end": "2026-08-02T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-outdoor-after-lisa-korver-mika-heggemann-slimfit/",
+          "tags": [
+            "Bounce",
+            "Trance"
+          ]
+        },
+        {
           "id": "basis-utrecht-10001477-1786233540-1786255200",
           "title": "BASIS/ Blame the Mono/ Fiene/ LENA/ Sons of Hidden (live)",
           "start": "2026-08-08T23:59:00+02:00",
@@ -3054,8 +3009,8 @@
         {
           "id": "74163",
           "title": "NNO at Heamiel Festival Bolsward",
-          "start": "2026-06-25T18:00:00.000Z",
-          "end": "2026-06-25T21:00:00.000Z",
+          "start": "2026-06-25T20:00:00.000Z",
+          "end": "2026-06-25T23:00:00.000Z",
           "location": "Bolsward, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74163",
           "description": "The North Netherlands Symphony Orchestra is coming to The Heamiel Festival Bolsward with a surprising combination of film music and singer-songwriter Stef Bos. The Heamiel Festival is a vibrant event that takes place annually and has the city in its grip.<BR><BR>The NNO treats you to various symphon",
@@ -3064,8 +3019,8 @@
         {
           "id": "75494",
           "title": "Musis at the Movies - Classics in the Movies met Maestro Jules & Laetitia Gerards",
-          "start": "2026-06-25T18:00:00.000Z",
-          "end": "2026-06-25T21:00:00.000Z",
+          "start": "2026-06-25T20:00:00.000Z",
+          "end": "2026-06-25T23:00:00.000Z",
           "location": "Arnhem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75494",
           "description": "In Musis at the Movies , Maestro Jules not only shows how music works in film, but above all experiences what that music does to us. How do composers and directors unwittingly control our emotions? Which musical choices make a scene unforgettable, moving or breathtakingly exciting?<BR><BR>Before the",
@@ -3074,8 +3029,8 @@
         {
           "id": "75314",
           "title": "Hayao Miyazaki's Dreams",
-          "start": "2026-06-26T18:00:00.000Z",
-          "end": "2026-06-26T21:00:00.000Z",
+          "start": "2026-06-26T20:00:00.000Z",
+          "end": "2026-06-26T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75314",
           "description": "А unique concert will take place. “Howl’s Moving Castle”, “Nausica&auml; of the Valley of the Wind”, “Spirited Away”, and “My Neighbor Totoro” &mdash; you will hear fantastically charming soundtracks from world-famous anime by the greatest moder",
@@ -3084,8 +3039,8 @@
         {
           "id": "74946",
           "title": "Lingehaven Concert: At the Movies",
-          "start": "2026-06-27T18:00:00.000Z",
-          "end": "2026-06-27T21:00:00.000Z",
+          "start": "2026-06-27T20:00:00.000Z",
+          "end": "2026-06-27T23:00:00.000Z",
           "location": "Gorinchem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74946",
           "description": "On Saturday, June 27, 2026, the Lingehaven will once again be the atmospheric backdrop for the Lingehaven concert. This year everything is dedicated to film music under the title Lingehaven at the Movies.Conductor Jules van Hessen presents a special program with exclusively classical film music: rec",
@@ -3094,8 +3049,8 @@
         {
           "id": "74795",
           "title": "The most beautiful film music in Concert",
-          "start": "2026-07-02T18:00:00.000Z",
-          "end": "2026-07-02T21:00:00.000Z",
+          "start": "2026-07-02T20:00:00.000Z",
+          "end": "2026-07-02T23:00:00.000Z",
           "location": "Eindhoven, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74795",
           "description": "Maestro Jules Orchestra<BR>Jules van Hessen - conductor<BR>Laetitia Gerards - soprano<BR>Winner of the Maestro Jules Prize Princess Christina Competition<BR><BR>How do composers and directors subtly steer our emotions? Which musical choices make a scene unforgettable, moving, or breathtakingly suspe",
@@ -3104,8 +3059,8 @@
         {
           "id": "73331",
           "title": "Vriendenloterij ZomerConcerten: E.T. The Extra-Terrestrial In Concert",
-          "start": "2026-07-03T18:00:00.000Z",
-          "end": "2026-07-03T21:00:00.000Z",
+          "start": "2026-07-03T20:00:00.000Z",
+          "end": "2026-07-03T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73331",
           "description": "John Williams - E.T. the Extra-Terrestrial<BR><BR>Don't miss Steven Spielberg's cinematic masterpiece on the big screen!<BR><BR>Relive the magic of ET The Extra-Terrestrial on the big screen, while the Residentie Orchestra performs John Williams' Academy Award-winning soun",
@@ -3114,8 +3069,8 @@
         {
           "id": "74088",
           "title": "Candlelight Concerts: A tribute to Hans Zimmer",
-          "start": "2026-07-03T18:00:00.000Z",
-          "end": "2026-07-03T21:00:00.000Z",
+          "start": "2026-07-03T20:00:00.000Z",
+          "end": "2026-07-03T23:00:00.000Z",
           "location": "Eindhoven, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74088",
           "description": "Candlelight Concerts bring the magic of live music by candlelight to Muziekgebouw Eindhoven! String quartet Magic Strings will pay tribute to Hans Zimmer this evening. Enjoy well-known film music from films such as 'Pirates of the Caribbean', 'Wonder Women', &",
@@ -3124,8 +3079,8 @@
         {
           "id": "73332",
           "title": "Vriendenloterij ZomerConcerten: E.T. The Extra-Terrestrial In Concert",
-          "start": "2026-07-04T18:00:00.000Z",
-          "end": "2026-07-04T21:00:00.000Z",
+          "start": "2026-07-04T20:00:00.000Z",
+          "end": "2026-07-04T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73332",
           "description": "John Williams - E.T. the Extra-Terrestrial<BR><BR>Don't miss Steven Spielberg's cinematic masterpiece on the big screen!<BR><BR>Relive the magic of ET The Extra-Terrestrial on the big screen, while the Residentie Orchestra performs John Williams' Academy Award-winning soun",
@@ -3134,8 +3089,8 @@
         {
           "id": "76969",
           "title": "Tribute to Howard Shore",
-          "start": "2026-07-05T18:00:00.000Z",
-          "end": "2026-07-05T21:00:00.000Z",
+          "start": "2026-07-05T20:00:00.000Z",
+          "end": "2026-07-05T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76969",
           "description": "Virtuoso sounds of the La Chapelle Sauvage will take you directly to a fantasy world full of elves, hobbits and dwarves. This music that millions of people love is sure to give you goosebumps!<BR><BR>This musical journey full of enchanting melodies by world-renowned Canadian composer Howard Shore, w",
@@ -3144,8 +3099,8 @@
         {
           "id": "69400",
           "title": "Vriendenloterij ZomerConcerten: Movie Heroes: From Forrest Gump to Star Wars",
-          "start": "2026-07-16T18:00:00.000Z",
-          "end": "2026-07-16T21:00:00.000Z",
+          "start": "2026-07-16T20:00:00.000Z",
+          "end": "2026-07-16T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=69400",
           "description": "Enjoy an evening of film music from Elmer Bernstein and Ennio Morricone to James Horner and John Williams, from Mulan and Forrest Gump to Star Wars and Zorro . Marzena Diakun leads the Staatsorchester Rheinische Philharmonie in the most beautiful classic film scores. The story behind the notes is to",
@@ -3154,8 +3109,8 @@
         {
           "id": "76971",
           "title": "Tribute to Howard Shore",
-          "start": "2026-08-02T18:00:00.000Z",
-          "end": "2026-08-02T21:00:00.000Z",
+          "start": "2026-08-02T20:00:00.000Z",
+          "end": "2026-08-02T23:00:00.000Z",
           "location": "Roermond, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76971",
           "description": "Virtuoso sounds of the La Chapelle Sauvage will take you directly to a fantasy world full of elves, hobbits and dwarves. This music that millions of people love is sure to give you goosebumps!<BR><BR>This musical journey full of enchanting melodies by world-renowned Canadian composer Howard Shore, w",
@@ -3164,8 +3119,8 @@
         {
           "id": "73710",
           "title": "Vriendenloterij ZomerConcerten: Film music: from Lord of the Rings to Inception",
-          "start": "2026-08-15T18:00:00.000Z",
-          "end": "2026-08-15T21:00:00.000Z",
+          "start": "2026-08-15T20:00:00.000Z",
+          "end": "2026-08-15T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73710",
           "description": "Embark on an epic journey through magical worlds, with music from The Lord of the Rings , Harry Potter and Game of Thrones , among others. Philharmonie Leipzig plays works by Hans Zimmer, John Williams, Ramin Djawadi and many others.<BR><BR>Legendary heroes and epic stories deserve music that lifts",
@@ -3174,8 +3129,8 @@
         {
           "id": "73711",
           "title": "Vriendenloterij ZomerConcerten:  Family Favourites: from Harry Potter to Frozen",
-          "start": "2026-08-16T18:00:00.000Z",
-          "end": "2026-08-16T21:00:00.000Z",
+          "start": "2026-08-16T20:00:00.000Z",
+          "end": "2026-08-16T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73711",
           "description": "The most beautiful music from beloved family films, such as Frozen , Aladdin , Harry Potter and The Lion King .<BR><BR>Beautiful film music for the whole family on Sunday afternoon. Be swept away by the iconic sounds from Frozen, Harry Potter and The Lion King , among others, performed by the Leipzi",
@@ -3184,8 +3139,8 @@
         {
           "id": "73735",
           "title": "The Most Dangerous Game in concert",
-          "start": "2026-08-26T18:00:00.000Z",
-          "end": "2026-08-26T21:00:00.000Z",
+          "start": "2026-08-26T20:00:00.000Z",
+          "end": "2026-08-26T23:00:00.000Z",
           "location": "Arnhem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73735",
           "description": "Max Steiner - The most dangerous game<BR><BR>The original seminal soundtrack by Max Steiner, performed by the Amsterdam Brass Quintet with the James Whale Orchestra.<BR><BR>Based on the iconic novel by Richard Connell , The Most Dangerous Game caused only a small storm when it was released in 1932,",
@@ -3194,8 +3149,8 @@
         {
           "id": "76763",
           "title": "Candlelight: A tribute to Hans Zimmer",
-          "start": "2026-08-27T18:00:00.000Z",
-          "end": "2026-08-27T21:00:00.000Z",
+          "start": "2026-08-27T20:00:00.000Z",
+          "end": "2026-08-27T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76763",
           "description": "Hans Zimmer - Time from Inception<BR>Hans Zimmer / Elton John - This Land from The Lion King<BR>Hans Zimmer - Zooster’s Breakout from Madagascar<BR>Hans Zimmer - Supermarine from Dunkirk<BR>Hans Zimmer - Honor from The Pacific<BR>Hans Zimmer / James Newton Howard - A Dark Knight from The Dark",
@@ -3204,8 +3159,8 @@
         {
           "id": "74216",
           "title": "Star Wars: Return of the Jedi in Concert",
-          "start": "2026-09-07T18:00:00.000Z",
-          "end": "2026-09-07T21:00:00.000Z",
+          "start": "2026-09-07T20:00:00.000Z",
+          "end": "2026-09-07T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74216",
           "description": "John Williams - Star Wars: Return of the Jedi<BR><BR>The Main Hall transforms into a luxury cinema when Return of the Jedi hits the big screen. The blockbuster will be screened in its entirety while the Brussels Philharmonic plays the legendary soundtrack of the sixth Star Wars film live. Guest cond",
@@ -3214,8 +3169,8 @@
         {
           "id": "73779",
           "title": "Proms: John Williams’ Greatest Hits",
-          "start": "2026-09-10T18:00:00.000Z",
-          "end": "2026-09-10T21:00:00.000Z",
+          "start": "2026-09-10T20:00:00.000Z",
+          "end": "2026-09-10T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73779",
           "description": "From Jaws to Star Wars: John Williams' most iconic film score.<BR><BR>How much music does a composer have to write to become immortal? Beethoven – tatata-t&aacute;&aacute;&aacute; – managed to do it in four notes. Even more accurate was John Williams: he only needed two in his i",
@@ -3224,8 +3179,8 @@
         {
           "id": "73780",
           "title": "Proms: John Williams’ Greatest Hits",
-          "start": "2026-09-11T18:00:00.000Z",
-          "end": "2026-09-11T21:00:00.000Z",
+          "start": "2026-09-11T20:00:00.000Z",
+          "end": "2026-09-11T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73780",
           "description": "From Jaws to Star Wars: John Williams' most iconic film score.<BR><BR>How much music does a composer have to write to become immortal? Beethoven – tatata-t&aacute;&aacute;&aacute; – managed to do it in four notes. Even more accurate was John Williams: he only needed two in his i",
@@ -3234,8 +3189,8 @@
         {
           "id": "73781",
           "title": "Enigma-Variations",
-          "start": "2026-09-13T18:00:00.000Z",
-          "end": "2026-09-13T21:00:00.000Z",
+          "start": "2026-09-13T20:00:00.000Z",
+          "end": "2026-09-13T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73781",
           "description": "In the Enigma Variations , Edward Elgar painted his dearest friends. Each of the fourteen parts – one lovingly teasing, the other intimate and glowing – is a portrait in itself; together they form a wonderful ode to friendship. Film composers such as John Williams have been happy to be i",
@@ -3244,8 +3199,8 @@
         {
           "id": "74007",
           "title": "Anna Lapwood with the Philharmonia Orchestra and Laurens Symphonic Women's Choir",
-          "start": "2026-09-17T18:00:00.000Z",
-          "end": "2026-09-17T21:00:00.000Z",
+          "start": "2026-09-17T20:00:00.000Z",
+          "end": "2026-09-17T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74007",
           "description": "With the famous Philharmonia Orchestra and conductor Kerem Hasan, de Doelen opens the new classical season in a big way! Saint-Sa&euml;ns's masterful organ symphony is always an experience to experience, especially when Anna Lapwood takes care of the organ part.  Together with the Laurens S",
@@ -3254,8 +3209,8 @@
         {
           "id": "74947",
           "title": "Undertale: The Determination Symphony",
-          "start": "2026-09-21T18:00:00.000Z",
-          "end": "2026-09-21T21:00:00.000Z",
+          "start": "2026-09-21T20:00:00.000Z",
+          "end": "2026-09-21T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74947",
           "description": "CONCERT IS SOLD OUT<BR><BR>UNDERTALE: The Determination Symphony is an unforgettable concert experience featuring the most memorable themes from the popular indie game, specially rearranged and performed live by a 25-piece orchestra. With gameplay footage on a screen above the stage, the audience…",
@@ -3264,8 +3219,8 @@
         {
           "id": "73681",
           "title": "My Hero Academia in Concert",
-          "start": "2026-09-23T18:00:00.000Z",
-          "end": "2026-09-23T21:00:00.000Z",
+          "start": "2026-09-23T20:00:00.000Z",
+          "end": "2026-09-23T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73681",
           "description": "Join the ultimate celebration of heroism as My Hero Academia in Concert brings a decade of unforgettable moments to life! From Deku’s first steps to the thrilling battles that have defined My Hero Academia, this live concert experience immerses fans in the anime’s full eight season journ",
@@ -3274,8 +3229,8 @@
         {
           "id": "72308",
           "title": "Studio Ghibli in Concert",
-          "start": "2026-09-26T18:00:00.000Z",
-          "end": "2026-09-26T21:00:00.000Z",
+          "start": "2026-09-26T20:00:00.000Z",
+          "end": "2026-09-26T23:00:00.000Z",
           "location": "Bruxelles / Brussel (Brussels), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72308",
           "description": "Studio Ghibli In Concert<BR>A Tribute to the music of Joe Hisaishi<BR>By the fans, for the fans<BR><BR>After the success of the first tour in Belgium, the Netherlands and France, Studio Ghibli is coming back to Brussels in Concert, bigger than ever! The magical atmosphere, 60 artists on stage, the e",
@@ -3284,8 +3239,8 @@
         {
           "id": "75861",
           "title": "Undertale: The Determination Symphony",
-          "start": "2026-09-26T18:00:00.000Z",
-          "end": "2026-09-26T21:00:00.000Z",
+          "start": "2026-09-26T20:00:00.000Z",
+          "end": "2026-09-26T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75861",
           "description": "UNDERTALE: The Determination Symphony is an unforgettable concert experience featuring the most memorable themes from the popular indie game, specially rearranged and performed live by a 25-piece orchestra. With gameplay footage on a screen above the stage, the audience is fully immersed in the worl",
@@ -3294,8 +3249,8 @@
         {
           "id": "72309",
           "title": "Studio Ghibli in Concert",
-          "start": "2026-09-27T18:00:00.000Z",
-          "end": "2026-09-27T21:00:00.000Z",
+          "start": "2026-09-27T20:00:00.000Z",
+          "end": "2026-09-27T23:00:00.000Z",
           "location": "Bruxelles / Brussel (Brussels), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72309",
           "description": "Studio Ghibli In Concert<BR>A Tribute to the music of Joe Hisaishi<BR>By the fans, for the fans<BR><BR>After the success of the first tour in Belgium, the Netherlands and France, Studio Ghibli is coming back to Brussels in Concert, bigger than ever! The magical atmosphere, 60 artists on stage, the e",
@@ -3304,8 +3259,8 @@
         {
           "id": "72197",
           "title": "Koninklijk Concertgebouworkest - Joe Hisaishi film music",
-          "start": "2026-10-02T18:00:00.000Z",
-          "end": "2026-10-02T21:00:00.000Z",
+          "start": "2026-10-02T20:00:00.000Z",
+          "end": "2026-10-02T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72197",
           "description": "On Friday, October 2, 2026, composer and conductor Joe Hisaishi will lead a selection from his acclaimed film score!<BR><BR>Among them the music he made for Studio Ghibli's magical films, such as Spirited Away, Ponyo and Howl's Moving Castle by legendary filmmaker Hayao Miyazake, c",
@@ -3314,8 +3269,8 @@
         {
           "id": "69220",
           "title": "The Music Of From Studio Ghibli To One Piece (new date)",
-          "start": "2026-10-03T18:00:00.000Z",
-          "end": "2026-10-03T21:00:00.000Z",
+          "start": "2026-10-03T20:00:00.000Z",
+          "end": "2026-10-03T23:00:00.000Z",
           "location": "Den Haag (The Hague), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=69220",
           "description": "Immerse yourself in the magical world of Japanese animation. For two hours, experience the iconic music of Studio Ghibli, One Piece, Attack on Titan, and many more, performed live.<BR><BR>A concert like no other. A total immersion into the world of Studio Ghibli and the great classics of Japanese an",
@@ -3324,8 +3279,8 @@
         {
           "id": "74217",
           "title": "Rachmaninoff's Third Symphony",
-          "start": "2026-10-04T18:00:00.000Z",
-          "end": "2026-10-04T21:00:00.000Z",
+          "start": "2026-10-04T20:00:00.000Z",
+          "end": "2026-10-04T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74217",
           "description": "Residentie Orkest<BR>Dennis Russel Davies, conductor<BR>Maki Namekawa, piano<BR><BR>In his Third Symphony , Rachmaninov turns Romanticism inside out. Like never before, he conjures up rich timbres and orchestral harmonies. He knows how to tap into the deepest emotional layers. Rubbing his hands, the",
@@ -3334,8 +3289,8 @@
         {
           "id": "73142",
           "title": "Koninklijk Concertgebouworkest - Joe Hisaishi film music (extra concert)",
-          "start": "2026-10-04T18:00:00.000Z",
-          "end": "2026-10-04T21:00:00.000Z",
+          "start": "2026-10-04T20:00:00.000Z",
+          "end": "2026-10-04T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73142",
           "description": "On Friday, October 2, 2026, composer and conductor Joe Hisaishi will lead a selection from his acclaimed film score!<BR><BR>Among them the music he made for Studio Ghibli's magical films, such as Spirited Away, Ponyo and Howl's Moving Castle by legendary filmmaker Hayao Miyazake, c",
@@ -3344,8 +3299,8 @@
         {
           "id": "69222",
           "title": "The Music Of From Studio Ghibli To One Piece (new date)",
-          "start": "2026-10-05T18:00:00.000Z",
-          "end": "2026-10-05T21:00:00.000Z",
+          "start": "2026-10-05T20:00:00.000Z",
+          "end": "2026-10-05T23:00:00.000Z",
           "location": "Eindhoven, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=69222",
           "description": "Immerse yourself in the magical world of Japanese animation. For two hours, experience the iconic music of Studio Ghibli, One Piece, Attack on Titan, and many more, performed live.<BR><BR>A concert like no other. A total immersion into the world of Studio Ghibli and the great classics of Japanese an",
@@ -3354,8 +3309,8 @@
         {
           "id": "73034",
           "title": "The music of Bond",
-          "start": "2026-10-07T18:00:00.000Z",
-          "end": "2026-10-07T21:00:00.000Z",
+          "start": "2026-10-07T20:00:00.000Z",
+          "end": "2026-10-07T23:00:00.000Z",
           "location": "Eindhoven, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73034",
           "description": "The best music of James Bond – The original London Production James Bond's music, from Goldfinger to Skyfall, has made history thanks to legendary artists such as Paul McCartney, Adele, Shirley Bassey, Tina Turner, Duran Duran, Billie Eilish and Madonna. After the prestigious Royal Al",
@@ -3364,8 +3319,8 @@
         {
           "id": "74684",
           "title": "Intouchables Live in Concert",
-          "start": "2026-10-09T18:00:00.000Z",
-          "end": "2026-10-09T21:00:00.000Z",
+          "start": "2026-10-09T20:00:00.000Z",
+          "end": "2026-10-09T23:00:00.000Z",
           "location": "Leiden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74684",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>After the success of previous film concerts, The James Whale Orchestra will present a new title in the 2026/2027 season: Intouchables Live in Concert . During this special evening, the French film classic Intouchables will be screened in its entirety on a big s",
@@ -3374,8 +3329,8 @@
         {
           "id": "74524",
           "title": "From Taco to Tango, the soul of South America",
-          "start": "2026-10-10T18:00:00.000Z",
-          "end": "2026-10-10T21:00:00.000Z",
+          "start": "2026-10-10T20:00:00.000Z",
+          "end": "2026-10-10T23:00:00.000Z",
           "location": "Den Haag (The Hague), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74524",
           "description": "Ciconia The Hague String Orchestra takes you on a thrilling musical journey through the soul of South America. From Taco to Tango is a concert full of melancholy, rhythm and fire. The supporting program consists of the screening of a documentary about El Sistema in Venezuela.<BR><BR>Program<BR>Teres",
@@ -3384,8 +3339,8 @@
         {
           "id": "74525",
           "title": "Intouchables live in concert",
-          "start": "2026-10-10T18:00:00.000Z",
-          "end": "2026-10-10T21:00:00.000Z",
+          "start": "2026-10-10T20:00:00.000Z",
+          "end": "2026-10-10T23:00:00.000Z",
           "location": "Den Haag (The Hague), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74525",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>After the success of previous film concerts, The James Whale Orchestra will present a new title in the 2026/2027 season: Intouchables Live in Concert . During this special evening, the French film classic Intouchables will be screened in its entirety on a big s",
@@ -3394,8 +3349,8 @@
         {
           "id": "74272",
           "title": "Metropolis (1927)",
-          "start": "2026-10-11T18:00:00.000Z",
-          "end": "2026-10-11T21:00:00.000Z",
+          "start": "2026-10-11T20:00:00.000Z",
+          "end": "2026-10-11T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74272",
           "description": "Wishful Singing  <BR>Yonga Sun, percussion, modular synthesizer<BR>Steven Kamperman, composition, bass clarinet<BR>Jorrit Westerhoff, electric guitar<BR><BR>Steven Kamperman - Metropolis<BR><BR>The hundred-year-old, monumental science fiction epic Metropolis conjures up a dystopian world in 2026 (!)",
@@ -3404,8 +3359,8 @@
         {
           "id": "74690",
           "title": "Intouchables Live in Concert (World Premiere)",
-          "start": "2026-10-12T18:00:00.000Z",
-          "end": "2026-10-12T21:00:00.000Z",
+          "start": "2026-10-12T20:00:00.000Z",
+          "end": "2026-10-12T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74690",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
@@ -3414,8 +3369,8 @@
         {
           "id": "74691",
           "title": "Intouchables Live in Concert",
-          "start": "2026-10-13T18:00:00.000Z",
-          "end": "2026-10-13T21:00:00.000Z",
+          "start": "2026-10-13T20:00:00.000Z",
+          "end": "2026-10-13T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74691",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
@@ -3424,8 +3379,8 @@
         {
           "id": "74689",
           "title": "Intouchables Live in Concert",
-          "start": "2026-10-14T18:00:00.000Z",
-          "end": "2026-10-14T21:00:00.000Z",
+          "start": "2026-10-14T20:00:00.000Z",
+          "end": "2026-10-14T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74689",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
@@ -3434,8 +3389,8 @@
         {
           "id": "74688",
           "title": "Intouchables Live in Concert",
-          "start": "2026-10-15T18:00:00.000Z",
-          "end": "2026-10-15T21:00:00.000Z",
+          "start": "2026-10-15T20:00:00.000Z",
+          "end": "2026-10-15T23:00:00.000Z",
           "location": "Nijmegen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74688",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
@@ -3444,8 +3399,8 @@
         {
           "id": "73736",
           "title": "Leiden International Film Festival: The Most Dangerous Game in concert",
-          "start": "2026-10-17T18:00:00.000Z",
-          "end": "2026-10-17T21:00:00.000Z",
+          "start": "2026-10-17T20:00:00.000Z",
+          "end": "2026-10-17T23:00:00.000Z",
           "location": "Leiden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73736",
           "description": "Max Steiner - The most dangerous game<BR><BR>The original seminal soundtrack by Max Steiner, performed by the Amsterdam Brass Quintet with the James Whale Orchestra.<BR><BR>Based on the iconic novel by Richard Connell , The Most Dangerous Game caused only a small storm when it was released in 1932,",
@@ -3454,8 +3409,8 @@
         {
           "id": "72882",
           "title": "Twilight in Concert",
-          "start": "2026-10-20T18:00:00.000Z",
-          "end": "2026-10-20T21:00:00.000Z",
+          "start": "2026-10-20T20:00:00.000Z",
+          "end": "2026-10-20T23:00:00.000Z",
           "location": "Eindhoven, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72882",
           "description": "Carter Burwell - Twilight<BR><BR>Step into the world of Twilight (2008) like never before with Twilight in Concert, a cinematic live-to-film event that brings the beloved saga to life through live music. Featuring a breathtaking performance by a 12-piece ensemble of rock and orchestral musicians, th",
@@ -3464,8 +3419,8 @@
         {
           "id": "72880",
           "title": "Twilight in Concert",
-          "start": "2026-10-22T18:00:00.000Z",
-          "end": "2026-10-22T21:00:00.000Z",
+          "start": "2026-10-22T20:00:00.000Z",
+          "end": "2026-10-22T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72880",
           "description": "Carter Burwell - Twilight<BR><BR>Step into the world of Twilight (2008) like never before with Twilight in Concert, a cinematic live-to-film event that brings the beloved saga to life through live music. Featuring a breathtaking performance by a 12-piece ensemble of rock and orchestral musicians, th",
@@ -3474,8 +3429,8 @@
         {
           "id": "76700",
           "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-10-26T19:00:00.000Z",
-          "end": "2026-10-26T22:00:00.000Z",
+          "start": "2026-10-26T20:00:00.000Z",
+          "end": "2026-10-26T23:00:00.000Z",
           "location": "Den Haag (The Hague), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76700",
           "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
@@ -3484,8 +3439,8 @@
         {
           "id": "75862",
           "title": "An Orchestral Tribute to Tim Burton & Dark Fantasy by Moonlight",
-          "start": "2026-10-27T19:00:00.000Z",
-          "end": "2026-10-27T22:00:00.000Z",
+          "start": "2026-10-27T20:00:00.000Z",
+          "end": "2026-10-27T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75862",
           "description": "An Orchestral Tribute to Tim Burton &amp; Dark Fantasy by Moonlight – An enchanting live performance of whimsical and otherworldly dark fantasy film music, brought to life by the Illuminated Orchestra, beneath the glow of a giant moon.<BR><BR>A spellbinding live concert celebrating the mus",
@@ -3494,8 +3449,8 @@
         {
           "id": "76701",
           "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-10-28T19:00:00.000Z",
-          "end": "2026-10-28T22:00:00.000Z",
+          "start": "2026-10-28T20:00:00.000Z",
+          "end": "2026-10-28T23:00:00.000Z",
           "location": "Deventer, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76701",
           "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
@@ -3504,8 +3459,8 @@
         {
           "id": "75700",
           "title": "Die 12 Cellisten der Berliner Philharmoniker",
-          "start": "2026-10-29T19:00:00.000Z",
-          "end": "2026-10-29T22:00:00.000Z",
+          "start": "2026-10-29T20:00:00.000Z",
+          "end": "2026-10-29T23:00:00.000Z",
           "location": "Groningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75700",
           "description": "A fascinating journey through the world of cello with twelve top cellists from Berlin<BR><BR>When twelve top cellists from the world-famous Berlin Philharmonic take the stage together, something special awaits you. For more than fifty years, the company, founded in 1972, has been drawing full houses",
@@ -3514,8 +3469,8 @@
         {
           "id": "76702",
           "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-10-29T19:00:00.000Z",
-          "end": "2026-10-29T22:00:00.000Z",
+          "start": "2026-10-29T20:00:00.000Z",
+          "end": "2026-10-29T23:00:00.000Z",
           "location": "Uutrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76702",
           "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
@@ -3524,8 +3479,8 @@
         {
           "id": "73782",
           "title": "Beethoven en Prokofiev",
-          "start": "2026-10-30T19:00:00.000Z",
-          "end": "2026-10-30T22:00:00.000Z",
+          "start": "2026-10-30T20:00:00.000Z",
+          "end": "2026-10-30T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73782",
           "description": "Rotterdams Philharmonisch Orkest<BR>Maxim Emelyanychev, conductor<BR>Alexander Melnikov, piano<BR><BR>'Revolutionary!' must have sighed Emperor Francis II when Beethoven's First Symphony was performed for the first time. The same excitement was there a century later at the",
@@ -3534,8 +3489,8 @@
         {
           "id": "76703",
           "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-10-30T19:00:00.000Z",
-          "end": "2026-10-30T22:00:00.000Z",
+          "start": "2026-10-30T20:00:00.000Z",
+          "end": "2026-10-30T23:00:00.000Z",
           "location": "Naarden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76703",
           "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
@@ -3544,8 +3499,8 @@
         {
           "id": "76704",
           "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-10-31T19:00:00.000Z",
-          "end": "2026-10-31T22:00:00.000Z",
+          "start": "2026-10-31T20:00:00.000Z",
+          "end": "2026-10-31T23:00:00.000Z",
           "location": "Zwolle, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76704",
           "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
@@ -3554,8 +3509,8 @@
         {
           "id": "65505",
           "title": "The World Of Hans Zimmer - A New Dimension",
-          "start": "2026-11-01T19:00:00.000Z",
-          "end": "2026-11-01T22:00:00.000Z",
+          "start": "2026-11-01T20:00:00.000Z",
+          "end": "2026-11-01T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=65505",
           "description": "Audiences can look forward to an emotional journey through the legendary composer’s most famous scores, presented in a breathtaking setting. Zimmer’s unique new orchestral suites will be combined with visually stunning projections, powerful sound arrangements and moving solo performances",
@@ -3564,8 +3519,8 @@
         {
           "id": "73783",
           "title": "Beethoven en Prokofiev",
-          "start": "2026-11-01T19:00:00.000Z",
-          "end": "2026-11-01T22:00:00.000Z",
+          "start": "2026-11-01T20:00:00.000Z",
+          "end": "2026-11-01T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73783",
           "description": "Rotterdams Philharmonisch Orkest<BR>Maxim Emelyanychev, conductor<BR>Alexander Melnikov, piano<BR><BR>'Revolutionary!' must have sighed Emperor Francis II when Beethoven's First Symphony was performed for the first time. The same excitement was there a century later at the",
@@ -3574,8 +3529,8 @@
         {
           "id": "76280",
           "title": "Filmhits Live On Stage",
-          "start": "2026-11-01T19:00:00.000Z",
-          "end": "2026-11-01T22:00:00.000Z",
+          "start": "2026-11-01T20:00:00.000Z",
+          "end": "2026-11-01T23:00:00.000Z",
           "location": "Assen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76280",
           "description": "Lovers of iconic film and musical music can indulge themselves during this symphonic concert with just that little bit more!<BR><BR>The audience is taken along legendary soundtracks by grandmasters such as John Williams, Hans Zimmer, Howard Shore, John Powell, Yann Tiersen, Klaus Badelt and yes: Ric",
@@ -3584,8 +3539,8 @@
         {
           "id": "74774",
           "title": "Halloween Classics at the Movies",
-          "start": "2026-11-03T19:00:00.000Z",
-          "end": "2026-11-03T22:00:00.000Z",
+          "start": "2026-11-03T20:00:00.000Z",
+          "end": "2026-11-03T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74774",
           "description": "The ultimate Halloween concert experience with a full orchestra: music from thriller and horror classics performed by the Philharmonie S&uuml;dwestfalen and conductor Sander Teepen. But the ultimate spooky music from the classical repertoire is not missing either. Come listen if you dare!<BR><BR>Ple",
@@ -3594,8 +3549,8 @@
         {
           "id": "76705",
           "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-11-03T19:00:00.000Z",
-          "end": "2026-11-03T22:00:00.000Z",
+          "start": "2026-11-03T20:00:00.000Z",
+          "end": "2026-11-03T23:00:00.000Z",
           "location": "Leiden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76705",
           "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
@@ -3604,8 +3559,8 @@
         {
           "id": "76706",
           "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-11-05T19:00:00.000Z",
-          "end": "2026-11-05T22:00:00.000Z",
+          "start": "2026-11-05T20:00:00.000Z",
+          "end": "2026-11-05T23:00:00.000Z",
           "location": "Nijmegen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76706",
           "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
@@ -3614,8 +3569,8 @@
         {
           "id": "74255",
           "title": "Demon Slayer in Concert",
-          "start": "2026-11-06T19:00:00.000Z",
-          "end": "2026-11-06T22:00:00.000Z",
+          "start": "2026-11-06T20:00:00.000Z",
+          "end": "2026-11-06T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74255",
           "description": "A groundbreaking live concert series, based on one of the most popular anime and Japanese manga franchises of all time, is coming to the Doelen in Rotterdam on November 6. The concert will take the audience into an extraordinary live musical experience of Demon Slayer: Kimetsu no Yaiba, which has bu",
@@ -3624,8 +3579,8 @@
         {
           "id": "76169",
           "title": "20 Live Movies in Concert",
-          "start": "2026-11-07T19:00:00.000Z",
-          "end": "2026-11-07T22:00:00.000Z",
+          "start": "2026-11-07T20:00:00.000Z",
+          "end": "2026-11-07T23:00:00.000Z",
           "location": "Lelylstad, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76169",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -3634,8 +3589,8 @@
         {
           "id": "75499",
           "title": "Public Rehearsal: Symphonic Soundtracks",
-          "start": "2026-11-11T19:00:00.000Z",
-          "end": "2026-11-11T22:00:00.000Z",
+          "start": "2026-11-11T20:00:00.000Z",
+          "end": "2026-11-11T23:00:00.000Z",
           "location": "Groningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75499",
           "description": "Listen to how the musicians rehearse part of the program<BR><BR>Curious about how the rehearsals prior to the concerts of the North Netherlands Symphony Orchestra are going? Then come and attend a public rehearsal.<BR><BR>Listen to how conductor Dirk Bross&eacute; rehearses part of the Symphonic Sou",
@@ -3644,8 +3599,8 @@
         {
           "id": "75500",
           "title": "Symphonic Soundtracks",
-          "start": "2026-11-12T19:00:00.000Z",
-          "end": "2026-11-12T22:00:00.000Z",
+          "start": "2026-11-12T20:00:00.000Z",
+          "end": "2026-11-12T23:00:00.000Z",
           "location": "Groningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75500",
           "description": "From Captain Marvel to James Bond: iconic film music that can make or break a film sounds even more impressive live.<BR><BR>Music can make or break a movie. Movie music can be extremely good. And you can really hear that at a live performance. Some soundtracks are so orchestral that they seem to hav",
@@ -3654,8 +3609,8 @@
         {
           "id": "74218",
           "title": "Symphonic Soundtracks",
-          "start": "2026-11-14T19:00:00.000Z",
-          "end": "2026-11-14T22:00:00.000Z",
+          "start": "2026-11-14T20:00:00.000Z",
+          "end": "2026-11-14T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74218",
           "description": "The fact that film music can stand very well on its own is once again proven by the North Netherlands Symphony Orchestra with a fine selection. Under the direction of guest conductor Dirk Bross&eacute;, himself a successful film composer, the emotions and atmosphere of the silver screen come to life",
@@ -3664,8 +3619,8 @@
         {
           "id": "71816",
           "title": "The Witcher in Concert",
-          "start": "2026-11-15T19:00:00.000Z",
-          "end": "2026-11-15T22:00:00.000Z",
+          "start": "2026-11-15T20:00:00.000Z",
+          "end": "2026-11-15T23:00:00.000Z",
           "location": "Eindhoven, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71816",
           "description": "The Witcher in Concert is coming to celebrate the 10th anniversary of the critically acclaimed The Witcher 3: Wild Hunt! What better way to commemorate all these years of adventures and monster slaying than through part of the game itself - its music!<BR><BR>The Witcher in Concert will be an innovat",
@@ -3674,8 +3629,8 @@
         {
           "id": "76024",
           "title": "The Music of Hans Zimmer & Alan Silvestri meets John Williams music",
-          "start": "2026-11-15T19:00:00.000Z",
-          "end": "2026-11-15T22:00:00.000Z",
+          "start": "2026-11-15T20:00:00.000Z",
+          "end": "2026-11-15T23:00:00.000Z",
           "location": "Maastricht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76024",
           "description": "A powerful symphonic concert in which the music of Hans Zimmer and Alan Silvestri comes to life with 50 musicians, soloists, choir, and impressive visuals.<BR><BR>A Brand-New International Production<BR><BR>Following the great success of Hans Zimmer vs John Williams, Grand Symphonique returns with 5",
@@ -3684,8 +3639,8 @@
         {
           "id": "71698",
           "title": "Harry Potter and the Chamber of Secrets in Concert",
-          "start": "2026-11-18T19:00:00.000Z",
-          "end": "2026-11-18T22:00:00.000Z",
+          "start": "2026-11-18T20:00:00.000Z",
+          "end": "2026-11-18T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71698",
           "description": "John Williams - Harry Potter and the Chamber of Secrets<BR><BR>Cars fly, trees fight back and a mysterious house-elf comes to warn Harry Potter&trade; at the start of his second year at Hogwarts&trade;. Adventure and danger await when bloody writing on a wall announces: The Chamber of Secrets has be",
@@ -3694,8 +3649,8 @@
         {
           "id": "76171",
           "title": "20 Live Movies in Concert",
-          "start": "2026-11-18T19:00:00.000Z",
-          "end": "2026-11-18T22:00:00.000Z",
+          "start": "2026-11-18T20:00:00.000Z",
+          "end": "2026-11-18T23:00:00.000Z",
           "location": "Sittard, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76171",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -3704,8 +3659,8 @@
         {
           "id": "71697",
           "title": "Harry Potter and the Chamber of Secrets in Concert",
-          "start": "2026-11-19T19:00:00.000Z",
-          "end": "2026-11-19T22:00:00.000Z",
+          "start": "2026-11-19T20:00:00.000Z",
+          "end": "2026-11-19T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71697",
           "description": "John Williams - Harry Potter and the Chamber of Secrets<BR><BR>Cars fly, trees fight back and a mysterious house-elf comes to warn Harry Potter&trade; at the start of his second year at Hogwarts&trade;. Adventure and danger await when bloody writing on a wall announces: The Chamber of Secrets has be",
@@ -3714,8 +3669,8 @@
         {
           "id": "71696",
           "title": "Harry Potter and the Chamber of Secrets in Concert",
-          "start": "2026-11-20T19:00:00.000Z",
-          "end": "2026-11-20T22:00:00.000Z",
+          "start": "2026-11-20T20:00:00.000Z",
+          "end": "2026-11-20T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71696",
           "description": "John Williams - Harry Potter and the Chamber of Secrets<BR><BR>Cars fly, trees fight back and a mysterious house-elf comes to warn Harry Potter&trade; at the start of his second year at Hogwarts&trade;. Adventure and danger await when bloody writing on a wall announces: The Chamber of Secrets has be",
@@ -3724,8 +3679,8 @@
         {
           "id": "72032",
           "title": "Interstellar - Live",
-          "start": "2026-11-20T19:00:00.000Z",
-          "end": "2026-11-20T22:00:00.000Z",
+          "start": "2026-11-20T20:00:00.000Z",
+          "end": "2026-11-20T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72032",
           "description": "Philzuid<BR>Ben Palmer - Conductor<BR>Roger Sayer - Organ<BR><BR>Hans Zimmer - Interstellar<BR><BR>Interstellar Live brings Christopher Nolan\\'s Oscar-winning science fiction epic back to the big screen, featuring Hans Zimmer\\'s revelatory score performed live by the Philzuid Orchestra, co",
@@ -3734,8 +3689,8 @@
         {
           "id": "72326",
           "title": "Avond van de Filmmuziek (The Evening of Film Music)",
-          "start": "2026-11-20T19:00:00.000Z",
-          "end": "2026-11-20T22:00:00.000Z",
+          "start": "2026-11-20T20:00:00.000Z",
+          "end": "2026-11-20T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72326",
           "description": "On Friday 20, Saturday 21 and Sunday 22 November 2026, the Evening of Film Music will once again present a spectacular series of shows with the most beautiful film music.<BR><BR>Under the direction of conductor Jules Buckley, the Metropole Orchestra and the Netherlands Concert Choir once again bring",
@@ -3744,8 +3699,8 @@
         {
           "id": "76170",
           "title": "20 Live Movies in Concert",
-          "start": "2026-11-20T19:00:00.000Z",
-          "end": "2026-11-20T22:00:00.000Z",
+          "start": "2026-11-20T20:00:00.000Z",
+          "end": "2026-11-20T23:00:00.000Z",
           "location": "Deventer, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76170",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -3754,8 +3709,8 @@
         {
           "id": "71695",
           "title": "Harry Potter and the Chamber of Secrets in Concert",
-          "start": "2026-11-21T19:00:00.000Z",
-          "end": "2026-11-21T22:00:00.000Z",
+          "start": "2026-11-21T20:00:00.000Z",
+          "end": "2026-11-21T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71695",
           "description": "John Williams - Harry Potter and the Chamber of Secrets<BR><BR>Cars fly, trees fight back and a mysterious house-elf comes to warn Harry Potter&trade; at the start of his second year at Hogwarts&trade;. Adventure and danger await when bloody writing on a wall announces: The Chamber of Secrets has be",
@@ -3764,8 +3719,8 @@
         {
           "id": "72327",
           "title": "Avond van de Filmmuziek (The Evening of Film Music)",
-          "start": "2026-11-21T19:00:00.000Z",
-          "end": "2026-11-21T22:00:00.000Z",
+          "start": "2026-11-21T20:00:00.000Z",
+          "end": "2026-11-21T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72327",
           "description": "On Friday 20, Saturday 21 and Sunday 22 November 2026, the Evening of Film Music will once again present a spectacular series of shows with the most beautiful film music.<BR><BR>Under the direction of conductor Jules Buckley, the Metropole Orchestra and the Netherlands Concert Choir once again bring",
@@ -3774,8 +3729,8 @@
         {
           "id": "75450",
           "title": "Interstellar - Live",
-          "start": "2026-11-21T19:00:00.000Z",
-          "end": "2026-11-21T22:00:00.000Z",
+          "start": "2026-11-21T20:00:00.000Z",
+          "end": "2026-11-21T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75450",
           "description": "Philzuid<BR>Ben Palmer - Conductor<BR>Roger Sayer - Organ<BR><BR>Hans Zimmer - Interstellar<BR><BR>Interstellar Live brings Christopher Nolan's Oscar-winning science fiction epic back to the big screen, featuring Hans Zimmer's revelatory score performed live by the Philzuid Orchest",
@@ -3784,8 +3739,8 @@
         {
           "id": "71694",
           "title": "Harry Potter and the Chamber of Secrets in Concert",
-          "start": "2026-11-22T19:00:00.000Z",
-          "end": "2026-11-22T22:00:00.000Z",
+          "start": "2026-11-22T20:00:00.000Z",
+          "end": "2026-11-22T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71694",
           "description": "John Williams - Harry Potter and the Chamber of Secrets<BR><BR>Cars fly, trees fight back and a mysterious house-elf comes to warn Harry Potter&trade; at the start of his second year at Hogwarts&trade;. Adventure and danger await when bloody writing on a wall announces: The Chamber of Secrets has be",
@@ -3794,8 +3749,8 @@
         {
           "id": "72328",
           "title": "Avond van de Filmmuziek (The Evening of Film Music)",
-          "start": "2026-11-22T19:00:00.000Z",
-          "end": "2026-11-22T22:00:00.000Z",
+          "start": "2026-11-22T20:00:00.000Z",
+          "end": "2026-11-22T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72328",
           "description": "On Friday 20, Saturday 21 and Sunday 22 November 2026, the Evening of Film Music will once again present a spectacular series of shows with the most beautiful film music.<BR><BR>Under the direction of conductor Jules Buckley, the Metropole Orchestra and the Netherlands Concert Choir once again bring",
@@ -3804,8 +3759,8 @@
         {
           "id": "73524",
           "title": "How to Train Your Dragon 2 in Concert",
-          "start": "2026-11-22T19:00:00.000Z",
-          "end": "2026-11-22T22:00:00.000Z",
+          "start": "2026-11-22T20:00:00.000Z",
+          "end": "2026-11-22T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73524",
           "description": "John Powell - How to Train Your Dragon 2<BR><BR>DreamWorks' How to Train Your Dragon 2, winner of the Golden Globe Award for Best Animated Feature, is the rare sequel that truly lives up to the original! Praised by critics and audiences alike, the acclaimed adventure continues with groundbr",
@@ -3814,8 +3769,8 @@
         {
           "id": "75501",
           "title": "Anime in Concert",
-          "start": "2026-11-26T19:00:00.000Z",
-          "end": "2026-11-26T22:00:00.000Z",
+          "start": "2026-11-26T20:00:00.000Z",
+          "end": "2026-11-26T23:00:00.000Z",
           "location": "Groningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75501",
           "description": "Noord Nederlands Orkest<BR>Christophe Mangou, conductor<BR>Noord Nederlands Concertkoor<BR>Bobbie Blommensteijn, soprano<BR><BR>A packed stage with anime music that tells stories from wonder to suspense, even without images.<BR><BR>In Japanese animations – Anime – music is not an aft",
@@ -3824,8 +3779,8 @@
         {
           "id": "74008",
           "title": "The Music of Hans Zimmer & Alan Silvestri",
-          "start": "2026-11-27T19:00:00.000Z",
-          "end": "2026-11-27T22:00:00.000Z",
+          "start": "2026-11-27T20:00:00.000Z",
+          "end": "2026-11-27T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74008",
           "description": "The Music of Hans Zimmer, Alan Silvestri, John Williams: The new international production!<BR><BR>After the success of Hans Zimmer vs John Williams, the \"Grand Symphonique\" and its 50 musicians, choristers and soloists return for a new exceptional concert!<BR><BR>More than a concer",
@@ -3834,8 +3789,8 @@
         {
           "id": "75502",
           "title": "Anime in Concert",
-          "start": "2026-11-27T19:00:00.000Z",
-          "end": "2026-11-27T22:00:00.000Z",
+          "start": "2026-11-27T20:00:00.000Z",
+          "end": "2026-11-27T23:00:00.000Z",
           "location": "Leeuwarden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75502",
           "description": "Noord Nederlands Orkest<BR>Christophe Mangou, conductor<BR>Noord Nederlands Concertkoor<BR>Bobbie Blommensteijn, soprano<BR><BR>A packed stage with anime music that tells stories from wonder to suspense, even without images.<BR><BR>In Japanese animations – Anime – music is not an aft",
@@ -3844,8 +3799,8 @@
         {
           "id": "71808",
           "title": "The Witcher in Concert",
-          "start": "2026-11-28T19:00:00.000Z",
-          "end": "2026-11-28T22:00:00.000Z",
+          "start": "2026-11-28T20:00:00.000Z",
+          "end": "2026-11-28T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71808",
           "description": "The Witcher in Concert is coming to celebrate the 10th anniversary of the critically acclaimed The Witcher 3: Wild Hunt! What better way to commemorate all these years of adventures and monster slaying than through part of the game itself - its music!<BR><BR>The Witcher in Concert will be an innovat",
@@ -3854,8 +3809,8 @@
         {
           "id": "73286",
           "title": "The Epic Music of Lord of the Rings, The Hobbit & The Rings of Power",
-          "start": "2026-11-28T19:00:00.000Z",
-          "end": "2026-11-28T22:00:00.000Z",
+          "start": "2026-11-28T20:00:00.000Z",
+          "end": "2026-11-28T23:00:00.000Z",
           "location": "Leiden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73286",
           "description": "The Hobbits are coming! Experience The Lord of the Rings, The Hobbit and The Rings of Power in Concert – presented by a star guest from the films! Enjoy the unique music worlds of J.R.R. Tolkien in a magnificent concert featuring world-class star soloists, the voice of legendary Saruman actor",
@@ -3864,8 +3819,8 @@
         {
           "id": "74796",
           "title": "The music of Hans Zimmer & Others",
-          "start": "2026-11-28T19:00:00.000Z",
-          "end": "2026-11-28T22:00:00.000Z",
+          "start": "2026-11-28T20:00:00.000Z",
+          "end": "2026-11-28T23:00:00.000Z",
           "location": "Leiden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74796",
           "description": "&laquo; The Lion King &raquo; , &laquo; Dune &raquo;, &laquo; Top Gun &raquo;, &laquo; Pirates of the Caribbean &raquo;, &laquo; Gladiator &raquo;, &laquo; The Dark Knight &raquo;, &laquo; Man of Steel &raquo;, &laquo; Spiderman &raquo;, &laquo; Inception &raquo;, &laquo; Interstellar &raquo;, &laqu",
@@ -3874,8 +3829,8 @@
         {
           "id": "71807",
           "title": "The Witcher in Concert",
-          "start": "2026-11-29T19:00:00.000Z",
-          "end": "2026-11-29T22:00:00.000Z",
+          "start": "2026-11-29T20:00:00.000Z",
+          "end": "2026-11-29T23:00:00.000Z",
           "location": "Groningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71807",
           "description": "The Witcher in Concert is coming to celebrate the 10th anniversary of the critically acclaimed The Witcher 3: Wild Hunt! What better way to commemorate all these years of adventures and monster slaying than through part of the game itself - its music!<BR><BR>The Witcher in Concert will be an innovat",
@@ -3884,8 +3839,8 @@
         {
           "id": "76764",
           "title": "Candlelight: A tribute to Hans Zimmer",
-          "start": "2026-12-03T19:00:00.000Z",
-          "end": "2026-12-03T22:00:00.000Z",
+          "start": "2026-12-03T20:00:00.000Z",
+          "end": "2026-12-03T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76764",
           "description": "Hans Zimmer - Time from Inception<BR>Hans Zimmer / Elton John - This Land from The Lion King<BR>Hans Zimmer - Zooster’s Breakout from Madagascar<BR>Hans Zimmer - Supermarine from Dunkirk<BR>Hans Zimmer - Honor from The Pacific<BR>Hans Zimmer / James Newton Howard - A Dark Knight from The Dark",
@@ -3894,8 +3849,8 @@
         {
           "id": "74526",
           "title": "Feliz Navidad",
-          "start": "2026-12-12T19:00:00.000Z",
-          "end": "2026-12-12T22:00:00.000Z",
+          "start": "2026-12-12T20:00:00.000Z",
+          "end": "2026-12-12T23:00:00.000Z",
           "location": "Den Haag (The Hague), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74526",
           "description": "Celebrate Christmas with Ciconia The Hague String Orchestra in Latin American atmospheres: warm, exuberant and full of joie de vivre. No winter silence, but sultry evenings, rhythm and harmony singing. Feliz Navidad will transport you to a world of sunny melodies, colorful nativity scenes and festiv",
@@ -3904,8 +3859,8 @@
         {
           "id": "74219",
           "title": "Film concert Hitchcock ‘The Lodger’",
-          "start": "2026-12-13T19:00:00.000Z",
-          "end": "2026-12-13T22:00:00.000Z",
+          "start": "2026-12-13T20:00:00.000Z",
+          "end": "2026-12-13T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74219",
           "description": "A special film concert on the occasion of the hundredth anniversary of Hitchcock's silent film The Lodger from 1927. Organist Berry van Berkum and trumpeter Ruben Drenth improvise a soundtrack to the thriller on the spot. Is the mysterious tenant the serial killer plaguing London in the fog",
@@ -3914,8 +3869,8 @@
         {
           "id": "76281",
           "title": "On Tour door Drenthe 2026",
-          "start": "2026-12-13T19:00:00.000Z",
-          "end": "2026-12-13T22:00:00.000Z",
+          "start": "2026-12-13T20:00:00.000Z",
+          "end": "2026-12-13T23:00:00.000Z",
           "location": "Zandberg, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76281",
           "description": "'On Tour through Drenthe 2026', a two-day concert tour - where the most beautiful music and cultural heritage traditionally meet each other every year. Come and enjoy this last and grand concert from this concert tour with us.<BR><BR>Traditionally a concert weekend in a Christmas a",
@@ -3924,18 +3879,28 @@
         {
           "id": "76117",
           "title": "Jubileum Concert",
-          "start": "2026-12-16T19:00:00.000Z",
-          "end": "2026-12-16T22:00:00.000Z",
+          "start": "2026-12-16T20:00:00.000Z",
+          "end": "2026-12-16T23:00:00.000Z",
           "location": "Maastricht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76117",
           "description": "Wibi Soerjadi has been in the business as a concert pianist for 45 years. That deserves an anniversary concert. Soerjardi's program will consist of two parts; together they sketch a musical portrait of one of the most beloved and lauded Dutch pianists of the past decades. In the first part,",
           "tags": []
         },
         {
+          "id": "77089",
+          "title": "Film concert Farinelli: Il Castrato",
+          "start": "2026-12-16T20:00:00.000Z",
+          "end": "2026-12-16T23:00:00.000Z",
+          "location": "Den Haag (The Hague), Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77089",
+          "description": "Casa da M&uacute;sica Porto Baroque Orchestra<BR>Thomas Geerts, conductor<BR>Vivica Genaux, mezzosopraan<BR><BR>Farinelli was one of the most famous Italian castrato singers of the eighteenth century. His unprecedented vocal qualities are amply featured in the biopic of the same name, a wonderful co",
+          "tags": []
+        },
+        {
           "id": "74220",
           "title": "Film concert Farinelli: Il Castrato",
-          "start": "2026-12-17T19:00:00.000Z",
-          "end": "2026-12-17T22:00:00.000Z",
+          "start": "2026-12-17T20:00:00.000Z",
+          "end": "2026-12-17T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74220",
           "description": "Casa da M&uacute;sica Porto Baroque Orchestra<BR>Thomas Geerts, conductor<BR>Vivica Genaux, mezzosopraan<BR><BR>Farinelli was one of the most famous Italian castrato singers of the eighteenth century. His unprecedented vocal qualities are amply featured in the biopic of the same name, a wonderful co",
@@ -3944,8 +3909,8 @@
         {
           "id": "75706",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2026-12-17T19:00:00.000Z",
-          "end": "2026-12-17T22:00:00.000Z",
+          "start": "2026-12-17T20:00:00.000Z",
+          "end": "2026-12-17T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75706",
           "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
@@ -3954,8 +3919,8 @@
         {
           "id": "74775",
           "title": "Christmas Classics at the Movies",
-          "start": "2026-12-18T19:00:00.000Z",
-          "end": "2026-12-18T22:00:00.000Z",
+          "start": "2026-12-18T20:00:00.000Z",
+          "end": "2026-12-18T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74775",
           "description": "Under the direction of Ingmar Beck, the Philharmonie S&uuml;dwestfalen presents the most beautiful music from Christmas movies and winter classics. It is cold outside, and perhaps a snowflake or two is falling here and there, but inside you can warm yourself with the most beautiful music composed fo",
@@ -3964,8 +3929,8 @@
         {
           "id": "76363",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2026-12-18T19:00:00.000Z",
-          "end": "2026-12-18T22:00:00.000Z",
+          "start": "2026-12-18T20:00:00.000Z",
+          "end": "2026-12-18T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76363",
           "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
@@ -3974,8 +3939,8 @@
         {
           "id": "76740",
           "title": "The Snowman & Flight to the North Pole",
-          "start": "2026-12-19T19:00:00.000Z",
-          "end": "2026-12-19T22:00:00.000Z",
+          "start": "2026-12-19T20:00:00.000Z",
+          "end": "2026-12-19T23:00:00.000Z",
           "location": "Haarlem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76740",
           "description": "The James Whale Orchestra (JWO) makes film screenings special by adding live music, with both their own compositions and well-known soundtracks. They are known for their immersive concerts that transform films into a unique total experience. <BR><BR>The orchestra presents two types of programs: mode",
@@ -3984,8 +3949,8 @@
         {
           "id": "73173",
           "title": "Disney in Concert - Wonderful Worlds",
-          "start": "2026-12-20T19:00:00.000Z",
-          "end": "2026-12-20T22:00:00.000Z",
+          "start": "2026-12-20T20:00:00.000Z",
+          "end": "2026-12-20T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73173",
           "description": "Disney in Concert returns to the Ziggo Dome on December 20, 2026 with a brand new, enchanting show: Wonderful Worlds! Immerse yourself in the magic of Disney this Christmas holiday.<BR><BR>Disney in Concert brings the legendary Disney movies to life. All hits from the rich Disney repertoire are sung",
@@ -3994,8 +3959,8 @@
         {
           "id": "76647",
           "title": "Christmas Gala",
-          "start": "2026-12-27T19:00:00.000Z",
-          "end": "2026-12-27T22:00:00.000Z",
+          "start": "2026-12-27T20:00:00.000Z",
+          "end": "2026-12-27T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76647",
           "description": "During this Christmas Gala, Wibi Soerjadi celebrates a special anniversary: he has been in the business as a concert pianist for 45 years. We know Wibi as a pianist with an impressive stature. Both connoisseurs and less experienced listeners are impressed by Wibi's masterful piano playing.<",
@@ -4004,8 +3969,8 @@
         {
           "id": "76282",
           "title": "Vibrant New Year's Concert in Kielzog theate",
-          "start": "2027-01-03T19:00:00.000Z",
-          "end": "2027-01-03T22:00:00.000Z",
+          "start": "2027-01-03T20:00:00.000Z",
+          "end": "2027-01-03T23:00:00.000Z",
           "location": "Hoogezand, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76282",
           "description": "Traditional, classical, film and musical music fill this afternoon with another sparkling versatile New Year's concert that has been a great success for year.<BR><BR>The VKSO conducted by Lubertus Leutscher is back for a fourth New Year's concert and presents a surprising program t",
@@ -4014,8 +3979,8 @@
         {
           "id": "76616",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-05T19:00:00.000Z",
-          "end": "2027-01-05T22:00:00.000Z",
+          "start": "2027-01-05T20:00:00.000Z",
+          "end": "2027-01-05T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76616",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4024,8 +3989,8 @@
         {
           "id": "76617",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-06T19:00:00.000Z",
-          "end": "2027-01-06T22:00:00.000Z",
+          "start": "2027-01-06T20:00:00.000Z",
+          "end": "2027-01-06T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76617",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4034,8 +3999,8 @@
         {
           "id": "76620",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-08T19:00:00.000Z",
-          "end": "2027-01-08T22:00:00.000Z",
+          "start": "2027-01-08T20:00:00.000Z",
+          "end": "2027-01-08T23:00:00.000Z",
           "location": "Den Haag (The Hague), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76620",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4044,8 +4009,8 @@
         {
           "id": "76621",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-09T19:00:00.000Z",
-          "end": "2027-01-09T22:00:00.000Z",
+          "start": "2027-01-09T20:00:00.000Z",
+          "end": "2027-01-09T23:00:00.000Z",
           "location": "Den Haag (The Hague), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76621",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4054,8 +4019,8 @@
         {
           "id": "76618",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-10T19:00:00.000Z",
-          "end": "2027-01-10T22:00:00.000Z",
+          "start": "2027-01-10T20:00:00.000Z",
+          "end": "2027-01-10T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76618",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4064,8 +4029,8 @@
         {
           "id": "76622",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-11T19:00:00.000Z",
-          "end": "2027-01-11T22:00:00.000Z",
+          "start": "2027-01-11T20:00:00.000Z",
+          "end": "2027-01-11T23:00:00.000Z",
           "location": "Arnhem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76622",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4074,8 +4039,8 @@
         {
           "id": "76623",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-12T19:00:00.000Z",
-          "end": "2027-01-12T22:00:00.000Z",
+          "start": "2027-01-12T20:00:00.000Z",
+          "end": "2027-01-12T23:00:00.000Z",
           "location": "Arnhem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76623",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4084,8 +4049,8 @@
         {
           "id": "75576",
           "title": "Metropolis in concert",
-          "start": "2027-01-13T19:00:00.000Z",
-          "end": "2027-01-13T22:00:00.000Z",
+          "start": "2027-01-13T20:00:00.000Z",
+          "end": "2027-01-13T23:00:00.000Z",
           "location": "Nijmegen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75576",
           "description": "Steven Kamperman - Metropolis<BR><BR>Science fiction from a century ago: Metropolis is from 1927 and is set in 2026. The perfect time to watch the film classic about the relationship between man and machine again. The singers of Wishful Singing sing a brand new soundtrack by Steven Kamperman live to",
@@ -4094,8 +4059,8 @@
         {
           "id": "76619",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-13T19:00:00.000Z",
-          "end": "2027-01-13T22:00:00.000Z",
+          "start": "2027-01-13T20:00:00.000Z",
+          "end": "2027-01-13T23:00:00.000Z",
           "location": "Eindhoven, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76619",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4104,8 +4069,8 @@
         {
           "id": "76624",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-14T19:00:00.000Z",
-          "end": "2027-01-14T22:00:00.000Z",
+          "start": "2027-01-14T20:00:00.000Z",
+          "end": "2027-01-14T23:00:00.000Z",
           "location": "Groningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76624",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4114,8 +4079,8 @@
         {
           "id": "76805",
           "title": "Film & Game Music",
-          "start": "2027-01-14T19:00:00.000Z",
-          "end": "2027-01-14T22:00:00.000Z",
+          "start": "2027-01-14T20:00:00.000Z",
+          "end": "2027-01-14T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76805",
           "description": "The legendary film music by masterful Italian composers comes to life this winter in Maestro del Cinema. The Netherlands Film Orchestra takes you past the masterpieces of classical and modern film composers: from Morricone to Einaudi.<BR><BR>The orchestra will play Ennio Morricone's memorab",
@@ -4124,8 +4089,8 @@
         {
           "id": "76172",
           "title": "20 Live Movies in Concert",
-          "start": "2027-01-15T19:00:00.000Z",
-          "end": "2027-01-15T22:00:00.000Z",
+          "start": "2027-01-15T20:00:00.000Z",
+          "end": "2027-01-15T23:00:00.000Z",
           "location": "Venlo, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76172",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4134,8 +4099,8 @@
         {
           "id": "76600",
           "title": "Master of Film Music: Ennio Morricone",
-          "start": "2027-01-17T19:00:00.000Z",
-          "end": "2027-01-17T22:00:00.000Z",
+          "start": "2027-01-17T20:00:00.000Z",
+          "end": "2027-01-17T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76600",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
@@ -4144,8 +4109,8 @@
         {
           "id": "76173",
           "title": "20 Live Movies in Concert",
-          "start": "2027-01-23T19:00:00.000Z",
-          "end": "2027-01-23T22:00:00.000Z",
+          "start": "2027-01-23T20:00:00.000Z",
+          "end": "2027-01-23T23:00:00.000Z",
           "location": "Hoorn, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76173",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4154,8 +4119,8 @@
         {
           "id": "74221",
           "title": "Cappella Amsterdam & Lavinia Meijer",
-          "start": "2027-01-25T19:00:00.000Z",
-          "end": "2027-01-25T22:00:00.000Z",
+          "start": "2027-01-25T20:00:00.000Z",
+          "end": "2027-01-25T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74221",
           "description": "Cappella Amsterdam<BR>Cyrille Nanchen, conductor<BR>Lavinia Meijer harp<BR>Feico Deutekom piano<BR>Tba, percussion<BR><BR>With her impassioned Glass interpretations, harpist Lavinia Meijer winds audiences around her fingers worldwide. The master himself is also impressed – 'extraordin",
@@ -4164,8 +4129,8 @@
         {
           "id": "74273",
           "title": "Glass 90",
-          "start": "2027-01-27T19:00:00.000Z",
-          "end": "2027-01-27T22:00:00.000Z",
+          "start": "2027-01-27T20:00:00.000Z",
+          "end": "2027-01-27T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74273",
           "description": "Cappella Amsterdam<BR>Cyrille Nanchen, conductor<BR>Lavinia Meijer, harp<BR><BR>You will be told: 'Her arrangements give me new insights into my own music', says none other than minimal great Philip Glass about the interpretations of harpist Lavinia Meijer. 'With Glass, ev",
@@ -4174,8 +4139,8 @@
         {
           "id": "74527",
           "title": "Philip Glass 90: Grand Evening Concert",
-          "start": "2027-01-30T19:00:00.000Z",
-          "end": "2027-01-30T22:00:00.000Z",
+          "start": "2027-01-30T20:00:00.000Z",
+          "end": "2027-01-30T23:00:00.000Z",
           "location": "Den Haag (The Hague), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74527",
           "description": "This program focuses on the music of Philip Glass, performed by Cappella Amsterdam, conducted by Cyrille Nanchen, and harpist Lavinia Meijer. Glass' clear, repetitive and instantly recognizable style is the starting point of the evening. Excerpts from operas such as Akhnaten and Einstein on",
@@ -4184,8 +4149,8 @@
         {
           "id": "76174",
           "title": "20 Live Movies in Concert",
-          "start": "2027-01-30T19:00:00.000Z",
-          "end": "2027-01-30T22:00:00.000Z",
+          "start": "2027-01-30T20:00:00.000Z",
+          "end": "2027-01-30T23:00:00.000Z",
           "location": "Wageningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76174",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4194,8 +4159,8 @@
         {
           "id": "74776",
           "title": "25 years of marriage Willem-Alexander and Máxima: Misa criolla and Adiós nonino with Carel Kraayenhof",
-          "start": "2027-02-02T19:00:00.000Z",
-          "end": "2027-02-02T22:00:00.000Z",
+          "start": "2027-02-02T20:00:00.000Z",
+          "end": "2027-02-02T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74776",
           "description": "Netherlands Chamber Choir<BR>Residentie Orkest<BR>Ed Spanjaard conductor<BR>Carel Kraayenhof bandoneon<BR>Bert Vos violin<BR>Jaap Branderhorst double bass<BR>Juan Pablo Dobal piano<BR>Alvaro Pinto Lyon Zang, guitar<BR>Orlando Friend Zang, guitar <BR><BR>Twenty-five years after the wedding of Willem-",
@@ -4204,8 +4169,8 @@
         {
           "id": "76175",
           "title": "20 Live Movies in Concert",
-          "start": "2027-02-13T19:00:00.000Z",
-          "end": "2027-02-13T22:00:00.000Z",
+          "start": "2027-02-13T20:00:00.000Z",
+          "end": "2027-02-13T23:00:00.000Z",
           "location": "Terneuzen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76175",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4214,8 +4179,8 @@
         {
           "id": "74777",
           "title": "Valentine Classics at the Movies",
-          "start": "2027-02-14T19:00:00.000Z",
-          "end": "2027-02-14T22:00:00.000Z",
+          "start": "2027-02-14T20:00:00.000Z",
+          "end": "2027-02-14T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74777",
           "description": "Indulge and swoon together on Valentine's Day at The Concertgebouw. ​​The G&ouml;ttingen Symphony Orchestra and conductor Nicholas Milton present a heartwarming evening full of favorite classics. You will also hear the stories behind the passionate notes. Love in all its facets during a",
@@ -4224,8 +4189,8 @@
         {
           "id": "74285",
           "title": "Outlander in Concert",
-          "start": "2027-02-20T19:00:00.000Z",
-          "end": "2027-02-20T22:00:00.000Z",
+          "start": "2027-02-20T20:00:00.000Z",
+          "end": "2027-02-20T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74285",
           "description": "Bear McCreary - Outlander<BR><BR>Do you ever feel as if everything is pointing you towards something&hellip;space, time, history? <BR><BR>For longtime “Outlander” fans, these words feel like home. As the global phenomenon reaches its conclusion in 2026, its heart continues to beat on sta",
@@ -4234,8 +4199,8 @@
         {
           "id": "76176",
           "title": "20 Live Movies in Concert",
-          "start": "2027-02-25T19:00:00.000Z",
-          "end": "2027-02-25T22:00:00.000Z",
+          "start": "2027-02-25T20:00:00.000Z",
+          "end": "2027-02-25T23:00:00.000Z",
           "location": "Hengelo, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76176",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4244,8 +4209,8 @@
         {
           "id": "76177",
           "title": "20 Live Movies in Concert",
-          "start": "2027-02-27T19:00:00.000Z",
-          "end": "2027-02-27T22:00:00.000Z",
+          "start": "2027-02-27T20:00:00.000Z",
+          "end": "2027-02-27T23:00:00.000Z",
           "location": "Assen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76177",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4254,8 +4219,8 @@
         {
           "id": "76741",
           "title": "John Williams & Hans Zimmer",
-          "start": "2027-02-27T19:00:00.000Z",
-          "end": "2027-02-27T22:00:00.000Z",
+          "start": "2027-02-27T20:00:00.000Z",
+          "end": "2027-02-27T23:00:00.000Z",
           "location": "Haarlem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76741",
           "description": "The Nordwestdeutsche Philharmonie presents an evening full of iconic film music by John Williams and Hans Zimmer, with recognisable themes.<BR><BR>The Nordwestdeutsche Philharmonie presents a program with music by two of the most influential film composers: John Williams and Hans Zimmer. Williams be",
@@ -4264,8 +4229,8 @@
         {
           "id": "74222",
           "title": "AvroTros Film music concert: John Williams",
-          "start": "2027-03-05T19:00:00.000Z",
-          "end": "2027-03-05T22:00:00.000Z",
+          "start": "2027-03-05T20:00:00.000Z",
+          "end": "2027-03-05T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74222",
           "description": "Who says film music, says John Williams. He provided the soundtrack for more than a hundred films and received 27 Grammys and five Oscars for it. He wrote many iconic themes – think of the Harry Potter series, Home Alone , E.T. or Star Wars . The Radio Philharmonic Orchestra and the Netherland",
@@ -4274,8 +4239,8 @@
         {
           "id": "74778",
           "title": "Film music by John Williams – From Star Wars to E.T.",
-          "start": "2027-03-07T19:00:00.000Z",
-          "end": "2027-03-07T22:00:00.000Z",
+          "start": "2027-03-07T20:00:00.000Z",
+          "end": "2027-03-07T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74778",
           "description": "Radio Philharmonic Orchestra<BR>Great Broadcasting Choir<BR>St&eacute;phane Den&egrave;ve, conductor<BR><BR>Shortly after his 95th birthday, we pay tribute to the film music of John Williams. From Star Wars to ET : this morning, with orchestra and choir, Williams takes centre stage. The French condu",
@@ -4284,8 +4249,8 @@
         {
           "id": "74340",
           "title": "NieR:Orchestra Concert 12026 [ YoRHa ]",
-          "start": "2027-03-12T19:00:00.000Z",
-          "end": "2027-03-12T22:00:00.000Z",
+          "start": "2027-03-12T20:00:00.000Z",
+          "end": "2027-03-12T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74340",
           "description": "Experience the ever-expanding musical universe of NieR live in concert.<BR><BR>AWR Music Productions and SQUARE ENIX are proud to present NieR:Orchestra Concert 12026 [ YoRHa ]! From the team that shattered the paradigm with NieR:Orchestra Concert 12024 [ the end of data ], experience the music and",
@@ -4294,8 +4259,8 @@
         {
           "id": "74341",
           "title": "NieR:Orchestra Concert 12026 [ YoRHa ]",
-          "start": "2027-03-13T19:00:00.000Z",
-          "end": "2027-03-13T22:00:00.000Z",
+          "start": "2027-03-13T20:00:00.000Z",
+          "end": "2027-03-13T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74341",
           "description": "Experience the ever-expanding musical universe of NieR live in concert.<BR><BR>AWR Music Productions and SQUARE ENIX are proud to present NieR:Orchestra Concert 12026 [ YoRHa ]! From the team that shattered the paradigm with NieR:Orchestra Concert 12024 [ the end of data ], experience the music and",
@@ -4304,8 +4269,8 @@
         {
           "id": "76178",
           "title": "20 Live Movies in Concert",
-          "start": "2027-03-13T19:00:00.000Z",
-          "end": "2027-03-13T22:00:00.000Z",
+          "start": "2027-03-13T20:00:00.000Z",
+          "end": "2027-03-13T23:00:00.000Z",
           "location": "Eindhoven, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76178",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4314,8 +4279,8 @@
         {
           "id": "76218",
           "title": "The Legend of Korra in Concert",
-          "start": "2027-03-15T19:00:00.000Z",
-          "end": "2027-03-15T22:00:00.000Z",
+          "start": "2027-03-15T20:00:00.000Z",
+          "end": "2027-03-15T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76218",
           "description": "Jeremy Zuckerman - The Legend of Korra in Concert<BR><BR>Celebrate 15 years of The Legend of Korra with a breathtaking live concert experience that brings the groundbreaking sequel to life through a live symphonic performance paired with an immersive cinematic experience. Follow Korra, the rebelliou",
@@ -4324,8 +4289,8 @@
         {
           "id": "74256",
           "title": "The best film music: John Williams en Hans Zimmer",
-          "start": "2027-03-31T18:00:00.000Z",
-          "end": "2027-03-31T21:00:00.000Z",
+          "start": "2027-03-31T20:00:00.000Z",
+          "end": "2027-03-31T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74256",
           "description": "Film music is of all times. Or rather, cinematic music is of all times. And even better: music that appeals to the imagination is of all times. That's what the G&ouml;ttingen Symphony Orchestra conducted by Nicholas Milton lets you hear. Film music has become a genre in its own right over t",
@@ -4334,8 +4299,8 @@
         {
           "id": "74089",
           "title": "The best film music: John Williams en Hans Zimmer",
-          "start": "2027-04-01T18:00:00.000Z",
-          "end": "2027-04-01T21:00:00.000Z",
+          "start": "2027-04-01T20:00:00.000Z",
+          "end": "2027-04-01T23:00:00.000Z",
           "location": "Eindhoven, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74089",
           "description": "Film music is of all times. Or rather, cinematic music is of all times. And even better: music that appeals to the imagination is of all times. That's what the G&ouml;ttingen Symphony Orchestra conducted by Nicholas Milton lets you hear. Film music has become a genre in its own right over t",
@@ -4344,8 +4309,8 @@
         {
           "id": "76179",
           "title": "20 Live Movies in Concert",
-          "start": "2027-04-03T18:00:00.000Z",
-          "end": "2027-04-03T21:00:00.000Z",
+          "start": "2027-04-03T20:00:00.000Z",
+          "end": "2027-04-03T23:00:00.000Z",
           "location": "Den Helder, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76179",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4354,8 +4319,8 @@
         {
           "id": "75705",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2027-04-09T18:00:00.000Z",
-          "end": "2027-04-09T21:00:00.000Z",
+          "start": "2027-04-09T20:00:00.000Z",
+          "end": "2027-04-09T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75705",
           "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
@@ -4364,8 +4329,8 @@
         {
           "id": "76180",
           "title": "20 Live Movies in Concert",
-          "start": "2027-04-09T18:00:00.000Z",
-          "end": "2027-04-09T21:00:00.000Z",
+          "start": "2027-04-09T20:00:00.000Z",
+          "end": "2027-04-09T23:00:00.000Z",
           "location": "Zoetermeer, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76180",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4374,8 +4339,8 @@
         {
           "id": "76366",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2027-04-09T18:00:00.000Z",
-          "end": "2027-04-09T21:00:00.000Z",
+          "start": "2027-04-09T20:00:00.000Z",
+          "end": "2027-04-09T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76366",
           "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
@@ -4384,8 +4349,8 @@
         {
           "id": "75704",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2027-04-10T18:00:00.000Z",
-          "end": "2027-04-10T21:00:00.000Z",
+          "start": "2027-04-10T20:00:00.000Z",
+          "end": "2027-04-10T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75704",
           "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
@@ -4394,8 +4359,8 @@
         {
           "id": "76367",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2027-04-10T18:00:00.000Z",
-          "end": "2027-04-10T21:00:00.000Z",
+          "start": "2027-04-10T20:00:00.000Z",
+          "end": "2027-04-10T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76367",
           "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
@@ -4404,8 +4369,8 @@
         {
           "id": "75703",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2027-04-11T18:00:00.000Z",
-          "end": "2027-04-11T21:00:00.000Z",
+          "start": "2027-04-11T20:00:00.000Z",
+          "end": "2027-04-11T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75703",
           "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
@@ -4414,8 +4379,8 @@
         {
           "id": "76368",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2027-04-11T18:00:00.000Z",
-          "end": "2027-04-11T21:00:00.000Z",
+          "start": "2027-04-11T20:00:00.000Z",
+          "end": "2027-04-11T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76368",
           "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
@@ -4424,8 +4389,8 @@
         {
           "id": "76013",
           "title": "Thomas Bergerson live",
-          "start": "2027-04-14T18:00:00.000Z",
-          "end": "2027-04-14T21:00:00.000Z",
+          "start": "2027-04-14T20:00:00.000Z",
+          "end": "2027-04-14T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76013",
           "description": "An event that fans of Two Steps from Hell and Thomas Bergersen must not miss. World-renowned composer Thomas Bergersen, co-founder of Two Steps from Hell and one of the most distinctive creators of contemporary epic music, embarks on his first concert tour as a solo artist: Thomas Bergersen Live.<BR",
@@ -4434,8 +4399,8 @@
         {
           "id": "75503",
           "title": "Game Music",
-          "start": "2027-04-15T18:00:00.000Z",
-          "end": "2027-04-15T21:00:00.000Z",
+          "start": "2027-04-15T20:00:00.000Z",
+          "end": "2027-04-15T23:00:00.000Z",
           "location": "Groningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75503",
           "description": "North Netherlands Symphony Orchestra<BR>Jukka Iisakkila, conductor<BR>Laetitia Gerards soprano<BR>Jelle van der Meulen, host<BR><BR>The energetic game music concerts of the North Netherlands Symphony Orchestra have become a regular fixture. Even when you're away from your PC or console, the",
@@ -4444,8 +4409,8 @@
         {
           "id": "75504",
           "title": "Game Music",
-          "start": "2027-04-16T18:00:00.000Z",
-          "end": "2027-04-16T21:00:00.000Z",
+          "start": "2027-04-16T20:00:00.000Z",
+          "end": "2027-04-16T23:00:00.000Z",
           "location": "Leeuwarden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75504",
           "description": "North Netherlands Symphony Orchestra<BR>Jukka Iisakkila, conductor<BR>Laetitia Gerards soprano<BR>Jelle van der Meulen, host<BR><BR>The energetic game music concerts of the North Netherlands Symphony Orchestra have become a regular fixture. Even when you're away from your PC or console, the",
@@ -4454,8 +4419,8 @@
         {
           "id": "76181",
           "title": "20 Live Movies in Concert",
-          "start": "2027-04-16T18:00:00.000Z",
-          "end": "2027-04-16T21:00:00.000Z",
+          "start": "2027-04-16T20:00:00.000Z",
+          "end": "2027-04-16T23:00:00.000Z",
           "location": "Hoogeveen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76181",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4464,8 +4429,8 @@
         {
           "id": "74223",
           "title": "Game Music",
-          "start": "2027-04-17T18:00:00.000Z",
-          "end": "2027-04-17T21:00:00.000Z",
+          "start": "2027-04-17T20:00:00.000Z",
+          "end": "2027-04-17T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74223",
           "description": "North Netherlands Symphony Orchestra<BR>Jukka Iisakkila, conductor<BR>Laetitia Gerards soprano<BR>Jelle van der Meulen, host<BR><BR>The energetic game music concerts of the North Netherlands Symphony Orchestra have become a regular fixture. Even when you're away from your PC or console, the",
@@ -4474,8 +4439,8 @@
         {
           "id": "74695",
           "title": "The Planets",
-          "start": "2027-04-23T18:00:00.000Z",
-          "end": "2027-04-23T21:00:00.000Z",
+          "start": "2027-04-23T20:00:00.000Z",
+          "end": "2027-04-23T23:00:00.000Z",
           "location": "Nijmegen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74695",
           "description": "With Holst, we stay somewhat in the vicinity. His most famous work is undoubtedly The Planets . In it, he sketches a beautiful musical portrait of the planets of our solar system. Not only as celestial bodies, but also their mysterious significance in astrology and the capricious characters of the g",
@@ -4484,8 +4449,8 @@
         {
           "id": "74697",
           "title": "The Planets",
-          "start": "2027-04-24T18:00:00.000Z",
-          "end": "2027-04-24T21:00:00.000Z",
+          "start": "2027-04-24T20:00:00.000Z",
+          "end": "2027-04-24T23:00:00.000Z",
           "location": "Enschede, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74697",
           "description": "With Holst, we stay somewhat in the vicinity. His most famous work is undoubtedly The Planets . In it, he sketches a beautiful musical portrait of the planets of our solar system. Not only as celestial bodies, but also their mysterious significance in astrology and the capricious characters of the g",
@@ -4494,8 +4459,8 @@
         {
           "id": "76182",
           "title": "20 Live Movies in Concert",
-          "start": "2027-04-24T18:00:00.000Z",
-          "end": "2027-04-24T21:00:00.000Z",
+          "start": "2027-04-24T20:00:00.000Z",
+          "end": "2027-04-24T23:00:00.000Z",
           "location": "Zwolle, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76182",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4504,8 +4469,8 @@
         {
           "id": "74696",
           "title": "The Planets",
-          "start": "2027-04-25T18:00:00.000Z",
-          "end": "2027-04-25T21:00:00.000Z",
+          "start": "2027-04-25T20:00:00.000Z",
+          "end": "2027-04-25T23:00:00.000Z",
           "location": "Arnhem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74696",
           "description": "With Holst, we stay somewhat in the vicinity. His most famous work is undoubtedly The Planets . In it, he sketches a beautiful musical portrait of the planets of our solar system. Not only as celestial bodies, but also their mysterious significance in astrology and the capricious characters of the g",
@@ -4514,8 +4479,8 @@
         {
           "id": "74100",
           "title": "The World Of Hans Zimmer - A New Dimension",
-          "start": "2027-04-28T18:00:00.000Z",
-          "end": "2027-04-28T21:00:00.000Z",
+          "start": "2027-04-28T20:00:00.000Z",
+          "end": "2027-04-28T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74100",
           "description": "The internationally acclaimed hit tour returns to Europe from spring 2027.<BR><BR>The music of Hans Zimmer is epic, emotional, cinematic, innovative, and deeply narrative. It transcends traditional film scores – it is a full sensory experience.<BR><BR>As musical director and curator, Hans Zimm",
@@ -4524,8 +4489,8 @@
         {
           "id": "76183",
           "title": "20 Live Movies in Concert",
-          "start": "2027-05-01T18:00:00.000Z",
-          "end": "2027-05-01T21:00:00.000Z",
+          "start": "2027-05-01T20:00:00.000Z",
+          "end": "2027-05-01T23:00:00.000Z",
           "location": "Drachten, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76183",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4534,8 +4499,8 @@
         {
           "id": "74274",
           "title": "The Phantom of the Opera (1925)",
-          "start": "2027-05-07T18:00:00.000Z",
-          "end": "2027-05-07T21:00:00.000Z",
+          "start": "2027-05-07T20:00:00.000Z",
+          "end": "2027-05-07T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74274",
           "description": "With The Phantom of the Opera (1925), a milestone in film history returns to the big screen. Alexandre Tharaud improvises the piano accompaniment live to Rupert Julian's film adaptation of Gaston Leroux's novel. Actor Lon Chaney portrayed the Phantom in an iconic way and made the f",
@@ -4544,8 +4509,8 @@
         {
           "id": "76648",
           "title": "The Tribal Drums of Ortiz and Revueltas",
-          "start": "2027-05-08T18:00:00.000Z",
-          "end": "2027-05-08T21:00:00.000Z",
+          "start": "2027-05-08T20:00:00.000Z",
+          "end": "2027-05-08T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76648",
           "description": "Radio Philharmonic Orchestra<BR>Alondra de la Parra, conductor<BR>DOMNIQ, percussion <BR><BR>The Mexican-American Alondra de la Parra leads this concert with music from California to Mexico, from sounds from the Pacific Ocean to the rhythmic primal force of the Maya. On the program: new work by mult",
@@ -4554,8 +4519,8 @@
         {
           "id": "76184",
           "title": "20 Live Movies in Concert",
-          "start": "2027-05-29T18:00:00.000Z",
-          "end": "2027-05-29T21:00:00.000Z",
+          "start": "2027-05-29T20:00:00.000Z",
+          "end": "2027-05-29T23:00:00.000Z",
           "location": "Haarlem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76184",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
@@ -4564,8 +4529,8 @@
         {
           "id": "74232",
           "title": "John Adams, Philip Glass and John Williams’ Star Wars Suite",
-          "start": "2027-06-11T18:00:00.000Z",
-          "end": "2027-06-11T21:00:00.000Z",
+          "start": "2027-06-11T20:00:00.000Z",
+          "end": "2027-06-11T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74232",
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
@@ -4574,8 +4539,8 @@
         {
           "id": "74233",
           "title": "John Adams, Philip Glass and John Williams’ Star Wars Suite",
-          "start": "2027-06-12T18:00:00.000Z",
-          "end": "2027-06-12T21:00:00.000Z",
+          "start": "2027-06-12T20:00:00.000Z",
+          "end": "2027-06-12T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74233",
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
@@ -4697,7 +4662,7 @@
           "start": "2026-07-04T11:00:00+02:00",
           "end": "2026-07-05T23:00:00+02:00",
           "location": "Archeon Museumpark, Alphen aan den Rijn",
-          "description": "4 &#038; 5 juli 2026 Waar historie en fantasie samenkomen Line up zaterdag Line up zondag Informatie &#038; tickets Standhouders Overnachten Archeon Museumpark presenteert de viering van de Zonnewende. Op dit moment bereikt de zon haar noordelijkste positie aan de hemel ten opzichte van de evenaar.…",
+          "description": "4 &#038; 5 juli 2026 Waar historie en fantasie samenkomen Line up zaterdag Line up zondag Blokkenschema Informatie &#038; tickets Standhouders Overnachten Archeon Museumpark presenteert de viering van de Zonnewende. Op dit moment bereikt de zon haar noordelijkste positie aan de hemel ten opzichte…",
           "url": "https://archeon.eu/midzomerfair/",
           "tags": []
         },
@@ -4839,16 +4804,6 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/circus-olifant-9-juli/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-schiet-het-waterschap-te-hulp-2026",
-          "title": "Schiet het waterschap te hulp",
-          "start": "2026-07-13T10:00:00+02:00",
-          "end": "2026-07-17T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/schiet-het-waterschap-te-hulp/",
           "tags": []
         },
         {
@@ -5723,6 +5678,17 @@
           "country": "Germany",
           "description": "Buhurt-toernooi in Germany.",
           "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-tournament-of-visegrád-2026",
+          "title": "Tournament of Visegrád 2026",
+          "start": "2026-07-10T00:00:00+02:00",
+          "end": "2026-07-10T23:00:00+02:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/tournament-of-visegrád-2026",
           "tags": []
         },
         {

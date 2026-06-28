@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T06:16:20.486Z",
+  "updatedAt": "2026-06-28T06:33:32.253Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,30 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001036",
-          "title": "* Sold out* CLAW BOYS CLAW + The Hook",
-          "start": "2026-06-27T20:00:00+02:00",
-          "end": "2026-06-27T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=vJ29k_Idz2Aind 2022 en hebben inmiddels heel wat mooie optredens achter hun naam.  Kekke baslijnen, powervolle gitaar, strakke drums en meerstemmigheid maken The Hook tot de band van de toekomst.",
-          "url": "https://dbstudio.nl/event/claw-boys-claw-the-hook/",
-          "tags": [
-            "Rock"
-          ]
-        },
-        {
-          "id": "10001052",
-          "title": "Ballroom Blitz",
-          "start": "2026-06-27T23:00:00+02:00",
-          "end": "2026-06-28T03:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Wars van trends maar niet vies van vette hits… elke laatste zaterdag van de maand turns in a Ballroom Blitz. Een feestje voor de zoekenden, de losgelatenen en de wonderkinderen.  It is like lightning and the music is grooving. \nHeb je een onbedwingbare drang tot dansen maar zijn er veel te veel…",
-          "url": "https://dbstudio.nl/event/ballroom-blitz-8-5/",
-          "tags": [
-            "Ballroom Blitz"
-          ]
-        },
         {
           "id": "10001033",
           "title": "BlueBeat & Ska Matinee",
@@ -49,6 +25,19 @@
             "Reggae",
             "Rocksteady",
             "Ska"
+          ]
+        },
+        {
+          "id": "10001093",
+          "title": "WK voetbal Nederland-Marokko op groot scherm in cafe",
+          "start": "2026-06-30T02:00:00+02:00",
+          "end": "2026-06-30T05:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Erop of eronder. Zij door of wij door. Wie mag er toeteren na afloop? De spannendste wedstrijd voor beide landen. Paul achter de bar. Koud bier. Kom op tijd",
+          "url": "https://dbstudio.nl/event/wk-voetbal-nederland-marokko-op-groot-scherm-in-cafe/",
+          "tags": [
+            "Cafe",
+            "WK Voetbal"
           ]
         },
         {
@@ -400,6 +389,18 @@
           "tags": [
             "Ballroom Blitz"
           ]
+        },
+        {
+          "id": "10001025",
+          "title": "WYATT E. (BE)",
+          "start": "2026-09-03T20:00:00+02:00",
+          "end": "2026-09-03T22:30:00+02:00",
+          "location": "ACU, Netherlands",
+          "description": "𝗱𝗲𝘇𝗲 𝘀𝗵𝗼𝘄 𝘃𝗶𝗻𝗱𝘁 𝗽𝗹𝗮𝗮𝘁𝘀 𝗶𝗻 𝗔𝗖𝗨 𝗲𝗻 𝗻𝗶𝗲𝘁 𝗼𝗽 𝗱𝗲 𝗩𝗟𝗣.",
+          "url": "https://dbstudio.nl/event/dbs-in-acu-presents-wyatt-e-be/",
+          "tags": [
+            "Doom"
+          ]
         }
       ]
     },
@@ -419,16 +420,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Het Londense vijftal bby combineert aanstekelijke alternatieve indie met invloeden uit folk en elektronica. De band geeft vaak DIY-optredens in hun hoofdkwartier in Oost-Londen, waarbij ze rauwe, energieke shows geven die doen denken aan de chaos van klassieke punkconcerten op huisfeesten. Met hun…",
           "url": "https://ekko.nl/event/bby/",
-          "tags": []
-        },
-        {
-          "id": "29431",
-          "title": "PY•PS: We’ll Meet Again",
-          "start": "2026-06-27T23:59:00+02:00",
-          "end": "2026-06-28T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "In deze speciale PY•PS editie brengen we een eerbetoon aan de afgelopen vier jaar PY•PS. Verwacht ongekende bangers door artiesten die PY•PS hebben gemaakt tot wat het is. Natuurlijk is de vertrouwde kubus, de sociale veiligheid én de ruimte voor queer zelfexpressie weer aanwezig. Met een mix van…",
-          "url": "https://ekko.nl/event/pyps-jun-2026/",
           "tags": []
         },
         {
@@ -479,16 +470,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Madra Salach draagt de Ierse folktraditie stevig in het hart, maar laat die nooit de overhand nemen. Het zestal uit Dublin is voortgekomen uit de indiescene van de Northside, waar de bandleden elkaar vonden tijdens spontane sessies in Dublinse kroegen. Vanuit een gedeelde liefde voor oude ballades…",
           "url": "https://ekko.nl/event/madra-salach/",
-          "tags": []
-        },
-        {
-          "id": "29637",
-          "title": "Personal Trainer",
-          "start": "2026-06-27T20:00:00+02:00",
-          "end": "2026-06-27T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Personal Trainer is het Amsterdamse project van Willem Smit. Het project is live uitgegroeid tot een bruisend collectief dat bekendstaat om zijn manische energie en inventieve indiepop. Hiermee bouwde de band de afgelopen jaren een sterke reputatie op in binnen- en buitenland. Op het aankomende…",
-          "url": "https://ekko.nl/event/personal-trainer-1/",
           "tags": []
         },
         {
@@ -1092,36 +1073,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-gone-country-afternoon-show-27-06-2026",
-          "title": "Gone Country Afternoon Show",
-          "start": "2026-06-27T15:00:00+02:00",
-          "end": "2026-06-27T18:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Saddle up, De Helling is going country with a line dancing party.",
-          "url": "https://dehelling.nl/agenda/gone-country-afternoon-show-27-06-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-gone-country-27-06-2026",
-          "title": "Gone Country",
-          "start": "2026-06-27T19:00:00+02:00",
-          "end": "2026-06-27T22:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Saddle up, De Helling is going country with a line dancing party.",
-          "url": "https://dehelling.nl/agenda/gone-country-27-06-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-feverr-27-06-2026",
-          "title": "FEVERR",
-          "start": "2026-06-27T23:00:00+02:00",
-          "end": "2026-06-28T04:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Not your average houseparty",
-          "url": "https://dehelling.nl/agenda/feverr-27-06-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-the-kulture-of-hype-and-hope-fire-edition-28-06-2026",
           "title": "The Kulture of Hype and Hope – Fire Edition",
           "start": "2026-06-28T12:00:00+02:00",
@@ -1652,46 +1603,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "458157",
-          "title": "Dekoor Close Harmony - Heb Ik Dat Nodig?",
-          "start": "2026-06-27T20:00:00+02:00",
-          "end": "2026-06-27T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Dekoor Close Harmony presenteert 'Heb Ik Dat Nodig?', een meeslepende koormuziekvoorstelling in samenwerking met muzikant en geluidskunstenaar De Machinefabriek. Deze show, die jazz, pop, klassiek, gospel en wereldmuziek via elektronische intermezzo's verbindt, vertelt een aangrijpend verhaal over…",
-          "url": "https://www.podiuminfo.nl/concert/458157/Dekoor-Close-Harmony-Heb-Ik-Dat-Nodig-/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "457286",
-          "title": "The Opposites",
-          "start": "2026-06-27T20:30:00+02:00",
-          "end": "2026-06-27T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Nederlandse rapduo The Opposites koppelt al sinds 2005 tekstuele spitsvondigheden aan meezingrefreinen, geserveerd op een bedje van beukende beats. ",
-          "url": "https://www.podiuminfo.nl/concert/457286/The-Opposites/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "474227",
-          "title": "Pop-O-Matic",
-          "start": "2026-06-27T23:00:00+02:00",
-          "end": "2026-06-28T00:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Pop-O-Matic transformeert Pandora tot een veelzijdige dansvloer waar DJ St. Paul en VJ Switchdoctor een eclectische mix van stijlen, tijden en subculturen presenteren. De muzikale selectie is actueel en trendsettend. Dit evenement biedt een dynamische avond voor liefhebbers van diverse…",
-          "url": "https://www.podiuminfo.nl/concert/474227/Pop-O-Matic/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "474039",
-          "title": "Mama Africa",
-          "start": "2026-06-27T23:55:00+02:00",
-          "end": "2026-06-28T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Mama Africa keert terug naar TivoliVredenburg voor een avond vol ritme, energie en pure vibes. Het publiek kan een volle dansvloer verwachten met de sounds van Afro Beats en andere Afrikaanse genres, waaronder kuduro, mbalax en coupé-décalé. Dit evenement belooft een onvergetelijke belevenis te…",
-          "url": "https://www.podiuminfo.nl/concert/474039/Mama-Africa/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "453762",
           "title": "Steve 'n' Seagulls",
           "start": "2026-06-28T20:00:00+02:00",
@@ -1889,6 +1800,46 @@
           "location": "Slot Zeist, Zinzendorflaan 1, Zeist",
           "description": "Tamino is een Belgische singer-songwriter die eind jaren 2010 internationale bekendheid verwierf met zijn mix van donkere, stemmige indierock en klassieke Arabische melodische accenten. Hij is geboren en getogen in België en heeft Egyptische en Libanese roots. Zijn sound weerspiegelt zijn complexe…",
           "url": "https://www.podiuminfo.nl/concert/452330/Tamino/Slot-Zeist/",
+          "tags": []
+        },
+        {
+          "id": "454777",
+          "title": "The Datsuns & more",
+          "start": "2026-07-10T19:00:00+02:00",
+          "end": "2026-07-10T20:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "met The Datsuns, Crocodiles, Daddy Long Legs & Plastic Family - Op vrijdag 10 juli presenteren we A Night of Vintage Rock-'n-Roll! Een zinderende zomeravond waarop The Datsuns, Crocodiles, Daddy Long Legs en Plastic Family onze Pandora veranderen in een kokend, snerpend, dampend rockaltaar.…",
+          "url": "https://www.podiuminfo.nl/concert/454777/The-Datsuns-more/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "479939",
+          "title": "VroegZat",
+          "start": "2026-07-10T19:00:00+02:00",
+          "end": "2026-07-10T20:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "VroegZat is een unieke clubavond die het plezier van het nachtleven naar de avond brengt, zodat bezoekers feestend de nacht in kunnen en toch op een redelijke tijd naar huis kunnen keren. Het muzikale aanbod is breed en dynamisch, variërend van disco en pop tot reggae, rock, happy en hiphop, met…",
+          "url": "https://www.podiuminfo.nl/concert/479939/VroegZat/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "463083",
+          "title": "Utrechtse Meezingerij",
+          "start": "2026-07-11",
+          "end": "2026-07-11T03:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Houd je van zingen en gezelligheid? Dan is De Utrechtse Meezingerij precies wat je zoekt! Dit initiatief van Charles Chamboné brengt mensen samen om vol enthousiasme Nederlandstalige liedjes te zingen – van klassiekers tot verborgen pareltjes. Iedereen is welkom, ongeacht leeftijd of zangervaring.…",
+          "url": "https://www.podiuminfo.nl/concert/463083/Utrechtse-Meezingerij/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "452378",
+          "title": "dEUS",
+          "start": "2026-07-11T18:00:00+02:00",
+          "end": "2026-07-11T19:00:00.000Z",
+          "location": "Slot Zeist, Zinzendorflaan 1, Zeist",
+          "description": "Van 8 tot en met 11 juli 2026 presenteert TivoliVredenburg in samenwerking met Friendly Fire een gloednieuwe jaarlijkse concertreeks genaamd Slot Zeist Live. Vier concerten met staanplaatsen in de tuin van een van de meest iconische kastelen van Nederland: Slot Zeist. De shows bieden plaats aan…",
+          "url": "https://www.podiuminfo.nl/concert/452378/dEUS/Slot-Zeist/",
           "tags": []
         }
       ]
@@ -2099,7 +2050,8 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": []
+      "events": [],
+      "broken": true
     },
     {
       "id": "casual-carnage",
@@ -2169,7 +2121,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2370,23 +2323,6 @@
           ]
         },
         {
-          "id": "beton-de-betonnerie-tweedekansmarkt-16",
-          "title": "De Betonnerie – tweedekansmarkt",
-          "start": "2026-06-28T00:00:00+02:00",
-          "end": "2026-06-28T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/de-betonnerie-tweedekansmarkt-16/",
-          "tags": [
-            "Eten / Drinken",
-            "Gratis",
-            "Markt",
-            "Muziek",
-            "Studio-T",
-            "Terras"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-5",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-06-29T00:00:00+02:00",
@@ -2483,6 +2419,31 @@
             "Muziek",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-workshop-leren-tas-met-bladmotief-de-creatiehallen",
+          "title": "Workshop Leren tas met bladmotief – De Creatiehallen",
+          "start": "2026-07-01T00:00:00+02:00",
+          "end": "2026-07-01T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/workshop-leren-tas-met-bladmotief-de-creatiehallen/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-lees-dit-boekenclub",
+          "title": "LAN-tine",
+          "start": "2026-07-02T00:00:00+02:00",
+          "end": "2026-07-02T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lees-dit-boekenclub/",
+          "tags": [
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2574,20 +2535,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001474-1782601200-1782626400",
-          "title": "BASIS/ MOONYEAN/ Noise Mafia/ Trias Kinetica/ Vall Du Son",
-          "start": "2026-06-27T23:00:00+02:00",
-          "end": "2026-06-28T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-moonyean-noise-mafia-trias-kinetica-vall-du-son/",
-          "tags": [
-            "Bounce",
-            "Hard house",
-            "Trance"
-          ]
-        },
         {
           "id": "basis-utrecht-10001467-1783159200-1783331999",
           "title": "By The Creek 2026",
@@ -2926,16 +2873,6 @@
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
         {
-          "id": "74946",
-          "title": "Lingehaven Concert: At the Movies",
-          "start": "2026-06-27T20:00:00.000Z",
-          "end": "2026-06-27T23:00:00.000Z",
-          "location": "Gorinchem, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74946",
-          "description": "On Saturday, June 27, 2026, the Lingehaven will once again be the atmospheric backdrop for the Lingehaven concert. This year everything is dedicated to film music under the title Lingehaven at the Movies.Conductor Jules van Hessen presents a special program with exclusively classical film music: rec",
-          "tags": []
-        },
-        {
           "id": "74795",
           "title": "The most beautiful film music in Concert",
           "start": "2026-07-02T20:00:00.000Z",
@@ -3043,6 +2980,16 @@
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76763",
           "description": "Hans Zimmer - Time from Inception<BR>Hans Zimmer / Elton John - This Land from The Lion King<BR>Hans Zimmer - Zooster’s Breakout from Madagascar<BR>Hans Zimmer - Supermarine from Dunkirk<BR>Hans Zimmer - Honor from The Pacific<BR>Hans Zimmer / James Newton Howard - A Dark Knight from The Dark",
+          "tags": []
+        },
+        {
+          "id": "77139",
+          "title": "Candlelight Concerts: A tribute to Hans Zimmer",
+          "start": "2026-09-06T20:00:00.000Z",
+          "end": "2026-09-06T23:00:00.000Z",
+          "location": "Eindhoven, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77139",
+          "description": "Candlelight Concerts bring the magic of live music by candlelight to Muziekgebouw Eindhoven! String quartet Magic Strings will pay tribute to Hans Zimmer this evening. Enjoy well-known film music from films such as 'Pirates of the Caribbean', 'Wonder Women', &",
           "tags": []
         },
         {
@@ -3486,6 +3433,16 @@
           "tags": []
         },
         {
+          "id": "77140",
+          "title": "Naruto: The Symphonic Experience",
+          "start": "2026-11-11T20:00:00.000Z",
+          "end": "2026-11-11T23:00:00.000Z",
+          "location": "Eindhoven, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77140",
+          "description": "Follow Naruto Uzumaki on his way to the Hokage shelf in an exclusive film and music montage, created especially for this concert! Naruto Shippuden: The Symphonic Experience brings the world of the iconic anime to life in a live concert. During this two-hour performance, highlights from 500 episodes",
+          "tags": []
+        },
+        {
           "id": "75500",
           "title": "Symphonic Soundtracks",
           "start": "2026-11-12T20:00:00.000Z",
@@ -3736,6 +3693,16 @@
           "tags": []
         },
         {
+          "id": "77141",
+          "title": "Candlelight Concerts: A tribute to Hans Zimmer",
+          "start": "2026-12-06T20:00:00.000Z",
+          "end": "2026-12-06T23:00:00.000Z",
+          "location": "Eindhoven, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77141",
+          "description": "Candlelight Concerts bring the magic of live music by candlelight to Muziekgebouw Eindhoven! String quartet Magic Strings will pay tribute to Hans Zimmer this evening. Enjoy well-known film music from films such as 'Pirates of the Caribbean', 'Wonder Women', &",
+          "tags": []
+        },
+        {
           "id": "74526",
           "title": "Feliz Navidad",
           "start": "2026-12-12T20:00:00.000Z",
@@ -3983,6 +3950,16 @@
           "location": "Venlo, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76172",
           "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
+          "tags": []
+        },
+        {
+          "id": "77142",
+          "title": "Candlelight Concerts: A tribute to Hans Zimmer",
+          "start": "2027-01-16T20:00:00.000Z",
+          "end": "2027-01-16T23:00:00.000Z",
+          "location": "Eindhoven, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77142",
+          "description": "Candlelight Concerts bring the magic of live music by candlelight to Muziekgebouw Eindhoven! String quartet Magic Strings will pay tribute to Hans Zimmer this evening. Enjoy well-known film music from films such as 'Pirates of the Caribbean', 'Wonder Women', &",
           "tags": []
         },
         {

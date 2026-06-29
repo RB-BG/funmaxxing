@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T06:33:32.253Z",
+  "updatedAt": "2026-06-29T06:37:44.848Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,24 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001033",
-          "title": "BlueBeat & Ska Matinee",
-          "start": "2026-06-28T16:00:00+02:00",
-          "end": "2026-06-28T21:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "REAL LIFE !! NO INTERNET EVENT !! IT IS HAPPENING FOR A SECOND TIME !!!  FREE EVENT!!\n\n\nRound Two, you know it’s good for you!\nFor the second Blue Beat & Ska Matinee we invited none other than John Chidlow aka Johnny Gunman (Frontline Sound – UK). He shares the decks with his fellow BB&S deejays Mr…",
-          "url": "https://dbstudio.nl/event/bluebeat-ska-matinee/",
-          "tags": [
-            "Cafe",
-            "Concert",
-            "DJ's in cafe",
-            "Dub",
-            "Reggae",
-            "Rocksteady",
-            "Ska"
-          ]
-        },
         {
           "id": "10001093",
           "title": "WK voetbal Nederland-Marokko op groot scherm in cafe",
@@ -400,6 +382,18 @@
           "url": "https://dbstudio.nl/event/dbs-in-acu-presents-wyatt-e-be/",
           "tags": [
             "Doom"
+          ]
+        },
+        {
+          "id": "10001000",
+          "title": "Blueprint",
+          "start": "2026-09-03T20:00:00+02:00",
+          "end": "2026-09-04T00:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "ze zetten je aan het denken over onszelf en de wereld om ons heen. Van intieme momenten tot grootse rockpassages, je weet nooit precies wat je kunt verwachten – maar je blijft geboeid bij elke stap.\n\n﻿ \n \nBlueprint maakt cinematische, duistere, en dynamische alternatieve muziek. Denk post-punk en…",
+          "url": "https://dbstudio.nl/event/paravision/",
+          "tags": [
+            "Concert"
           ]
         }
       ]
@@ -1073,16 +1067,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-the-kulture-of-hype-and-hope-fire-edition-28-06-2026",
-          "title": "The Kulture of Hype and Hope – Fire Edition",
-          "start": "2026-06-28T12:00:00+02:00",
-          "end": "2026-06-28T22:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "HipHop & KRUMP 1vs1 Battle | Powered by DOX",
-          "url": "https://dehelling.nl/agenda/the-kulture-of-hype-and-hope-fire-edition-28-06-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-tom-smith-01-07-2026",
           "title": "Tom Smith",
           "start": "2026-07-01T20:30:00+02:00",
@@ -1603,16 +1587,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "453762",
-          "title": "Steve 'n' Seagulls",
-          "start": "2026-06-28T20:00:00+02:00",
-          "end": "2026-06-28T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Finse band Steve ‘n’ Seagulls staat bekend om hun humoristische benadering van muziek, door heavymetalcovers in bluegrass-stijl te spelen. Ze braken door in 2014 met hun virale versie van AC/DC's 'Thunderstruck', waarmee ze hun muzikale virtuositeit bewezen. Inmiddels zijn ze een geliefde…",
-          "url": "https://www.podiuminfo.nl/concert/453762/Steve-n-Seagulls/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "456970",
           "title": "Eric Hutchinson",
           "start": "2026-06-30",
@@ -1841,6 +1815,16 @@
           "description": "Van 8 tot en met 11 juli 2026 presenteert TivoliVredenburg in samenwerking met Friendly Fire een gloednieuwe jaarlijkse concertreeks genaamd Slot Zeist Live. Vier concerten met staanplaatsen in de tuin van een van de meest iconische kastelen van Nederland: Slot Zeist. De shows bieden plaats aan…",
           "url": "https://www.podiuminfo.nl/concert/452378/dEUS/Slot-Zeist/",
           "tags": []
+        },
+        {
+          "id": "460277",
+          "title": "Koor Kwaya - EXTASE",
+          "start": "2026-07-11T20:00:00+02:00",
+          "end": "2026-07-11T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Koor Kwaya presenteert 'EXTASE', een beleving waarbij muziek je volledig overspoelt. Dit energieke Utrechtse koor, bestaande uit meer dan 50 jonge, enthousiaste leden, staat al ruim tien jaar bekend om hun afwisselende repertoire van wereldmuziek tot de nieuwste pophits. Kwaya neemt het publiek mee…",
+          "url": "https://www.podiuminfo.nl/concert/460277/Koor-Kwaya-EXTASE/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1952,6 +1936,16 @@
           "tags": []
         },
         {
+          "id": "600887",
+          "title": "D&D 5.5e Phandelver: Thralls of Enternality",
+          "start": "2026-07-08T19:00:00+02:00",
+          "end": "2026-07-08T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 8/7 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-4 Written by Wizards RPG Team Explore subterranean labyrinths! Plunder hoards of…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0fcc470d-6172-4440-b6e2-4e4033d865a4",
+          "tags": []
+        },
+        {
           "id": "599642",
           "title": "Heart - The City Beneath",
           "start": "2026-07-08T19:00:00+02:00",
@@ -2050,8 +2044,32 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": [],
-      "broken": true
+      "events": [
+        {
+          "id": "lab-monkey-22740",
+          "title": "Commander Tuesday",
+          "start": "2026-06-30T18:00:00+02:00",
+          "end": "2026-06-30T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8216;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-232/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
+          "id": "lab-monkey-22738",
+          "title": "Weekly Draft",
+          "start": "2026-07-02T19:00:00+02:00",
+          "end": "2026-07-02T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-118/",
+          "tags": [
+            "Draft"
+          ]
+        }
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2121,8 +2139,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -2323,75 +2340,6 @@
           ]
         },
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-5",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-06-29T00:00:00+02:00",
-          "end": "2026-06-29T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-5/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-28",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-06-29T00:00:00+02:00",
-          "end": "2026-06-29T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-28/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-10",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-06-29T00:00:00+02:00",
-          "end": "2026-06-29T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-10/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-27",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-06-29T00:00:00+02:00",
-          "end": "2026-06-29T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-27/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-6",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-06-29T00:00:00+02:00",
-          "end": "2026-06-29T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-6/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-42",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-07-01T00:00:00+02:00",
@@ -2442,6 +2390,34 @@
           "description": "",
           "url": "https://www.vechtclub.nl/agenda/lees-dit-boekenclub/",
           "tags": [
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-de-rollerdisco-3",
+          "title": "De Rollerdisco",
+          "start": "2026-07-03T00:00:00+02:00",
+          "end": "2026-07-03T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/de-rollerdisco-3/",
+          "tags": [
+            "Muziek",
+            "Skaten",
+            "Sport",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-luisteravond-3",
+          "title": "Luisteravond",
+          "start": "2026-07-03T00:00:00+02:00",
+          "end": "2026-07-03T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/luisteravond-3/",
+          "tags": [
+            "Muziek",
             "Kantine"
           ]
         }
@@ -3220,6 +3196,16 @@
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74689",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
+          "tags": []
+        },
+        {
+          "id": "77158",
+          "title": "Metropolis (1927)",
+          "start": "2026-10-14T20:00:00.000Z",
+          "end": "2026-10-14T23:00:00.000Z",
+          "location": "Utrecht, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77158",
+          "description": "Wishful Singing  <BR>Yonga Sun, percussion, modular synthesizer<BR>Steven Kamperman, composition, bass clarinet<BR>Jorrit Westerhoff, electric guitar<BR><BR>Steven Kamperman - Metropolis<BR><BR>The hundred-year-old, monumental science fiction epic Metropolis conjures up a dystopian world in 2026 (!)",
           "tags": []
         },
         {

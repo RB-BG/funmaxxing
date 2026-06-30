@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T06:37:44.848Z",
+  "updatedAt": "2026-06-30T06:31:47.475Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001093",
-          "title": "WK voetbal Nederland-Marokko op groot scherm in cafe",
-          "start": "2026-06-30T02:00:00+02:00",
-          "end": "2026-06-30T05:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Erop of eronder. Zij door of wij door. Wie mag er toeteren na afloop? De spannendste wedstrijd voor beide landen. Paul achter de bar. Koud bier. Kom op tijd",
-          "url": "https://dbstudio.nl/event/wk-voetbal-nederland-marokko-op-groot-scherm-in-cafe/",
-          "tags": [
-            "Cafe",
-            "WK Voetbal"
-          ]
-        },
         {
           "id": "10001030",
           "title": "POISON RUÏN (USA - RELAPSE RECORDS) + Krime",
@@ -108,18 +95,6 @@
           ]
         },
         {
-          "id": "10001091",
-          "title": "KAOS KARAOKE, FREE KAOS EVENT!",
-          "start": "2026-07-10T21:00:00+02:00",
-          "end": "2026-07-10T23:30:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Altijd al op het dB’s podium willen optreden maar geen muzikaal talent? \nOf heel veel talent maar geplaagd door onzekerheid? \nOf veel talent en heel zeker van jezelf maar geen band? \nGEEN PROBLEEM WANT KAOS KAROAKE HAS YOUR BACK! \n10 juli is het podium beschikbaar om jouw zangkwaliteiten te showen.…",
-          "url": "https://dbstudio.nl/event/kaos-karaoke-free-kaos-event/",
-          "tags": [
-            "Concert"
-          ]
-        },
-        {
           "id": "10001092",
           "title": "Expect Kaos, Create Kaos, it's Karaoke innit!",
           "start": "2026-07-10T21:00:00+02:00",
@@ -139,20 +114,6 @@
           "url": "https://dbstudio.nl/event/plf-pseudo-logica-fantastica/",
           "tags": [
             "Dansavond"
-          ]
-        },
-        {
-          "id": "10001058",
-          "title": "Bonobo featuring Drifter TV & Human Beings featuring Carlton, DNA, Tommy, Dub, Alwin, Frankie D, Flipside, Chet, Radar, Humphrey, DJmc Red",
-          "start": "2026-07-11T21:00:00+02:00",
-          "end": "2026-07-12T04:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "CARLTON, DNA, Tommy, Dub, Alwin, Frankie D, Flipside, Chet, Radar, Humphrey, Djmc Red! \nLive on stage BONOBO FEATURING DRIFTER TV & HUMAN BEINGS \nVisuals by Wessel Nimmer \nVoorverkoop start 14 mei",
-          "url": "https://dbstudio.nl/event/plf-met-utreg-sound-djs-en-live-bonobo-featuring-drifter-tv-human-beings-featuring-carlton-dna-tommy-dub-alwin-frankie-d-flipside-chet-radar-humphrey-djmc-red/",
-          "tags": [
-            "Dansavond",
-            "DJ's in cafe",
-            "PLF Utrèg Sound"
           ]
         },
         {
@@ -211,13 +172,26 @@
         },
         {
           "id": "10001083",
-          "title": "STAPELGANG release",
+          "title": "STAPELGANG release + support by Orka & ini",
           "start": "2026-07-18T18:30:00+02:00",
           "end": "2026-07-18T22:30:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
           "description": "//dbstudio.nl/wp-content/uploads/2026/06/FC-STAPEL-4X3.mp4",
           "url": "https://dbstudio.nl/event/stapelgang-release/",
           "tags": []
+        },
+        {
+          "id": "10001094",
+          "title": "Terrasconcert > Catching Cultures invites",
+          "start": "2026-07-19T16:00:00+02:00",
+          "end": "2026-07-19T19:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Omdat het kan, het Catching Cultures collectief nodigt een aantal muzikanten uit alle windstreken uit voor een fijne, zonnige middag niet-Westerse muziek. Precieze invulling nader te bepalen, toegang gratis.",
+          "url": "https://dbstudio.nl/event/terrasconcert-catching-cultures-invites/",
+          "tags": [
+            "Concert",
+            "Improvisatie"
+          ]
         },
         {
           "id": "10000960",
@@ -300,6 +274,20 @@
           ]
         },
         {
+          "id": "10001095",
+          "title": "REGGAE BOMB Summer Terrace Jam >vibes, food & music",
+          "start": "2026-08-09T16:00:00+02:00",
+          "end": "2026-08-09T21:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "De zomer is niet compleet zonder een Reggae Bomb feestje. You know the drill, DJ’s Martial Ard, Don Arco, Skank Around SOund & Sista Souljah bring you the music. You bring the vibes, Fritz prepares the jerk chicken. \nToegang is gratis! \nAll is good, UNITE!",
+          "url": "https://dbstudio.nl/event/reggae-bomb-summer-terrace-jam-vibes-food-music/",
+          "tags": [
+            "Concert",
+            "Reggae",
+            "REGGAE BOMB"
+          ]
+        },
+        {
           "id": "10001071",
           "title": "Gijsjaradijsja + Kinderleed + ZOEKHETUITMAN + Fokko (solo)",
           "start": "2026-08-14T19:30:00+02:00",
@@ -352,7 +340,7 @@
         },
         {
           "id": "10001077",
-          "title": "NEW CANDYS (IT) + Anemone",
+          "title": "NEW CANDYS (IT) + Laura Palmer",
           "start": "2026-08-28T20:00:00+02:00",
           "end": "2026-08-28T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
@@ -370,6 +358,20 @@
           "url": "https://dbstudio.nl/event/ballroom-blitz-8/2026-08-29/",
           "tags": [
             "Ballroom Blitz"
+          ]
+        },
+        {
+          "id": "10001096",
+          "title": "Gratis terrasconcert > JESUS EVIL HIGHWAY",
+          "start": "2026-08-30T16:00:00+02:00",
+          "end": "2026-08-30T19:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Met hun donkere cocktail van Outlaw- and Hillbilly Country, Oldtime Mountain Music en Bluegrass afgetopt met een dosis rauwe Rockabilly maakt Jesus Evil Highway al enige jaren podia onveilig. Jesus Evil Highway speelt ouderwetse, ranzige country, recht uit het hart met een gitzwart randje. Lonesome…",
+          "url": "https://dbstudio.nl/event/gratis-terrasconcert-jesus-evil-highway/",
+          "tags": [
+            "Bluegrass",
+            "Concert",
+            "Country & Western"
           ]
         },
         {
@@ -407,6 +409,26 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "30112",
+          "title": "1002",
+          "start": "2026-07-18T23:30:00+02:00",
+          "end": "2026-07-19T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "1002 is waar het verhaal verdergaat. Een nacht waarin dj’s en publiek zich gezamenlijk bewegen door genres, scenes en tempo’s, terwijl ze via geluid en live visuals nieuwe ervaringen creëren. Vijf artiesten met Turkse, Marokkaanse, Syrische en Palestijnse roots delen één hybride setup, waarin…",
+          "url": "https://ekko.nl/event/1002/",
+          "tags": []
+        },
+        {
+          "id": "30295",
+          "title": "My First Time",
+          "start": "2026-10-30T20:30:00+01:00",
+          "end": "2026-10-30T23:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "My First Time is een opkomend viertal uit Bristol dat dansbare postpunk, thrashy pop en scherpe satire samenbrengt in een energieke en eigenzinnige sound. Geïnspireerd door zowel de alledaagse observaties van The Streets en Blur als de dynamiek van moderne pop, schrijven ze nummers vol…",
+          "url": "https://ekko.nl/event/my-first-time/",
+          "tags": []
+        },
+        {
           "id": "30257",
           "title": "bby",
           "start": "2026-10-28T20:00:00+01:00",
@@ -434,16 +456,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Grace Cummings maakt als singer-songwriter muziek die even rauw als meeslepend klinkt. De Australische zangeres staat bekend om haar diepe, onmiskenbare stem en intense nummers waarin kwetsbaarheid en kracht samenkomen. Op haar nieuwe album ‘Bloodhorse!’ verruilt ze de kampvuurintimiteit van…",
           "url": "https://ekko.nl/event/grace-cummings/",
-          "tags": []
-        },
-        {
-          "id": "30295",
-          "title": "My First Time",
-          "start": "2026-10-30T20:30:00+01:00",
-          "end": "2026-10-30T23:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "My First Time is een opkomend viertal uit Bristol dat dansbare postpunk, thrashy pop en scherpe satire samenbrengt in een energieke en eigenzinnige sound. Geïnspireerd door zowel de alledaagse observaties van The Streets en Blur als de dynamiek van moderne pop, schrijven ze nummers vol…",
-          "url": "https://ekko.nl/event/my-first-time/",
           "tags": []
         },
         {
@@ -594,16 +606,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Van The Cure en Siouxsie and the Banshees, tot Interpol en Lebanon Hanover: waarom hoor je hun platen niet in de club? In een landschap dat volledig in het teken staat van elektronische muziek, creëert Blue Saturday een plek voor iedereen die tot in de late uurtjes wil dansen op alternatieve rock.…",
           "url": "https://ekko.nl/event/blue-saturday/",
-          "tags": []
-        },
-        {
-          "id": "30112",
-          "title": "1002",
-          "start": "2026-07-18T23:30:00+02:00",
-          "end": "2026-07-19T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "1002 is waar het verhaal verdergaat. Een nacht waarin dj’s en publiek zich gezamenlijk bewegen door genres, scenes en tempo’s, terwijl ze via geluid en live visuals nieuwe ervaringen creëren. Vijf artiesten met Turkse, Marokkaanse, Syrische en Palestijnse roots delen één hybride setup, waarin…",
-          "url": "https://ekko.nl/event/1002/",
           "tags": []
         },
         {
@@ -1617,6 +1619,16 @@
           "tags": []
         },
         {
+          "id": "482691",
+          "title": "Salsa on Friday",
+          "start": "2026-07-03T20:15:00+02:00",
+          "end": "2026-07-03T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Op ‘Salsa on Friday’ draaien dj’s de lekkerste salsa hits, van klassiekers tot nieuwe favorieten. Iedereen is welkom, of je nu komt om te dansen, te leren of nieuwe mensen te ontmoeten. De sfeer is warm en de community gastvrij. Dit evenement is gratis toegankelijk en vindt plaats in de Danel zaal.…",
+          "url": "https://www.podiuminfo.nl/concert/482691/Salsa-on-Friday/TivoliVredenburg/",
+          "tags": []
+        },
+        {
           "id": "464648",
           "title": "90'S NOW - Vroege Tijden",
           "start": "2026-07-03T21:00:00+02:00",
@@ -1804,26 +1816,6 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Houd je van zingen en gezelligheid? Dan is De Utrechtse Meezingerij precies wat je zoekt! Dit initiatief van Charles Chamboné brengt mensen samen om vol enthousiasme Nederlandstalige liedjes te zingen – van klassiekers tot verborgen pareltjes. Iedereen is welkom, ongeacht leeftijd of zangervaring.…",
           "url": "https://www.podiuminfo.nl/concert/463083/Utrechtse-Meezingerij/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452378",
-          "title": "dEUS",
-          "start": "2026-07-11T18:00:00+02:00",
-          "end": "2026-07-11T19:00:00.000Z",
-          "location": "Slot Zeist, Zinzendorflaan 1, Zeist",
-          "description": "Van 8 tot en met 11 juli 2026 presenteert TivoliVredenburg in samenwerking met Friendly Fire een gloednieuwe jaarlijkse concertreeks genaamd Slot Zeist Live. Vier concerten met staanplaatsen in de tuin van een van de meest iconische kastelen van Nederland: Slot Zeist. De shows bieden plaats aan…",
-          "url": "https://www.podiuminfo.nl/concert/452378/dEUS/Slot-Zeist/",
-          "tags": []
-        },
-        {
-          "id": "460277",
-          "title": "Koor Kwaya - EXTASE",
-          "start": "2026-07-11T20:00:00+02:00",
-          "end": "2026-07-11T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Koor Kwaya presenteert 'EXTASE', een beleving waarbij muziek je volledig overspoelt. Dit energieke Utrechtse koor, bestaande uit meer dan 50 jonge, enthousiaste leden, staat al ruim tien jaar bekend om hun afwisselende repertoire van wereldmuziek tot de nieuwste pophits. Kwaya neemt het publiek mee…",
-          "url": "https://www.podiuminfo.nl/concert/460277/Koor-Kwaya-EXTASE/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2069,7 +2061,8 @@
             "Draft"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "casual-carnage",
@@ -2139,7 +2132,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2409,16 +2403,17 @@
           ]
         },
         {
-          "id": "beton-luisteravond-3",
-          "title": "Luisteravond",
-          "start": "2026-07-03T00:00:00+02:00",
-          "end": "2026-07-03T00:00:00+02:00",
+          "id": "beton-beton-tv",
+          "title": "Beton-TV: WK voetbal (M)",
+          "start": "2026-07-04T00:00:00+02:00",
+          "end": "2026-07-04T00:00:00+02:00",
           "location": "Beton-T, Atoomweg 100, Utrecht",
           "description": "",
-          "url": "https://www.vechtclub.nl/agenda/luisteravond-3/",
+          "url": "https://www.vechtclub.nl/agenda/beton-tv/",
           "tags": [
             "Muziek",
-            "Kantine"
+            "Sport",
+            "Terras"
           ]
         }
       ]
@@ -2669,6 +2664,21 @@
           ]
         },
         {
+          "id": "basis-utrecht-10001492-1786147140-1786168800",
+          "title": "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI",
+          "start": "2026-08-07T23:59:00+02:00",
+          "end": "2026-08-08T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-talent-night-jean-luc-koltixa-late-attendant-walichi/",
+          "tags": [
+            "Groovy techno",
+            "Hardtechno",
+            "House",
+            "Underground techno"
+          ]
+        },
+        {
           "id": "basis-utrecht-10001477-1786233540-1786255200",
           "title": "BASIS/ Blame the Mono/ Fiene/ LENA/ Sons of Hidden (live)",
           "start": "2026-08-08T23:59:00+02:00",
@@ -2681,6 +2691,47 @@
             "Groovy techno",
             "Old school techno",
             "Underground techno"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001493-1786751940-1786773600",
+          "title": "BASIS Talent Night/ Jappe/ L!SA/ MAGGIE/ TOMMY",
+          "start": "2026-08-14T23:59:00+02:00",
+          "end": "2026-08-15T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-talent-night-jappe-lsa-maggie-tommy/",
+          "tags": [
+            "Bounce",
+            "Hard house",
+            "House"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001494-1787356740-1787378400",
+          "title": "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra",
+          "start": "2026-08-21T23:59:00+02:00",
+          "end": "2026-08-22T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-talent-night-dnbk-kevn-rich-supra/",
+          "tags": [
+            "Hardtechno",
+            "Industrial",
+            "Schranz"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001495-1787961540-1787983200",
+          "title": "BASIS Talent Night/ Flexusz/ KROM/ LIRIOS/ N9S",
+          "start": "2026-08-28T23:59:00+02:00",
+          "end": "2026-08-29T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-talent-night-flexusz-krom-lirios-n9s/",
+          "tags": [
+            "Bass",
+            "UK Garage"
           ]
         },
         {
@@ -4579,16 +4630,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-workshop-groeipapier-maken-2026",
-          "title": "Workshop: Groeipapier maken",
-          "start": "2026-07-04T10:00:00+02:00",
-          "end": "2026-07-26T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/workshop-groeipapier-maken/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-creatief-met-water-in-het-atelier-2026",
           "title": "Creatief met water in het atelier",
           "start": "2026-07-04T10:00:00+02:00",
@@ -4596,6 +4637,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/creatief-met-water-in-het-atelier/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-workshop-groeipapier-maken-2026",
+          "title": "Workshop: Groeipapier maken",
+          "start": "2026-07-04T10:00:00+02:00",
+          "end": "2026-07-26T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/workshop-groeipapier-maken/",
           "tags": []
         },
         {
@@ -4629,16 +4680,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot-2026",
-          "title": "De Maaltuin: Zomerse 5-gangendiners op het Muiderslot",
-          "start": "2026-07-09T10:00:00+02:00",
-          "end": "2026-08-02T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-circus-olifant-9-juli-2026",
           "title": "Circus Olifant &#8211; 9 juli 2026",
           "start": "2026-07-09T10:00:00+02:00",
@@ -4646,6 +4687,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/circus-olifant-9-juli/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot-2026",
+          "title": "De Maaltuin: Zomerse 5-gangendiners op het Muiderslot",
+          "start": "2026-07-09T10:00:00+02:00",
+          "end": "2026-08-02T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot/",
           "tags": []
         },
         {
@@ -4886,6 +4937,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-3/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-5-sep-2026-2026",
+          "title": "Historische proeverij 5 sep 2026",
+          "start": "2026-09-05T10:00:00+02:00",
+          "end": "2026-09-05T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-5-sep-2026/",
           "tags": []
         },
         {
@@ -5186,6 +5247,16 @@
           "location": "Ruïne van Brederode, Santpoort-Zuid",
           "description": "",
           "url": "https://ruinevanbrederode.nl/valkenier-met-roofvogels/",
+          "tags": []
+        },
+        {
+          "id": "brederode-valkenier-met-roofvogels-2027-05-01",
+          "title": "Valkenier met roofvogels",
+          "start": "2027-05-01T11:00:00+02:00",
+          "end": "2027-05-01T17:00:00+02:00",
+          "location": "Ruïne van Brederode, Santpoort-Zuid",
+          "description": "",
+          "url": "https://ruinevanbrederode.nl/valkenier-1-mei/",
           "tags": []
         },
         {

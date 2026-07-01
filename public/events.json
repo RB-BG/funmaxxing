@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T06:31:47.475Z",
+  "updatedAt": "2026-07-01T06:34:57.724Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1159,6 +1159,16 @@
           "tags": []
         },
         {
+          "id": "helling-vanaheim-album-release-show-05-09-2026",
+          "title": "Vanaheim album release show",
+          "start": "2026-09-05T19:30:00+02:00",
+          "end": "2026-09-05T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Tilburgs Nederfolkmetalkwartet presenteert langverwacht debuutalbum",
+          "url": "https://dehelling.nl/agenda/vanaheim-album-release-show-05-09-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-tropenrooster-05-09-2026",
           "title": "Tropenrooster",
           "start": "2026-09-05T23:00:00+02:00",
@@ -1589,26 +1599,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "456970",
-          "title": "Eric Hutchinson",
-          "start": "2026-06-30",
-          "end": "2026-06-30T03:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het geplande concert van Eric Hutchinson op 30 juni 2026 is helaas afgelast wegens onvoorziene omstandigheden. De artiest heeft via een statement laten weten dat hij zijn geplande shows in Europa in 2026 niet kan uitvoeren en heeft besloten de data te annuleren. Hij betuigt zijn excuses aan alle…",
-          "url": "https://www.podiuminfo.nl/concert/456970/Eric-Hutchinson/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "454809",
-          "title": "Elvis Costello / Elvis Costello & the Imposters",
-          "start": "2026-06-30T20:30:00+02:00",
-          "end": "2026-06-30T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het newwave-icoon heeft na zijn eerste drie seventies-platen (My Aim Is True, This Year’s Model en Armed Forces) nog zo’n 30 albums uitgebracht. Intelligente, vaak bijtende teksten vormen Costello’s handelsmerk, samen met een uitstekend gevoel voor het perfecte popliedje.",
-          "url": "https://www.podiuminfo.nl/concert/454809/Elvis-Costello-Elvis-Costello-the-Imposters/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "454779",
           "title": "Candy Dulfer - The Purple Jam",
           "start": "2026-07-02T20:00:00+02:00",
@@ -1646,6 +1636,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Ontdek 'After Sun: Midnight Melodies', een nieuwe zomernacht in de Ronda van TivoliVredenburg, ideaal om af te koelen na een warme dag. Bezoekers kunnen vanaf 22:00 uur de dansvloer betreden en genieten van een brede selectie aan muziek, variërend van de grootste festivalhits tot zwoele R&B-tracks…",
           "url": "https://www.podiuminfo.nl/concert/476541/After-Sun-Midnight-Melodies/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "483013",
+          "title": "Vocal Venture in Doopsgezinde kerk",
+          "start": "2026-07-04T13:30:00+02:00",
+          "end": "2026-07-04T14:30:00.000Z",
+          "location": "Doopsgezinde Kerk, Oudegracht 270, Utrecht",
+          "description": "Beleef een gratis concert van Vocal Venture, een enthousiast vrouwenkoor voor twintigers en dertigers, in de Doopsgezinde kerk. Dit optreden maakt deel uit van de serie ‘Kerken Luisteren’, georganiseerd door ZIMIHC en Kerken Kijken Utrecht. Geniet van lichte meerstemmige muziek, waaronder pop,…",
+          "url": "https://www.podiuminfo.nl/concert/483013/Vocal-Venture-in-Doopsgezinde-kerk/Doopsgezinde-Kerk/",
           "tags": []
         },
         {
@@ -1769,6 +1769,16 @@
           "tags": []
         },
         {
+          "id": "483015",
+          "title": "MoYa in de Pieterskerk",
+          "start": "2026-07-09T13:30:00+02:00",
+          "end": "2026-07-09T14:30:00.000Z",
+          "location": "Pieterskerk, Pieterskerkhof 3, Utrecht",
+          "description": "Geniet van een gratis concert van Moya, een Utrechtse zanggroep met invloeden uit Alkmaar en Barcelona, in de Pieterskerk. Het optreden is onderdeel van de ‘Kerken Luisteren’ serie, georganiseerd door ZIMIHC en Kerken Kijken Utrecht. Moya brengt muziek die hen ontroert en blij maakt, variërend van…",
+          "url": "https://www.podiuminfo.nl/concert/483015/MoYa-in-de-Pieterskerk/Pieterskerk/",
+          "tags": []
+        },
+        {
           "id": "452326",
           "title": "Angus & Julia Stone",
           "start": "2026-07-09T18:00:00+02:00",
@@ -1816,6 +1826,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Houd je van zingen en gezelligheid? Dan is De Utrechtse Meezingerij precies wat je zoekt! Dit initiatief van Charles Chamboné brengt mensen samen om vol enthousiasme Nederlandstalige liedjes te zingen – van klassiekers tot verborgen pareltjes. Iedereen is welkom, ongeacht leeftijd of zangervaring.…",
           "url": "https://www.podiuminfo.nl/concert/463083/Utrechtse-Meezingerij/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "452378",
+          "title": "dEUS",
+          "start": "2026-07-11T18:00:00+02:00",
+          "end": "2026-07-11T19:00:00.000Z",
+          "location": "Slot Zeist, Zinzendorflaan 1, Zeist",
+          "description": "Van 8 tot en met 11 juli 2026 presenteert TivoliVredenburg in samenwerking met Friendly Fire een gloednieuwe jaarlijkse concertreeks genaamd Slot Zeist Live. Vier concerten met staanplaatsen in de tuin van een van de meest iconische kastelen van Nederland: Slot Zeist. De shows bieden plaats aan…",
+          "url": "https://www.podiuminfo.nl/concert/452378/dEUS/Slot-Zeist/",
           "tags": []
         }
       ]
@@ -2038,18 +2058,6 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-22740",
-          "title": "Commander Tuesday",
-          "start": "2026-06-30T18:00:00+02:00",
-          "end": "2026-06-30T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8216;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-232/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
           "id": "lab-monkey-22738",
           "title": "Weekly Draft",
           "start": "2026-07-02T19:00:00+02:00",
@@ -2132,8 +2140,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -2334,48 +2341,6 @@
           ]
         },
         {
-          "id": "beton-salsa-nights-elke-woensdag-42",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-07-01T00:00:00+02:00",
-          "end": "2026-07-01T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-42/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-canal-do-samba-2",
-          "title": "Canal Do Samba",
-          "start": "2026-07-01T00:00:00+02:00",
-          "end": "2026-07-01T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/canal-do-samba-2/",
-          "tags": [
-            "Dans",
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-workshop-leren-tas-met-bladmotief-de-creatiehallen",
-          "title": "Workshop Leren tas met bladmotief – De Creatiehallen",
-          "start": "2026-07-01T00:00:00+02:00",
-          "end": "2026-07-01T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/workshop-leren-tas-met-bladmotief-de-creatiehallen/",
-          "tags": [
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-lees-dit-boekenclub",
           "title": "LAN-tine",
           "start": "2026-07-02T00:00:00+02:00",
@@ -2415,6 +2380,75 @@
             "Sport",
             "Terras"
           ]
+        },
+        {
+          "id": "beton-gentle-yoga",
+          "title": "Gentle Yoga",
+          "start": "2026-07-05T00:00:00+02:00",
+          "end": "2026-07-05T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/gentle-yoga/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-6",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-07-06T00:00:00+02:00",
+          "end": "2026-07-06T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-6/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-29",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-07-06T00:00:00+02:00",
+          "end": "2026-07-06T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-29/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-11",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-07-06T00:00:00+02:00",
+          "end": "2026-07-06T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-11/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-28",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-07-06T00:00:00+02:00",
+          "end": "2026-07-06T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-28/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
         }
       ]
     },
@@ -2426,6 +2460,36 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261008-john-coffey-punk-rock",
+          "title": "John Coffey (Punk / Rock)",
+          "start": "2026-10-08T00:00:00+01:00",
+          "end": "2026-10-08T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 8th. EKKO x ACU Band Night. UTRECHT’S VERY OWN HIGH ENERGY ROCK WITH A PUNK MENTALITY John Coffey is one of the most explosive bands The Netherlands have ever spawned. Using punk and rock-‘n-roll as a container for all their energy, David Achter de Molen and his band mates have built a…",
+          "url": "https://acu.nl/events/20261008/john-coffey-punk-rock",
+          "tags": []
+        },
+        {
+          "id": "acu-20261118-lezard-post-punk-disco",
+          "title": "Lézard (Post-Punk / Disco)",
+          "start": "2026-11-18T00:00:00+01:00",
+          "end": "2026-11-18T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 18th. EKKO x ACU Band Night. DISCOPUNK THAT FALLS BETWEEN CHAOS AND THEATRE Lézard balances on the cutting edge of comedy and tragedy with an explosive mix of post-punk, disco, glam rock, new wave, and electroclash. Their debut album ‘Que Se Passe t-il’ feels like a chaotic diorama in…",
+          "url": "https://acu.nl/events/20261118/lezard-post-punk-disco",
+          "tags": []
+        },
+        {
+          "id": "acu-20260911-francis-of-delirium-indie-rock",
+          "title": "Francis of Delirium (Indie Rock)",
+          "start": "2026-09-11T00:00:00+02:00",
+          "end": "2026-09-11T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 11th. EKKO in ACU Band Night. ROUSING INDIE ROCK WITH A GRITTY EDGE FROM LUXEMBOURG Francis of Delirium is the project of Jana Bahrich, the Luxembourg-based indie rock artist who is rapidly making a name for herself. With a sound that blends grunge, folk, and power pop, she writes…",
+          "url": "https://acu.nl/events/20260911/francis-of-delirium-indie-rock",
+          "tags": []
+        },
         {
           "id": "acu-20260903-wyatt-e-transcendental-doom",
           "title": "WYATT E. (transcendental doom)",
@@ -2484,16 +2548,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "July 18th. with Ed. AlTErnate comedy (acu for short) at aCU! A new format of open mic. In the first half, comedians get to try out material second half – comedians are subjected to… Hosted and produced by Ed For more Ed visit: www.eds.cool",
           "url": "https://acu.nl/events/20260718/alternate-comedy-utrecht-3",
-          "tags": []
-        },
-        {
-          "id": "acu-20260703-acubunker-fundraiser-for-vondelbunker",
-          "title": "ACUBUNKER – Fundraiser for Vondelbunker",
-          "start": "2026-07-03T00:00:00+02:00",
-          "end": "2026-07-03T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 3rd. Live bands, DJs AND MOORE. The Vondelbunker needs help! One of our sibling venues in Amsterdam has been hosting the greatest shows that the Vondelpark has ever seen, but without help they can not keep going. ACU and Vondelbunker have put our hands together for a fundraiser. All proceeds…",
-          "url": "https://acu.nl/events/20260703/acubunker-fundraiser-for-vondelbunker",
           "tags": []
         }
       ]
@@ -2705,6 +2759,19 @@
             "Bounce",
             "Hard house",
             "House"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001496-1786838340-1786860000",
+          "title": "BASIS/ gioray [live]/ Identified Patient/ Schacke",
+          "start": "2026-08-15T23:59:00+02:00",
+          "end": "2026-08-16T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-gioray-live-identified-patient-schacke/",
+          "tags": [
+            "Experimental",
+            "Leftfield techno"
           ]
         },
         {
@@ -3740,6 +3807,16 @@
           "tags": []
         },
         {
+          "id": "77221",
+          "title": "Home Alone in Concert",
+          "start": "2026-12-07T20:00:00.000Z",
+          "end": "2026-12-07T23:00:00.000Z",
+          "location": "Nijmegen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77221",
+          "description": "John Williams - Home Alone<BR><BR>Home Alone in Concert brings the ultimate Christmas classic back to the big screen with live orchestra and choir<BR><BR>This Christmas, Cinema in Concert brings one of the most beloved Christmas films of all time back to the stage: Home Alone in Concert. During this",
+          "tags": []
+        },
+        {
           "id": "74526",
           "title": "Feliz Navidad",
           "start": "2026-12-12T20:00:00.000Z",
@@ -3837,6 +3914,16 @@
           "location": "Haarlem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76740",
           "description": "The James Whale Orchestra (JWO) makes film screenings special by adding live music, with both their own compositions and well-known soundtracks. They are known for their immersive concerts that transform films into a unique total experience. <BR><BR>The orchestra presents two types of programs: mode",
+          "tags": []
+        },
+        {
+          "id": "77219",
+          "title": "Home Alone in Concert",
+          "start": "2026-12-19T20:00:00.000Z",
+          "end": "2026-12-19T23:00:00.000Z",
+          "location": "Rotterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77219",
+          "description": "John Williams - Home Alone<BR><BR>Home Alone in Concert brings the ultimate Christmas classic back to the big screen with live orchestra and choir<BR><BR>This Christmas, Cinema in Concert brings one of the most beloved Christmas films of all time back to the stage: Home Alone in Concert. During this",
           "tags": []
         },
         {
@@ -4136,7 +4223,7 @@
           "end": "2027-03-05T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74222",
-          "description": "Who says film music, says John Williams. He provided the soundtrack for more than a hundred films and received 27 Grammys and five Oscars for it. He wrote many iconic themes – think of the Harry Potter series, Home Alone , E.T. or Star Wars . The Radio Philharmonic Orchestra and the Netherland",
+          "description": "Who says film music, says John Williams. He wrote music for more than a hundred films in almost every genre imaginable. The Radio Philharmonic Orchestra and the Netherlands Radio Choir are taking a look at the soundtrack collection of the great film composer under the direction of his good friend an",
           "tags": []
         },
         {
@@ -4146,7 +4233,7 @@
           "end": "2027-03-07T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74778",
-          "description": "Radio Philharmonic Orchestra<BR>Great Broadcasting Choir<BR>St&eacute;phane Den&egrave;ve, conductor<BR><BR>Shortly after his 95th birthday, we pay tribute to the film music of John Williams. From Star Wars to ET : this morning, with orchestra and choir, Williams takes centre stage. The French condu",
+          "description": "Radio Philharmonic Orchestra<BR>Great Broadcasting Choir<BR>St&eacute;phane Den&egrave;ve, conductor<BR><BR>Just after his 95th birthday, we pay tribute to the film music of John Williams. From Star Wars to E.T. : this morning with orchestra and choir Williams is central. The French conductor St&eac",
           "tags": []
         },
         {
@@ -5020,13 +5107,13 @@
           "tags": []
         },
         {
-          "id": "loevestein-deltaconcert-2026-07",
-          "title": "Deltaconcert met Nymphéas Trombone Quartet en Sterre Konijn",
+          "id": "loevestein-rondleiding-2026-07",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Deltaconcert met Nymphéas Trombone Quartet en Sterre Konijn",
           "start": "2026-07-09T10:00:00+02:00",
           "end": "2026-07-09T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/deltaconcert/",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
@@ -5157,6 +5244,36 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/maand-van-de-geschiedenis/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-struintocht-munnikenland-2026-12",
+          "title": "Struintochten &#8211; Meerdere data in 2026",
+          "start": "2026-12-26T10:00:00+01:00",
+          "end": "2026-12-26T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/struintocht-munnikenland/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2027-01",
+          "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
+          "start": "2027-01-03T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-oorlogsrecht-handboekbinden-2027-01",
+          "title": "OORLOGSRECHT Handboekbinden. Te zien t/m",
+          "start": "2027-01-03T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-handboekbinden/",
           "tags": []
         }
       ]
@@ -5481,6 +5598,17 @@
       "scene": "buhurt",
       "feedUrl": "https://www.buhurtinternational.com/tournaments",
       "events": [
+        {
+          "id": "bi-1.-eisencup-2026",
+          "title": "1. Eisencup 2026",
+          "start": "2026-09-26T00:00:00+02:00",
+          "end": "2026-09-26T23:00:00+02:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/1.-eisencup-2026",
+          "tags": []
+        },
         {
           "id": "bi-v.-veszprém-medieval-day",
           "title": "V. Veszprém Medieval Day",

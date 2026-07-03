@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T06:21:08.067Z",
+  "updatedAt": "2026-07-03T08:13:31.150Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -51,11 +51,11 @@
         },
         {
           "id": "10001074",
-          "title": "Amber & Stephen from BLACK MOUNTAIN (CAN)",
+          "title": "Amber & Stephen from BLACK MOUNTAIN (CAN) + Coaster",
           "start": "2026-07-07T20:00:00+02:00",
           "end": "2026-07-07T23:00:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Je weet dat die ad hoc bevestigingen vaak de mooiste shows opleveren. Samen met TivoliVredenburg presenteren we precies zo’n show als Amber Webber en Stephen McBean naar dB’s komen onder hun alias 𝗧𝗪𝗜𝗡 𝗢𝗦𝗖𝗜𝗟𝗟𝗔𝗧𝗜𝗢𝗡𝗦. Deze twee kernleden van het Canadese pychedelische rockgezelschap…",
+          "description": "Je weet dat die ad hoc bevestigingen vaak de mooiste shows opleveren. Samen met TivoliVredenburg presenteren we precies zo’n show als Amber Webber en Stephen McBean naar dB’s komen onder hun alias 𝗧𝗪𝗜𝗡 𝗢𝗦𝗖𝗜𝗟𝗟𝗔𝗧𝗜𝗢𝗡𝗦. Deze twee kernleden van het Canadese psychedelische rockgezelschap…",
           "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-amber-stephen-from-black-mountain-can/",
           "tags": [
             "Psychedelic"
@@ -421,6 +421,16 @@
           "tags": []
         },
         {
+          "id": "29987",
+          "title": "Synthese x BUI",
+          "start": "2026-07-03T17:00:00+02:00",
+          "end": "2026-07-03T22:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Synthese is een muzikale ontdekkingsreis langs de verhalen en klanken van erfgoed op onconventionele locaties in Utrecht. De forten in de Utrechtse wijk Lunetten hebben al veel verschillende functies gehad. Eerst waren ze onderdeel van de Hollandse verdedigingslinie, daarna deed een van de forten…",
+          "url": "https://ekko.nl/event/synthese-x-bui/",
+          "tags": []
+        },
+        {
           "id": "30112",
           "title": "1002",
           "start": "2026-07-18T23:30:00+02:00",
@@ -488,16 +498,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Madra Salach draagt de Ierse folktraditie stevig in het hart, maar laat die nooit de overhand nemen. Het zestal uit Dublin is voortgekomen uit de indiescene van de Northside, waar de bandleden elkaar vonden tijdens spontane sessies in Dublinse kroegen. Vanuit een gedeelde liefde voor oude ballades…",
           "url": "https://ekko.nl/event/madra-salach/",
-          "tags": []
-        },
-        {
-          "id": "29987",
-          "title": "Synthese x BUI",
-          "start": "2026-07-03T17:00:00+02:00",
-          "end": "2026-07-03T22:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Synthese is een muzikale ontdekkingsreis langs de verhalen en klanken van erfgoed op onconventionele locaties in Utrecht. De forten in de Utrechtse wijk Lunetten hebben al veel verschillende functies gehad. Eerst waren ze onderdeel van de Hollandse verdedigingslinie, daarna deed een van de forten…",
-          "url": "https://ekko.nl/event/synthese-x-bui/",
           "tags": []
         },
         {
@@ -1601,16 +1601,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "454779",
-          "title": "Candy Dulfer - The Purple Jam",
-          "start": "2026-07-02T20:00:00+02:00",
-          "end": "2026-07-02T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Candy Dulfer presenteert 'The Purple Jam', een speciale muzikale ode aan Prince ter gelegenheid van zijn tiende sterfdag. Op het podium wordt Candy Dulfer vergezeld door enkele muzikanten die nauw met Prince samenwerkten: trombonist Greg Boyer, drummer Kirk Johnson en zangeres Shelby J. Samen…",
-          "url": "https://www.podiuminfo.nl/concert/454779/Candy-Dulfer-The-Purple-Jam/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "482691",
           "title": "Salsa on Friday",
           "start": "2026-07-03T20:15:00+02:00",
@@ -1839,6 +1829,16 @@
           "description": "Van 8 tot en met 11 juli 2026 presenteert TivoliVredenburg in samenwerking met Friendly Fire een gloednieuwe jaarlijkse concertreeks genaamd Slot Zeist Live. Vier concerten met staanplaatsen in de tuin van een van de meest iconische kastelen van Nederland: Slot Zeist. De shows bieden plaats aan…",
           "url": "https://www.podiuminfo.nl/concert/452378/dEUS/Slot-Zeist/",
           "tags": []
+        },
+        {
+          "id": "460277",
+          "title": "Koor Kwaya - EXTASE",
+          "start": "2026-07-11T20:00:00+02:00",
+          "end": "2026-07-11T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Koor Kwaya presenteert 'EXTASE', een beleving waarbij muziek je volledig overspoelt. Dit energieke Utrechtse koor, bestaande uit meer dan 50 jonge, enthousiaste leden, staat al ruim tien jaar bekend om hun afwisselende repertoire van wereldmuziek tot de nieuwste pophits. Kwaya neemt het publiek mee…",
+          "url": "https://www.podiuminfo.nl/concert/460277/Koor-Kwaya-EXTASE/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1867,6 +1867,16 @@
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 8/7 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-4 Written by Wizards RPG Team Explore subterranean labyrinths! Plunder hoards of…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0fcc470d-6172-4440-b6e2-4e4033d865a4",
+          "tags": []
+        },
+        {
+          "id": "601549",
+          "title": "DDHC-WBW The Wild Beyond the Witchlight",
+          "start": "2026-07-08T19:00:00+02:00",
+          "end": "2026-07-08T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "DDHC-WBW The Wild Beyond the Witchlight Wed 8/7 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign (WBW) Character levels 1-8 Written by Wizards of the Coast Once every eight years, the fantastic Witchlight…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/8bf0c2dd-e201-473c-be79-016dc9f936d7",
           "tags": []
         },
         {
@@ -1900,12 +1910,22 @@
           "tags": []
         },
         {
+          "id": "600404",
+          "title": "Moonlight on Roseville Beach [beginner friendly]",
+          "start": "2026-07-15T19:00:00+02:00",
+          "end": "2026-07-15T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Moonlight on Roseville Beach [beginner friendly] Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Richard Ruane Queer pulp meets cosmic horror! It's 1979, and you're spending the summer working in Roseville Beach, the queerest little town on Rose Island. You might…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/56217859-7c2c-4f2a-9abb-d3ba4a13f206",
+          "tags": []
+        },
+        {
           "id": "599629",
-          "title": "PF2: Treasure off the Coast and Fishing in Anthusis [Beginner-friendly]",
+          "title": "PF2: Treasure off the Coast and Fishing in Anthusis [Beginner-friendly, Beach]",
           "start": "2026-07-15T19:00:00+02:00",
           "end": "2026-07-15T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "PF2: Treasure off the Coast and Fishing in Anthusis [Beginner-friendly] Wed 15/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Brent Bowser A former slave seeks to reclaim a life’s…",
+          "description": "PF2: Treasure off the Coast and Fishing in Anthusis [Beginner-friendly, Beach] Wed 15/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Brent Bowser A former slave seeks to reclaim a…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/935fff91-b588-4a14-bcfe-4bb0cdef08a9",
           "tags": []
         },
@@ -1917,6 +1937,26 @@
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Golven in Oevervoorde Wed 15/7 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/840bfe3b-d43c-4a2f-b583-dceada30f7cb",
+          "tags": []
+        },
+        {
+          "id": "601535",
+          "title": "Wanderhome - the beach episode (beginner friendly!)",
+          "start": "2026-07-15T19:00:00+02:00",
+          "end": "2026-07-15T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - the beach episode (beginner friendly!) Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a2a4080b-f552-4cea-9626-b14e0fcdb55b",
+          "tags": []
+        },
+        {
+          "id": "601540",
+          "title": "Wanderhome - What Washes Ashore",
+          "start": "2026-07-15T19:00:00+02:00",
+          "end": "2026-07-15T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - What Washes Ashore Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/f5dd387d-7043-4c60-936a-29d288795485",
           "tags": []
         },
         {
@@ -1969,18 +2009,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-22738",
-          "title": "Weekly Draft",
-          "start": "2026-07-02T19:00:00+02:00",
-          "end": "2026-07-02T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-118/",
-          "tags": [
-            "Draft"
-          ]
-        },
         {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
@@ -2264,21 +2292,6 @@
           ]
         },
         {
-          "id": "beton-de-rollerdisco-3",
-          "title": "De Rollerdisco",
-          "start": "2026-07-03T00:00:00+02:00",
-          "end": "2026-07-03T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/de-rollerdisco-3/",
-          "tags": [
-            "Muziek",
-            "Skaten",
-            "Sport",
-            "Workshop"
-          ]
-        },
-        {
           "id": "beton-beton-tv",
           "title": "Beton-TV: WK voetbal (M)",
           "start": "2026-07-04T00:00:00+02:00",
@@ -2373,6 +2386,47 @@
             "Fashion",
             "Workshop",
             "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-43",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-07-08T00:00:00+02:00",
+          "end": "2026-07-08T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-43/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-workshop-leren-tas-met-bladmotief-de-creatiehallen-2",
+          "title": "Workshop Leren tas met bladmotief – De Creatiehallen",
+          "start": "2026-07-08T00:00:00+02:00",
+          "end": "2026-07-08T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/workshop-leren-tas-met-bladmotief-de-creatiehallen-2/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-dineren-op-beton-4",
+          "title": "Dineren op Beton gehost door Peckish",
+          "start": "2026-07-09T00:00:00+02:00",
+          "end": "2026-07-09T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/dineren-op-beton-4/",
+          "tags": [
+            "Eten / Drinken",
+            "Muziek",
+            "Terras"
           ]
         }
       ]
@@ -2793,6 +2847,19 @@
             "Hypnotic Techno",
             "Underground techno"
           ]
+        },
+        {
+          "id": "basis-utrecht-10001497-1790467140-1790488800",
+          "title": "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ Newtone/ Roos Reijmers",
+          "start": "2026-09-26T23:59:00+02:00",
+          "end": "2026-09-27T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-brent-honey-fka-m4a-jay-jackson-newtone-roos-reijmers/",
+          "tags": [
+            "Hard house",
+            "House"
+          ]
         }
       ]
     },
@@ -2904,16 +2971,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "74795",
-          "title": "The most beautiful film music in Concert",
-          "start": "2026-07-02T20:00:00.000Z",
-          "end": "2026-07-02T23:00:00.000Z",
-          "location": "Eindhoven, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74795",
-          "description": "Maestro Jules Orchestra<BR>Jules van Hessen - conductor<BR>Laetitia Gerards - soprano<BR>Winner of the Maestro Jules Prize Princess Christina Competition<BR><BR>How do composers and directors subtly steer our emotions? Which musical choices make a scene unforgettable, moving, or breathtakingly suspe",
-          "tags": []
-        },
         {
           "id": "73331",
           "title": "Vriendenloterij ZomerConcerten: E.T. The Extra-Terrestrial In Concert",
@@ -4474,8 +4531,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T08:05:54.994Z",
+  "updatedAt": "2026-07-06T09:03:24.287Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001014",
-          "title": "* Sold out* JON SPENCER + SOLEX",
-          "start": "2026-07-05T20:00:00+02:00",
-          "end": "2026-07-05T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "rauw, urgent en onweerstaanbaar. Kom het zelf ervaren als je het niet gelooft. \nWe hebben een bijzondere opener want Elisabeth Esselink aka SOLEX maakt een comeback. Solex maakte furore met haar mix van low key techno en geluidscollages en werd vrijwel meteen opgepikt door het roemruchte Matador…",
-          "url": "https://dbstudio.nl/event/jon-spencer/",
-          "tags": [
-            "Garage",
-            "Rock"
-          ]
-        },
         {
           "id": "10001074",
           "title": "Amber & Stephen from BLACK MOUNTAIN (CAN) + Coaster",
@@ -397,6 +384,20 @@
           "tags": [
             "dB's Buiten",
             "dB's Buiten Festival"
+          ]
+        },
+        {
+          "id": "10001075",
+          "title": "Snook Bookings presents Funebrarum (USA) + Morbific (FI)",
+          "start": "2026-09-07T19:30:00+02:00",
+          "end": "2026-09-07T22:30:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "7 September… Save the date! Een van de bruutste underground death metal packages van het jaar komt naar Utrecht!\nFunebrarum (USA/New Jersey) is na jaren afwezigheid terug op Europese bodem met hun langverwachte (7 jaar) nieuwe album, ‘Beckoning the Void of Eternal Silence’, 29 mei uitgebracht bij…",
+          "url": "https://dbstudio.nl/event/snook-bookings-presents-funebrarum-usa-morbific-fr/",
+          "tags": [
+            "Concert",
+            "Death Metal",
+            "Metal"
           ]
         }
       ]
@@ -1580,26 +1581,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "462611",
-          "title": "Busty and The Bass",
-          "start": "2026-07-05T20:15:00+02:00",
-          "end": "2026-07-05T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Busty and the Bass uit Montreal navigeert vrijelijk tussen jazz, alternatieve R&B, funk en dance. Dit collectief, opgericht in 2011 aan het lokale conservatorium, heeft inmiddels drie albums uitgebracht. In 2024 werden ze genomineerd voor een JUNO Award, de Canadese evenknie van de Grammy’s. Hun…",
-          "url": "https://www.podiuminfo.nl/concert/462611/Busty-and-The-Bass/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "462845",
-          "title": "Los Mirlos",
-          "start": "2026-07-05T20:30:00+02:00",
-          "end": "2026-07-05T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Peruaanse band Los Mirlos is een pionier van de psychedelische cumbia, het genre waarin traditionele Latijns-Amerikaanse ritmes worden vermengd met elektrische gitaren, echo-effecten en surfrock. Los Mirlos bestaat al sinds 1973 en heeft veel bezettingswisselingen gekend, maar aan het hoofd…",
-          "url": "https://www.podiuminfo.nl/concert/462845/Los-Mirlos/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "462548",
           "title": "Action Bronson",
           "start": "2026-07-06T20:00:00+02:00",
@@ -1808,6 +1789,36 @@
           "description": "Wat is er nu sterker dan de band van vier hyper muzikale broers? Niet veel, bewijzen de broers Regi (gitaar), Roy (drums), Joseph (keyboards) en Victor (bas) op het podium. Laatstgenoemde werd door Rolling Stone Magazine uitgeroepen tot een van de beste bassisten ooit. En samen zijn The Wooten…",
           "url": "https://www.podiuminfo.nl/concert/452070/Wooten-Brothers/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "483024",
+          "title": "Siberian Oxygen",
+          "start": "2026-07-18T13:30:00+02:00",
+          "end": "2026-07-18T14:30:00.000Z",
+          "location": "Pieterskerk, Pieterskerkhof 3, Utrecht",
+          "description": "Dit gratis concert is onderdeel van de serie Kerken Luisteren, georganiseerd door ZIMIHC en Kerken Kijken Utrecht. De serie omvat 24 middagconcerten in 7 kerken in de Utrechtse binnenstad, plaatsvindend van 26 juni tot en met 3 september. Het programma biedt diverse muziekstijlen, waaronder jazz,…",
+          "url": "https://www.podiuminfo.nl/concert/483024/Siberian-Oxygen/Pieterskerk/",
+          "tags": []
+        },
+        {
+          "id": "459800",
+          "title": "Emma Nissen",
+          "start": "2026-07-21T20:15:00+02:00",
+          "end": "2026-07-21T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Emma Nissen is een 25-jarige Amerikaanse zangeres die zich snel ontwikkelt binnen de jazz- en popwereld. Ze brak eind 2023 door met een virale video waarin ze haar christelijke nummer \"Breathe\" vertolkte. Haar unieke mix van jazz en gospel, door haarzelf \"Jesus and Jazz\" genoemd, leverde miljoenen…",
+          "url": "https://www.podiuminfo.nl/concert/459800/Emma-Nissen/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "477366",
+          "title": "After Sun: Hitjesgolf",
+          "start": "2026-07-24T22:00:00+02:00",
+          "end": "2026-07-24T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Zodra de zomerdag ten einde loopt, begint After Sun, de nieuwe zomernacht in de Ronda. Hier kan men de buitenwarmte verruilen voor de verkoeling van de airco en genieten van een golf van de beste muziek. De avond biedt een mix van festivalhits, zwoele R&B-tracks en de populairste hits van dit…",
+          "url": "https://www.podiuminfo.nl/concert/477366/After-Sun-Hitjesgolf/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1879,23 +1890,43 @@
           "tags": []
         },
         {
-          "id": "601654",
-          "title": "Pirate Borg - New Beginnings - Beginner Friendly RPG",
+          "id": "601858",
+          "title": "PF2 : 🛘 Somewhere Below and 🐈 cat's cradle (beginner friendly)",
           "start": "2026-07-08T19:00:00+02:00",
           "end": "2026-07-08T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Pirate Borg - New Beginnings - Beginner Friendly RPG Wed 8/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp; flintlock…",
+          "description": "PF2 : 🛘 Somewhere Below and 🐈 cat's cradle (beginner friendly) Wed 8/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Kim Frandsen While sheltering in a cave from a storm, the PCs…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/cb2e7e41-918d-4e23-af61-13ad790f30ba",
+          "tags": []
+        },
+        {
+          "id": "601654",
+          "title": "Pirate Borg - New Beginnings 🏴‍☠️ - Beginner Friendly RPG",
+          "start": "2026-07-08T19:00:00+02:00",
+          "end": "2026-07-08T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Pirate Borg - New Beginnings 🏴‍☠️ - Beginner Friendly RPG Wed 8/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp;…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/1afd867a-9a30-4410-a249-162a9035e857",
           "tags": []
         },
         {
           "id": "601640",
-          "title": "Pirate Borg - New Beginnings - Beginner Friendly RPG",
+          "title": "Pirate Borg - New Beginnings 🦜 - Beginner Friendly RPG",
           "start": "2026-07-08T19:00:00+02:00",
           "end": "2026-07-08T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Pirate Borg - New Beginnings - Beginner Friendly RPG Wed 8/7 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp;…",
+          "description": "Pirate Borg - New Beginnings 🦜 - Beginner Friendly RPG Wed 8/7 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp;…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/aa7af1f8-8724-49a0-bc62-ddedad1605e2",
+          "tags": []
+        },
+        {
+          "id": "601899",
+          "title": "Pirate Borg - New Beginnings ☠️ - Beginner Friendly RPG",
+          "start": "2026-07-08T19:00:00+02:00",
+          "end": "2026-07-08T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Pirate Borg - New Beginnings ☠️ - Beginner Friendly RPG Wed 8/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp; flintlock…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0057bf74-ec83-4546-968d-e5ab00e62bfa",
           "tags": []
         },
         {
@@ -1906,6 +1937,16 @@
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Koning van de Krotten Wed 8/7 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/54181980-1974-43ca-b58d-b005194baed0",
+          "tags": []
+        },
+        {
+          "id": "601778",
+          "title": "D&D 5.5e: Dark Matter \"Director's Beach\"",
+          "start": "2026-07-15T19:00:00+02:00",
+          "end": "2026-07-15T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5.5e: Dark Matter \"Director's Beach\" Wed 15/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/ef6e885d-752b-4dc2-bd12-169be9df73a7",
           "tags": []
         },
         {
@@ -1960,11 +2001,11 @@
         },
         {
           "id": "599629",
-          "title": "PF2: Treasure off the Coast and Fishing in Anthusis [Beginner-friendly, Beach]",
+          "title": "PF2: 🪎Treasure off the Coast and 🎣 Fishing in Anthusis [Beginner-friendly, Beach]",
           "start": "2026-07-15T19:00:00+02:00",
           "end": "2026-07-15T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "PF2: Treasure off the Coast and Fishing in Anthusis [Beginner-friendly, Beach] Wed 15/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Brent Bowser A former slave seeks to reclaim a…",
+          "description": "PF2: 🪎Treasure off the Coast and 🎣 Fishing in Anthusis [Beginner-friendly, Beach] Wed 15/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Brent Bowser A former slave seeks to…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/935fff91-b588-4a14-bcfe-4bb0cdef08a9",
           "tags": []
         },
@@ -2030,11 +2071,11 @@
         },
         {
           "id": "599630",
-          "title": "PFS2: Port Peril Pub Crawl [Beginner-friendly]",
+          "title": "PFS2: 🍻 Port Peril Pub Crawl [Beginner-friendly]",
           "start": "2026-07-29T19:00:00+02:00",
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "PFS2: Port Peril Pub Crawl [Beginner-friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by James Case Venture-Captain Calisro Benarry has arranged for the PC’s…",
+          "description": "PFS2: 🍻 Port Peril Pub Crawl [Beginner-friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by James Case Venture-Captain Calisro Benarry has arranged for the PC’s…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/09ec8453-f786-401c-94bf-2c7092978f9c",
           "tags": []
         },
@@ -2059,6 +2100,18 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
+          "id": "lab-monkey-22791",
+          "title": "Commander Tuesday",
+          "start": "2026-07-07T18:00:00+02:00",
+          "end": "2026-07-07T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8216;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-233/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
           "start": "2026-07-07T19:00:00+02:00",
@@ -2068,6 +2121,18 @@
           "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
           "tags": [
             "Ladies'(K)night"
+          ]
+        },
+        {
+          "id": "lab-monkey-22789",
+          "title": "Weekly Draft",
+          "start": "2026-07-09T19:00:00+02:00",
+          "end": "2026-07-09T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-119/",
+          "tags": [
+            "Draft"
           ]
         }
       ]
@@ -2341,75 +2406,6 @@
           ]
         },
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-6",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-07-06T00:00:00+02:00",
-          "end": "2026-07-06T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-6/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-29",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-07-06T00:00:00+02:00",
-          "end": "2026-07-06T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-29/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-11",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-07-06T00:00:00+02:00",
-          "end": "2026-07-06T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-11/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-28",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-07-06T00:00:00+02:00",
-          "end": "2026-07-06T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-28/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-7",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-07-06T00:00:00+02:00",
-          "end": "2026-07-06T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-7/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-43",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-07-08T00:00:00+02:00",
@@ -2463,6 +2459,20 @@
             "Markt",
             "Muziek",
             "Terras"
+          ]
+        },
+        {
+          "id": "beton-copy-kiem-zine-workshop",
+          "title": "Copy & Kiem (zine workshop)",
+          "start": "2026-07-12T00:00:00+02:00",
+          "end": "2026-07-12T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/copy-kiem-zine-workshop/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
           ]
         }
       ]
@@ -2575,16 +2585,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001476-1783295940-1783317600",
-          "title": "BASIS x By The Creek Afterhours // Sunday",
-          "start": "2026-07-05T23:59:00+02:00",
-          "end": "2026-07-06T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-x-by-the-creek-after-2/",
-          "tags": []
-        },
         {
           "id": "basis-utrecht-10001482-1783727940-1783749600",
           "title": "BASIS Talent Night/ Forest Fire/ Joebe/ Lenny del Skon/ NT-FRAGILE",
@@ -2972,16 +2972,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "76969",
-          "title": "Tribute to Howard Shore",
-          "start": "2026-07-05T20:00:00.000Z",
-          "end": "2026-07-05T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76969",
-          "description": "Virtuoso sounds of the La Chapelle Sauvage will take you directly to a fantasy world full of elves, hobbits and dwarves. This music that millions of people love is sure to give you goosebumps!<BR><BR>This musical journey full of enchanting melodies by world-renowned Canadian composer Howard Shore, w",
-          "tags": []
-        },
         {
           "id": "69400",
           "title": "Vriendenloterij ZomerConcerten: Movie Heroes: From Forrest Gump to Star Wars",
@@ -4672,16 +4662,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-familietheater-de-verhalen-van-koning-aap-2026",
-          "title": "Familietheater: De Verhalen van Koning Aap &#8211; 5 juli 2026",
-          "start": "2026-07-05T10:00:00+02:00",
-          "end": "2026-07-05T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/familietheater-de-verhalen-van-koning-aap/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-tuinsafari-7-juli-2026-2026",
           "title": "Tuinsafari 7 juli 2026",
           "start": "2026-07-07T10:00:00+02:00",
@@ -4692,16 +4672,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot-2026",
-          "title": "De Maaltuin: Zomerse 5-gangendiners op het Muiderslot",
-          "start": "2026-07-09T10:00:00+02:00",
-          "end": "2026-08-02T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-circus-olifant-9-juli-2026",
           "title": "Circus Olifant &#8211; 9 juli 2026",
           "start": "2026-07-09T10:00:00+02:00",
@@ -4709,6 +4679,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/circus-olifant-9-juli/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot-2026",
+          "title": "De Maaltuin: Zomerse 5-gangendiners op het Muiderslot",
+          "start": "2026-07-09T10:00:00+02:00",
+          "end": "2026-08-02T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot/",
           "tags": []
         },
         {

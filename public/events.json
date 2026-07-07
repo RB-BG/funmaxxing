@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T09:03:24.287Z",
+  "updatedAt": "2026-07-07T08:27:05.437Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1073,8 +1073,8 @@
         {
           "id": "helling-baskery-10-07-2026",
           "title": "Baskery",
-          "start": "2026-07-10T20:15:00+02:00",
-          "end": "2026-07-10T23:00:00+02:00",
+          "start": "2026-07-10T21:00:00+02:00",
+          "end": "2026-07-10T22:30:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Zweedse banjopunk-gezusters met hemelse melodieën",
           "url": "https://dehelling.nl/agenda/baskery-10-07-2026/",
@@ -1581,26 +1581,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "462548",
-          "title": "Action Bronson",
-          "start": "2026-07-06T20:00:00+02:00",
-          "end": "2026-07-06T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De New Yorkse rapper Action Bronson (echte naam: Ariyan Arslani) is waarschijnlijk de rapper met de meeste culinaire referenties in zijn teksten – hij is dan ook een voormalig chef-kok.",
-          "url": "https://www.podiuminfo.nl/concert/462548/Action-Bronson/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "463526",
-          "title": "Utrechtse Studenten Bigband",
-          "start": "2026-07-06T20:30:00+02:00",
-          "end": "2026-07-06T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Utrechtse Studenten Bigband (USBB) viert midden in een groots feestjaar hun 20-jarig jubileum in Cloud Nine. Op 6 juli presenteren zij het project 'Big Back to the Future', dat verleden, heden en toekomst combineert in een avond vol muziek, samenwerking en vernieuwing. De verbinding tussen…",
-          "url": "https://www.podiuminfo.nl/concert/463526/Utrechtse-Studenten-Bigband/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "471779",
           "title": "JENNFR",
           "start": "2026-07-07T11:00:00+02:00",
@@ -1818,6 +1798,26 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Zodra de zomerdag ten einde loopt, begint After Sun, de nieuwe zomernacht in de Ronda. Hier kan men de buitenwarmte verruilen voor de verkoeling van de airco en genieten van een golf van de beste muziek. De avond biedt een mix van festivalhits, zwoele R&B-tracks en de populairste hits van dit…",
           "url": "https://www.podiuminfo.nl/concert/477366/After-Sun-Hitjesgolf/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "468798",
+          "title": "Swinging in the Clouds: Adam Hall & The Velvet Playboys",
+          "start": "2026-07-25T19:30:00+02:00",
+          "end": "2026-07-25T20:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Adam Hall, trompettist, zanger en componist uit Perth, Australië, brengt zijn band 'The Velvet Playboys' mee voor een avond vol Jazz en Rhythm & Blues uit de jaren '40 en '50. Verwacht een meeslepend optreden vol rauwe energie en uitzonderlijk showmanschap. Voorafgaand aan het concert organiseert…",
+          "url": "https://www.podiuminfo.nl/concert/468798/Swinging-in-the-Clouds-Adam-Hall-The-Velvet-Playboys/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "456765",
+          "title": "Tarrus Riley ft Dean Fraser",
+          "start": "2026-07-25T20:30:00+02:00",
+          "end": "2026-07-25T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Jamaicaanse reggaezanger Tarrus Riley, zoon van wijlen Jimmy Riley, brengt een energieke show waarin hij klassieke rootsreggae combineert met dancehall. Riley, die al zes albums heeft uitgebracht waaronder het recente 'Healing' (2020), leerde het artiestenvak van jongs af aan. Tijdens zijn…",
+          "url": "https://www.podiuminfo.nl/concert/456765/Tarrus-Riley-ft-Dean-Fraser/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2447,6 +2447,18 @@
           ]
         },
         {
+          "id": "beton-haak-aan-haken-101-leer-de-basissteken-van-haken",
+          "title": "HAAK-AAN; haken 101 – leer de basissteken van haken",
+          "start": "2026-07-10T00:00:00+02:00",
+          "end": "2026-07-10T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/haak-aan-haken-101-leer-de-basissteken-van-haken/",
+          "tags": [
+            "Workshop"
+          ]
+        },
+        {
           "id": "beton-beton-nuit-tweedekansmarkt-by-night-3",
           "title": "Beton Nuit- tweedekansmarkt by night",
           "start": "2026-07-10T00:00:00+02:00",
@@ -2460,20 +2472,6 @@
             "Muziek",
             "Terras"
           ]
-        },
-        {
-          "id": "beton-copy-kiem-zine-workshop",
-          "title": "Copy & Kiem (zine workshop)",
-          "start": "2026-07-12T00:00:00+02:00",
-          "end": "2026-07-12T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/copy-kiem-zine-workshop/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
         }
       ]
     },
@@ -2485,6 +2483,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260725-shoegaze-against-abuse",
+          "title": "SHOEGAZE AGAINST ABUSE",
+          "start": "2026-07-25T00:00:00+02:00",
+          "end": "2026-07-25T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "July 25th. Fundraiser for Centrum Seksueel Geweld with Food, Panels + Shoegaze bands Crashing & Fernweh. SHOEGAZE AGAINST ABUSE Crashing and Rampoline Productions are proud to host ‘Shoegaze Against Abuse’, a fundraiser for Centrum Seksueel Geweld Speaking up against abuse both within and outside…",
+          "url": "https://acu.nl/events/20260725/shoegaze-against-abuse",
+          "tags": []
+        },
         {
           "id": "acu-20261008-john-coffey-punk-rock",
           "title": "John Coffey (Punk / Rock)",
@@ -2563,16 +2571,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "July 15th. Theme: Literature . Every month an activist pub quiz in ACU! July’s Pub Quiz theme is Literature – think books, manga, periodicals, fanfic, all that lovely stuff! It’s kind of like a summer reading club, you know? How does it work? Bring your friends, form a team, and win a prize! Date...",
           "url": "https://acu.nl/events/20260715/acu-pq-july2026",
-          "tags": []
-        },
-        {
-          "id": "acu-20260718-alternate-comedy-utrecht-3",
-          "title": "Alternate Comedy Utrecht",
-          "start": "2026-07-18T00:00:00+02:00",
-          "end": "2026-07-18T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 18th. with Ed. AlTErnate comedy (acu for short) at aCU! A new format of open mic. In the first half, comedians get to try out material second half – comedians are subjected to… Hosted and produced by Ed For more Ed visit: www.eds.cool",
-          "url": "https://acu.nl/events/20260718/alternate-comedy-utrecht-3",
           "tags": []
         }
       ]
@@ -4685,7 +4683,7 @@
           "id": "muiderslot-de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot-2026",
           "title": "De Maaltuin: Zomerse 5-gangendiners op het Muiderslot",
           "start": "2026-07-09T10:00:00+02:00",
-          "end": "2026-08-02T18:00:00+02:00",
+          "end": "2026-08-09T18:00:00+02:00",
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot/",
@@ -5506,7 +5504,7 @@
         },
         {
           "id": "bi-v.-veszprém-medieval-day",
-          "title": "V. Veszprém Medieval Day",
+          "title": "V. Veszprém Medieval Day 2026",
           "start": "2026-10-10T00:00:00+01:00",
           "end": "2026-10-10T23:00:00+01:00",
           "location": "Hungary",

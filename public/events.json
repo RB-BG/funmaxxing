@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T08:27:05.437Z",
+  "updatedAt": "2026-07-08T07:32:08.301Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001074",
-          "title": "Amber & Stephen from BLACK MOUNTAIN (CAN) + Coaster",
-          "start": "2026-07-07T20:00:00+02:00",
-          "end": "2026-07-07T23:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Je weet dat die ad hoc bevestigingen vaak de mooiste shows opleveren. Samen met TivoliVredenburg presenteren we precies zo’n show als Amber Webber en Stephen McBean naar dB’s komen onder hun alias 𝗧𝗪𝗜𝗡 𝗢𝗦𝗖𝗜𝗟𝗟𝗔𝗧𝗜𝗢𝗡𝗦. Deze twee kernleden van het Canadese psychedelische rockgezelschap…",
-          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-amber-stephen-from-black-mountain-can/",
-          "tags": [
-            "Psychedelic"
-          ]
-        },
         {
           "id": "10001022",
           "title": "BOB LOG III + Van Tastik + BoterBoter",
@@ -398,6 +386,19 @@
             "Concert",
             "Death Metal",
             "Metal"
+          ]
+        },
+        {
+          "id": "10001048",
+          "title": "SIGH (JAPAN) + DEVIL MASTER (USA)",
+          "start": "2026-09-14T20:00:00+02:00",
+          "end": "2026-09-14T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "𝐓𝐢𝐜𝐤𝐞𝐭𝐬 𝐠𝐚𝐚𝐧 𝐨𝐩 𝐯𝐫𝐢𝐣𝐝𝐚𝐠 𝟖 𝐦𝐞𝐢 𝟏𝟏 𝐀𝐌  𝐢𝐧 𝐝𝐞 𝐯𝐞𝐫𝐤𝐨𝐨𝐩! \nDe experimentele black metalband 𝐒𝐈𝐆𝐇 uit Japan zag het levenslicht in april 1989 en trok daarmee meteen de aandacht van onder andere black metal legende Euronymous. Gedurende de jaren en door de vele…",
+          "url": "https://dbstudio.nl/event/sigh-japan-devil-master-usa/",
+          "tags": [
+            "Black Metal",
+            "Hardcore"
           ]
         }
       ]
@@ -1581,46 +1582,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "471779",
-          "title": "JENNFR",
-          "start": "2026-07-07T11:00:00+02:00",
-          "end": "2026-07-07T12:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Dinsdagochtend Concerten bieden wekelijks een platform voor nieuw muzikaal talent. Elk concert, met een andere invulling, is akoestisch en presenteert lokale artiesten. Het nieuwe podium in de gerenoveerde foyer, met prachtig uitzicht, creëert een intieme en informele sfeer nabij de koffiebar,…",
-          "url": "https://www.podiuminfo.nl/concert/471779/JENNFR/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "477158",
-          "title": "Amber Webber and Stephen McBean - Black Mountain",
-          "start": "2026-07-07T20:00:00+02:00",
-          "end": "2026-07-07T21:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Op dinsdag 7 juli 2026 presenteren TivoliVredenburg en dB's een intieme show met Amber Webber en Stephen McBean in dB's, Utrecht. Deze twee prominente leden van de Canadese psychedelische rockformatie Black Mountain treden op onder hun alias Twin Oscillations. Het duo zal de rijke muzikale…",
-          "url": "https://www.podiuminfo.nl/concert/477158/Amber-Webber-and-Stephen-McBean-Black-Mountain/dBs/",
-          "tags": []
-        },
-        {
-          "id": "449095",
-          "title": "José James",
-          "start": "2026-07-07T20:15:00+02:00",
-          "end": "2026-07-07T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Presents the 50th Anniversary of Marvin Gaye’s ‘I Want you’  Featuring China Moses - De Amerikaanse jazz- en soulzanger José James brengt een ode aan het legendarische album I Want You van Marvin Gaye, dat (niet toevallig) in 2026 vijftig jaar bestaat. I Want You is een sensuele klassieker die vele…",
-          "url": "https://www.podiuminfo.nl/concert/449095/Jose-James/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "458785",
-          "title": "Emily Nenni",
-          "start": "2026-07-07T20:30:00+02:00",
-          "end": "2026-07-07T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse countryzangeres Emily Nenni brengt, ondanks haar jonge leeftijd, het klassieke honky-tonkgeluid levend. Met reeds drie albums op haar naam, brak ze door met 'On The Ranch' (2022), waarin ze bewijst dat oude muziek kan samengaan met een moderne levenshouding. Haar vierde album,…",
-          "url": "https://www.podiuminfo.nl/concert/458785/Emily-Nenni/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "451318",
           "title": "Slot Zeist Live: Katie Melua",
           "start": "2026-07-08T18:00:00+02:00",
@@ -1819,6 +1780,46 @@
           "description": "De Jamaicaanse reggaezanger Tarrus Riley, zoon van wijlen Jimmy Riley, brengt een energieke show waarin hij klassieke rootsreggae combineert met dancehall. Riley, die al zes albums heeft uitgebracht waaronder het recente 'Healing' (2020), leerde het artiestenvak van jongs af aan. Tijdens zijn…",
           "url": "https://www.podiuminfo.nl/concert/456765/Tarrus-Riley-ft-Dean-Fraser/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "483329",
+          "title": "Pop-O-Matic",
+          "start": "2026-07-25T23:30:00+02:00",
+          "end": "2026-07-26T00:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Pop-O-Matic transformeert Pandora tot de meest veelzijdige dansvloer van UUU. DJ St. Paul en VJ Switchdoctor combineren diverse stijlen, tijden en subculturen tot een unieke mix. Het muzikale aanbod is altijd actueel en trendsettend, maar de toegangsdrempel blijft laagdrempelig. Bezoekers kunnen…",
+          "url": "https://www.podiuminfo.nl/concert/483329/Pop-O-Matic/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "460246",
+          "title": "DZ Deathrays",
+          "start": "2026-07-26T20:00:00+02:00",
+          "end": "2026-07-26T21:00:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "De Australische band DZ Deathrays mengt garagerock, punk en dansbare beats tot een explosieve cocktail. In hun thuisland zijn deze trashy rockers razend populair – zo werden ze in 2018 uitverkoren door Foo Fighters als support van hun Australische stadiontour. Hoewel DZ Deathrays er een stevig…",
+          "url": "https://www.podiuminfo.nl/concert/460246/DZ-Deathrays/dBs/",
+          "tags": []
+        },
+        {
+          "id": "482694",
+          "title": "YIP in de Lutherse Kerk",
+          "start": "2026-07-31T13:30:00+02:00",
+          "end": "2026-07-31T14:30:00.000Z",
+          "location": "Lutherse Kerk, Hamburgerstraat 9, Utrecht",
+          "description": "Ervaar een intieme performance van YIP, een Utrechtse indiefolk artiest, in de Lutherse Kerk. YIP combineert folky gitaarklanken met dromerige zang en experimentele vocale uitstappen, en laat zich leiden door de muziek om verhalen over maatschappelijke thema’s te vertellen. Dit gratis concert is…",
+          "url": "https://www.podiuminfo.nl/concert/482694/YIP-in-de-Lutherse-Kerk/Lutherse-Kerk/",
+          "tags": []
+        },
+        {
+          "id": "454769",
+          "title": "Kim Dracula",
+          "start": "2026-07-31T19:00:00+02:00",
+          "end": "2026-07-31T20:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Australische alternative trap metal-artiest - De Australische zanger/rapper/producer Kim Dracula combineert metalcore, trap, industrial, bossanova en opera met een gezonde dosis drama. Alle ticketkopers hebben een e-mail met meer informatie ontvangen.",
+          "url": "https://www.podiuminfo.nl/concert/454769/Kim-Dracula/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1887,16 +1888,6 @@
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Heart - The City Beneath Wed 8/7 7-10pm at Subcultures @De Bierkantine English, Heart: The City Beneath RPG Heart: The City Beneath is a tabletop roleplaying game about delving into a nightmare undercity that will give you everything you've ever dreamed of or kill you in the process. It is a…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a10860e9-d75c-4280-9b64-f87f8b43c472",
-          "tags": []
-        },
-        {
-          "id": "601858",
-          "title": "PF2 : 🛘 Somewhere Below and 🐈 cat's cradle (beginner friendly)",
-          "start": "2026-07-08T19:00:00+02:00",
-          "end": "2026-07-08T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "PF2 : 🛘 Somewhere Below and 🐈 cat's cradle (beginner friendly) Wed 8/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Kim Frandsen While sheltering in a cave from a storm, the PCs…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/cb2e7e41-918d-4e23-af61-13ad790f30ba",
           "tags": []
         },
         {
@@ -2020,16 +2011,6 @@
           "tags": []
         },
         {
-          "id": "601540",
-          "title": "Wanderhome - What Washes Ashore",
-          "start": "2026-07-15T19:00:00+02:00",
-          "end": "2026-07-15T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - What Washes Ashore Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/f5dd387d-7043-4c60-936a-29d288795485",
-          "tags": []
-        },
-        {
           "id": "601535",
           "title": "Wanderhome - the beach episode (beginner friendly!)",
           "start": "2026-07-15T19:00:00+02:00",
@@ -2037,6 +2018,16 @@
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Wanderhome - the beach episode (beginner friendly!) Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a2a4080b-f552-4cea-9626-b14e0fcdb55b",
+          "tags": []
+        },
+        {
+          "id": "601540",
+          "title": "Wanderhome - What Washes Ashore",
+          "start": "2026-07-15T19:00:00+02:00",
+          "end": "2026-07-15T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - What Washes Ashore Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/f5dd387d-7043-4c60-936a-29d288795485",
           "tags": []
         },
         {
@@ -2099,30 +2090,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-22791",
-          "title": "Commander Tuesday",
-          "start": "2026-07-07T18:00:00+02:00",
-          "end": "2026-07-07T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8216;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-233/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
-          "id": "lab-monkey-11402",
-          "title": "Ladies Knight",
-          "start": "2026-07-07T19:00:00+02:00",
-          "end": "2026-07-07T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "Zin om Magic te spelen met andere vrouwen? Voelt het weleens intimiderend om de enige meid te zijn aan tafel? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het je graag. &nbsp; Op 7…",
-          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
-          "tags": [
-            "Ladies'(K)night"
-          ]
-        },
         {
           "id": "lab-monkey-22789",
           "title": "Weekly Draft",
@@ -2406,33 +2373,6 @@
           ]
         },
         {
-          "id": "beton-salsa-nights-elke-woensdag-43",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-07-08T00:00:00+02:00",
-          "end": "2026-07-08T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-43/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-workshop-leren-tas-met-bladmotief-de-creatiehallen-2",
-          "title": "Workshop Leren tas met bladmotief – De Creatiehallen",
-          "start": "2026-07-08T00:00:00+02:00",
-          "end": "2026-07-08T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/workshop-leren-tas-met-bladmotief-de-creatiehallen-2/",
-          "tags": [
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-dineren-op-beton-4",
           "title": "Dineren op Beton gehost door Peckish",
           "start": "2026-07-09T00:00:00+02:00",
@@ -2448,7 +2388,7 @@
         },
         {
           "id": "beton-haak-aan-haken-101-leer-de-basissteken-van-haken",
-          "title": "HAAK-AAN; haken 101 – leer de basissteken van haken",
+          "title": "Tijdens Beton Nuit: HAAK-AAN; haken 101 – leer de basissteken van haken",
           "start": "2026-07-10T00:00:00+02:00",
           "end": "2026-07-10T00:00:00+02:00",
           "location": "Beton-T, Atoomweg 100, Utrecht",
@@ -2471,6 +2411,74 @@
             "Markt",
             "Muziek",
             "Terras"
+          ]
+        },
+        {
+          "id": "beton-copy-kiem-zine-workshop",
+          "title": "Copy & Kiem (zine workshop)",
+          "start": "2026-07-12T00:00:00+02:00",
+          "end": "2026-07-12T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/copy-kiem-zine-workshop/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-make-mini-golf-great-again",
+          "title": "Make Minigolf Great Again",
+          "start": "2026-07-12T00:00:00+02:00",
+          "end": "2026-07-12T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/make-mini-golf-great-again/",
+          "tags": [
+            "Kunst",
+            "Sport"
+          ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-8",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-07-13T00:00:00+02:00",
+          "end": "2026-07-13T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-8/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-30",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-07-13T00:00:00+02:00",
+          "end": "2026-07-13T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-30/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-12",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-07-13T00:00:00+02:00",
+          "end": "2026-07-13T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-12/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
           ]
         }
       ]
@@ -4535,9 +4543,9 @@
           "title": "Drowning arrow",
           "start": "2026-09-11T12:00:00+02:00",
           "end": "2026-09-13T23:00:00+02:00",
-          "location": "Nederland",
-          "description": "A weekend of archery, though there will be plenty on space for fighting and A&S. There will be camping space, as well as regular dorms. More info to follow.",
-          "url": "https://polderslot.info/agenda/#/polderslot/11-sept-2026/drowning-arrow",
+          "location": "Rotterdam, Scoutcentrum Rotterdam,   ‘s-Gravenweg 101,   2902 LE Capelle aan den IJssel",
+          "description": "A weekend of archery, though there will be plenty on space for fighting and A&S. There will be camping space, as well as regular dorms.",
+          "url": "http://drowning-arrow.polderslot.info/",
           "tags": []
         },
         {
@@ -4660,16 +4668,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-tuinsafari-7-juli-2026-2026",
-          "title": "Tuinsafari 7 juli 2026",
-          "start": "2026-07-07T10:00:00+02:00",
-          "end": "2026-07-07T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/tuinsafari-7-juli-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-circus-olifant-9-juli-2026",
           "title": "Circus Olifant &#8211; 9 juli 2026",
           "start": "2026-07-09T10:00:00+02:00",
@@ -4710,16 +4708,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-proefjeslab-met-de-waterprofessor-17-juli-2026-2026",
-          "title": "Proefjeslab met de Waterprofessor &#8211; 17 juli 2026",
-          "start": "2026-07-17T10:00:00+02:00",
-          "end": "2026-07-17T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/proefjeslab-met-de-waterprofessor-17-juli-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-meespeeltheater-17-juli-2026-2026",
           "title": "Meespeeltheater &#8211; 17 juli 2026",
           "start": "2026-07-17T10:00:00+02:00",
@@ -4727,6 +4715,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/meespeeltheater-17-juli-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-proefjeslab-met-de-waterprofessor-17-juli-2026-2026",
+          "title": "Proefjeslab met de Waterprofessor &#8211; 17 juli 2026",
+          "start": "2026-07-17T10:00:00+02:00",
+          "end": "2026-07-17T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/proefjeslab-met-de-waterprofessor-17-juli-2026/",
           "tags": []
         },
         {

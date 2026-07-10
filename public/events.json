@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T08:32:37.678Z",
+  "updatedAt": "2026-07-10T08:27:03.606Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,26 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001022",
-          "title": "BOB LOG III + Van Tastik + BoterBoter",
-          "start": "2026-07-09T20:00:00+02:00",
-          "end": "2026-07-09T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Er is maar een Bob Log III, de ultieme One Man Band! \nMet zijn helm op en gekleed in een gouden jumpsuit breng Bob Log supersnelle blues licks terwijl hij zijn kickdrum en click track bedient. Het is luid, vreemd en opwindend hoe extatisch het allemaal klinkt. Zijn gitaar lijkt geglazuurd met een…",
-          "url": "https://dbstudio.nl/event/bob-log-iii/",
-          "tags": [
-            "Blues",
-            "Concert",
-            "Electronics",
-            "Entertainment",
-            "Exotica",
-            "Garage",
-            "One Man Band",
-            "Performance Art",
-            "Rock 'n Roll"
-          ]
-        },
         {
           "id": "10001092",
           "title": "Expect Kaos, Create Kaos, it's Karaoke innit!",
@@ -400,6 +380,24 @@
             "Black Metal",
             "Hardcore"
           ]
+        },
+        {
+          "id": "10001078",
+          "title": "Chordifest",
+          "start": "2026-09-16T13:45:00+02:00",
+          "end": "2026-09-16T22:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Kom partycrashen op een soort van personeelsfeest van Chordify, het Utrecht/Groningse muziekbedrijf waarvan de website en de app wereldwijd miljoenen muzikanten helpt meespelen met hun favoriete nummers. \nChordify werd opgericht door muzikanten, en dus is het niet zo vreemd dat een groot deel van…",
+          "url": "https://dbstudio.nl/event/chordifest/",
+          "tags": [
+            "Alternative",
+            "Concert",
+            "Jazz",
+            "Metal",
+            "Pop",
+            "Rock",
+            "Synthpop"
+          ]
         }
       ]
     },
@@ -411,6 +409,86 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30445",
+          "title": "PERRX",
+          "start": "2026-08-15T23:30:00+02:00",
+          "end": "2026-08-16T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Ola bbs, nos extrañaron 👄? PERRX’s latinx-queer party is TERUG in EKKO voor hun 3rd CUMPEAÑO ANNIVERSARY 🎂. Tonight the DJs will make your ass smile with cumbia, baile funk y muchísimo ppppeeerrrrreeeooo; genres die nog te weinig centraal staan in queer nightlife in Nederland. PERRX omarmt…",
+          "url": "https://ekko.nl/event/perrx-8/",
+          "tags": []
+        },
+        {
+          "id": "30490",
+          "title": "Housewarming",
+          "start": "2026-08-29T23:30:00+02:00",
+          "end": "2026-08-30T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Stap binnen bij Housewarming, de nacht waar de dansvloer voelt als thuiskomen. Waar house de fundering is, de muren zijn beklad met disco en funk de ruimte vult. Samen bouwen we aan een (t)huis waar het grote licht uit staat, de stoelen en banken aan de kant zijn geschoven en je de videobanden niet…",
+          "url": "https://ekko.nl/event/housewarming-6/",
+          "tags": []
+        },
+        {
+          "id": "30339",
+          "title": "Baila Baixa",
+          "start": "2026-08-08T23:30:00+02:00",
+          "end": "2026-08-09T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Van de straten van Brazilië naar EKKO: Baila Baixa is een clubnacht waar baile funk centraal staat en invloeden uit de underground elektronische scene ontmoet, van UK sounds tot jersey club en house. Verwacht een mix van baile funk classics, de heetste releases die iedereen kent en frisse…",
+          "url": "https://ekko.nl/event/baila-baixa/",
+          "tags": []
+        },
+        {
+          "id": "29883",
+          "title": "Just Mustard",
+          "start": "2026-08-09T20:00:00+02:00",
+          "end": "2026-08-09T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het Ierse vijftal Just Mustard laat noise rock, postpunk en shoegaze samensmelten tot iets volkomen eigens met donkere industriële texturen en dromerige soundscapes. De band zet hypnotische vocals in het middelpunt en rekt gitaren graag tot ver voorbij herkenbaarheid op. Op hun recentste album ‘WE…",
+          "url": "https://ekko.nl/event/just-mustard-1/",
+          "tags": []
+        },
+        {
+          "id": "30412",
+          "title": "Musical Rave",
+          "start": "2026-08-22T22:30:00+02:00",
+          "end": "2026-08-23T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De start van het theaterseizoen vieren we niet in rode pluche stoelen, maar op de dansvloer. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg:…",
+          "url": "https://ekko.nl/event/musicalrave/",
+          "tags": []
+        },
+        {
+          "id": "29531",
+          "title": "Carson McHone",
+          "start": "2026-08-30T20:30:00+02:00",
+          "end": "2026-08-30T23:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Carson McHone is een singer-songwriter en beeldend kunstenaar uit Austin, Texas, die inmiddels haar thuis heeft gevonden in het Canadese Ontario. Haar muziek beweegt zich op het snijvlak van gitaarrock, pastorale folk en poëzie, en put uit uiteenlopende bronnen als veldopnames, haar herinneringen…",
+          "url": "https://ekko.nl/event/carson-mchone/",
+          "tags": []
+        },
+        {
+          "id": "30063",
+          "title": "Diep In De Groef",
+          "start": "2026-08-14T23:30:00+02:00",
+          "end": "2026-08-15T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-219/",
+          "tags": []
+        },
+        {
+          "id": "30037",
+          "title": "Diep In De Groef",
+          "start": "2026-07-17T23:30:00+02:00",
+          "end": "2026-07-18T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-216/",
+          "tags": []
+        },
         {
           "id": "30080",
           "title": "Diep In De Groef",
@@ -462,16 +540,6 @@
           "tags": []
         },
         {
-          "id": "29883",
-          "title": "Just Mustard",
-          "start": "2026-08-09T20:00:00+02:00",
-          "end": "2026-08-09T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het Ierse vijftal Just Mustard laat noise rock, postpunk en shoegaze samensmelten tot iets volkomen eigens met donkere industriële texturen en dromerige soundscapes. De band zet hypnotische vocals in het middelpunt en rekt gitaren graag tot ver voorbij herkenbaarheid op. Op hun recentste album ‘WE…",
-          "url": "https://ekko.nl/event/just-mustard-1/",
-          "tags": []
-        },
-        {
           "id": "30056",
           "title": "Vrienden van EKKO Live",
           "start": "2026-10-03T20:00:00+01:00",
@@ -499,26 +567,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Het Londense viertal Dry Cleaning maakt postpunk die als iets volkomen eigens klinkt. Met bulderende baspartijen, onstuimig gitaarwerk en Florence Shaw’s deadpan-gesproken teksten springt de band er in de grote postpunk-hausse van de afgelopen jaren met kop en schouders bovenuit. Shaw, een beeldend…",
           "url": "https://ekko.nl/event/dry-cleaning-1/",
-          "tags": []
-        },
-        {
-          "id": "30452",
-          "title": "Omroep EKKO: Asya Mrz",
-          "start": "2026-07-09T18:00:00+02:00",
-          "end": "2026-07-09T19:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Onder de noemer Omroep EKKO nemen wij eens per maand de digitale radiogolven van Stranded FM over voor een uur gevuld met door ons geselecteerd talent. Zo komen in dit plezante uurtje radio opkomende dj’s uit onze dj-course voorbij, of hoor je een uur gewijd aan een van onze clubavonden of…",
-          "url": "https://ekko.nl/event/omroep-ekko-asya-mrz/",
-          "tags": []
-        },
-        {
-          "id": "30412",
-          "title": "Musical Rave",
-          "start": "2026-08-22T22:30:00+02:00",
-          "end": "2026-08-23T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De start van het theaterseizoen vieren we niet in rode pluche stoelen, maar op de dansvloer. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg:…",
-          "url": "https://ekko.nl/event/musicalrave/",
           "tags": []
         },
         {
@@ -702,26 +750,6 @@
           "tags": []
         },
         {
-          "id": "30037",
-          "title": "Diep In De Groef",
-          "start": "2026-07-17T23:30:00+02:00",
-          "end": "2026-07-18T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-216/",
-          "tags": []
-        },
-        {
-          "id": "30063",
-          "title": "Diep In De Groef",
-          "start": "2026-08-14T23:30:00+02:00",
-          "end": "2026-08-15T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-219/",
-          "tags": []
-        },
-        {
           "id": "29905",
           "title": "Static Dress",
           "start": "2026-10-24T19:30:00+01:00",
@@ -859,16 +887,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "The Guest List is een aanstormende band uit Manchester, bestaande uit vijf schoolvrienden die elkaar vonden in een gedeelde liefde voor The Strokes. Met hun indierocknummers bouwden ze in korte tijd een fervent publiek op, aangedreven door het emotionele en maatschappelijk bewuste schrijven van…",
           "url": "https://ekko.nl/event/the-guest-list/",
-          "tags": []
-        },
-        {
-          "id": "29531",
-          "title": "Carson McHone",
-          "start": "2026-08-30T20:30:00+02:00",
-          "end": "2026-08-30T23:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Carson McHone is een singer-songwriter en beeldend kunstenaar uit Austin, Texas, die inmiddels haar thuis heeft gevonden in het Canadese Ontario. Haar muziek beweegt zich op het snijvlak van gitaarrock, pastorale folk en poëzie, en put uit uiteenlopende bronnen als veldopnames, haar herinneringen…",
-          "url": "https://ekko.nl/event/carson-mchone/",
           "tags": []
         },
         {
@@ -1602,26 +1620,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "483015",
-          "title": "MoYa in de Pieterskerk",
-          "start": "2026-07-09T13:30:00+02:00",
-          "end": "2026-07-09T14:30:00.000Z",
-          "location": "Pieterskerk, Pieterskerkhof 3, Utrecht",
-          "description": "Geniet van een gratis concert van Moya, een Utrechtse zanggroep met invloeden uit Alkmaar en Barcelona, in de Pieterskerk. Het optreden is onderdeel van de ‘Kerken Luisteren’ serie, georganiseerd door ZIMIHC en Kerken Kijken Utrecht. Moya brengt muziek die hen ontroert en blij maakt, variërend van…",
-          "url": "https://www.podiuminfo.nl/concert/483015/MoYa-in-de-Pieterskerk/Pieterskerk/",
-          "tags": []
-        },
-        {
-          "id": "452326",
-          "title": "Angus & Julia Stone",
-          "start": "2026-07-09T18:00:00+02:00",
-          "end": "2026-07-09T19:00:00.000Z",
-          "location": "Slot Zeist, Zinzendorflaan 1, Zeist",
-          "description": "De muziek van Angus & Julia Stone lijkt op een eigen dromerige golflengte te zweven. Misschien komt dat effect voort uit de raadselachtige band tussen broer en zus, die ze delen door hun gezamenlijke geschiedenis of misschien is het iets diepers, iets in hun DNA dat zo vaak naar voren komt in de…",
-          "url": "https://www.podiuminfo.nl/concert/452326/Angus-Julia-Stone/Slot-Zeist/",
-          "tags": []
-        },
-        {
           "id": "452330",
           "title": "Tamino",
           "start": "2026-07-10T18:00:00+02:00",
@@ -1840,6 +1838,26 @@
           "description": "Fiesta Macumba trapt op 19 juni officieel af in TivoliVredenburg en viert de zomer met een reeks Latin-feesten. Het belooft een nacht te worden vol dans, gezelligheid en de lekkerste Música Latina. De sfeer wordt compleet gemaakt door de tropische klanken en zomerse vibes die het publiek omringen.…",
           "url": "https://www.podiuminfo.nl/concert/474221/Fiesta-Macumba/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "462867",
+          "title": "200 Stab Wounds",
+          "start": "2026-08-01T20:00:00+02:00",
+          "end": "2026-08-01T21:00:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Brute, maar groovende deathmetal: 200 Stab Wounds komt het betere sloopwerk verrichten in dB's. Messcherpe riffs, loeizware grooves en rauwe, compromisloze energie maken de Amerikaanse formatie uit Cleveland, Ohio de nieuwe sensatie aan het front van de hedendaagse deathmetal. Albums Slave to the…",
+          "url": "https://www.podiuminfo.nl/concert/462867/200-Stab-Wounds/dBs/",
+          "tags": []
+        },
+        {
+          "id": "477367",
+          "title": "After Sun: Midnight Melodies",
+          "start": "2026-08-01T22:00:00+02:00",
+          "end": "2026-08-01T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "After Sun: Midnight Melodies is een zomernacht in de Ronda, waar de warmte van buiten plaatsmaakt voor de verkoeling van airco en een golf van de beste muziek. De avond, die start om 22:00 uur met gratis entree tussen 22:00 en 23:00 uur, staat in het teken van uit volle borst meezingen met zoete…",
+          "url": "https://www.podiuminfo.nl/concert/477367/After-Sun-Midnight-Melodies/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1981,6 +1999,16 @@
           "tags": []
         },
         {
+          "id": "602168",
+          "title": "Pirate Borg - Beginner Friendly TTRPG🦜",
+          "start": "2026-07-22T19:00:00+02:00",
+          "end": "2026-07-22T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Pirate Borg - Beginner Friendly TTRPG🦜 Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp; flintlock won't…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/c75eea4b-70ee-4383-869d-df3872a365d7",
+          "tags": []
+        },
+        {
           "id": "599598",
           "title": "Blades in the Dark - Sandmen [Beginner-friendly]",
           "start": "2026-07-29T19:00:00+02:00",
@@ -2029,20 +2057,7 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": [
-        {
-          "id": "lab-monkey-22789",
-          "title": "Weekly Draft",
-          "start": "2026-07-09T19:00:00+02:00",
-          "end": "2026-07-09T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-119/",
-          "tags": [
-            "Draft"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "casual-carnage",
@@ -2313,33 +2328,6 @@
           ]
         },
         {
-          "id": "beton-haak-aan-haken-101-leer-de-basissteken-van-haken",
-          "title": "Tijdens Beton Nuit: HAAK-AAN; haken 101 – leer de basissteken van haken",
-          "start": "2026-07-10T00:00:00+02:00",
-          "end": "2026-07-10T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/haak-aan-haken-101-leer-de-basissteken-van-haken/",
-          "tags": [
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-beton-nuit-tweedekansmarkt-by-night-3",
-          "title": "Beton Nuit- tweedekansmarkt by night",
-          "start": "2026-07-10T00:00:00+02:00",
-          "end": "2026-07-10T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-nuit-tweedekansmarkt-by-night-3/",
-          "tags": [
-            "Gratis",
-            "Markt",
-            "Muziek",
-            "Terras"
-          ]
-        },
-        {
           "id": "beton-copy-kiem-zine-workshop",
           "title": "Copy & Kiem (zine workshop)",
           "start": "2026-07-12T00:00:00+02:00",
@@ -2406,6 +2394,34 @@
             "Workshop",
             "Vechtclub XL"
           ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-29",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-07-13T00:00:00+02:00",
+          "end": "2026-07-13T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-29/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-8",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-07-13T00:00:00+02:00",
+          "end": "2026-07-13T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-8/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
         }
       ]
     },
@@ -2418,12 +2434,22 @@
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
         {
+          "id": "acu-20260717-super-maintenance-karaoke",
+          "title": "Super [MAINTENANCE] Karaoke",
+          "start": "2026-07-17T00:00:00+02:00",
+          "end": "2026-07-17T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "July 17th. Come sing and help us pay our repair costs!. With repairs week coming later this month, YOU have the chance to help us lower our eXpEnSiVe maintenance costs by coming over to ACU to spend money on some drinks, and singing some savage tunes in our karaoke night. And if you’re inclined…",
+          "url": "https://acu.nl/events/20260717/super-maintenance-karaoke",
+          "tags": []
+        },
+        {
           "id": "acu-20260721-eperimental-noise-meetup-error-code-%e2%96%88-%e2%96%88-%e2%96%88",
           "title": "EXPERIMENTAL / NOISE MEETUP",
           "start": "2026-07-21T00:00:00+02:00",
           "end": "2026-07-21T00:00:00+02:00",
           "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 21st. YOU YES ALL OF YOU, Collettivo Tack!, Harde Tante, NishMa, Ignore all previous instructions,. ERROR CODE [█ █ █] YOU YES ALL OF YOU [DIY COLLABORATIVE NOISE] We leave one large table open, everyone is free to set up their gear* on this table from when the doors open. Forming one…",
+          "description": "July 21st. YOU YES ALL OF YOU, 0ooOo000oO0ooO0OoOO, Collettivo Tack!, Harde Tante, NishMa, Ignore all previous instructions,. ERROR CODE [█ █ █] YOU YES ALL OF YOU [DIY COLLABORATIVE NOISE] We leave one large table open, everyone is free to set up their gear* on this table from when the doors open.…",
           "url": "https://acu.nl/events/20260721/eperimental-noise-meetup-error-code-%e2%96%88-%e2%96%88-%e2%96%88",
           "tags": []
         },
@@ -2478,16 +2504,6 @@
           "tags": []
         },
         {
-          "id": "acu-20260710-heavy-jam",
-          "title": "Heavy Jam",
-          "start": "2026-07-10T00:00:00+02:00",
-          "end": "2026-07-10T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 10th. with Goodnight Mars. Leave your blues at the door, because this session is not for lightweights! 🏋️ Coming this July 10, ACU is proud to host the 2nd edition of Heavy Jam. So bring us your roughest riffs, 🎸and your grimmiest grunts, 🎤 and get ready to have a blast! Everyone is…",
-          "url": "https://acu.nl/events/20260710/heavy-jam",
-          "tags": []
-        },
-        {
           "id": "acu-20260818-eectronic-open-stage-21",
           "title": "EECtronic open stage",
           "start": "2026-08-18T00:00:00+02:00",
@@ -2495,16 +2511,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "August 18th. For all your EECtronic experiments. Buildup starts at 19:00. The bar is open at: 19:00 We start playing around 20:00 – 20:30. We do generally not use the stage. Half a circle of tables is set up on the floor. If you arrive at 19:00 you can claim a spot and have roughly...",
           "url": "https://acu.nl/events/20260818/eectronic-open-stage-21",
-          "tags": []
-        },
-        {
-          "id": "acu-20260723-nest-in-de-zeik-album-release",
-          "title": "NEST: In de Zeik EP RELEASE",
-          "start": "2026-07-23T00:00:00+02:00",
-          "end": "2026-07-23T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 23rd. SUPPORTS: WABR + THOR KISSING . Who gave these five idiots instruments to play? And why are these songs so catchy, yet so angry? NEST is a scrapbook of frustration with Dutch lyrics that’ll have you crying and music that will have you flying (over the dance floor). They take everything…",
-          "url": "https://acu.nl/events/20260723/nest-in-de-zeik-album-release",
           "tags": []
         }
       ]
@@ -4607,26 +4613,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-circus-olifant-9-juli-2026",
-          "title": "Circus Olifant &#8211; 9 juli 2026",
-          "start": "2026-07-09T10:00:00+02:00",
-          "end": "2026-07-09T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/circus-olifant-9-juli/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot-2026",
-          "title": "De Maaltuin: Zomerse 5-gangendiners op het Muiderslot",
-          "start": "2026-07-09T10:00:00+02:00",
-          "end": "2026-08-09T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/de-maaltuin-zomerse-5-gangendiners-op-het-muiderslot/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-exclusieve-opening-stenen-beer-2026",
           "title": "Exclusieve opening: Stenen Beer",
           "start": "2026-07-14T10:00:00+02:00",
@@ -4647,16 +4633,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-meespeeltheater-17-juli-2026-2026",
-          "title": "Meespeeltheater &#8211; 17 juli 2026",
-          "start": "2026-07-17T10:00:00+02:00",
-          "end": "2026-07-17T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/meespeeltheater-17-juli-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-proefjeslab-met-de-waterprofessor-17-juli-2026-2026",
           "title": "Proefjeslab met de Waterprofessor &#8211; 17 juli 2026",
           "start": "2026-07-17T10:00:00+02:00",
@@ -4664,6 +4640,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/proefjeslab-met-de-waterprofessor-17-juli-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-meespeeltheater-17-juli-2026-2026",
+          "title": "Meespeeltheater &#8211; 17 juli 2026",
+          "start": "2026-07-17T10:00:00+02:00",
+          "end": "2026-07-17T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/meespeeltheater-17-juli-2026/",
           "tags": []
         },
         {
@@ -4934,16 +4920,6 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/kasteelschutters/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-rondleiding-2026-07",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Deltaconcert met Nymphéas Trombone Quartet en Sterre Konijn",
-          "start": "2026-07-09T10:00:00+02:00",
-          "end": "2026-07-09T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
@@ -5342,20 +5318,6 @@
       "feedUrl": "https://www.worldofbuhurt.com/tournaments",
       "events": [
         {
-          "id": "wob-tournament-of-visegrad-2026",
-          "title": "Tournament of Visegrád 2026",
-          "start": "2026-07-10T00:00:00+02:00",
-          "end": "2026-07-12T23:00:00+02:00",
-          "location": "Visegrád, Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary. 10-12 July 2026.",
-          "url": "https://www.worldofbuhurt.com/tournaments/tournament-of-visegrad-2026",
-          "tags": [
-            "Melee",
-            "Duels"
-          ]
-        },
-        {
           "id": "wob-imcf-world-championship-2026",
           "title": "IMCF World Championship 2026",
           "start": "2026-07-23T00:00:00+02:00",
@@ -5409,8 +5371,7 @@
             "Melee"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "buhurt-clubnights",
@@ -5540,17 +5501,6 @@
           "tags": []
         },
         {
-          "id": "bi-tournament-of-visegrád-2026",
-          "title": "Tournament of Visegrád 2026",
-          "start": "2026-07-10T00:00:00+02:00",
-          "end": "2026-07-10T23:00:00+02:00",
-          "location": "Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary.",
-          "url": "https://www.buhurtinternational.com/tournament/tournament-of-visegrád-2026",
-          "tags": []
-        },
-        {
           "id": "bi-\"way-of-honor\"",
           "title": "Way of Honor 2026",
           "start": "2026-08-07T00:00:00+02:00",
@@ -5559,6 +5509,17 @@
           "country": "Germany",
           "description": "Buhurt-toernooi in Germany.",
           "url": "https://www.buhurtinternational.com/tournament/\"way-of-honor\"",
+          "tags": []
+        },
+        {
+          "id": "bi-severnside-clash",
+          "title": "Severnside Clash 2026",
+          "start": "2026-07-25T00:00:00+02:00",
+          "end": "2026-07-25T23:00:00+02:00",
+          "location": "United Kingdom",
+          "country": "United Kingdom",
+          "description": "Buhurt-toernooi in United Kingdom.",
+          "url": "https://www.buhurtinternational.com/tournament/severnside-clash",
           "tags": []
         }
       ]

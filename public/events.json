@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T08:27:03.606Z",
+  "updatedAt": "2026-07-11T07:14:08.449Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,16 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001092",
-          "title": "Expect Kaos, Create Kaos, it's Karaoke innit!",
-          "start": "2026-07-10T21:00:00+02:00",
-          "end": "2026-07-11T01:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Altijd al op het dB’s podium op willen treden maar je hebt geen muzikaal talent?\nOf heel veel talent maar je bent erg onzeker?\nOf talent en zeker van jezelf maar je zit niet in een band?\nGeen probleem want Kaos Karaoke has your back!\n10 juli is het podium beschikbaar om jouw zang kwaliteiten te…",
-          "url": "https://dbstudio.nl/event/expect-kaos-create-kaos-its-karaoke-innit/",
-          "tags": []
-        },
         {
           "id": "10001063",
           "title": "SOLD OUT!   PLF, Pseudo Logica Fantastica",
@@ -369,6 +359,25 @@
           ]
         },
         {
+          "id": "10001103",
+          "title": "SKAMPIDA (Colombia)",
+          "start": "2026-09-11T20:00:00+02:00",
+          "end": "2026-09-11T23:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "FIESTA maken! En dat lukt, zoals we in Utrecht zo onderhand wel weten. De band was al een aantal keer te gast in een uitverkochte ACU, buiten op het terras bij de Nijverheid en vorig jaar ook bij ons, en telkens weer onderdondert Skampida heb publiek met spetterende liveoptredens. Geen wonder dat…",
+          "url": "https://dbstudio.nl/event/skampida-colombia/",
+          "tags": [
+            "Balkan",
+            "Concert",
+            "Folk",
+            "Hiphop",
+            "Punk",
+            "Reggae",
+            "Rock",
+            "Ska"
+          ]
+        },
+        {
           "id": "10001048",
           "title": "SIGH (JAPAN) + DEVIL MASTER (USA)",
           "start": "2026-09-14T20:00:00+02:00",
@@ -507,16 +516,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
           "url": "https://ekko.nl/event/diep-in-de-groef-216-2/",
-          "tags": []
-        },
-        {
-          "id": "30019",
-          "title": "Diep In De Groef",
-          "start": "2026-07-10T23:30:00+02:00",
-          "end": "2026-07-11T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-214/",
           "tags": []
         },
         {
@@ -1100,16 +1099,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-baskery-10-07-2026",
-          "title": "Baskery",
-          "start": "2026-07-10T21:00:00+02:00",
-          "end": "2026-07-10T22:30:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Zweedse banjopunk-gezusters met hemelse melodieën",
-          "url": "https://dehelling.nl/agenda/baskery-10-07-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-the-dreadnoughts-13-08-2026",
           "title": "The Dreadnoughts",
           "start": "2026-08-13T20:45:00+02:00",
@@ -1620,36 +1609,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "452330",
-          "title": "Tamino",
-          "start": "2026-07-10T18:00:00+02:00",
-          "end": "2026-07-10T19:00:00.000Z",
-          "location": "Slot Zeist, Zinzendorflaan 1, Zeist",
-          "description": "Tamino is een Belgische singer-songwriter die eind jaren 2010 internationale bekendheid verwierf met zijn mix van donkere, stemmige indierock en klassieke Arabische melodische accenten. Hij is geboren en getogen in België en heeft Egyptische en Libanese roots. Zijn sound weerspiegelt zijn complexe…",
-          "url": "https://www.podiuminfo.nl/concert/452330/Tamino/Slot-Zeist/",
-          "tags": []
-        },
-        {
-          "id": "454777",
-          "title": "The Datsuns & more",
-          "start": "2026-07-10T19:00:00+02:00",
-          "end": "2026-07-10T20:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "met The Datsuns, Crocodiles, Daddy Long Legs & Plastic Family - Op vrijdag 10 juli presenteren we A Night of Vintage Rock-'n-Roll! Een zinderende zomeravond waarop The Datsuns, Crocodiles, Daddy Long Legs en Plastic Family onze Pandora veranderen in een kokend, snerpend, dampend rockaltaar.…",
-          "url": "https://www.podiuminfo.nl/concert/454777/The-Datsuns-more/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "479939",
-          "title": "VroegZat",
-          "start": "2026-07-10T19:00:00+02:00",
-          "end": "2026-07-10T20:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "VroegZat is een unieke clubavond die het plezier van het nachtleven naar de avond brengt, zodat bezoekers feestend de nacht in kunnen en toch op een redelijke tijd naar huis kunnen keren. Het muzikale aanbod is breed en dynamisch, variërend van disco en pop tot reggae, rock, happy en hiphop, met…",
-          "url": "https://www.podiuminfo.nl/concert/479939/VroegZat/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "463083",
           "title": "Utrechtse Meezingerij",
           "start": "2026-07-11",
@@ -1858,6 +1817,26 @@
           "description": "After Sun: Midnight Melodies is een zomernacht in de Ronda, waar de warmte van buiten plaatsmaakt voor de verkoeling van airco en een golf van de beste muziek. De avond, die start om 22:00 uur met gratis entree tussen 22:00 en 23:00 uur, staat in het teken van uit volle borst meezingen met zoete…",
           "url": "https://www.podiuminfo.nl/concert/477367/After-Sun-Midnight-Melodies/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "462844",
+          "title": "Protest The Hero",
+          "start": "2026-08-03T19:00:00+02:00",
+          "end": "2026-08-03T20:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Canadese progressieve metalband Protest The Hero brak in 2008 door met hun tweede album annex riffbombardement Fortress, volgens de OOR ‘een essentiële plaat voor iedereen die van math én maf houdt.’ Protest The Hero combineert hun technisch hoogstaande metal met al even hoogstaande ironische…",
+          "url": "https://www.podiuminfo.nl/concert/462844/Protest-The-Hero/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "454059",
+          "title": "Sacred Reich",
+          "start": "2026-08-04T20:00:00+02:00",
+          "end": "2026-08-04T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Amerikaanse thrashmetalband met zesde album Into The Abyss - De Amerikaanse thrashmetalband Sacred Reich draait al veertig jaar mee, maar denkt nog niet aan stoppen, sterker nog: met hun punkinvloeden en sociaal-politieke songteksten is Sacred Reich relevanter dan ooit. ",
+          "url": "https://www.podiuminfo.nl/concert/454059/Sacred-Reich/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1999,6 +1978,16 @@
           "tags": []
         },
         {
+          "id": "602227",
+          "title": "Hobbits - a summer's day in the Shire (beginner friendly!)",
+          "start": "2026-07-22T19:00:00+02:00",
+          "end": "2026-07-22T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Hobbits - a summer's day in the Shire (beginner friendly!) Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Character level 0 Location: Silver Heron Studios , Utrecht | Walk-in: 18:30 to 19:00 | Participation fee: €5 | No need to bring or know anything about RPGs (you can…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0419f426-ae6f-4283-af51-1a36b2f3a85a",
+          "tags": []
+        },
+        {
           "id": "602168",
           "title": "Pirate Borg - Beginner Friendly TTRPG🦜",
           "start": "2026-07-22T19:00:00+02:00",
@@ -2082,8 +2071,8 @@
         {
           "id": "casualcarnage-238",
           "title": "Casual Carnage: July 11th",
-          "start": "2026-07-11T11:15:00+02:00",
-          "end": "2026-07-11T18:15:00.000Z",
+          "start": "2027-07-11T11:15:00+02:00",
+          "end": "2027-07-11T18:15:00.000Z",
           "location": "Silver Heron Studios, Utrecht",
           "description": "",
           "url": "https://www.casualcarnage.nl/event/casual-carnage-july-11th/",
@@ -2309,25 +2298,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-beton-t-b-day-blockparty-met",
-          "title": "Beton-T B-DAY BLOCKPARTY met MULA B",
-          "start": "2026-07-11T00:00:00+02:00",
-          "end": "2026-07-11T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-t-b-day-blockparty-met/",
-          "tags": [
-            "Dans",
-            "Eten / Drinken",
-            "Festival",
-            "Live muziek",
-            "Muziek",
-            "Skaten",
-            "Terras",
-            "Verhoogd geluidslimiet"
-          ]
-        },
-        {
           "id": "beton-copy-kiem-zine-workshop",
           "title": "Copy & Kiem (zine workshop)",
           "start": "2026-07-12T00:00:00+02:00",
@@ -2422,6 +2392,16 @@
             "Workshop",
             "Vechtclub Keiland"
           ]
+        },
+        {
+          "id": "beton-besloten-evenement-11",
+          "title": "Besloten event",
+          "start": "2026-07-14T00:00:00+02:00",
+          "end": "2026-07-14T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/besloten-evenement-11/",
+          "tags": []
         }
       ]
     },
@@ -2439,7 +2419,7 @@
           "start": "2026-07-17T00:00:00+02:00",
           "end": "2026-07-17T00:00:00+02:00",
           "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 17th. Come sing and help us pay our repair costs!. With repairs week coming later this month, YOU have the chance to help us lower our eXpEnSiVe maintenance costs by coming over to ACU to spend money on some drinks, and singing some savage tunes in our karaoke night. And if you’re inclined…",
+          "description": "July 17th. Come sing and help us pay our repair bills!. With repairs week coming later this month, YOU have the chance to help us lower our eXpEnSiVe maintenance costs by coming over to ACU to spend money on some drinks, and singing some savage tunes in our karaoke night. And if you’re inclined…",
           "url": "https://acu.nl/events/20260717/super-maintenance-karaoke",
           "tags": []
         },
@@ -2523,20 +2503,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001482-1783727940-1783749600",
-          "title": "BASIS Talent Night/ Forest Fire/ Joebe/ Lenny del Skon/ NT-FRAGILE",
-          "start": "2026-07-10T23:59:00+02:00",
-          "end": "2026-07-11T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-talent-night-forest-fire-joebe-lenny-del-skon-nt-fragile/",
-          "tags": [
-            "Hard house",
-            "House",
-            "Trance"
-          ]
-        },
         {
           "id": "basis-utrecht-10001479-1783814340-1783836000",
           "title": "BASIS/ Alt8/ AMMARA/ APRD/ OLI'S",
@@ -4923,13 +4889,13 @@
           "tags": []
         },
         {
-          "id": "loevestein-middeleeuws-dag-2026-07",
-          "title": "Middeleeuwse dag",
+          "id": "loevestein-rondleiding-2026-07",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Middeleeuwse dag",
           "start": "2026-07-18T10:00:00+02:00",
           "end": "2026-07-18T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/middeleeuws-dag/",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
@@ -5092,16 +5058,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
-        {
-          "id": "brederode-valkenier-met-roofvogels-2026-07-10",
-          "title": "Valkenier met roofvogels",
-          "start": "2026-07-10T11:00:00+02:00",
-          "end": "2026-07-10T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/valkenier-10juli/",
-          "tags": []
-        },
         {
           "id": "brederode-ru-ne-bewoond-2026-07-11",
           "title": "Ruïne Bewoond",
@@ -5432,17 +5388,6 @@
           "country": "Austria",
           "description": "Buhurt-toernooi in Austria.",
           "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
-          "tags": []
-        },
-        {
-          "id": "bi-tournoi-des-bermond-2026",
-          "title": "TOURNOI DES BERMOND 2026",
-          "start": "2026-07-11T00:00:00+02:00",
-          "end": "2026-07-11T23:00:00+02:00",
-          "location": "France",
-          "country": "France",
-          "description": "Buhurt-toernooi in France.",
-          "url": "https://www.buhurtinternational.com/tournament/tournoi-des-bermond-2026",
           "tags": []
         },
         {

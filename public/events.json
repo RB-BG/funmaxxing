@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T07:14:08.449Z",
+  "updatedAt": "2026-07-12T07:31:00.759Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001063",
-          "title": "SOLD OUT!   PLF, Pseudo Logica Fantastica",
-          "start": "2026-07-11T21:00:00+02:00",
-          "end": "2026-07-12T04:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "– Wiki Bonobo \n– Bonobo Live in Tivoli \n– Bonobo Album",
-          "url": "https://dbstudio.nl/event/plf-pseudo-logica-fantastica/",
-          "tags": [
-            "Dansavond"
-          ]
-        },
         {
           "id": "10001072",
           "title": "Koor \"Geen Gehoor\" matinee",
@@ -407,6 +395,19 @@
             "Rock",
             "Synthpop"
           ]
+        },
+        {
+          "id": "10001088",
+          "title": "THE BIRD EXPERIENCE + support",
+          "start": "2026-09-18T20:00:00+02:00",
+          "end": "2026-09-18T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Mees Vullings, de charismatische frontman van Heath, is een vruchtbaar man want naast Heath startte hij ook The Bird Experience als uitlaatklep van zijn liefde voor psychedelische blues. Naast de huilende harmonica en bezwerende vocalen van Vullings zelf bestaat 𝗧𝗛𝗘 𝗕𝗜𝗥𝗗 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘…",
+          "url": "https://dbstudio.nl/event/the-bird-experience-support/",
+          "tags": [
+            "Blues",
+            "Psychedelic"
+          ]
         }
       ]
     },
@@ -576,16 +577,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "1002 is waar het verhaal verdergaat. Een nacht waarin dj’s en publiek zich gezamenlijk bewegen door genres, scenes en tempo’s, terwijl ze via geluid en live visuals nieuwe ervaringen creëren. Vijf artiesten met Turkse, Marokkaanse, Syrische en Palestijnse roots delen één hybride setup, waarin…",
           "url": "https://ekko.nl/event/1002/",
-          "tags": []
-        },
-        {
-          "id": "30118",
-          "title": "Blue Saturday",
-          "start": "2026-07-11T23:30:00+02:00",
-          "end": "2026-07-12T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Van The Cure en Siouxsie and the Banshees, tot Interpol en Lebanon Hanover: waarom hoor je hun platen niet in de club? In een landschap dat volledig in het teken staat van elektronische muziek, creëert Blue Saturday een plek voor iedereen die tot in de late uurtjes wil dansen op alternatieve rock.…",
-          "url": "https://ekko.nl/event/blue-saturday/",
           "tags": []
         },
         {
@@ -1609,56 +1600,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "463083",
-          "title": "Utrechtse Meezingerij",
-          "start": "2026-07-11",
-          "end": "2026-07-11T03:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Houd je van zingen en gezelligheid? Dan is De Utrechtse Meezingerij precies wat je zoekt! Dit initiatief van Charles Chamboné brengt mensen samen om vol enthousiasme Nederlandstalige liedjes te zingen – van klassiekers tot verborgen pareltjes. Iedereen is welkom, ongeacht leeftijd of zangervaring.…",
-          "url": "https://www.podiuminfo.nl/concert/463083/Utrechtse-Meezingerij/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "484075",
-          "title": "MAYA",
-          "start": "2026-07-11T13:30:00+02:00",
-          "end": "2026-07-11T14:30:00.000Z",
-          "location": "Sint-Gertrudiskathedraal, Willemsplantsoen 2, Utrecht",
-          "description": "Dit is een gratis concert in de serie Kerken Luisteren, georganiseerd door ZIMIHC in samenwerking met Kerken Kijken Utrecht. Van 26 juni tot en met 3 september vinden 24 middagconcerten plaats in 7 kerken in de Utrechtse binnenstad. De muziekstijlen variëren van jazz tot americana en…",
-          "url": "https://www.podiuminfo.nl/concert/484075/MAYA/Sint-Gertrudiskathedraal/",
-          "tags": []
-        },
-        {
-          "id": "452378",
-          "title": "dEUS",
-          "start": "2026-07-11T18:00:00+02:00",
-          "end": "2026-07-11T19:00:00.000Z",
-          "location": "Slot Zeist, Zinzendorflaan 1, Zeist",
-          "description": "Van 8 tot en met 11 juli 2026 presenteert TivoliVredenburg in samenwerking met Friendly Fire een gloednieuwe jaarlijkse concertreeks genaamd Slot Zeist Live. Vier concerten met staanplaatsen in de tuin van een van de meest iconische kastelen van Nederland: Slot Zeist. De shows bieden plaats aan…",
-          "url": "https://www.podiuminfo.nl/concert/452378/dEUS/Slot-Zeist/",
-          "tags": []
-        },
-        {
-          "id": "460277",
-          "title": "Koor Kwaya - EXTASE",
-          "start": "2026-07-11T20:00:00+02:00",
-          "end": "2026-07-11T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Koor Kwaya presenteert 'EXTASE', een beleving waarbij muziek je volledig overspoelt. Dit energieke Utrechtse koor, bestaande uit meer dan 50 jonge, enthousiaste leden, staat al ruim tien jaar bekend om hun afwisselende repertoire van wereldmuziek tot de nieuwste pophits. Kwaya neemt het publiek mee…",
-          "url": "https://www.podiuminfo.nl/concert/460277/Koor-Kwaya-EXTASE/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "477365",
-          "title": "After Sun: ANTHEMS",
-          "start": "2026-07-11T22:00:00+02:00",
-          "end": "2026-07-11T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Zodra de laatste zonnestralen verdwijnen en de zomerdag nagloeit, begint After Sun: ANTHEMS. Deze nieuwe zomernacht in Ronda biedt verkoeling en een golf van de beste muziek. Het programma varieert van de grootste festivalhits tot zwoele R&B-tracks en de heetste nummers van dit moment. De avond…",
-          "url": "https://www.podiuminfo.nl/concert/477365/After-Sun-ANTHEMS/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "452718",
           "title": "Christone “Kingfish” Ingram",
           "start": "2026-07-13T20:00:00+02:00",
@@ -1837,6 +1778,66 @@
           "description": "Amerikaanse thrashmetalband met zesde album Into The Abyss - De Amerikaanse thrashmetalband Sacred Reich draait al veertig jaar mee, maar denkt nog niet aan stoppen, sterker nog: met hun punkinvloeden en sociaal-politieke songteksten is Sacred Reich relevanter dan ooit. ",
           "url": "https://www.podiuminfo.nl/concert/454059/Sacred-Reich/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "449034",
+          "title": "Opeth",
+          "start": "2026-08-05T20:00:00+02:00",
+          "end": "2026-08-05T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Zweedse metalband Opeth draait al 35 jaar mee, maar vertoont nog geen spoor van metaalmoeheid. Dat komt mede doordat ze zich niet beperken tot een genre: Opeth begon als deathmetalband met prog-invloeden, maar maakte op het album Damnation (2003) een complete switch naar progrock. Dat frontman…",
+          "url": "https://www.podiuminfo.nl/concert/449034/Opeth/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "452653",
+          "title": "The Get Up Kids",
+          "start": "2026-08-06T20:00:00+02:00",
+          "end": "2026-08-06T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Amerikaanse emoband met energieke, punk gedreven sound - De Amerikaanse emoband The Get Up Kids kan hun naam inmiddels veranderen in The Get Up Adults, want de vijf mannen zijn – samen met hun fans – volwassen geworden. Dat bleek ook op hun laatste album Problems (2019), waarop de band onbeschaamd…",
+          "url": "https://www.podiuminfo.nl/concert/452653/The-Get-Up-Kids/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "477368",
+          "title": "After Sun: ANTHEMS",
+          "start": "2026-08-07T22:00:00+02:00",
+          "end": "2026-08-07T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "After Sun is een nieuwe zomernacht in Ronda van TivoliVredenburg, waar bezoekers kunnen afkoelen van de zon op de dansvloer. De avond brengt een golf van de beste muziek, variërend van festivalhits tot zwoele R&B en actuele tophits. De deuren openen om 22:00 uur. Deze editie, getiteld ANTHEMS,…",
+          "url": "https://www.podiuminfo.nl/concert/477368/After-Sun-ANTHEMS/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "483028",
+          "title": "Wildrooster in de Doopsgezinde kerk",
+          "start": "2026-08-08T13:30:00+02:00",
+          "end": "2026-08-08T14:30:00.000Z",
+          "location": "Doopsgezinde Kerk, Oudegracht 270, Utrecht",
+          "description": "Beleef een gratis concert van Wildrooster, een vijfkoppige band uit Utrecht, in de Doopsgezinde kerk. Wildrooster speelt eigen semi-akoestische nummers met invloeden van country en americana, gekenmerkt door wisselende meerstemmige zang, meerdere gitaren en warme pianoklanken. Dit optreden maakt…",
+          "url": "https://www.podiuminfo.nl/concert/483028/Wildrooster-in-de-Doopsgezinde-kerk/Doopsgezinde-Kerk/",
+          "tags": []
+        },
+        {
+          "id": "451596",
+          "title": "Less Than Jake",
+          "start": "2026-08-08T19:00:00+02:00",
+          "end": "2026-08-08T20:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse skapunkband Less Than Jake heeft ruim dertig jaar op de teller staan, maar klinkt op hun jongste ep Uncharted (2024) nog net zo energiek als altijd. Begin jaren nul brak de band door met twee ijzersterke albums op rij: Borders & Boundaries (2000) en Anthem (2003), die eerste…",
+          "url": "https://www.podiuminfo.nl/concert/451596/Less-Than-Jake/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "450956",
+          "title": "Wolfmother",
+          "start": "2026-08-08T20:00:00+02:00",
+          "end": "2026-08-08T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Australische rockband Wolfmother brak in 2005 door met hun titelloze debuutalbum waarop het drietal de klassieke hardrock uit de seventies nieuw leven inblaast – dat de stem van frontman Andrew Stockdale wel wat weg heeft van Ozzy Osbourne, helpt hierbij ook mee. Nummers als Woman en The Joker &…",
+          "url": "https://www.podiuminfo.nl/concert/450956/Wolfmother/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1938,16 +1939,6 @@
           "tags": []
         },
         {
-          "id": "601540",
-          "title": "Wanderhome - What Washes Ashore",
-          "start": "2026-07-15T19:00:00+02:00",
-          "end": "2026-07-15T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - What Washes Ashore Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/f5dd387d-7043-4c60-936a-29d288795485",
-          "tags": []
-        },
-        {
           "id": "601535",
           "title": "Wanderhome - the beach episode (beginner friendly!)",
           "start": "2026-07-15T19:00:00+02:00",
@@ -1955,6 +1946,16 @@
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Wanderhome - the beach episode (beginner friendly!) Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a2a4080b-f552-4cea-9626-b14e0fcdb55b",
+          "tags": []
+        },
+        {
+          "id": "601540",
+          "title": "Wanderhome - What Washes Ashore",
+          "start": "2026-07-15T19:00:00+02:00",
+          "end": "2026-07-15T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - What Washes Ashore Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/f5dd387d-7043-4c60-936a-29d288795485",
           "tags": []
         },
         {
@@ -2298,33 +2299,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-copy-kiem-zine-workshop",
-          "title": "Copy & Kiem (zine workshop)",
-          "start": "2026-07-12T00:00:00+02:00",
-          "end": "2026-07-12T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/copy-kiem-zine-workshop/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-make-mini-golf-great-again",
-          "title": "Make Minigolf Great Again",
-          "start": "2026-07-12T00:00:00+02:00",
-          "end": "2026-07-12T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/make-mini-golf-great-again/",
-          "tags": [
-            "Kunst",
-            "Sport"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-8",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-07-13T00:00:00+02:00",
@@ -2402,6 +2376,34 @@
           "description": "",
           "url": "https://www.vechtclub.nl/agenda/besloten-evenement-11/",
           "tags": []
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-44",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-07-15T00:00:00+02:00",
+          "end": "2026-07-15T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-44/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-lievens-bike-fietsclub-2",
+          "title": "Lievens Bike Fietsclub",
+          "start": "2026-07-16T00:00:00+02:00",
+          "end": "2026-07-16T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lievens-bike-fietsclub-2/",
+          "tags": [
+            "Gratis",
+            "Sport",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2413,6 +2415,26 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260915-punk-and-folk-cheap-dirty-horse-uk-ruen-nl-pt-moonbugs-moon",
+          "title": "Punk and Folk: Cheap Dirty Horse (UK), Ruen (NL/PT), Moonbugs (Moon)",
+          "start": "2026-09-15T00:00:00+02:00",
+          "end": "2026-09-15T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 15th. Rotten Food Booking + Tinnitus Patches Present....",
+          "url": "https://acu.nl/events/20260915/punk-and-folk-cheap-dirty-horse-uk-ruen-nl-pt-moonbugs-moon",
+          "tags": []
+        },
+        {
+          "id": "acu-20260925-feral-snackbar-designer-violence",
+          "title": "FERAL + Snackbar + Designer Violence",
+          "start": "2026-09-25T00:00:00+02:00",
+          "end": "2026-09-25T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 25th. Silent Call Collective presents. Silent Call Collective presents: FERAL FERAL is an untamed Spanish/American duo from Amsterdam featuring pounding beats and chainsaw guitar riffs that sound like the Cosmic Psychos and Atari Teenage Riot went out for a night of heavy drinking and…",
+          "url": "https://acu.nl/events/20260925/feral-snackbar-designer-violence",
+          "tags": []
+        },
         {
           "id": "acu-20260717-super-maintenance-karaoke",
           "title": "Super [MAINTENANCE] Karaoke",
@@ -2482,16 +2504,6 @@
           "description": "September 3rd. dB's in ACU presenteert. De Belgische formatie 𝗪𝗬𝗔𝗧𝗧 𝗘. presenteert Zamaru Ultu Qereb Ziqquratu Part 1, een monumentaal werk dat de luisteraar meeneemt op een instrumentale reis. De band staat bekend om hun unieke mix van zware doom en drone, verweven met hypnotiserende,…",
           "url": "https://acu.nl/events/20260903/wyatt-e-transcendental-doom",
           "tags": []
-        },
-        {
-          "id": "acu-20260818-eectronic-open-stage-21",
-          "title": "EECtronic open stage",
-          "start": "2026-08-18T00:00:00+02:00",
-          "end": "2026-08-18T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "August 18th. For all your EECtronic experiments. Buildup starts at 19:00. The bar is open at: 19:00 We start playing around 20:00 – 20:30. We do generally not use the stage. Half a circle of tables is set up on the floor. If you arrive at 19:00 you can claim a spot and have roughly...",
-          "url": "https://acu.nl/events/20260818/eectronic-open-stage-21",
-          "tags": []
         }
       ]
     },
@@ -2503,19 +2515,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001479-1783814340-1783836000",
-          "title": "BASIS/ Alt8/ AMMARA/ APRD/ OLI'S",
-          "start": "2026-07-11T23:59:00+02:00",
-          "end": "2026-07-12T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-alt8-ammara-aprd-olis/",
-          "tags": [
-            "Bounce",
-            "Hard house"
-          ]
-        },
         {
           "id": "basis-utrecht-10001483-1784332740-1784354400",
           "title": "BASIS Talent Night/ Ajonko/ FENNA/ Lunett/ Maccin",
@@ -2819,16 +2818,6 @@
       "scene": "utrecht",
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
-        {
-          "id": "ultrasonic-festival",
-          "title": "Ultrasonic Festival",
-          "start": "2026-07-11T12:00:00+00:00",
-          "end": "2026-07-11T12:00:00+00:00",
-          "location": "Maarsseveense Plassen, Utrecht",
-          "description": "Ultrasonic Festival komt weer terug op de Maarsseveense Plassen in Utrecht. Lees hier alles over de kaartverkoop & de line-up.",
-          "url": "https://festivalfans.nl/event/ultrasonic-festival/",
-          "tags": []
-        },
         {
           "id": "de-leuke-festival",
           "title": "De Leuke Festival",
@@ -5059,16 +5048,6 @@
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
         {
-          "id": "brederode-ru-ne-bewoond-2026-07-11",
-          "title": "Ruïne Bewoond",
-          "start": "2026-07-11T11:00:00+02:00",
-          "end": "2026-07-12T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/ruine-bewoond-11-12-juli/",
-          "tags": []
-        },
-        {
           "id": "brederode-valkenier-met-roofvogels-2026-07-17",
           "title": "Valkenier met roofvogels",
           "start": "2026-07-17T11:00:00+02:00",
@@ -5176,16 +5155,6 @@
           "location": "Ruïne van Brederode, Santpoort-Zuid",
           "description": "",
           "url": "https://ruinevanbrederode.nl/ruine-bewoond-beleef-de-middeleeuwen/",
-          "tags": []
-        },
-        {
-          "id": "brederode-valkenier-birdlive-2026-07-11",
-          "title": "Valkenier Birdlive",
-          "start": "2026-07-11T11:00:00+02:00",
-          "end": "2026-07-11T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/valkenier/",
           "tags": []
         },
         {
@@ -5346,6 +5315,17 @@
       "scene": "buhurt",
       "feedUrl": "https://www.buhurtinternational.com/tournaments",
       "events": [
+        {
+          "id": "bi-king-kazimierz-cup-v",
+          "title": "King Kazimierz Cup V 2026",
+          "start": "2026-09-12T00:00:00+02:00",
+          "end": "2026-09-12T23:00:00+02:00",
+          "location": "Poland",
+          "country": "Poland",
+          "description": "Buhurt-toernooi in Poland.",
+          "url": "https://www.buhurtinternational.com/tournament/king-kazimierz-cup-v",
+          "tags": []
+        },
         {
           "id": "bi-1.-eisencup-2026",
           "title": "1. Eisencup 2026",

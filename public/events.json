@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T07:31:00.759Z",
+  "updatedAt": "2026-07-13T08:19:50.011Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,16 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001072",
-          "title": "Koor \"Geen Gehoor\" matinee",
-          "start": "2026-07-12T15:00:00+02:00",
-          "end": "2026-07-12T17:30:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Onder de noemer Geen Gehoor zingen allerlei mensen in een koor. Dat doen ze omdat ze zingen zo waanzinnig leuk vinden. Niet omdat ze perse zo goed kunnen zingen. \nVorig jaar schitterde het koor in onze grote zaal. Vandaag gaan ze opnieuw het podium op. Verwacht een vrolijke middag met blij zingende…",
-          "url": "https://dbstudio.nl/event/koor-geen-gehoor-matinee/",
-          "tags": []
-        },
         {
           "id": "10001027",
           "title": "THE QUEERS + PANSY DIVISION  + The 66ers> an evening of Punk Rock Royalty",
@@ -408,6 +398,16 @@
             "Blues",
             "Psychedelic"
           ]
+        },
+        {
+          "id": "10000871",
+          "title": "DreB'S STAFF ON STAGE IV",
+          "start": "2026-09-19T19:00:00+02:00",
+          "end": "2026-09-20T04:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "WORD HARD",
+          "url": "https://dbstudio.nl/event/drebs-staff-on-stage-iv/",
+          "tags": []
         }
       ]
     },
@@ -2047,7 +2047,20 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": []
+      "events": [
+        {
+          "id": "lab-monkey-22843",
+          "title": "Commander Tuesday",
+          "start": "2026-07-14T18:00:00+02:00",
+          "end": "2026-07-14T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8216;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-234/",
+          "tags": [
+            "Commander"
+          ]
+        }
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2299,75 +2312,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-8",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-07-13T00:00:00+02:00",
-          "end": "2026-07-13T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-8/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-30",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-07-13T00:00:00+02:00",
-          "end": "2026-07-13T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-30/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-12",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-07-13T00:00:00+02:00",
-          "end": "2026-07-13T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-12/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-29",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-07-13T00:00:00+02:00",
-          "end": "2026-07-13T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-29/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-8",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-07-13T00:00:00+02:00",
-          "end": "2026-07-13T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-8/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-besloten-evenement-11",
           "title": "Besloten event",
           "start": "2026-07-14T00:00:00+02:00",
@@ -2403,6 +2347,22 @@
             "Gratis",
             "Sport",
             "Kantine"
+          ]
+        },
+        {
+          "id": "beton-het-spreekbeurten-festival",
+          "title": "Het Spreekbeurten Festival – Sterke verhalen editie",
+          "start": "2026-07-16T00:00:00+02:00",
+          "end": "2026-07-16T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/het-spreekbeurten-festival/",
+          "tags": [
+            "Eten / Drinken",
+            "Festival",
+            "Kunst",
+            "Panelgesprek",
+            "Terras"
           ]
         }
       ]
@@ -4418,7 +4378,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",

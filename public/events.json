@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T08:19:50.011Z",
+  "updatedAt": "2026-07-14T07:13:07.848Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -419,6 +419,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "29406",
+          "title": "Figgie – 10 jaar",
+          "start": "2026-07-16T20:00:00+02:00",
+          "end": "2026-07-16T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Figgie is een eigenzinnig collectief uit Utrecht dat sinds 2016 speelse indierock en poëtische verhalen samenbrengt in kleurrijke liedjes over het dagelijks leven. Met zonnige gitaarlijnen, openhartige teksten en invloeden van The War on Drugs, Eefje de Visser en Radiohead creëert de band rijke,…",
+          "url": "https://ekko.nl/event/figgie/",
+          "tags": []
+        },
         {
           "id": "30445",
           "title": "PERRX",
@@ -890,16 +900,6 @@
           "tags": []
         },
         {
-          "id": "29406",
-          "title": "Figgie – 10 jaar",
-          "start": "2026-07-16T20:00:00+02:00",
-          "end": "2026-07-16T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Figgie is een eigenzinnig collectief uit Utrecht dat sinds 2016 speelse indierock en poëtische verhalen samenbrengt in kleurrijke liedjes over het dagelijks leven. Met zonnige gitaarlijnen, openhartige teksten en invloeden van The War on Drugs, Eefje de Visser en Radiohead creëert de band rijke,…",
-          "url": "https://ekko.nl/event/figgie/",
-          "tags": []
-        },
-        {
           "id": "29436",
           "title": "Ebbb",
           "start": "2026-12-09T20:30:00+01:00",
@@ -1190,6 +1190,16 @@
           "tags": []
         },
         {
+          "id": "helling-the-kulture-of-hype-and-hope-wind-edition-12-09-2026",
+          "title": "The Kulture of Hype and Hope – Wind Edition",
+          "start": "2026-09-12T12:00:00+02:00",
+          "end": "2026-09-12T21:30:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "HipHop & Openstyle 1vs1 Battle | Powered by DOX ",
+          "url": "https://dehelling.nl/agenda/the-kulture-of-hype-and-hope-wind-edition-12-09-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-king-shilohs-skanking-sunday-13-09-2026",
           "title": "King Shiloh’s Skanking Sunday",
           "start": "2026-09-13T17:00:00+02:00",
@@ -1342,7 +1352,7 @@
         {
           "id": "helling-joy-division-undercover-24-10-2026",
           "title": "Joy Division Undercover",
-          "start": "2026-10-24T20:15:00+01:00",
+          "start": "2026-10-24T20:30:00+01:00",
           "end": "2026-10-24T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Doorgewinterde muzikanten brengen een ode aan de pioniers van de new wave",
@@ -1362,7 +1372,7 @@
         {
           "id": "helling-bartofso-31-10-2026",
           "title": "Bartofso",
-          "start": "2026-10-31T20:15:00+01:00",
+          "start": "2026-10-31T20:00:00+01:00",
           "end": "2026-10-31T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Gemaskerde rapper tilt Haagse trapsound naar een nieuw level",
@@ -1470,6 +1480,16 @@
           "tags": []
         },
         {
+          "id": "helling-tophouse-30-11-2026",
+          "title": "Tophouse",
+          "start": "2026-11-30T20:15:00+01:00",
+          "end": "2026-11-30T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Moderne troubadours steken folk en bluegrass in een poppy houthakkersjasje",
+          "url": "https://dehelling.nl/agenda/tophouse-30-11-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-voxtechnik-04-12-2026",
           "title": "VoxTechnik",
           "start": "2026-12-04T20:00:00+01:00",
@@ -1522,7 +1542,7 @@
         {
           "id": "helling-isabel-usher-19-12-2026",
           "title": "Isabèl Usher",
-          "start": "2026-12-19T20:15:00+01:00",
+          "start": "2026-12-19T20:00:00+01:00",
           "end": "2026-12-19T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Popster-in-wording met platinahit op zak",
@@ -1599,16 +1619,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "452718",
-          "title": "Christone “Kingfish” Ingram",
-          "start": "2026-07-13T20:00:00+02:00",
-          "end": "2026-07-13T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De 27-jarige Amerikaanse bluesman Christone “Kingfish” Ingram komt naar de Ronda van TivoliVredenburg. Ondanks zijn jonge leeftijd klinkt Ingram als een ervaren muzikant, wat niet verwonderlijk is gezien zijn vroege start met drums, bas en gitaar op zesjarige leeftijd. Geboren in Clarksdale,…",
-          "url": "https://www.podiuminfo.nl/concert/452718/Christone-Kingfish-Ingram/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "452070",
           "title": "Wooten Brothers",
@@ -1697,16 +1707,6 @@
           "location": "Lutherse Kerk, Hamburgerstraat 9, Utrecht",
           "description": "Ervaar een intieme performance van YIP, een Utrechtse indiefolk artiest, in de Lutherse Kerk. YIP combineert folky gitaarklanken met dromerige zang en experimentele vocale uitstappen, en laat zich leiden door de muziek om verhalen over maatschappelijke thema’s te vertellen. Dit gratis concert is…",
           "url": "https://www.podiuminfo.nl/concert/482694/YIP-in-de-Lutherse-Kerk/Lutherse-Kerk/",
-          "tags": []
-        },
-        {
-          "id": "454769",
-          "title": "Kim Dracula",
-          "start": "2026-07-31T19:00:00+02:00",
-          "end": "2026-07-31T20:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Australische alternative trap metal-artiest - De Australische zanger/rapper/producer Kim Dracula combineert metalcore, trap, industrial, bossanova en opera met een gezonde dosis drama. Alle ticketkopers hebben een e-mail met meer informatie ontvangen.",
-          "url": "https://www.podiuminfo.nl/concert/454769/Kim-Dracula/TivoliVredenburg/",
           "tags": []
         },
         {
@@ -1838,6 +1838,26 @@
           "description": "De Australische rockband Wolfmother brak in 2005 door met hun titelloze debuutalbum waarop het drietal de klassieke hardrock uit de seventies nieuw leven inblaast – dat de stem van frontman Andrew Stockdale wel wat weg heeft van Ozzy Osbourne, helpt hierbij ook mee. Nummers als Woman en The Joker &…",
           "url": "https://www.podiuminfo.nl/concert/450956/Wolfmother/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "452905",
+          "title": "Luna Kills",
+          "start": "2026-08-08T20:30:00+02:00",
+          "end": "2026-08-08T21:30:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "De Finse formatie Luna Kills combineert nu-metal met elektronica, alternative metal en een dosis energie waarmee heel Finland van warmte kan worden voorzien. Met dank aan frontvrouw Lotta, die moeiteloos switcht van een allesversplinterende fry scream naar cleane zang en haar hand ook niet omdraait…",
+          "url": "https://www.podiuminfo.nl/concert/452905/Luna-Kills/dBs/",
+          "tags": []
+        },
+        {
+          "id": "474231",
+          "title": "Gitaardisco: Wolfmoon Edition",
+          "start": "2026-08-08T22:30:00+02:00",
+          "end": "2026-08-08T23:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Tijdens Gitaardisco: Wolfmoon Edition in de Ronda draait DJ Vrijmoed de beste dansbare gitaartunes. De avond is gevuld met gitaartracks uit de popgeschiedenis, aangevuld met frisse, hedendaagse nummers. Het programma is een mix van iconische artiesten en bands zoals Iggy Pop, IDLES, Blur, Oasis,…",
+          "url": "https://www.podiuminfo.nl/concert/474231/Gitaardisco-Wolfmoon-Edition/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1939,6 +1959,16 @@
           "tags": []
         },
         {
+          "id": "601540",
+          "title": "Wanderhome - What Washes Ashore",
+          "start": "2026-07-15T19:00:00+02:00",
+          "end": "2026-07-15T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - What Washes Ashore Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/f5dd387d-7043-4c60-936a-29d288795485",
+          "tags": []
+        },
+        {
           "id": "601535",
           "title": "Wanderhome - the beach episode (beginner friendly!)",
           "start": "2026-07-15T19:00:00+02:00",
@@ -1949,13 +1979,13 @@
           "tags": []
         },
         {
-          "id": "601540",
-          "title": "Wanderhome - What Washes Ashore",
-          "start": "2026-07-15T19:00:00+02:00",
-          "end": "2026-07-15T22:00:00+02:00",
+          "id": "602425",
+          "title": "D&D 5.5e Phandelver: Thralls of Enternality",
+          "start": "2026-07-22T19:00:00+02:00",
+          "end": "2026-07-22T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - What Washes Ashore Wed 15/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/f5dd387d-7043-4c60-936a-29d288795485",
+          "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/56535c70-a772-4f45-938c-33d318f237f1",
           "tags": []
         },
         {
@@ -2312,16 +2342,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-besloten-evenement-11",
-          "title": "Besloten event",
-          "start": "2026-07-14T00:00:00+02:00",
-          "end": "2026-07-14T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/besloten-evenement-11/",
-          "tags": []
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-44",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-07-15T00:00:00+02:00",
@@ -2364,6 +2384,16 @@
             "Panelgesprek",
             "Terras"
           ]
+        },
+        {
+          "id": "beton-besloten-evenement-12",
+          "title": "Besloten event",
+          "start": "2026-07-17T00:00:00+02:00",
+          "end": "2026-07-17T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/besloten-evenement-12/",
+          "tags": []
         }
       ]
     },
@@ -3030,7 +3060,7 @@
         },
         {
           "id": "74217",
-          "title": "Rachmaninoff's Third Symphony",
+          "title": "Glass & Rachmaninoff's Third Symphony",
           "start": "2026-10-04T20:00:00.000Z",
           "end": "2026-10-04T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
@@ -3096,6 +3126,16 @@
           "location": "Den Haag (The Hague), Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74525",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>After the success of previous film concerts, The James Whale Orchestra will present a new title in the 2026/2027 season: Intouchables Live in Concert . During this special evening, the French film classic Intouchables will be screened in its entirety on a big s",
+          "tags": []
+        },
+        {
+          "id": "77457",
+          "title": "From Taco to Tango – with Bram van Sambeek",
+          "start": "2026-10-10T20:00:00.000Z",
+          "end": "2026-10-10T23:00:00.000Z",
+          "location": "Den Haag (The Hague), Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77457",
+          "description": "Ciconia takes you on a thrilling musical journey through the soul of South America. From Taco to Tango is a concert full of melancholy, rhythm and fire.<BR><BR>Master bassoonist Bram van Sambeek shines in Morricone's moving Gabriels oboe. The work is known from the film The Mission, which s",
           "tags": []
         },
         {
@@ -3186,6 +3226,26 @@
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72880",
           "description": "Carter Burwell - Twilight<BR><BR>Step into the world of Twilight (2008) like never before with Twilight in Concert, a cinematic live-to-film event that brings the beloved saga to life through live music. Featuring a breathtaking performance by a 12-piece ensemble of rock and orchestral musicians, th",
+          "tags": []
+        },
+        {
+          "id": "77458",
+          "title": "From Taco to Tango – with Maria Pedano",
+          "start": "2026-10-22T20:00:00.000Z",
+          "end": "2026-10-22T23:00:00.000Z",
+          "location": "Terneuzen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77458",
+          "description": "Ciconia takes you on a thrilling musical journey through the soul of South America. From Taco to Tango is a concert full of melancholy, rhythm and fire.<BR><BR>Soloist Maria Pedano plays a unique double role in this programme. She shines as a soprano in Piazzolla's Ave Maria and as an obois",
+          "tags": []
+        },
+        {
+          "id": "77459",
+          "title": "From Taco to Tango – with Bram van Sambeek",
+          "start": "2026-10-25T20:00:00.000Z",
+          "end": "2026-10-25T23:00:00.000Z",
+          "location": "Heerhugowaard, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77459",
+          "description": "Ciconia takes you on a thrilling musical journey through the soul of South America. From Taco to Tango is a concert full of melancholy, rhythm and fire.<BR><BR>Master bassoonist Bram van Sambeek shines in Morricone's moving Gabriels oboe. The work is known from the film The Mission, which s",
           "tags": []
         },
         {
@@ -3659,6 +3719,16 @@
           "tags": []
         },
         {
+          "id": "77460",
+          "title": "Merry Christmas – with Maria Pedano",
+          "start": "2026-12-12T20:00:00.000Z",
+          "end": "2026-12-12T23:00:00.000Z",
+          "location": "Den Haag (The Hague), Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77460",
+          "description": "Celebrate Christmas with Ciconia in Latin American atmospheres: warm, exuberant and full of joie de vivre. No winter silence, but sultry evenings, rhythm and harmony singing. Feliz Navidad will transport you to a world of sunny melodies, colorful nativity scenes and festive traditions under a southe",
+          "tags": []
+        },
+        {
           "id": "74219",
           "title": "Film concert Hitchcock ‘The Lodger’",
           "start": "2026-12-13T20:00:00.000Z",
@@ -3739,6 +3809,16 @@
           "tags": []
         },
         {
+          "id": "77461",
+          "title": "Merry Christmas – with Maria Pedano",
+          "start": "2026-12-18T20:00:00.000Z",
+          "end": "2026-12-18T23:00:00.000Z",
+          "location": "Den Haag (The Hague), Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77461",
+          "description": "Celebrate Christmas with Ciconia in Latin American atmospheres: warm, exuberant and full of joie de vivre. No winter silence, but sultry evenings, rhythm and harmony singing. Feliz Navidad will transport you to a world of sunny melodies, colorful nativity scenes and festive traditions under a southe",
+          "tags": []
+        },
+        {
           "id": "76740",
           "title": "The Snowman & Flight to the North Pole",
           "start": "2026-12-19T20:00:00.000Z",
@@ -3766,6 +3846,16 @@
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73173",
           "description": "Disney in Concert returns to the Ziggo Dome on December 20, 2026 with a brand new, enchanting show: Wonderful Worlds! Immerse yourself in the magic of Disney this Christmas holiday.<BR><BR>Disney in Concert brings the legendary Disney movies to life. All hits from the rich Disney repertoire are sung",
+          "tags": []
+        },
+        {
+          "id": "77462",
+          "title": "Merry Christmas – with Maria Pedano",
+          "start": "2026-12-20T20:00:00.000Z",
+          "end": "2026-12-20T23:00:00.000Z",
+          "location": "Muiden, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77462",
+          "description": "Celebrate Christmas with Ciconia in Latin American atmospheres: warm, exuberant and full of joie de vivre. No winter silence, but sultry evenings, rhythm and harmony singing. Feliz Navidad will transport you to a world of sunny melodies, colorful nativity scenes and festive traditions under a southe",
           "tags": []
         },
         {
@@ -4089,6 +4179,16 @@
           "tags": []
         },
         {
+          "id": "77471",
+          "title": "Tribute to Ennio Morricone - Oscar-winning music",
+          "start": "2027-03-12T20:00:00.000Z",
+          "end": "2027-03-12T23:00:00.000Z",
+          "location": "Schiedam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77471",
+          "description": "The music of 'Maestro' Ennio Morricone is iconic. With some 500 soundtracks for major feature films, including 70 award-winning films, he is one of the most influential musicians of our time. The Ensemble Le Muse brilliantly performs this musical treasure in an impressive homage to",
+          "tags": []
+        },
+        {
           "id": "74341",
           "title": "NieR:Orchestra Concert 12026 [ YoRHa ]",
           "start": "2027-03-13T20:00:00.000Z",
@@ -4378,8 +4478,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4495,7 +4594,7 @@
           "start": "2026-12-12T11:00:00+01:00",
           "end": "2026-12-13T23:00:00+01:00",
           "location": "Archeon Museumpark, Alphen aan den Rijn",
-          "description": "Waar Fantasy en Historie samenkomen 12 &amp; 13 december 2026 Midwinter Fair | 22e editie Heel museumpark Archeon staat in het teken van de 22e Midwinter Fair, het Winterse Fantasy festival van Nederland! Waan je in een magische wereld vol Heidense muziek, unieke producten op de Fantasy markt en…",
+          "description": "Waar Fantasy en Historie samenkomen 12 &amp; 13 december 2026 Midwinter Fair | 22e editie Heel museumpark Archeon staat in het teken van de 22e Midwinter Fair, hét Winterse Fantasy festival van Nederland! Waan je in een magische wereld vol Heidense muziek, unieke producten op de Fantasy markt en…",
           "url": "https://archeon.eu/midwinterfair/",
           "tags": []
         }
@@ -4769,16 +4868,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-historische-proeverij-5-sep-2026-2026",
-          "title": "Historische proeverij 5 sep 2026",
-          "start": "2026-09-05T10:00:00+02:00",
-          "end": "2026-09-05T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-5-sep-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-mindful-muiderslot-yoga-5-2026",
           "title": "Mindful Muiderslot: yoga &#8211; 5 sep 2026",
           "start": "2026-09-05T10:00:00+02:00",
@@ -4789,6 +4878,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-historische-proeverij-5-sep-2026-2026",
+          "title": "Historische proeverij 5 sep 2026",
+          "start": "2026-09-05T10:00:00+02:00",
+          "end": "2026-09-05T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-5-sep-2026/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-familietheater-hakim-op-zn-best-6-sep-2026-2026",
           "title": "Familietheater: Hakim op z&#8217;n best",
           "start": "2026-09-06T10:00:00+02:00",
@@ -4796,6 +4895,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/familietheater-hakim-op-zn-best-6-sep-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-familietheater-alleen-op-de-wereld-2026",
+          "title": "Familietheater: Alleen op de wereld",
+          "start": "2026-10-04T10:00:00+01:00",
+          "end": "2026-10-04T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/familietheater-alleen-op-de-wereld/",
           "tags": []
         },
         {
@@ -4816,6 +4925,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-4/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-familietheater-vleugels-2026",
+          "title": "Familietheater: Vleugels",
+          "start": "2026-11-01T10:00:00+01:00",
+          "end": "2026-11-01T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/familietheater-vleugels/",
           "tags": []
         }
       ]
@@ -5116,16 +5235,6 @@
           "location": "Ruïne van Brederode, Santpoort-Zuid",
           "description": "",
           "url": "https://ruinevanbrederode.nl/ruine-bewoond-beleef-de-middeleeuwen/",
-          "tags": []
-        },
-        {
-          "id": "brederode-ru-ne-bewoond-beleef-de-middeleeuwen-2026-07-13",
-          "title": "Ruïne Bewoond – Beleef de middeleeuwen",
-          "start": "2026-07-13T11:00:00+02:00",
-          "end": "2026-07-13T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/ruine-bewoond-2/",
           "tags": []
         },
         {

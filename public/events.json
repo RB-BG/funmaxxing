@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T07:13:07.848Z",
+  "updatedAt": "2026-07-15T07:18:05.464Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,22 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001027",
-          "title": "THE QUEERS + PANSY DIVISION  + The 66ers> an evening of Punk Rock Royalty",
-          "start": "2026-07-14T20:00:00+02:00",
-          "end": "2026-07-14T22:30:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Life In A Gay Rock Band uit 2008. \nFokkin’ legendarisch, beide bands. Veel zin in! \nOpener is het eveneens Amerikaanse The 66ers, garage, surf en powerpop waarin Joe Queer ook de snaren beroert. Aanvang 20 uur sharp!",
-          "url": "https://dbstudio.nl/event/the-queers-pansy-division-an-evening-of-punk-rock-royalty/",
-          "tags": [
-            "Angry",
-            "Concert",
-            "Punk",
-            "Queercore",
-            "Rock"
-          ]
-        },
         {
           "id": "10001050",
           "title": "THE SCHIZOPHONICS (USA) + Bloody Mama",
@@ -65,7 +49,7 @@
         },
         {
           "id": "10001094",
-          "title": "Terrasconcert > Catching Cultures invites",
+          "title": "Gratis terrasconcert > Catching Cultures invites",
           "start": "2026-07-19T16:00:00+02:00",
           "end": "2026-07-19T19:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
@@ -181,6 +165,16 @@
           "tags": [
             "Concert"
           ]
+        },
+        {
+          "id": "10001106",
+          "title": "Gratis Terrasconcert > HANDPICKED",
+          "start": "2026-08-16T16:00:00+02:00",
+          "end": "2026-08-16T19:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "HANDPICKED plays ACOUSTIC PEARLS from the WORLD’S SONGBOOK, from Patsy Cline to Amy Winehouse. \nOftewel, een kleine band met mooie songs van diverse pluimage, gratis op ons terras.",
+          "url": "https://dbstudio.nl/event/gratis-terrasconcert-handpicked/",
+          "tags": []
         },
         {
           "id": "10001041",
@@ -419,6 +413,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30523",
+          "title": "Club EKKO",
+          "start": "2026-09-12T23:30:00+02:00",
+          "end": "2026-09-13T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
+          "url": "https://ekko.nl/event/club-ekko-35/",
+          "tags": []
+        },
         {
           "id": "29406",
           "title": "Figgie – 10 jaar",
@@ -1097,6 +1101,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Canadese clusterfolk-legends veranderen festivalweiden in plakkerige pubs",
           "url": "https://dehelling.nl/agenda/the-dreadnoughts-13-08-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-set-the-bar-w-stupid-crew-14-08-2026",
+          "title": "Set the Bar w/ Stupid Crew",
+          "start": "2026-08-14T21:00:00+02:00",
+          "end": "2026-08-15T02:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Fresh faces and filthy basses",
+          "url": "https://dehelling.nl/agenda/set-the-bar-w-stupid-crew-14-08-2026/",
           "tags": []
         },
         {
@@ -2077,20 +2091,7 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": [
-        {
-          "id": "lab-monkey-22843",
-          "title": "Commander Tuesday",
-          "start": "2026-07-14T18:00:00+02:00",
-          "end": "2026-07-14T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8216;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-234/",
-          "tags": [
-            "Commander"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "casual-carnage",
@@ -2342,20 +2343,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-salsa-nights-elke-woensdag-44",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-07-15T00:00:00+02:00",
-          "end": "2026-07-15T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-44/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
           "id": "beton-lievens-bike-fietsclub-2",
           "title": "Lievens Bike Fietsclub",
           "start": "2026-07-16T00:00:00+02:00",
@@ -2394,6 +2381,75 @@
           "description": "",
           "url": "https://www.vechtclub.nl/agenda/besloten-evenement-12/",
           "tags": []
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-7",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-07-20T00:00:00+02:00",
+          "end": "2026-07-20T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-7/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-31",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-07-20T00:00:00+02:00",
+          "end": "2026-07-20T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-31/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-13",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-07-20T00:00:00+02:00",
+          "end": "2026-07-20T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-13/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-30",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-07-20T00:00:00+02:00",
+          "end": "2026-07-20T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-30/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-9",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-07-20T00:00:00+02:00",
+          "end": "2026-07-20T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-9/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
         }
       ]
     },
@@ -4628,16 +4684,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-exclusieve-opening-stenen-beer-2026",
-          "title": "Exclusieve opening: Stenen Beer",
-          "start": "2026-07-14T10:00:00+02:00",
-          "end": "2026-07-15T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/exclusieve-opening-stenen-beer/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-circus-olifant-16-juli-2026",
           "title": "Circus Olifant &#8211; 16 juli 2026",
           "start": "2026-07-16T10:00:00+02:00",
@@ -4918,6 +4964,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-historische-proeverij-10-okt-2026-2026",
+          "title": "Historische proeverij 10 okt 2026",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-10T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-10-okt-2026/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-prikkelarme-openstelling-4-2026",
           "title": "Prikkelarme openstelling",
           "start": "2026-10-24T10:00:00+01:00",
@@ -4928,6 +4984,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-historische-proeverij-24-okt-2026-2026",
+          "title": "Historische proeverij 24 okt 2026",
+          "start": "2026-10-24T10:00:00+01:00",
+          "end": "2026-10-24T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-24-okt-2026/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-familietheater-vleugels-2026",
           "title": "Familietheater: Vleugels",
           "start": "2026-11-01T10:00:00+01:00",
@@ -4935,6 +5001,26 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/familietheater-vleugels/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-7-nov-2026-2026",
+          "title": "Historische proeverij 7 nov 2026",
+          "start": "2026-11-07T10:00:00+01:00",
+          "end": "2026-11-07T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-7-nov-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-12-dec-2026-2026",
+          "title": "Historische proeverij 12 dec 2026",
+          "start": "2026-12-12T10:00:00+01:00",
+          "end": "2026-12-12T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-12-dec-2026/",
           "tags": []
         }
       ]
@@ -5085,6 +5171,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/maand-van-de-geschiedenis/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-riddertoernooi-2026-10",
+          "title": "Het grote riddertoernooi",
+          "start": "2026-10-17T10:00:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/riddertoernooi/",
           "tags": []
         },
         {
@@ -5430,17 +5526,6 @@
           "tags": []
         },
         {
-          "id": "bi-alpine-warrior-2027",
-          "title": "Alpine Warrior 2027",
-          "start": "2027-05-01T00:00:00+02:00",
-          "end": "2027-05-01T23:00:00+02:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
-          "tags": []
-        },
-        {
           "id": "bi-tavola-rotonda-2026",
           "title": "Tavola Rotonda 2026",
           "start": "2026-09-26T00:00:00+02:00",
@@ -5482,17 +5567,6 @@
           "country": "Ireland",
           "description": "Buhurt-toernooi in Ireland.",
           "url": "https://www.buhurtinternational.com/tournament/tournament-of-the-mace-and-shield",
-          "tags": []
-        },
-        {
-          "id": "bi-st.-georgen-cup",
-          "title": "St. Georgen Cup 2026",
-          "start": "2026-09-05T00:00:00+02:00",
-          "end": "2026-09-05T23:00:00+02:00",
-          "location": "Germany",
-          "country": "Germany",
-          "description": "Buhurt-toernooi in Germany.",
-          "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
           "tags": []
         },
         {

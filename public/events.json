@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T07:25:22.385Z",
+  "updatedAt": "2026-07-17T07:20:59.390Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001050",
-          "title": "THE SCHIZOPHONICS (USA) + Bloody Mama",
-          "start": "2026-07-16T20:00:00+02:00",
-          "end": "2026-07-16T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "dit is pure rock-’n-roll extase. \n𝗘𝗫𝗖𝗟𝗨𝗦𝗜𝗘𝗩𝗘 𝗡𝗟 𝗦𝗛𝗢𝗪 \nOpener is het piepjonge Bloody Mama, een band die hard op weg de harten van de rechtgeaarde rockliefhebber te veroveren met hun  compromisloze mix van 70s bluesy protopunk en psychedelica, verpakt in een stijl die ze zelf ‘Velvet…",
-          "url": "https://dbstudio.nl/event/the-schizophonics-usa/",
-          "tags": [
-            "Garage",
-            "Rock"
-          ]
-        },
         {
           "id": "10001065",
           "title": "The Village presents I AM THE AVALANCHE (USA) + BONY MACARONI",
@@ -365,10 +352,10 @@
         {
           "id": "10001078",
           "title": "Chordifest",
-          "start": "2026-09-16T13:45:00+02:00",
+          "start": "2026-09-16T15:30:00+02:00",
           "end": "2026-09-16T22:00:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Kom partycrashen op een soort van personeelsfeest van Chordify, het Utrecht/Groningse muziekbedrijf waarvan de website en de app wereldwijd miljoenen muzikanten helpt meespelen met hun favoriete nummers. \nChordify werd opgericht door muzikanten, en dus is het niet zo vreemd dat een groot deel van…",
+          "description": "Kruid\nJT Witte & Howart \nMoonloops\nJeez Louise\nProject Pain\nCar Pets\nBaas\nEmmie Lee\nJini",
           "url": "https://dbstudio.nl/event/chordifest/",
           "tags": [
             "Alternative",
@@ -402,6 +389,20 @@
           "description": "WORD HARD",
           "url": "https://dbstudio.nl/event/drebs-staff-on-stage-iv/",
           "tags": []
+        },
+        {
+          "id": "10001047",
+          "title": "ARANKAI (USA)",
+          "start": "2026-09-20T20:00:00+02:00",
+          "end": "2026-09-20T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Deftones, Sevendust en Korn. Nu maar hopen dat hij zijn elektrische Hello Kitty-gitaar meeneemt!",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-arankai-usa/",
+          "tags": [
+            "Electronics",
+            "Metal",
+            "Rap"
+          ]
         }
       ]
     },
@@ -414,26 +415,6 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
-          "id": "30523",
-          "title": "Club EKKO",
-          "start": "2026-09-12T23:30:00+02:00",
-          "end": "2026-09-13T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
-          "url": "https://ekko.nl/event/club-ekko-35/",
-          "tags": []
-        },
-        {
-          "id": "29406",
-          "title": "Figgie – 10 jaar",
-          "start": "2026-07-16T20:00:00+02:00",
-          "end": "2026-07-16T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Figgie is een eigenzinnig collectief uit Utrecht dat sinds 2016 speelse indierock en poëtische verhalen samenbrengt in kleurrijke liedjes over het dagelijks leven. Met zonnige gitaarlijnen, openhartige teksten en invloeden van The War on Drugs, Eefje de Visser en Radiohead creëert de band rijke,…",
-          "url": "https://ekko.nl/event/figgie/",
-          "tags": []
-        },
-        {
           "id": "30445",
           "title": "PERRX",
           "start": "2026-08-15T23:30:00+02:00",
@@ -441,6 +422,16 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Ola bbs, nos extrañaron 👄? PERRX’s latinx-queer party is TERUG in EKKO voor hun 3rd CUMPEAÑO ANNIVERSARY 🎂. Tonight the DJs will make your ass smile with cumbia, baile funk y muchísimo ppppeeerrrrreeeooo; genres die nog te weinig centraal staan in queer nightlife in Nederland. PERRX omarmt…",
           "url": "https://ekko.nl/event/perrx-8/",
+          "tags": []
+        },
+        {
+          "id": "30523",
+          "title": "Club EKKO",
+          "start": "2026-09-12T23:30:00+02:00",
+          "end": "2026-09-13T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
+          "url": "https://ekko.nl/event/club-ekko-35/",
           "tags": []
         },
         {
@@ -1644,16 +1635,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "452070",
-          "title": "Wooten Brothers",
-          "start": "2026-07-16T20:30:00+02:00",
-          "end": "2026-07-16T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Wat is er nu sterker dan de band van vier hyper muzikale broers? Niet veel, bewijzen de broers Regi (gitaar), Roy (drums), Joseph (keyboards) en Victor (bas) op het podium. Laatstgenoemde werd door Rolling Stone Magazine uitgeroepen tot een van de beste bassisten ooit. En samen zijn The Wooten…",
-          "url": "https://www.podiuminfo.nl/concert/452070/Wooten-Brothers/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "486480",
           "title": "Salsa on Friday",
           "start": "2026-07-17T20:15:00+02:00",
@@ -1882,6 +1863,16 @@
           "description": "De Amerikaanse skapunkband Less Than Jake heeft ruim dertig jaar op de teller staan, maar klinkt op hun jongste ep Uncharted (2024) nog net zo energiek als altijd. Begin jaren nul brak de band door met twee ijzersterke albums op rij: Borders & Boundaries (2000) en Anthem (2003), die eerste…",
           "url": "https://www.podiuminfo.nl/concert/451596/Less-Than-Jake/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "450956",
+          "title": "Wolfmother",
+          "start": "2026-08-08T20:00:00+02:00",
+          "end": "2026-08-08T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Australische rockband Wolfmother brak in 2005 door met hun titelloze debuutalbum waarop het drietal de klassieke hardrock uit de seventies nieuw leven inblaast – dat de stem van frontman Andrew Stockdale wel wat weg heeft van Ozzy Osbourne, helpt hierbij ook mee. Nummers als Woman en The Joker &…",
+          "url": "https://www.podiuminfo.nl/concert/450956/Wolfmother/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1903,13 +1894,13 @@
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
-          "id": "602425",
+          "id": "602808",
           "title": "D&D 5.5e Phandelver: Thralls of Enternality",
           "start": "2026-07-22T19:00:00+02:00",
           "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/56535c70-a772-4f45-938c-33d318f237f1",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/f6f19f84-4991-43dd-b49a-e5dfe0948ced",
           "tags": []
         },
         {
@@ -1943,13 +1934,33 @@
           "tags": []
         },
         {
+          "id": "602795",
+          "title": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️",
+          "start": "2026-07-22T19:00:00+02:00",
+          "end": "2026-07-22T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️ Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp;…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a2dce03b-cc6e-49b8-9102-94796369c831",
+          "tags": []
+        },
+        {
           "id": "602168",
-          "title": "Pirate Borg - Beginner Friendly TTRPG🦜",
+          "title": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables)",
           "start": "2026-07-22T19:00:00+02:00",
           "end": "2026-07-22T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Pirate Borg - Beginner Friendly TTRPG🦜 Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp; flintlock won't…",
+          "description": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables) Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/c75eea4b-70ee-4383-869d-df3872a365d7",
+          "tags": []
+        },
+        {
+          "id": "602792",
+          "title": "EIDOLON: Become Your Best Self \"Follow Your Ghost\"",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "EIDOLON: Become Your Best Self \"Follow Your Ghost\" Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Molly Rhinebeck and Luke Varner EIDOLON: Become Your Best Self is a tabletop RPG where you look deep inside yourself to find the power lying dormant within, nourish…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/438af1d1-1e81-49c7-a357-2a7bb18b203e",
           "tags": []
         },
         {
@@ -1990,6 +2001,26 @@
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Golven in Oevervoorde Wed 29/7 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0bf631d1-7e67-43fd-99e2-e826b8e0a42e",
+          "tags": []
+        },
+        {
+          "id": "602799",
+          "title": "Wanderhome - The Aristobats",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - The Aristobats Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy fields,…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/dab69a4c-d574-4da7-86ba-d8318b64939a",
+          "tags": []
+        },
+        {
+          "id": "602801",
+          "title": "Wanderhome - the grotto bookstore (beginner friendly!)",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - the grotto bookstore (beginner friendly!) Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/94b762dc-191d-4fdc-8158-c872468467fb",
           "tags": []
         }
       ]
@@ -2266,16 +2297,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-besloten-evenement-12",
-          "title": "Besloten event",
-          "start": "2026-07-17T00:00:00+02:00",
-          "end": "2026-07-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/besloten-evenement-12/",
-          "tags": []
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-7",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-07-20T00:00:00+02:00",
@@ -2386,16 +2407,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "September 25th. Silent Call Collective presents. Silent Call Collective presents: FERAL FERAL is an untamed Spanish/American duo from Amsterdam featuring pounding beats and chainsaw guitar riffs that sound like the Cosmic Psychos and Atari Teenage Riot went out for a night of heavy drinking and…",
           "url": "https://acu.nl/events/20260925/feral-snackbar-designer-violence",
-          "tags": []
-        },
-        {
-          "id": "acu-20260717-super-maintenance-karaoke",
-          "title": "Super [MAINTENANCE] Karaoke",
-          "start": "2026-07-17T00:00:00+02:00",
-          "end": "2026-07-17T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 17th. Come sing and help us pay our repair bills!. With repairs week coming later this month, YOU have the chance to help us lower our eXpEnSiVe maintenance costs by coming over to ACU to spend money on some drinks, and singing some savage tunes in our karaoke night. And if you’re inclined…",
-          "url": "https://acu.nl/events/20260717/super-maintenance-karaoke",
           "tags": []
         },
         {
@@ -2844,16 +2855,6 @@
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
         {
-          "id": "69400",
-          "title": "Vriendenloterij ZomerConcerten: Movie Heroes: From Forrest Gump to Star Wars",
-          "start": "2026-07-16T20:00:00.000Z",
-          "end": "2026-07-16T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=69400",
-          "description": "Enjoy an evening of film music from Elmer Bernstein and Ennio Morricone to James Horner and John Williams, from Mulan and Forrest Gump to Star Wars and Zorro . Marzena Diakun leads the Staatsorchester Rheinische Philharmonie in the most beautiful classic film scores. The story behind the notes is to",
-          "tags": []
-        },
-        {
           "id": "76971",
           "title": "Tribute to Howard Shore",
           "start": "2026-08-02T20:00:00.000Z",
@@ -3034,16 +3035,6 @@
           "tags": []
         },
         {
-          "id": "74217",
-          "title": "Glass & Rachmaninoff's Third Symphony",
-          "start": "2026-10-04T20:00:00.000Z",
-          "end": "2026-10-04T23:00:00.000Z",
-          "location": "Utrecht, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74217",
-          "description": "Residentie Orkest<BR>Dennis Russel Davies, conductor<BR>Maki Namekawa, piano<BR><BR>In his Third Symphony , Rachmaninov turns Romanticism inside out. Like never before, he conjures up rich timbres and orchestral harmonies. He knows how to tap into the deepest emotional layers. Rubbing his hands, the",
-          "tags": []
-        },
-        {
           "id": "73142",
           "title": "Koninklijk Concertgebouworkest - Joe Hisaishi film music (extra concert)",
           "start": "2026-10-04T20:00:00.000Z",
@@ -3051,6 +3042,16 @@
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73142",
           "description": "On Friday, October 2, 2026, composer and conductor Joe Hisaishi will lead a selection from his acclaimed film score!<BR><BR>Among them the music he made for Studio Ghibli's magical films, such as Spirited Away, Ponyo and Howl's Moving Castle by legendary filmmaker Hayao Miyazake, c",
+          "tags": []
+        },
+        {
+          "id": "74217",
+          "title": "Glass & Rachmaninoff's Third Symphony",
+          "start": "2026-10-04T20:00:00.000Z",
+          "end": "2026-10-04T23:00:00.000Z",
+          "location": "Utrecht, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74217",
+          "description": "Residentie Orkest<BR>Dennis Russel Davies, conductor<BR>Maki Namekawa, piano<BR><BR>In his Third Symphony , Rachmaninov turns Romanticism inside out. Like never before, he conjures up rich timbres and orchestral harmonies. He knows how to tap into the deepest emotional layers. Rubbing his hands, the",
           "tags": []
         },
         {
@@ -4593,16 +4594,6 @@
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
         {
-          "id": "muiderslot-circus-olifant-16-juli-2026",
-          "title": "Circus Olifant &#8211; 16 juli 2026",
-          "start": "2026-07-16T10:00:00+02:00",
-          "end": "2026-07-16T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/circus-olifant-16-juli/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-proefjeslab-met-de-waterprofessor-17-juli-2026-2026",
           "title": "Proefjeslab met de Waterprofessor &#8211; 17 juli 2026",
           "start": "2026-07-17T10:00:00+02:00",
@@ -4853,6 +4844,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-mindful-wandeling-muiderslot-2026",
+          "title": "Mindful wandeling Muiderslot",
+          "start": "2026-10-01T10:00:00+01:00",
+          "end": "2026-10-31T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-familietheater-alleen-op-de-wereld-2026",
           "title": "Familietheater: Alleen op de wereld",
           "start": "2026-10-04T10:00:00+01:00",
@@ -4883,16 +4884,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-prikkelarme-openstelling-4-2026",
-          "title": "Prikkelarme openstelling",
-          "start": "2026-10-24T10:00:00+01:00",
-          "end": "2026-10-24T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-4/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-historische-proeverij-24-okt-2026-2026",
           "title": "Historische proeverij 24 okt 2026",
           "start": "2026-10-24T10:00:00+01:00",
@@ -4900,6 +4891,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/historische-proeverij-24-okt-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-prikkelarme-openstelling-4-2026",
+          "title": "Prikkelarme openstelling",
+          "start": "2026-10-24T10:00:00+01:00",
+          "end": "2026-10-24T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-4/",
           "tags": []
         },
         {

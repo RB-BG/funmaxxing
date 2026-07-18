@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T07:20:59.390Z",
+  "updatedAt": "2026-07-18T07:02:14.481Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,21 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001065",
-          "title": "The Village presents I AM THE AVALANCHE (USA) + BONY MACARONI",
-          "start": "2026-07-17T20:00:00+02:00",
-          "end": "2026-07-17T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Bony Macaroni weet rauwe emoties te strippen met een dikke knipoog en aanstekelijke emopunk riffs.",
-          "url": "https://dbstudio.nl/event/the-village-presents-i-am-the-avalanche-usa-bony-macaroni/",
-          "tags": [
-            "Concert",
-            "Post Hardcore",
-            "Punk",
-            "Rock"
-          ]
-        },
         {
           "id": "10001083",
           "title": "STAPELGANG release + support by Orka & ini",
@@ -403,6 +388,19 @@
             "Metal",
             "Rap"
           ]
+        },
+        {
+          "id": "10001035",
+          "title": "THE FLAMIN' GROOVIES (USA)",
+          "start": "2026-09-22T20:00:00+02:00",
+          "end": "2026-09-22T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "De legendarische Amerikaanse cultband Flamin’ Groovies, die aan de wieg stond van de hedendaagse punk, garagerock en powerpop, komt dinsdag 22 september naar dB’s. \nThe Flamin’ Groovies? Nooit van gehoord? Ja dat kan, want het in 1965 (!) opgerichte 𝗙𝗟𝗔𝗠𝗜𝗡‘ 𝗚𝗥𝗢𝗢𝗩𝗜𝗘𝗦 heeft nooit de…",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-the-flamin-groovies-usa/",
+          "tags": [
+            "Garage",
+            "powerpop"
+          ]
         }
       ]
     },
@@ -492,16 +490,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
           "url": "https://ekko.nl/event/diep-in-de-groef-219/",
-          "tags": []
-        },
-        {
-          "id": "30037",
-          "title": "Diep In De Groef",
-          "start": "2026-07-17T23:30:00+02:00",
-          "end": "2026-07-18T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-216/",
           "tags": []
         },
         {
@@ -1635,16 +1623,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "486480",
-          "title": "Salsa on Friday",
-          "start": "2026-07-17T20:15:00+02:00",
-          "end": "2026-07-17T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Salsa on Friday is een wekelijkse dansavond die zowel beginners als gevorderde dansers verwelkomt in de Vrije Ruimte van TivoliVredenburg. Dj's draaien een mix van klassieke en hedendaagse salsa hits, wat zorgt voor een gastvrije sfeer waar iedereen kan dansen, leren of nieuwe contacten leggen. De…",
-          "url": "https://www.podiuminfo.nl/concert/486480/Salsa-on-Friday/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "483024",
           "title": "Siberian Oxygen",
           "start": "2026-07-18T13:30:00+02:00",
@@ -1873,6 +1851,16 @@
           "description": "De Australische rockband Wolfmother brak in 2005 door met hun titelloze debuutalbum waarop het drietal de klassieke hardrock uit de seventies nieuw leven inblaast – dat de stem van frontman Andrew Stockdale wel wat weg heeft van Ozzy Osbourne, helpt hierbij ook mee. Nummers als Woman en The Joker &…",
           "url": "https://www.podiuminfo.nl/concert/450956/Wolfmother/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "452905",
+          "title": "Luna Kills",
+          "start": "2026-08-08T20:30:00+02:00",
+          "end": "2026-08-08T21:30:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "De Finse formatie Luna Kills combineert nu-metal met elektronica, alternative metal en een dosis energie waarmee heel Finland van warmte kan worden voorzien. Met dank aan frontvrouw Lotta, die moeiteloos switcht van een allesversplinterende fry scream naar cleane zang en haar hand ook niet omdraait…",
+          "url": "https://www.podiuminfo.nl/concert/452905/Luna-Kills/dBs/",
+          "tags": []
         }
       ]
     },
@@ -2055,6 +2043,42 @@
       "scene": "games",
       "feedUrl": "https://www.casualcarnage.nl/wp-json/wp/v2/evge_event",
       "events": [
+        {
+          "id": "casualcarnage-274",
+          "title": "Casual Carnage: November 14th",
+          "start": "2026-11-14T11:15:00+01:00",
+          "end": "2026-11-14T19:15:00.000Z",
+          "location": "Silver Heron Studios, Utrecht",
+          "description": "",
+          "url": "https://www.casualcarnage.nl/event/casual-carnage-november-14th/",
+          "tags": [
+            "Warhammer"
+          ]
+        },
+        {
+          "id": "casualcarnage-271",
+          "title": "Casual Carnage: October 17th",
+          "start": "2026-10-17T11:15:00+01:00",
+          "end": "2026-10-17T19:15:00.000Z",
+          "location": "Silver Heron Studios, Utrecht",
+          "description": "",
+          "url": "https://www.casualcarnage.nl/event/casual-carnage-october-17th/",
+          "tags": [
+            "Warhammer"
+          ]
+        },
+        {
+          "id": "casualcarnage-270",
+          "title": "Casual Carnage: September 19th",
+          "start": "2026-09-19T11:15:00+02:00",
+          "end": "2026-09-19T18:15:00.000Z",
+          "location": "Silver Heron Studios, Utrecht",
+          "description": "",
+          "url": "https://www.casualcarnage.nl/event/casual-carnage-september-19th/",
+          "tags": [
+            "Warhammer"
+          ]
+        },
         {
           "id": "casualcarnage-241",
           "title": "Casual Carnage: August 8th",
@@ -2378,6 +2402,36 @@
             "Muziek",
             "Workshop"
           ]
+        },
+        {
+          "id": "beton-luisteravond-3",
+          "title": "Luisteravond",
+          "start": "2026-07-24T00:00:00+02:00",
+          "end": "2026-07-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/luisteravond-3/",
+          "tags": [
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-de-betonnerie-tweedekansmarkt-15",
+          "title": "De Betonnerie – tweedekansmarkt",
+          "start": "2026-07-26T00:00:00+02:00",
+          "end": "2026-07-26T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/de-betonnerie-tweedekansmarkt-15/",
+          "tags": [
+            "Eten / Drinken",
+            "Gratis",
+            "Markt",
+            "Muziek",
+            "Studio-T",
+            "Terras"
+          ]
         }
       ]
     },
@@ -2389,6 +2443,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260829-patatas-ratas-ep-release-party",
+          "title": "PATATAS RATAS – EP RELEASE PARTY",
+          "start": "2026-08-29T00:00:00+02:00",
+          "end": "2026-08-29T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "August 29th. Support with: Pomme Grenade & Smetvrees. EP RELEASE PARTY OF PATATAS RATAS SUPPORTED BY: POMME GRENADE & SMETVREES",
+          "url": "https://acu.nl/events/20260829/patatas-ratas-ep-release-party",
+          "tags": []
+        },
         {
           "id": "acu-20260915-punk-and-folk-cheap-dirty-horse-uk-ruen-nl-pt-moonbugs-moon",
           "title": "Punk and Folk: Cheap Dirty Horse (UK), Ruen (NL/PT), Moonbugs (Moon)",
@@ -2479,18 +2543,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001483-1784332740-1784354400",
-          "title": "BASIS Talent Night/ Ajonko/ FENNA/ Lunett/ Maccin",
-          "start": "2026-07-17T23:59:00+02:00",
-          "end": "2026-07-18T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-talent-night-ajonko-fenna-lunett-maccin/",
-          "tags": [
-            "House"
-          ]
-        },
         {
           "id": "basis-utrecht-10001486-1784419140-1784440800",
           "title": "BASIS/ BLNK/ Blurred Movement/ Imperia/ Juul Exler",
@@ -4594,26 +4646,6 @@
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
         {
-          "id": "muiderslot-proefjeslab-met-de-waterprofessor-17-juli-2026-2026",
-          "title": "Proefjeslab met de Waterprofessor &#8211; 17 juli 2026",
-          "start": "2026-07-17T10:00:00+02:00",
-          "end": "2026-07-17T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/proefjeslab-met-de-waterprofessor-17-juli-2026/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-meespeeltheater-17-juli-2026-2026",
-          "title": "Meespeeltheater &#8211; 17 juli 2026",
-          "start": "2026-07-17T10:00:00+02:00",
-          "end": "2026-07-17T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/meespeeltheater-17-juli-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-historische-proeverij-10-2026",
           "title": "Historische proeverij 18 juli 2026",
           "start": "2026-07-18T10:00:00+02:00",
@@ -4854,6 +4886,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
+          "title": "Maand van de Geschiedenis op het Muiderslot",
+          "start": "2026-10-01T10:00:00+01:00",
+          "end": "2026-10-31T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-familietheater-alleen-op-de-wereld-2026",
           "title": "Familietheater: Alleen op de wereld",
           "start": "2026-10-04T10:00:00+01:00",
@@ -4881,6 +4923,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/historische-proeverij-10-okt-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-mindful-weven-in-het-kasteelatelier-2026",
+          "title": "Mindful Weven in het Kasteelatelier",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/mindful-weven-in-het-kasteelatelier/",
           "tags": []
         },
         {
@@ -5133,16 +5185,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
-        {
-          "id": "brederode-valkenier-met-roofvogels-2026-07-17",
-          "title": "Valkenier met roofvogels",
-          "start": "2026-07-17T11:00:00+02:00",
-          "end": "2026-07-17T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/valkenier-17juli/",
-          "tags": []
-        },
         {
           "id": "brederode-valkenier-met-roofvogels-2026-07-24",
           "title": "Valkenier met roofvogels",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T07:02:14.481Z",
+  "updatedAt": "2026-07-19T07:29:36.395Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,16 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001083",
-          "title": "STAPELGANG release + support by Orka & ini",
-          "start": "2026-07-18T18:30:00+02:00",
-          "end": "2026-07-18T22:30:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "//dbstudio.nl/wp-content/uploads/2026/06/FC-STAPEL-4X3.mp4",
-          "url": "https://dbstudio.nl/event/stapelgang-release/",
-          "tags": []
-        },
         {
           "id": "10001094",
           "title": "Gratis terrasconcert > Catching Cultures invites",
@@ -401,6 +391,20 @@
             "Garage",
             "powerpop"
           ]
+        },
+        {
+          "id": "10001043",
+          "title": "Møster! (No - Jazz Super Group)",
+          "start": "2026-09-23T20:00:00+02:00",
+          "end": "2026-09-23T23:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Gepresenteerd in samenwerking met TivoliVredenburg. \nMøster! is een Noors instrumentaal kwartet, gevormd door enkele van de meest actieve muzikanten uit de experimentele rock- en jazzscene. De band staat onder leiding van saxofonist Kjetil Møster, die in 2000 doorbrak na een optreden met Chick…",
+          "url": "https://dbstudio.nl/event/moster-no-jazz-super-group/",
+          "tags": [
+            "Concert",
+            "Improvisatie",
+            "Jazz"
+          ]
         }
       ]
     },
@@ -560,16 +564,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Het Londense viertal Dry Cleaning maakt postpunk die als iets volkomen eigens klinkt. Met bulderende baspartijen, onstuimig gitaarwerk en Florence Shaw’s deadpan-gesproken teksten springt de band er in de grote postpunk-hausse van de afgelopen jaren met kop en schouders bovenuit. Shaw, een beeldend…",
           "url": "https://ekko.nl/event/dry-cleaning-1/",
-          "tags": []
-        },
-        {
-          "id": "30112",
-          "title": "1002",
-          "start": "2026-07-18T23:30:00+02:00",
-          "end": "2026-07-19T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "1002 is waar het verhaal verdergaat. Een nacht waarin dj’s en publiek zich gezamenlijk bewegen door genres, scenes en tempo’s, terwijl ze via geluid en live visuals nieuwe ervaringen creëren. Vijf artiesten met Turkse, Marokkaanse, Syrische en Palestijnse roots delen één hybride setup, waarin…",
-          "url": "https://ekko.nl/event/1002/",
           "tags": []
         },
         {
@@ -1623,16 +1617,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "483024",
-          "title": "Siberian Oxygen",
-          "start": "2026-07-18T13:30:00+02:00",
-          "end": "2026-07-18T14:30:00.000Z",
-          "location": "Pieterskerk, Pieterskerkhof 3, Utrecht",
-          "description": "Dit gratis concert is onderdeel van de serie Kerken Luisteren, georganiseerd door ZIMIHC en Kerken Kijken Utrecht. De serie omvat 24 middagconcerten in 7 kerken in de Utrechtse binnenstad, plaatsvindend van 26 juni tot en met 3 september. Het programma biedt diverse muziekstijlen, waaronder jazz,…",
-          "url": "https://www.podiuminfo.nl/concert/483024/Siberian-Oxygen/Pieterskerk/",
-          "tags": []
-        },
-        {
           "id": "459800",
           "title": "Emma Nissen",
           "start": "2026-07-21T20:15:00+02:00",
@@ -1861,6 +1845,16 @@
           "description": "De Finse formatie Luna Kills combineert nu-metal met elektronica, alternative metal en een dosis energie waarmee heel Finland van warmte kan worden voorzien. Met dank aan frontvrouw Lotta, die moeiteloos switcht van een allesversplinterende fry scream naar cleane zang en haar hand ook niet omdraait…",
           "url": "https://www.podiuminfo.nl/concert/452905/Luna-Kills/dBs/",
           "tags": []
+        },
+        {
+          "id": "474231",
+          "title": "Gitaardisco: Wolfmoon Edition",
+          "start": "2026-08-08T22:30:00+02:00",
+          "end": "2026-08-08T23:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Tijdens Gitaardisco: Wolfmoon Edition in de Ronda draait DJ Vrijmoed de beste dansbare gitaartunes. De avond is gevuld met gitaartracks uit de popgeschiedenis, aangevuld met frisse, hedendaagse nummers. Het programma is een mix van iconische artiesten en bands zoals Iggy Pop, IDLES, Blur, Oasis,…",
+          "url": "https://www.podiuminfo.nl/concert/474231/Gitaardisco-Wolfmoon-Edition/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2033,7 +2027,8 @@
             "Ladies'(K)night"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "casual-carnage",
@@ -2139,7 +2134,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2210,13 +2206,13 @@
       "feedUrl": "https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/",
       "events": [
         {
-          "id": "weighted-dice-event_315275746",
-          "title": "July Board Gaming Meetup",
-          "start": "2026-07-18T13:00:00+02:00",
-          "end": "2026-07-18T23:00:00+02:00",
+          "id": "weighted-dice-event_315733616",
+          "title": "August Board Games Meetup",
+          "start": "2026-08-22T13:00:00+02:00",
+          "end": "2026-08-22T22:30:00+02:00",
           "location": "Weighted Dice Utrecht, Utrecht",
-          "description": "P\n\nYou can bring your own games or play those brought by others. There are also dozens of games available for us at Het Lab.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for players…",
-          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/315275746/",
+          "description": "P\n\nYou can bring your own games and/or play those brought by others.\nAlso, plenty of games to be chosen from Het Lab to be played.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for…",
+          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/315733616/",
           "tags": []
         }
       ]
@@ -2432,6 +2428,19 @@
             "Studio-T",
             "Terras"
           ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-10",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-07-27T00:00:00+02:00",
+          "end": "2026-07-27T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-10/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
         }
       ]
     },
@@ -2543,19 +2552,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001486-1784419140-1784440800",
-          "title": "BASIS/ BLNK/ Blurred Movement/ Imperia/ Juul Exler",
-          "start": "2026-07-18T23:59:00+02:00",
-          "end": "2026-07-19T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-blnk-blurred-movement-imperia-juul-exler/",
-          "tags": [
-            "Hardtechno",
-            "Industrial"
-          ]
-        },
         {
           "id": "basis-utrecht-10001484-1784937540-1784959200",
           "title": "BASIS Talent Night/ LAUZ/ Loyk/ Nito/ S.H.A.R.P",
@@ -2846,16 +2842,6 @@
       "scene": "utrecht",
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
-        {
-          "id": "de-leuke-festival",
-          "title": "De Leuke Festival",
-          "start": "2026-07-18T12:00:00+00:00",
-          "end": "2026-07-18T12:00:00+00:00",
-          "location": "Voorveldse Polder, Utrecht",
-          "description": "De Leuke Festival is er in 2026 ook weer bij! Dansen op pop, de beste livebands en hiphop. Check onze site voor o.a. tickets & Line-up",
-          "url": "https://festivalfans.nl/event/de-leuke-festival/",
-          "tags": []
-        },
         {
           "id": "geheime-liefde-tuinen-van-geluk",
           "title": "Geheime Liefde: Tuinen van Geluk",
@@ -4506,7 +4492,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -4645,16 +4632,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-historische-proeverij-10-2026",
-          "title": "Historische proeverij 18 juli 2026",
-          "start": "2026-07-18T10:00:00+02:00",
-          "end": "2026-07-18T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-10/",
-          "tags": []
-        },
         {
           "id": "muiderslot-proefjeslab-met-de-waterprofessor-19-juli-2026-2026",
           "title": "Proefjeslab met de Waterprofessor &#8211; 19 juli 2026",
@@ -5006,16 +4983,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-rondleiding-2026-07",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Middeleeuwse dag",
-          "start": "2026-07-18T10:00:00+02:00",
-          "end": "2026-07-18T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
-          "tags": []
-        },
-        {
           "id": "loevestein-volksmuziek-en-vermaak-2026-07",
           "title": "Volksmuziek en vermaak",
           "start": "2026-07-19T10:00:00+02:00",
@@ -5336,21 +5303,7 @@
       "icon": "⚔️",
       "scene": "middeleeuwen",
       "feedUrl": "https://middeleeuwsmontfort.nl/",
-      "events": [
-        {
-          "id": "montfort-2026",
-          "title": "Middeleeuws Montfort 2026",
-          "start": "2026-07-18T11:00:00+02:00",
-          "end": "2026-07-19T18:00:00+02:00",
-          "location": "Kasteel Montfort, Huysdijk 4, Montfort",
-          "description": "Het grootste middeleeuwse festijn van Zuid-Nederland. Ridders, jonkvrouwen, ambachtslieden en een grote middeleeuwse markt rondom Kasteel Montfort.",
-          "url": "https://middeleeuwsmontfort.nl/",
-          "tags": [
-            "Festival",
-            "Middeleeuwen"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "buhurt-eu",

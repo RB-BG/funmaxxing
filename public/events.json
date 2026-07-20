@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T07:29:36.395Z",
+  "updatedAt": "2026-07-20T08:09:20.319Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001094",
-          "title": "Gratis terrasconcert > Catching Cultures invites",
-          "start": "2026-07-19T16:00:00+02:00",
-          "end": "2026-07-19T19:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Omdat het kan, het Catching Cultures collectief nodigt een aantal muzikanten uit alle windstreken uit voor een fijne, zonnige middag niet-Westerse muziek. \n\nCatching Cultures is een intercultureel collectief uit Utrecht. De organisatie van betrokken muzikanten met diverse culturele achtergronden,…",
-          "url": "https://dbstudio.nl/event/terrasconcert-catching-cultures-invites/",
-          "tags": [
-            "Concert",
-            "Improvisatie"
-          ]
-        },
         {
           "id": "10000960",
           "title": "*Sold Out* D.R.I. + These Hands",
@@ -344,7 +331,7 @@
         },
         {
           "id": "10001088",
-          "title": "THE BIRD EXPERIENCE + support",
+          "title": "THE BIRD EXPERIENCE + Tales",
           "start": "2026-09-18T20:00:00+02:00",
           "end": "2026-09-18T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
@@ -404,6 +391,18 @@
             "Concert",
             "Improvisatie",
             "Jazz"
+          ]
+        },
+        {
+          "id": "10001061",
+          "title": "PLOEGENDIENST",
+          "start": "2026-09-25T20:00:00+02:00",
+          "end": "2026-09-25T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "𝗬𝗢𝗨𝗧𝗛 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗔𝗟𝗟𝗘𝗘𝗡 𝗢𝗡𝗟𝗜𝗡𝗘 𝗩𝗘𝗥𝗞𝗥𝗜𝗝𝗚𝗕𝗔𝗔𝗥",
+          "url": "https://dbstudio.nl/event/ploegendienst/",
+          "tags": [
+            "Punk"
           ]
         }
       ]
@@ -1876,6 +1875,16 @@
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
+          "id": "603112",
+          "title": "Grax's club(5.5e): Binbop's factory of fun (beginner friendly)",
+          "start": "2026-07-22T19:00:00+02:00",
+          "end": "2026-07-22T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Grax's club(5.5e): Binbop's factory of fun (beginner friendly) Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/1f811be7-2b5a-4025-aa89-805d6633a423",
+          "tags": []
+        },
+        {
           "id": "602808",
           "title": "D&D 5.5e Phandelver: Thralls of Enternality",
           "start": "2026-07-22T19:00:00+02:00",
@@ -2016,6 +2025,18 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
+          "id": "lab-monkey-22892",
+          "title": "Commander Tuesday",
+          "start": "2026-07-21T18:00:00+02:00",
+          "end": "2026-07-21T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-235/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
           "start": "2026-07-21T19:00:00+02:00",
@@ -2027,8 +2048,7 @@
             "Ladies'(K)night"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2134,8 +2154,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -2317,75 +2336,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-7",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-07-20T00:00:00+02:00",
-          "end": "2026-07-20T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-7/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-31",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-07-20T00:00:00+02:00",
-          "end": "2026-07-20T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-31/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-13",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-07-20T00:00:00+02:00",
-          "end": "2026-07-20T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-13/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-30",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-07-20T00:00:00+02:00",
-          "end": "2026-07-20T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-30/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-9",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-07-20T00:00:00+02:00",
-          "end": "2026-07-20T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-9/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-45",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-07-22T00:00:00+02:00",
@@ -2452,6 +2402,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260725-wavecrash-revival",
+          "title": "WAVECRASH REVIVAL",
+          "start": "2026-07-25T00:00:00+02:00",
+          "end": "2026-07-25T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "July 25th. minimal wave / synth punk / ebm / post punk / dark wave. Camy Huot is back at ACU, and she’s back with a vengeance. It’s at this point hard to believe the French performance artist and producer started out as a volunteer behind our bar, and actually started out DJing in our...",
+          "url": "https://acu.nl/events/20260725/wavecrash-revival",
+          "tags": []
+        },
         {
           "id": "acu-20260829-patatas-ratas-ep-release-party",
           "title": "PATATAS RATAS – EP RELEASE PARTY",
@@ -2530,16 +2490,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "September 11th. EKKO in ACU Band Night. ROUSING INDIE ROCK WITH A GRITTY EDGE FROM LUXEMBOURG Francis of Delirium is the project of Jana Bahrich, the Luxembourg-based indie rock artist who is rapidly making a name for herself. With a sound that blends grunge, folk, and power pop, she writes…",
           "url": "https://acu.nl/events/20260911/francis-of-delirium-indie-rock",
-          "tags": []
-        },
-        {
-          "id": "acu-20260903-wyatt-e-transcendental-doom",
-          "title": "WYATT E. (transcendental doom)",
-          "start": "2026-09-03T00:00:00+02:00",
-          "end": "2026-09-03T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 3rd. dB's in ACU presenteert. De Belgische formatie 𝗪𝗬𝗔𝗧𝗧 𝗘. presenteert Zamaru Ultu Qereb Ziqquratu Part 1, een monumentaal werk dat de luisteraar meeneemt op een instrumentale reis. De band staat bekend om hun unieke mix van zware doom en drone, verweven met hypnotiserende,…",
-          "url": "https://acu.nl/events/20260903/wyatt-e-transcendental-doom",
           "tags": []
         }
       ]
@@ -4492,8 +4442,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4632,16 +4581,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-proefjeslab-met-de-waterprofessor-19-juli-2026-2026",
-          "title": "Proefjeslab met de Waterprofessor &#8211; 19 juli 2026",
-          "start": "2026-07-19T10:00:00+02:00",
-          "end": "2026-07-19T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/proefjeslab-met-de-waterprofessor-19-juli-2026/",
-          "tags": []
-        },
         {
           "id": "muiderslot-circus-olifant-23-juli-2026",
           "title": "Circus Olifant &#8211; 23 juli 2026",
@@ -4980,16 +4919,6 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/kasteelschutters/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-volksmuziek-en-vermaak-2026-07",
-          "title": "Volksmuziek en vermaak",
-          "start": "2026-07-19T10:00:00+02:00",
-          "end": "2026-07-19T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/volksmuziek-en-vermaak/",
           "tags": []
         },
         {

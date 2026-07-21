@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T08:09:20.319Z",
+  "updatedAt": "2026-07-21T07:35:37.446Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -113,6 +113,28 @@
           "url": "https://dbstudio.nl/event/gijsjaradijsja-kinderleed-zoekhetuitman-fokko-solo/",
           "tags": [
             "Concert"
+          ]
+        },
+        {
+          "id": "10001110",
+          "title": "NEON NOIR x CAMY HUOT Floating in the Sink release party",
+          "start": "2026-08-15T20:00:00+02:00",
+          "end": "2026-08-16T03:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "In the music scene realm, there are musicians that dream of doing their craft freely and peacefully. They will meet amazing friends to support their dreams that will put up a whole filming crew together and shoot a music video in two days time. They will also meet untalented narcissist rats with…",
+          "url": "https://dbstudio.nl/event/neon-noir-x-camy-huot-floating-in-the-sink-release-party/",
+          "tags": [
+            "Alternative",
+            "Concert",
+            "Dansavond",
+            "Electronics",
+            "Entertainment",
+            "Exotica",
+            "Experimenteel",
+            "No Wave",
+            "Punk",
+            "Ritualistic Dance Music",
+            "Techno"
           ]
         },
         {
@@ -344,11 +366,11 @@
         },
         {
           "id": "10000871",
-          "title": "DreB'S STAFF ON STAGE IV",
+          "title": "DreB'S STAFF ON STAGE IV Postponed for now!",
           "start": "2026-09-19T19:00:00+02:00",
           "end": "2026-09-20T04:00:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "WORD HARD",
+          "description": "WORD HARD, WORD IETSJE LATER",
           "url": "https://dbstudio.nl/event/drebs-staff-on-stage-iv/",
           "tags": []
         },
@@ -392,18 +414,6 @@
             "Improvisatie",
             "Jazz"
           ]
-        },
-        {
-          "id": "10001061",
-          "title": "PLOEGENDIENST",
-          "start": "2026-09-25T20:00:00+02:00",
-          "end": "2026-09-25T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "𝗬𝗢𝗨𝗧𝗛 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗔𝗟𝗟𝗘𝗘𝗡 𝗢𝗡𝗟𝗜𝗡𝗘 𝗩𝗘𝗥𝗞𝗥𝗜𝗝𝗚𝗕𝗔𝗔𝗥",
-          "url": "https://dbstudio.nl/event/ploegendienst/",
-          "tags": [
-            "Punk"
-          ]
         }
       ]
     },
@@ -416,16 +426,6 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
-          "id": "30445",
-          "title": "PERRX",
-          "start": "2026-08-15T23:30:00+02:00",
-          "end": "2026-08-16T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ola bbs, nos extrañaron 👄? PERRX’s latinx-queer party is TERUG in EKKO voor hun 3rd CUMPEAÑO ANNIVERSARY 🎂. Tonight the DJs will make your ass smile with cumbia, baile funk y muchísimo ppppeeerrrrreeeooo; genres die nog te weinig centraal staan in queer nightlife in Nederland. PERRX omarmt…",
-          "url": "https://ekko.nl/event/perrx-8/",
-          "tags": []
-        },
-        {
           "id": "30523",
           "title": "Club EKKO",
           "start": "2026-09-12T23:30:00+02:00",
@@ -433,6 +433,16 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
           "url": "https://ekko.nl/event/club-ekko-35/",
+          "tags": []
+        },
+        {
+          "id": "30445",
+          "title": "PERRX",
+          "start": "2026-08-15T23:30:00+02:00",
+          "end": "2026-08-16T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Ola bbs, nos extrañaron 👄? PERRX’s latinx-queer party is TERUG in EKKO voor hun 3rd CUMPEAÑO ANNIVERSARY 🎂. Tonight the DJs will make your ass smile with cumbia, baile funk y muchísimo ppppeeerrrrreeeooo; genres die nog te weinig centraal staan in queer nightlife in Nederland. PERRX omarmt…",
+          "url": "https://ekko.nl/event/perrx-8/",
           "tags": []
         },
         {
@@ -1905,6 +1915,16 @@
           "tags": []
         },
         {
+          "id": "602227",
+          "title": "Hobbits - a summer's day in the Shire (beginner friendly!)",
+          "start": "2026-07-22T19:00:00+02:00",
+          "end": "2026-07-22T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Hobbits - a summer's day in the Shire (beginner friendly!) Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Łukasz Skavenloft Kołodziej Edelweiss is a lo-fi tabletop role-playing game about merry wanderers exploring idyllic land and, helping others and experiencing…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0419f426-ae6f-4283-af51-1a36b2f3a85a",
+          "tags": []
+        },
+        {
           "id": "599597",
           "title": "Blades in the Dark - Sandmen [Beginner-friendly]",
           "start": "2026-07-22T19:00:00+02:00",
@@ -1912,16 +1932,6 @@
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Blades in the Dark - Sandmen [Beginner-friendly] Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/cc9a355e-b4bd-4d46-99ce-d20597dc9a50",
-          "tags": []
-        },
-        {
-          "id": "602227",
-          "title": "Hobbits - a summer's day in the Shire (beginner friendly!)",
-          "start": "2026-07-22T19:00:00+02:00",
-          "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Hobbits - a summer's day in the Shire (beginner friendly!) Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Character level 0 Location: Silver Heron Studios , Utrecht | Walk-in: 18:30 to 19:00 | Participation fee: €5 | No need to bring or know anything about RPGs (you can…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0419f426-ae6f-4283-af51-1a36b2f3a85a",
           "tags": []
         },
         {
@@ -2391,6 +2401,20 @@
             "Workshop",
             "Vechtclub XL"
           ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-32",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-07-27T00:00:00+02:00",
+          "end": "2026-07-27T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-32/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
         }
       ]
     },
@@ -2440,16 +2464,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "September 25th. Silent Call Collective presents. Silent Call Collective presents: FERAL FERAL is an untamed Spanish/American duo from Amsterdam featuring pounding beats and chainsaw guitar riffs that sound like the Cosmic Psychos and Atari Teenage Riot went out for a night of heavy drinking and…",
           "url": "https://acu.nl/events/20260925/feral-snackbar-designer-violence",
-          "tags": []
-        },
-        {
-          "id": "acu-20260721-eperimental-noise-meetup-error-code-%e2%96%88-%e2%96%88-%e2%96%88",
-          "title": "EXPERIMENTAL / NOISE MEETUP",
-          "start": "2026-07-21T00:00:00+02:00",
-          "end": "2026-07-21T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 21st. YOU YES ALL OF YOU, 0ooOo000oO0ooO0OoOO, Collettivo Tack!, Harde Tante, NishMa, Ignore all previous instructions,. ERROR CODE [█ █ █] YOU YES ALL OF YOU [DIY COLLABORATIVE NOISE] We leave one large table open, everyone is free to set up their gear* on this table from when the doors open.…",
-          "url": "https://acu.nl/events/20260721/eperimental-noise-meetup-error-code-%e2%96%88-%e2%96%88-%e2%96%88",
           "tags": []
         },
         {
@@ -2778,7 +2792,7 @@
           "start": "2026-08-08T14:00:00+02:00",
           "end": "2026-08-08T21:00:00.000Z",
           "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
-          "description": "In het zand festival Zaterdag 08/08/2026 14:00 - 23:00 Voor onze zevende editie houden we ons bij het vertrouwde recept: House & Disco, verdeeld over twee stages bij SOIA – Strand Oog in Al. Line-up (a-z) ADA AYS BENNY2 BERKAN V8 EILEEN EMVAE & MOXES KENNEDY KLÉO LUCKY DONE GONE & TSEPO SAIDAH Koop…",
+          "description": "In het zand festival - sold out Zaterdag 08/08/2026 14:00 - 23:00 Voor onze zevende editie houden we ons bij het vertrouwde recept: House & Disco, verdeeld over twee stages bij SOIA – Strand Oog in Al. Line-up (a-z) ADA AYS BENNY2 BERKAN V8 EILEEN EMVAE & MOXES KENNEDY KLÉO LUCKY DONE GONE & TSEPO…",
           "url": "https://soia.nl/agenda/in-het-zand/",
           "tags": []
         }
@@ -4612,6 +4626,26 @@
           "tags": []
         },
         {
+          "id": "muiderslot-workshop-linosnede-drukken-2026",
+          "title": "Workshop: Linosnede drukken",
+          "start": "2026-07-27T10:00:00+02:00",
+          "end": "2026-08-16T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/workshop-linosnede-drukken/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-aan-de-slag-in-het-atelier-2026",
+          "title": "Aan de slag in het atelier",
+          "start": "2026-07-27T10:00:00+02:00",
+          "end": "2026-08-16T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/aan-de-slag-in-het-atelier/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-tuinsafari-28-juli-2026-2026",
           "title": "Tuinsafari 28 juli 2026",
           "start": "2026-07-28T10:00:00+02:00",
@@ -4922,13 +4956,13 @@
           "tags": []
         },
         {
-          "id": "loevestein-levend-stratego-2026-07",
-          "title": "Levend Stratego",
+          "id": "loevestein-rondleiding-2026-07",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Levend Stratego",
           "start": "2026-07-21T10:00:00+02:00",
           "end": "2026-08-11T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/levend-stratego/",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T07:35:37.446Z",
+  "updatedAt": "2026-07-22T07:37:36.095Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -426,6 +426,26 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "30339",
+          "title": "Baila Baixa",
+          "start": "2026-08-08T23:30:00+02:00",
+          "end": "2026-08-09T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Van de straten van Brazilië naar EKKO: Baila Baixa is een clubnacht waar baile funk centraal staat en invloeden uit de underground elektronische scene ontmoet, van UK sounds tot jersey club en house. Verwacht een mix van baile funk classics, de heetste releases die iedereen kent en frisse…",
+          "url": "https://ekko.nl/event/baila-baixa/",
+          "tags": []
+        },
+        {
+          "id": "30412",
+          "title": "Musical Rave",
+          "start": "2026-08-22T22:30:00+02:00",
+          "end": "2026-08-23T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De start van het theaterseizoen vieren we niet in rode pluche stoelen, maar op de dansvloer. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg:…",
+          "url": "https://ekko.nl/event/musicalrave/",
+          "tags": []
+        },
+        {
           "id": "30523",
           "title": "Club EKKO",
           "start": "2026-09-12T23:30:00+02:00",
@@ -456,16 +476,6 @@
           "tags": []
         },
         {
-          "id": "30339",
-          "title": "Baila Baixa",
-          "start": "2026-08-08T23:30:00+02:00",
-          "end": "2026-08-09T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Van de straten van Brazilië naar EKKO: Baila Baixa is een clubnacht waar baile funk centraal staat en invloeden uit de underground elektronische scene ontmoet, van UK sounds tot jersey club en house. Verwacht een mix van baile funk classics, de heetste releases die iedereen kent en frisse…",
-          "url": "https://ekko.nl/event/baila-baixa/",
-          "tags": []
-        },
-        {
           "id": "29883",
           "title": "Just Mustard",
           "start": "2026-08-09T20:00:00+02:00",
@@ -473,16 +483,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Het Ierse vijftal Just Mustard laat noise rock, postpunk en shoegaze samensmelten tot iets volkomen eigens met donkere industriële texturen en dromerige soundscapes. De band zet hypnotische vocals in het middelpunt en rekt gitaren graag tot ver voorbij herkenbaarheid op. Op hun recentste album ‘WE…",
           "url": "https://ekko.nl/event/just-mustard-1/",
-          "tags": []
-        },
-        {
-          "id": "30412",
-          "title": "Musical Rave",
-          "start": "2026-08-22T22:30:00+02:00",
-          "end": "2026-08-23T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De start van het theaterseizoen vieren we niet in rode pluche stoelen, maar op de dansvloer. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg:…",
-          "url": "https://ekko.nl/event/musicalrave/",
           "tags": []
         },
         {
@@ -1626,16 +1626,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "459800",
-          "title": "Emma Nissen",
-          "start": "2026-07-21T20:15:00+02:00",
-          "end": "2026-07-21T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Emma Nissen is een 25-jarige Amerikaanse zangeres die zich snel ontwikkelt binnen de jazz- en popwereld. Ze brak eind 2023 door met een virale video waarin ze haar christelijke nummer \"Breathe\" vertolkte. Haar unieke mix van jazz en gospel, door haarzelf \"Jesus and Jazz\" genoemd, leverde miljoenen…",
-          "url": "https://www.podiuminfo.nl/concert/459800/Emma-Nissen/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "486484",
           "title": "Salsa on Friday",
           "start": "2026-07-24T20:15:00+02:00",
@@ -1864,6 +1854,16 @@
           "description": "Tijdens Gitaardisco: Wolfmoon Edition in de Ronda draait DJ Vrijmoed de beste dansbare gitaartunes. De avond is gevuld met gitaartracks uit de popgeschiedenis, aangevuld met frisse, hedendaagse nummers. Het programma is een mix van iconische artiesten en bands zoals Iggy Pop, IDLES, Blur, Oasis,…",
           "url": "https://www.podiuminfo.nl/concert/474231/Gitaardisco-Wolfmoon-Edition/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "480150",
+          "title": "Wasserette",
+          "start": "2026-08-08T23:55:00+02:00",
+          "end": "2026-08-09T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Op zaterdag 8 augustus keert Wasserette terug naar de Pandora zaal van TivoliVredenburg. Bezoekers kunnen een avond vol tropische klanken verwachten, met een energieke mix van diverse genres zoals Dancehall, Afro, R&B en Latin. Dit evenement belooft een onvergetelijke belevenis te worden, waarbij…",
+          "url": "https://www.podiuminfo.nl/concert/480150/Wasserette/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1884,16 +1884,6 @@
       "scene": "games",
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
-        {
-          "id": "603112",
-          "title": "Grax's club(5.5e): Binbop's factory of fun (beginner friendly)",
-          "start": "2026-07-22T19:00:00+02:00",
-          "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Grax's club(5.5e): Binbop's factory of fun (beginner friendly) Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/1f811be7-2b5a-4025-aa89-805d6633a423",
-          "tags": []
-        },
         {
           "id": "602808",
           "title": "D&D 5.5e Phandelver: Thralls of Enternality",
@@ -1922,6 +1912,16 @@
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Hobbits - a summer's day in the Shire (beginner friendly!) Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Łukasz Skavenloft Kołodziej Edelweiss is a lo-fi tabletop role-playing game about merry wanderers exploring idyllic land and, helping others and experiencing…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0419f426-ae6f-4283-af51-1a36b2f3a85a",
+          "tags": []
+        },
+        {
+          "id": "603335",
+          "title": "Mausritter: In Troubled Waters (beginner friendly)",
+          "start": "2026-07-22T19:00:00+02:00",
+          "end": "2026-07-22T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Mausritter: In Troubled Waters (beginner friendly) Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Mausritter Written by Peter Elroy &amp;amp;amp; Max Philippi Flights of Fancy is an aerial Mausritter adventure collection that takes you to the skies above and the vastness below. TL;DR:…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/d8a71067-5730-47ce-bb50-2a5cbffe7945",
           "tags": []
         },
         {
@@ -2033,32 +2033,7 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": [
-        {
-          "id": "lab-monkey-22892",
-          "title": "Commander Tuesday",
-          "start": "2026-07-21T18:00:00+02:00",
-          "end": "2026-07-21T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-235/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
-          "id": "lab-monkey-11402",
-          "title": "Ladies Knight",
-          "start": "2026-07-21T19:00:00+02:00",
-          "end": "2026-07-21T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "Zin om Magic te spelen met andere vrouwen? Voelt het weleens intimiderend om de enige meid te zijn aan tafel? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het je graag. &nbsp; Op 21…",
-          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
-          "tags": [
-            "Ladies'(K)night"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "casual-carnage",
@@ -2346,20 +2321,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-salsa-nights-elke-woensdag-45",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-07-22T00:00:00+02:00",
-          "end": "2026-07-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-45/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
           "id": "beton-luisteravond-3",
           "title": "Luisteravond",
           "start": "2026-07-24T00:00:00+02:00",
@@ -2414,6 +2375,76 @@
             "Kunst",
             "Workshop",
             "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-14",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-07-27T00:00:00+02:00",
+          "end": "2026-07-27T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-14/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-31",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-07-27T00:00:00+02:00",
+          "end": "2026-07-27T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-31/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-cafe-pause-ai",
+          "title": "Café Pause AI",
+          "start": "2026-07-28T00:00:00+02:00",
+          "end": "2026-07-28T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cafe-pause-ai/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-46",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-07-29T00:00:00+02:00",
+          "end": "2026-07-29T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-46/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-lievens-bike-fietsclub-3",
+          "title": "Lievens Bike Fietsclub",
+          "start": "2026-07-30T00:00:00+02:00",
+          "end": "2026-07-30T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lievens-bike-fietsclub-3/",
+          "tags": [
+            "Gratis",
+            "Sport",
+            "Kantine"
           ]
         }
       ]
@@ -2904,6 +2935,16 @@
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76763",
           "description": "Hans Zimmer - Time from Inception<BR>Hans Zimmer / Elton John - This Land from The Lion King<BR>Hans Zimmer - Zooster’s Breakout from Madagascar<BR>Hans Zimmer - Supermarine from Dunkirk<BR>Hans Zimmer - Honor from The Pacific<BR>Hans Zimmer / James Newton Howard - A Dark Knight from The Dark",
+          "tags": []
+        },
+        {
+          "id": "77666",
+          "title": "Groningens Ontzet",
+          "start": "2026-08-27T20:00:00.000Z",
+          "end": "2026-08-27T23:00:00.000Z",
+          "location": "Groningen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77666",
+          "description": "The North Netherlands Symphony Orchestra is back at the Ossenmarkt! <BR><BR>On August 27, we will celebrate the Relief of Groningen together with a festive open-air concert led by conductor Joost Geevers.<BR><BR>With presenter Olaf Vos, it promises to be an evening full of recognizable music, great",
           "tags": []
         },
         {
@@ -4127,6 +4168,16 @@
           "tags": []
         },
         {
+          "id": "77700",
+          "title": "John Williams & Hans Zimmer",
+          "start": "2027-02-28T20:00:00.000Z",
+          "end": "2027-02-28T23:00:00.000Z",
+          "location": "Heerlen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77700",
+          "description": "The Nordwestdeutsche Philharmonie presents an evening full of iconic film music by John Williams and Hans Zimmer, with recognisable themes.<BR><BR>The Nordwestdeutsche Philharmonie presents a program with music by two of the most influential film composers: John Williams and Hans Zimmer. Williams be",
+          "tags": []
+        },
+        {
           "id": "74222",
           "title": "AvroTros Film music concert: John Williams",
           "start": "2027-03-05T20:00:00.000Z",
@@ -4626,16 +4677,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-workshop-linosnede-drukken-2026",
-          "title": "Workshop: Linosnede drukken",
-          "start": "2026-07-27T10:00:00+02:00",
-          "end": "2026-08-16T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/workshop-linosnede-drukken/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-aan-de-slag-in-het-atelier-2026",
           "title": "Aan de slag in het atelier",
           "start": "2026-07-27T10:00:00+02:00",
@@ -4643,6 +4684,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/aan-de-slag-in-het-atelier/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-workshop-linosnede-drukken-2026",
+          "title": "Workshop: Linosnede drukken",
+          "start": "2026-07-27T10:00:00+02:00",
+          "end": "2026-08-16T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/workshop-linosnede-drukken/",
           "tags": []
         },
         {
@@ -4826,16 +4877,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-mindful-wandeling-muiderslot-2026",
-          "title": "Mindful wandeling Muiderslot",
-          "start": "2026-10-01T10:00:00+01:00",
-          "end": "2026-10-31T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
           "title": "Maand van de Geschiedenis op het Muiderslot",
           "start": "2026-10-01T10:00:00+01:00",
@@ -4843,6 +4884,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-mindful-wandeling-muiderslot-2026",
+          "title": "Mindful wandeling Muiderslot",
+          "start": "2026-10-01T10:00:00+01:00",
+          "end": "2026-10-31T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
           "tags": []
         },
         {
@@ -4866,13 +4917,13 @@
           "tags": []
         },
         {
-          "id": "muiderslot-historische-proeverij-10-okt-2026-2026",
-          "title": "Historische proeverij 10 okt 2026",
+          "id": "muiderslot-mindful-muiderslot-yoga-10-oktober-2026-2026",
+          "title": "Mindful Muiderslot: yoga &#8211; 10 oktober 2026",
           "start": "2026-10-10T10:00:00+01:00",
           "end": "2026-10-10T18:00:00+01:00",
           "location": "Muiderslot, Muiden",
           "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-10-okt-2026/",
+          "url": "https://muiderslot.nl/activiteit/mindful-muiderslot-yoga-10-oktober-2026/",
           "tags": []
         },
         {
@@ -4883,6 +4934,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/mindful-weven-in-het-kasteelatelier/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-10-okt-2026-2026",
+          "title": "Historische proeverij 10 okt 2026",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-10T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-10-okt-2026/",
           "tags": []
         },
         {
@@ -4953,16 +5014,6 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/kasteelschutters/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-rondleiding-2026-07",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Levend Stratego",
-          "start": "2026-07-21T10:00:00+02:00",
-          "end": "2026-08-11T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T07:37:36.095Z",
+  "updatedAt": "2026-07-23T07:35:29.365Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,22 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10000960",
-          "title": "*Sold Out* D.R.I. + These Hands",
-          "start": "2026-07-22T20:00:00+02:00",
-          "end": "2026-07-22T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "//thesehandshc.bandcamp.com/album/these-hands-demo",
-          "url": "https://dbstudio.nl/event/d-r-i/",
-          "tags": [
-            "80's",
-            "Concert",
-            "Hardcore",
-            "Metal",
-            "Punk"
-          ]
-        },
         {
           "id": "10001039",
           "title": "N8NOFACE (USA) + FERAL",
@@ -53,7 +37,7 @@
         },
         {
           "id": "10001042",
-          "title": "200 STAB WOUNDS (USA)",
+          "title": "200 STAB WOUNDS (USA) + Caedere + Backhoe Loader",
           "start": "2026-08-01T20:00:00+02:00",
           "end": "2026-08-01T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
@@ -166,7 +150,7 @@
           "start": "2026-08-22T13:00:00+02:00",
           "end": "2026-08-22T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "LL\nSwerve\nSvjetlost\nINVUNCHE\nOnhou\nIskandr\nModder\nSun Worship\nAlkerdeel\nBombstrap\nMathlovsky\n\nDagtickets gaan binnenkort in de verkoop.",
+          "description": "BACHT’N DE VULLE MOANE\nSwerve\nSvjetlost\nINVUNCHE\nOnhou\nIskandr\nModder\nSun Worship\nAlkerdeel\nBombstrap\nMathlovsky\n\nDagtickets gaan binnenkort in de verkoop.",
           "url": "https://dbstudio.nl/event/duister-collectief/",
           "tags": [
             "Concert",
@@ -248,7 +232,7 @@
         },
         {
           "id": "10001064",
-          "title": "KILLER KIN (USA)",
+          "title": "KILLER KIN (USA) + SICK SHOOTERS",
           "start": "2026-09-04T20:00:00+02:00",
           "end": "2026-09-04T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
@@ -349,6 +333,20 @@
             "Pop",
             "Rock",
             "Synthpop"
+          ]
+        },
+        {
+          "id": "10001112",
+          "title": "WABI SABI release party + Nelles",
+          "start": "2026-09-17T19:30:00+02:00",
+          "end": "2026-09-17T23:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Feest want Wabi Sabi komt de nieuwe release presenteren. Nelles doet het voorprogramma, en na afloop van de bands verzorgt Wabi Sabi zelf nog een DJ set. \n  \n\nWabi Sabi\nWabi Sabi fuseert hypnotiserende grooves, droomachtige texturen en introspectieve lyrics. Een sonische reis, waar obscuriteiten…",
+          "url": "https://dbstudio.nl/event/wabi-sabi-release-party-nelles/",
+          "tags": [
+            "Concert",
+            "Dream Pop",
+            "Indie Rock"
           ]
         },
         {
@@ -1885,76 +1883,6 @@
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
-          "id": "602808",
-          "title": "D&D 5.5e Phandelver: Thralls of Enternality",
-          "start": "2026-07-22T19:00:00+02:00",
-          "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/f6f19f84-4991-43dd-b49a-e5dfe0948ced",
-          "tags": []
-        },
-        {
-          "id": "602093",
-          "title": "DDHC-WBW The Wild Beyond the Witchlight",
-          "start": "2026-07-22T19:00:00+02:00",
-          "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "DDHC-WBW The Wild Beyond the Witchlight Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign (WBW) Character levels 1-8 Written by Wizards of the Coast Once every eight years, the fantastic Witchlight…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/26b2566d-9481-452d-8bd5-1af7aa51acab",
-          "tags": []
-        },
-        {
-          "id": "602227",
-          "title": "Hobbits - a summer's day in the Shire (beginner friendly!)",
-          "start": "2026-07-22T19:00:00+02:00",
-          "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Hobbits - a summer's day in the Shire (beginner friendly!) Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Łukasz Skavenloft Kołodziej Edelweiss is a lo-fi tabletop role-playing game about merry wanderers exploring idyllic land and, helping others and experiencing…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0419f426-ae6f-4283-af51-1a36b2f3a85a",
-          "tags": []
-        },
-        {
-          "id": "603335",
-          "title": "Mausritter: In Troubled Waters (beginner friendly)",
-          "start": "2026-07-22T19:00:00+02:00",
-          "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Mausritter: In Troubled Waters (beginner friendly) Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Mausritter Written by Peter Elroy &amp;amp;amp; Max Philippi Flights of Fancy is an aerial Mausritter adventure collection that takes you to the skies above and the vastness below. TL;DR:…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/d8a71067-5730-47ce-bb50-2a5cbffe7945",
-          "tags": []
-        },
-        {
-          "id": "599597",
-          "title": "Blades in the Dark - Sandmen [Beginner-friendly]",
-          "start": "2026-07-22T19:00:00+02:00",
-          "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Blades in the Dark - Sandmen [Beginner-friendly] Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/cc9a355e-b4bd-4d46-99ce-d20597dc9a50",
-          "tags": []
-        },
-        {
-          "id": "602795",
-          "title": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️",
-          "start": "2026-07-22T19:00:00+02:00",
-          "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️ Wed 22/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp;…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/a2dce03b-cc6e-49b8-9102-94796369c831",
-          "tags": []
-        },
-        {
-          "id": "602168",
-          "title": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables)",
-          "start": "2026-07-22T19:00:00+02:00",
-          "end": "2026-07-22T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables) Wed 22/7 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/c75eea4b-70ee-4383-869d-df3872a365d7",
-          "tags": []
-        },
-        {
           "id": "602792",
           "title": "EIDOLON: Become Your Best Self \"Follow Your Ghost\"",
           "start": "2026-07-29T19:00:00+02:00",
@@ -1992,6 +1920,16 @@
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "PFS2: 🍻 Port Peril Pub Crawl [Beginner-friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by James Case Venture-Captain Calisro Benarry has arranged for the PC’s…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/09ec8453-f786-401c-94bf-2c7092978f9c",
+          "tags": []
+        },
+        {
+          "id": "603598",
+          "title": "Pirate Borg - Beginner Friendly TTRPG 🦜 (3 tables)",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Pirate Borg - Beginner Friendly TTRPG 🦜 (3 tables) Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp; flintlock…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/9c87cc78-58ea-4a19-93ed-17e3adf4c016",
           "tags": []
         },
         {
@@ -2498,6 +2436,16 @@
           "tags": []
         },
         {
+          "id": "acu-20260821-super-maintenance-karaoke",
+          "title": "Super Duper Karaoke",
+          "start": "2026-08-21T00:00:00+02:00",
+          "end": "2026-08-21T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "August 21st. Low budget karaoke night. Come join the laziest, lowest-effort karaoke event in town, for the lowest price your can find! Date/Time: 21/08/2026 – 21:00 to 00:00 Location: ACU, Voorstraat 71 Door: Donation based! A production of @mirai.futuro",
+          "url": "https://acu.nl/events/20260821/super-maintenance-karaoke",
+          "tags": []
+        },
+        {
           "id": "acu-20260725-shoegaze-against-abuse",
           "title": "SHOEGAZE AGAINST ABUSE",
           "start": "2026-07-25T00:00:00+02:00",
@@ -2593,7 +2541,7 @@
           "start": "2026-08-01T13:00:00+02:00",
           "end": "2026-08-01T23:00:00+02:00",
           "location": "Beton-T, Koningin Wilhelminalaan 4, Utrecht, Utrecht, , 3527 LD",
-          "description": "00, Utrecht.\nWe’re looking forward to dance with you in summer rays and sonic delights all day long! \nLINEUP\n/ Alycia Bezgo b2b Hurts\n/ Aphøtic b2b Tassery\n/ Beau Didier\n/ Dissolver [live]\n/ Laure Croft\n/ Lisa Korver\n/ Locus Error\n/ Mika Heggemann\n/ Nedir Nadir\n/ Raxeller\n/ Rikhter [live]\n/ Slimfit…",
+          "description": "//www.soundcloud.com/terugnaardebasis",
           "url": "https://clubbasis.nl/event/basis-outdoor-2026/",
           "tags": [
             "Bounce",
@@ -5118,7 +5066,7 @@
         },
         {
           "id": "loevestein-riddertoernooi-2026-10",
-          "title": "Het grote riddertoernooi",
+          "title": "Hét grote riddertoernooi van het jaar",
           "start": "2026-10-17T10:00:00+01:00",
           "end": "2026-10-18T18:00:00+01:00",
           "location": "Slot Loevestein, Poederooijen",
@@ -5227,6 +5175,16 @@
           "tags": []
         },
         {
+          "id": "brederode-ru-ne-bewoond-2027-05-24",
+          "title": "Ruïne Bewoond",
+          "start": "2027-05-24T11:00:00+02:00",
+          "end": "2027-05-25T17:00:00+02:00",
+          "location": "Ruïne van Brederode, Santpoort-Zuid",
+          "description": "",
+          "url": "https://ruinevanbrederode.nl/ruine-bewoond-24-25-mei/",
+          "tags": []
+        },
+        {
           "id": "brederode-ru-ne-bewoond-2027-03-07",
           "title": "Ruïne Bewoond",
           "start": "2027-03-07T11:00:00+01:00",
@@ -5328,21 +5286,6 @@
       "feedUrl": "https://www.worldofbuhurt.com/tournaments",
       "events": [
         {
-          "id": "wob-imcf-world-championship-2026",
-          "title": "IMCF World Championship 2026",
-          "start": "2026-07-23T00:00:00+02:00",
-          "end": "2026-07-26T23:00:00+02:00",
-          "location": "Spøttrup, Denmark",
-          "country": "Denmark",
-          "description": "Buhurt-toernooi in Denmark. 23-26 July 2026.",
-          "url": "https://www.worldofbuhurt.com/tournaments/imcf-world-championship-2026",
-          "tags": [
-            "Melee",
-            "Duels",
-            "Profight"
-          ]
-        },
-        {
           "id": "wob-severnside-clash-2026",
           "title": "Severnside Clash 2026",
           "start": "2026-07-25T00:00:00+02:00",
@@ -5400,17 +5343,6 @@
       "scene": "buhurt",
       "feedUrl": "https://www.buhurtinternational.com/tournaments",
       "events": [
-        {
-          "id": "bi-king-kazimierz-cup-v",
-          "title": "King Kazimierz Cup V 2026",
-          "start": "2026-09-12T00:00:00+02:00",
-          "end": "2026-09-12T23:00:00+02:00",
-          "location": "Poland",
-          "country": "Poland",
-          "description": "Buhurt-toernooi in Poland.",
-          "url": "https://www.buhurtinternational.com/tournament/king-kazimierz-cup-v",
-          "tags": []
-        },
         {
           "id": "bi-1.-eisencup-2026",
           "title": "1. Eisencup 2026",

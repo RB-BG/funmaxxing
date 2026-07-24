@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T07:35:29.365Z",
+  "updatedAt": "2026-07-24T07:35:40.499Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001039",
-          "title": "N8NOFACE (USA) + FERAL",
-          "start": "2026-07-23T20:00:00+02:00",
-          "end": "2026-07-23T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "N8NOFACE (uitgesproken als “Nate No Face”) is de artiestennaam van Nathan Hose, een uitzonderlijke Amerikaanse muzikant, rapper en producer uit Tucson, Arizona, die tegenwoordig in Los Angeles woont.  Deze zwaar besnorde en kaal behaarde outsider is niet exact het prototype rockster maar live knalt…",
-          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-n8noface-usa/",
-          "tags": [
-            "Rap",
-            "Wave"
-          ]
-        },
         {
           "id": "10001032",
           "title": "DZ DEATHRAYS (OZ) + MANNEQUIN DEATH SQUAD (OZ) + Badminton",
@@ -412,6 +399,18 @@
             "Improvisatie",
             "Jazz"
           ]
+        },
+        {
+          "id": "10001061",
+          "title": "PLOEGENDIENST",
+          "start": "2026-09-25T20:00:00+02:00",
+          "end": "2026-09-25T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "𝗬𝗢𝗨𝗧𝗛 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗔𝗟𝗟𝗘𝗘𝗡 𝗢𝗡𝗟𝗜𝗡𝗘 𝗩𝗘𝗥𝗞𝗥𝗜𝗝𝗚𝗕𝗔𝗔𝗥",
+          "url": "https://dbstudio.nl/event/ploegendienst/",
+          "tags": [
+            "Punk"
+          ]
         }
       ]
     },
@@ -429,7 +428,7 @@
           "start": "2026-08-08T23:30:00+02:00",
           "end": "2026-08-09T04:00:00+02:00",
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Van de straten van Brazilië naar EKKO: Baila Baixa is een clubnacht waar baile funk centraal staat en invloeden uit de underground elektronische scene ontmoet, van UK sounds tot jersey club en house. Verwacht een mix van baile funk classics, de heetste releases die iedereen kent en frisse…",
+          "description": "Deze clubnacht is helaas afgelast. Kaartkopers ontvangen een mail met daarin meer informatie. Van de straten van Brazilië naar EKKO: Baila Baixa is een clubnacht waar baile funk centraal staat en invloeden uit de underground elektronische scene ontmoet, van UK sounds tot jersey club en house.…",
           "url": "https://ekko.nl/event/baila-baixa/",
           "tags": []
         },
@@ -1144,6 +1143,16 @@
           "tags": []
         },
         {
+          "id": "helling-90s-alternative-04-09-2026",
+          "title": "90’s Alternative",
+          "start": "2026-09-04T22:00:00+02:00",
+          "end": "2026-09-05T03:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Gitaarbangers vers van je walkman!",
+          "url": "https://dehelling.nl/agenda/90s-alternative-04-09-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-vanaheim-album-release-show-05-09-2026",
           "title": "Vanaheim album release show",
           "start": "2026-09-05T19:30:00+02:00",
@@ -1271,6 +1280,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Utrechts nieuwe hardcore-revelatie lanceert debuutalbum met mini-festival",
           "url": "https://dehelling.nl/agenda/state-power-release-show-26-09-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-80s-verantwoord-03-10-2026",
+          "title": "80’s Verantwoord",
+          "start": "2026-10-03T20:00:00+01:00",
+          "end": "2026-10-04T01:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "De grootste credible hits en vergeten parels uit het beste decennium!",
+          "url": "https://dehelling.nl/agenda/80s-verantwoord-03-10-2026/",
           "tags": []
         },
         {
@@ -1924,11 +1943,11 @@
         },
         {
           "id": "603598",
-          "title": "Pirate Borg - Beginner Friendly TTRPG 🦜 (3 tables)",
+          "title": "Pirate Borg - Beginner Friendly TTRPG 🏴‍☠️ (3 tables)",
           "start": "2026-07-29T19:00:00+02:00",
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Pirate Borg - Beginner Friendly TTRPG 🦜 (3 tables) Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp; flintlock…",
+          "description": "Pirate Borg - Beginner Friendly TTRPG 🏴‍☠️ (3 tables) Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp; flintlock…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/9c87cc78-58ea-4a19-93ed-17e3adf4c016",
           "tags": []
         },
@@ -2259,19 +2278,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-luisteravond-3",
-          "title": "Luisteravond",
-          "start": "2026-07-24T00:00:00+02:00",
-          "end": "2026-07-24T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/luisteravond-3/",
-          "tags": [
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-de-betonnerie-tweedekansmarkt-15",
           "title": "De Betonnerie – tweedekansmarkt",
           "start": "2026-07-26T00:00:00+02:00",
@@ -2384,6 +2390,19 @@
             "Sport",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-workshop-chinese-landschappen-schilderen-creatiehallen",
+          "title": "Workshop Chinese landschappen schilderen – Creatiehallen",
+          "start": "2026-07-31T00:00:00+02:00",
+          "end": "2026-07-31T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/workshop-chinese-landschappen-schilderen-creatiehallen/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
         }
       ]
     },
@@ -2395,6 +2414,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260919-backhoe-loader-aquelarre-dyslekt",
+          "title": "Backhoe Loader + Aquelarre + Dyslekt",
+          "start": "2026-09-19T00:00:00+02:00",
+          "end": "2026-09-19T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 19th. hardcore/screamo/slam band night. soil promotions presents BACKHOE LOADER Twente slamdown – A band that combines slam and beatdown. Low gutterals, agressive mosh calls, slow riffs and even slower breakdowns by combinings these thing you’ll get a band that sounds like pure hate.…",
+          "url": "https://acu.nl/events/20260919/backhoe-loader-aquelarre-dyslekt",
+          "tags": []
+        },
         {
           "id": "acu-20260725-wavecrash-revival",
           "title": "WAVECRASH REVIVAL",
@@ -2473,16 +2502,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "November 18th. EKKO x ACU Band Night. DISCOPUNK THAT FALLS BETWEEN CHAOS AND THEATRE Lézard balances on the cutting edge of comedy and tragedy with an explosive mix of post-punk, disco, glam rock, new wave, and electroclash. Their debut album ‘Que Se Passe t-il’ feels like a chaotic diorama in…",
           "url": "https://acu.nl/events/20261118/lezard-post-punk-disco",
-          "tags": []
-        },
-        {
-          "id": "acu-20260911-francis-of-delirium-indie-rock",
-          "title": "Francis of Delirium (Indie Rock)",
-          "start": "2026-09-11T00:00:00+02:00",
-          "end": "2026-09-11T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 11th. EKKO in ACU Band Night. ROUSING INDIE ROCK WITH A GRITTY EDGE FROM LUXEMBOURG Francis of Delirium is the project of Jana Bahrich, the Luxembourg-based indie rock artist who is rapidly making a name for herself. With a sound that blends grunge, folk, and power pop, she writes…",
-          "url": "https://acu.nl/events/20260911/francis-of-delirium-indie-rock",
           "tags": []
         }
       ]
@@ -2755,7 +2774,8 @@
             "Trance"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "soia-utrecht",
@@ -4076,6 +4096,26 @@
           "tags": []
         },
         {
+          "id": "77750",
+          "title": "Intouchables Live in Concert",
+          "start": "2027-02-15T20:00:00.000Z",
+          "end": "2027-02-15T23:00:00.000Z",
+          "location": "Rotterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77750",
+          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
+          "tags": []
+        },
+        {
+          "id": "77751",
+          "title": "Intouchables Live in Concert",
+          "start": "2027-02-16T20:00:00.000Z",
+          "end": "2027-02-16T23:00:00.000Z",
+          "location": "Nijmegen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77751",
+          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
+          "tags": []
+        },
+        {
           "id": "74285",
           "title": "Outlander in Concert",
           "start": "2027-02-20T20:00:00.000Z",
@@ -4083,6 +4123,26 @@
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74285",
           "description": "Bear McCreary - Outlander<BR><BR>Do you ever feel as if everything is pointing you towards something&hellip;space, time, history? <BR><BR>For longtime “Outlander” fans, these words feel like home. As the global phenomenon reaches its conclusion in 2026, its heart continues to beat on sta",
+          "tags": []
+        },
+        {
+          "id": "77752",
+          "title": "Intouchables Live in Concert",
+          "start": "2027-02-22T20:00:00.000Z",
+          "end": "2027-02-22T23:00:00.000Z",
+          "location": "Rotterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77752",
+          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
+          "tags": []
+        },
+        {
+          "id": "77753",
+          "title": "Intouchables Live in Concert",
+          "start": "2027-02-23T20:00:00.000Z",
+          "end": "2027-02-23T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77753",
+          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
           "tags": []
         },
         {
@@ -4594,16 +4654,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-circus-olifant-23-juli-2026",
-          "title": "Circus Olifant &#8211; 23 juli 2026",
-          "start": "2026-07-23T10:00:00+02:00",
-          "end": "2026-07-23T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/circus-olifant-23-juli/",
-          "tags": []
-        },
         {
           "id": "muiderslot-meespeeltheater-24-juli-2026-2026",
           "title": "Meespeeltheater &#8211; 24 juli 2026",
@@ -5343,6 +5393,17 @@
       "scene": "buhurt",
       "feedUrl": "https://www.buhurtinternational.com/tournaments",
       "events": [
+        {
+          "id": "bi-king-kazimierz-cup-v",
+          "title": "King Kazimierz Cup V 2026",
+          "start": "2026-09-12T00:00:00+02:00",
+          "end": "2026-09-12T23:00:00+02:00",
+          "location": "Poland",
+          "country": "Poland",
+          "description": "Buhurt-toernooi in Poland.",
+          "url": "https://www.buhurtinternational.com/tournament/king-kazimierz-cup-v",
+          "tags": []
+        },
         {
           "id": "bi-1.-eisencup-2026",
           "title": "1. Eisencup 2026",

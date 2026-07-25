@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T07:35:40.499Z",
+  "updatedAt": "2026-07-25T07:22:02.172Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -328,7 +328,7 @@
           "start": "2026-09-17T19:30:00+02:00",
           "end": "2026-09-17T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Feest want Wabi Sabi komt de nieuwe release presenteren. Nelles doet het voorprogramma, en na afloop van de bands verzorgt Wabi Sabi zelf nog een DJ set. \n  \n\nWabi Sabi\nWabi Sabi fuseert hypnotiserende grooves, droomachtige texturen en introspectieve lyrics. Een sonische reis, waar obscuriteiten…",
+          "description": "Feest want Wabi Sabi komt de nieuwe release presenteren. Nelles doet het voorprogramma, en na afloop van de bands verzorgt Wabi Sabi zelf nog een DJ set. \nWabi Sabi\nWabi Sabi fuseert hypnotiserende grooves, droomachtige texturen en introspectieve lyrics. Een sonische reis, waar obscuriteiten worden…",
           "url": "https://dbstudio.nl/event/wabi-sabi-release-party-nelles/",
           "tags": [
             "Concert",
@@ -422,6 +422,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "29351",
+          "title": "Bedouine",
+          "start": "2026-09-03T20:00:00+02:00",
+          "end": "2026-09-03T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Bedouine is het muzikale project van Azniv Korkejian. Ze maakt verstilde folkpop vol warme melodieën en intieme verhalen. Met haar kenmerkende fingerpicked gitaarspel en tijdloze songwriting maakt ze songs die klein beginnen maar langzaam uitgroeien tot emotionele landschappen. Op haar nieuwe album…",
+          "url": "https://ekko.nl/event/bedouine/",
+          "tags": []
+        },
         {
           "id": "30339",
           "title": "Baila Baixa",
@@ -903,16 +913,6 @@
           "tags": []
         },
         {
-          "id": "29351",
-          "title": "Bedouine",
-          "start": "2026-09-03T20:00:00+02:00",
-          "end": "2026-09-03T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Bedouine is het muzikale project van Azniv Korkejian. Ze maakt verstilde folkpop vol warme melodieën en intieme verhalen. Met haar kenmerkende fingerpicked gitaarspel en tijdloze songwriting maakt ze songs die klein beginnen maar langzaam uitgroeien tot emotionele landschappen. Op haar nieuwe album…",
-          "url": "https://ekko.nl/event/bedouine/",
-          "tags": []
-        },
-        {
           "id": "29378",
           "title": ".multibeat",
           "start": "2026-10-02T20:00:00+01:00",
@@ -1353,6 +1353,16 @@
           "tags": []
         },
         {
+          "id": "helling-billie-eilish-fanparty-20-10-2026",
+          "title": "Billie Eilish Fanparty",
+          "start": "2026-10-20T19:00:00+01:00",
+          "end": "2026-10-20T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Where are Billie’s good girls and bad guys at?",
+          "url": "https://dehelling.nl/agenda/billie-eilish-fanparty-20-10-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-acres-wayside-what-lies-below-lifespark-21-10-2026",
           "title": "Acres + Wayside + What Lies Below + Lifespark",
           "start": "2026-10-21T19:30:00+01:00",
@@ -1643,26 +1653,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "486484",
-          "title": "Salsa on Friday",
-          "start": "2026-07-24T20:15:00+02:00",
-          "end": "2026-07-24T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Dit evenement, geschikt voor beginners en gevorderden, is een dansavond waar DJ's de lekkerste salsa hits draaien, van klassiekers tot nieuwe favorieten. Bezoekers zijn welkom om te dansen, te leren of nieuwe mensen te ontmoeten in een warme en gastvrije sfeer. Het evenement begint met een workshop…",
-          "url": "https://www.podiuminfo.nl/concert/486484/Salsa-on-Friday/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "477366",
-          "title": "After Sun: Hitjesgolf",
-          "start": "2026-07-24T22:00:00+02:00",
-          "end": "2026-07-24T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Zodra de zomerdag ten einde loopt, begint After Sun, de nieuwe zomernacht in de Ronda. Hier kan men de buitenwarmte verruilen voor de verkoeling van de airco en genieten van een golf van de beste muziek. De avond biedt een mix van festivalhits, zwoele R&B-tracks en de populairste hits van dit…",
-          "url": "https://www.podiuminfo.nl/concert/477366/After-Sun-Hitjesgolf/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "468798",
           "title": "Swinging in the Clouds: Adam Hall & The Velvet Playboys",
           "start": "2026-07-25T19:30:00+02:00",
@@ -1881,6 +1871,26 @@
           "description": "Op zaterdag 8 augustus keert Wasserette terug naar de Pandora zaal van TivoliVredenburg. Bezoekers kunnen een avond vol tropische klanken verwachten, met een energieke mix van diverse genres zoals Dancehall, Afro, R&B en Latin. Dit evenement belooft een onvergetelijke belevenis te worden, waarbij…",
           "url": "https://www.podiuminfo.nl/concert/480150/Wasserette/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "452711",
+          "title": "Arch Enemy",
+          "start": "2026-08-09T21:00:00+02:00",
+          "end": "2026-08-09T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Zweedse melodieuze-deathmetalband Arch Enemy bestaat ruim 30 jaar en begint inmiddels aan zijn vierde leven. Al die tijd weet de band compromisloze agressie te combineren met melodieuze elementen, zoals te horen op hun beste albums Wages Of Sin (2001) en Doomsday Machine (2005). Nadat frontvrouw…",
+          "url": "https://www.podiuminfo.nl/concert/452711/Arch-Enemy/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "456715",
+          "title": "Wolves In The Throne Room",
+          "start": "2026-08-11T20:00:00+02:00",
+          "end": "2026-08-11T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Amerikaanse blackmetaltrio Wolves In The Throne Room neemt een geheel eigen plek in binnen het genre: ze laten zich inspireren door de majestueuze natuur van Noordwest-Amerika. Meer spiritueel dan satanisch dus, desondanks is hun metal harder dan hard, weet iedereen die de heren wel eens live…",
+          "url": "https://www.podiuminfo.nl/concert/456715/Wolves-In-The-Throne-Room/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1901,6 +1911,16 @@
       "scene": "games",
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
+        {
+          "id": "603657",
+          "title": "D&D 5.5e: Dark Matter \"Mall-mazing\"",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5.5e: Dark Matter \"Mall-mazing\" Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter campaign…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/65aeb561-08b7-4c31-81e7-7236400a0c29",
+          "tags": []
+        },
         {
           "id": "602792",
           "title": "EIDOLON: Become Your Best Self \"Follow Your Ghost\"",
@@ -1929,6 +1949,16 @@
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Mothership, a sci-fi RPG Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate dangerous…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/4997f45a-2c3d-4c20-b0cc-db540b5aa92b",
+          "tags": []
+        },
+        {
+          "id": "603663",
+          "title": "Murder of Crows - The Crowette from Shanghai [Beginner friendly]",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Murder of Crows - The Crowette from Shanghai [Beginner friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Indie RPG Written by Maya Saveliev &amp;amp;amp; Michael E. Weil A murder investigation TTRPG Play as agents of the Crow Anticrime Wing (C.A.W) as they try to figure out who…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/447b9413-b592-4aa2-8e97-6d773c76a8cd",
           "tags": []
         },
         {
@@ -2403,6 +2433,34 @@
             "Workshop",
             "Vechtclub Keiland"
           ]
+        },
+        {
+          "id": "beton-basis-outdoor-2026",
+          "title": "Basis Outdoor 2026",
+          "start": "2026-08-01T00:00:00+02:00",
+          "end": "2026-08-01T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/basis-outdoor-2026/",
+          "tags": [
+            "Festival",
+            "Muziek",
+            "Verhoogd geluidslimiet"
+          ]
+        },
+        {
+          "id": "beton-gentle-yoga-2",
+          "title": "Gentle Yoga",
+          "start": "2026-08-02T00:00:00+02:00",
+          "end": "2026-08-02T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/gentle-yoga-2/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2422,16 +2480,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "September 19th. hardcore/screamo/slam band night. soil promotions presents BACKHOE LOADER Twente slamdown – A band that combines slam and beatdown. Low gutterals, agressive mosh calls, slow riffs and even slower breakdowns by combinings these thing you’ll get a band that sounds like pure hate.…",
           "url": "https://acu.nl/events/20260919/backhoe-loader-aquelarre-dyslekt",
-          "tags": []
-        },
-        {
-          "id": "acu-20260725-wavecrash-revival",
-          "title": "WAVECRASH REVIVAL",
-          "start": "2026-07-25T00:00:00+02:00",
-          "end": "2026-07-25T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 25th. minimal wave / synth punk / ebm / post punk / dark wave. Camy Huot is back at ACU, and she’s back with a vengeance. It’s at this point hard to believe the French performance artist and producer started out as a volunteer behind our bar, and actually started out DJing in our...",
-          "url": "https://acu.nl/events/20260725/wavecrash-revival",
           "tags": []
         },
         {
@@ -2475,16 +2523,6 @@
           "tags": []
         },
         {
-          "id": "acu-20260725-shoegaze-against-abuse",
-          "title": "SHOEGAZE AGAINST ABUSE",
-          "start": "2026-07-25T00:00:00+02:00",
-          "end": "2026-07-25T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "July 25th. Fundraiser for Centrum Seksueel Geweld with Food, Panels + Shoegaze bands Crashing & Fernweh. SHOEGAZE AGAINST ABUSE Crashing and Rampoline Productions are proud to host ‘Shoegaze Against Abuse’, a fundraiser for Centrum Seksueel Geweld Speaking up against abuse both within and outside…",
-          "url": "https://acu.nl/events/20260725/shoegaze-against-abuse",
-          "tags": []
-        },
-        {
           "id": "acu-20261008-john-coffey-punk-rock",
           "title": "John Coffey (Punk / Rock)",
           "start": "2026-10-08T00:00:00+01:00",
@@ -2514,19 +2552,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001484-1784937540-1784959200",
-          "title": "BASIS Talent Night/ LAUZ/ Loyk/ Nito/ S.H.A.R.P",
-          "start": "2026-07-24T23:59:00+02:00",
-          "end": "2026-07-25T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-talent-night-lauz-loyk-nito-s-h-a-r-p/",
-          "tags": [
-            "Groovy techno",
-            "Hardgroove"
-          ]
-        },
         {
           "id": "basis-utrecht-10001487-1785023940-1785023940",
           "title": "BASIS/ DJ Cringey/ Eva Bon/ Luca v/d Hombergh/ NYCO",
@@ -2774,8 +2799,7 @@
             "Trance"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "soia-utrecht",
@@ -2856,6 +2880,16 @@
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
         {
+          "id": "77765",
+          "title": "Dokwerk Saxophone Quartet",
+          "start": "2026-07-29T20:00:00.000Z",
+          "end": "2026-07-29T23:00:00.000Z",
+          "location": "Hoenderloo, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77765",
+          "description": "Dokwerk Saxophone Quartet:<BR>Lisa Schreiber, sopraansax<BR>Jen-Hong Wu, altsax<BR>Ileana Termini, tenorsax<BR>Pedro Silva, baritonsax <BR><BR>A dragon with four heads – that's how you could see the Dokwerk Saxophone Quartet: four powerful voices, breathing as one.<BR><BR>Dokwerk is k",
+          "tags": []
+        },
+        {
           "id": "76971",
           "title": "Tribute to Howard Shore",
           "start": "2026-08-02T20:00:00.000Z",
@@ -2883,6 +2917,16 @@
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73711",
           "description": "The most beautiful music from beloved family films, such as Frozen , Aladdin , Harry Potter and The Lion King .<BR><BR>Beautiful film music for the whole family on Sunday afternoon. Be swept away by the iconic sounds from Frozen, Harry Potter and The Lion King , among others, performed by the Leipzi",
+          "tags": []
+        },
+        {
+          "id": "77784",
+          "title": "Cinema Morricone",
+          "start": "2026-08-19T20:00:00.000Z",
+          "end": "2026-08-19T23:00:00.000Z",
+          "location": "Den Haag (The Hague), Scheveningen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77784",
+          "description": "Cinema Morricone:<BR>An Intimate Celebration<BR><BR>Sara Andon, flute &bull; Simone Pedroni, piano<BR><BR>Music composed by Ennio Morricone (1928-2020)<BR>Transcriptions and arrangements by Simone Pedroni<BR><BR>Produced by Robert Townson<BR><BR>more details to be announced",
           "tags": []
         },
         {
@@ -4655,16 +4699,6 @@
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
         {
-          "id": "muiderslot-meespeeltheater-24-juli-2026-2026",
-          "title": "Meespeeltheater &#8211; 24 juli 2026",
-          "start": "2026-07-24T10:00:00+02:00",
-          "end": "2026-07-24T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/meespeeltheater-24-juli-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-pride-liefdestours-op-25-juli-2026-2026",
           "title": "Pride Liefdestours op 25 juli 2026",
           "start": "2026-07-25T10:00:00+02:00",
@@ -5165,16 +5199,6 @@
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
         {
-          "id": "brederode-valkenier-met-roofvogels-2026-07-24",
-          "title": "Valkenier met roofvogels",
-          "start": "2026-07-24T11:00:00+02:00",
-          "end": "2026-07-24T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/valkenier-24juli/",
-          "tags": []
-        },
-        {
           "id": "brederode-valkenier-met-roofvogels-2026-07-31",
           "title": "Valkenier met roofvogels",
           "start": "2026-07-31T11:00:00+02:00",
@@ -5335,19 +5359,6 @@
       "scene": "buhurt",
       "feedUrl": "https://www.worldofbuhurt.com/tournaments",
       "events": [
-        {
-          "id": "wob-severnside-clash-2026",
-          "title": "Severnside Clash 2026",
-          "start": "2026-07-25T00:00:00+02:00",
-          "end": "2026-07-25T23:00:00+02:00",
-          "location": "Gloucester, United Kingdom",
-          "country": "United Kingdom",
-          "description": "Buhurt-toernooi in United Kingdom. 25 July 2026.",
-          "url": "https://www.worldofbuhurt.com/tournaments/severnside-clash-2026",
-          "tags": [
-            "Melee"
-          ]
-        },
         {
           "id": "wob-way-of-honor-2026",
           "title": "Way of Honor 2026",
@@ -5512,17 +5523,6 @@
           "country": "Germany",
           "description": "Buhurt-toernooi in Germany.",
           "url": "https://www.buhurtinternational.com/tournament/\"way-of-honor\"",
-          "tags": []
-        },
-        {
-          "id": "bi-severnside-clash",
-          "title": "Severnside Clash 2026",
-          "start": "2026-07-25T00:00:00+02:00",
-          "end": "2026-07-25T23:00:00+02:00",
-          "location": "United Kingdom",
-          "country": "United Kingdom",
-          "description": "Buhurt-toernooi in United Kingdom.",
-          "url": "https://www.buhurtinternational.com/tournament/severnside-clash",
           "tags": []
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T07:22:02.172Z",
+  "updatedAt": "2026-07-26T07:38:04.577Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1653,36 +1653,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "468798",
-          "title": "Swinging in the Clouds: Adam Hall & The Velvet Playboys",
-          "start": "2026-07-25T19:30:00+02:00",
-          "end": "2026-07-25T20:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Adam Hall, trompettist, zanger en componist uit Perth, Australië, brengt zijn band 'The Velvet Playboys' mee voor een avond vol Jazz en Rhythm & Blues uit de jaren '40 en '50. Verwacht een meeslepend optreden vol rauwe energie en uitzonderlijk showmanschap. Voorafgaand aan het concert organiseert…",
-          "url": "https://www.podiuminfo.nl/concert/468798/Swinging-in-the-Clouds-Adam-Hall-The-Velvet-Playboys/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "456765",
-          "title": "Tarrus Riley ft Dean Fraser",
-          "start": "2026-07-25T20:30:00+02:00",
-          "end": "2026-07-25T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Jamaicaanse reggaezanger Tarrus Riley, zoon van wijlen Jimmy Riley, brengt een energieke show waarin hij klassieke rootsreggae combineert met dancehall. Riley, die al zes albums heeft uitgebracht waaronder het recente 'Healing' (2020), leerde het artiestenvak van jongs af aan. Tijdens zijn…",
-          "url": "https://www.podiuminfo.nl/concert/456765/Tarrus-Riley-ft-Dean-Fraser/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "483329",
-          "title": "Pop-O-Matic",
-          "start": "2026-07-25T23:30:00+02:00",
-          "end": "2026-07-26T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Pop-O-Matic transformeert Pandora tot de meest veelzijdige dansvloer van UUU. DJ St. Paul en VJ Switchdoctor combineren diverse stijlen, tijden en subculturen tot een unieke mix. Het muzikale aanbod is altijd actueel en trendsettend, maar de toegangsdrempel blijft laagdrempelig. Bezoekers kunnen…",
-          "url": "https://www.podiuminfo.nl/concert/483329/Pop-O-Matic/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "460246",
           "title": "DZ Deathrays",
           "start": "2026-07-26T20:30:00+02:00",
@@ -1890,6 +1860,36 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Het Amerikaanse blackmetaltrio Wolves In The Throne Room neemt een geheel eigen plek in binnen het genre: ze laten zich inspireren door de majestueuze natuur van Noordwest-Amerika. Meer spiritueel dan satanisch dus, desondanks is hun metal harder dan hard, weet iedereen die de heren wel eens live…",
           "url": "https://www.podiuminfo.nl/concert/456715/Wolves-In-The-Throne-Room/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "483029",
+          "title": "Sherpa Steps",
+          "start": "2026-08-12T13:30:00+02:00",
+          "end": "2026-08-12T14:30:00.000Z",
+          "location": "Geertekerk, Geertekerkhof 23, Utrecht",
+          "description": "Dit gratis concert van Sherpa Steps is onderdeel van de serie Kerken Luisteren, georganiseerd door ZIMIHC in samenwerking met Kerken Kijken Utrecht. Van 26 juni tot en met 3 september worden 24 middagconcerten gehouden in zeven kerken in de Utrechtse binnenstad. De muzikale programmering omvat…",
+          "url": "https://www.podiuminfo.nl/concert/483029/Sherpa-Steps/Geertekerk/",
+          "tags": []
+        },
+        {
+          "id": "451355",
+          "title": "High On Fire",
+          "start": "2026-08-12T20:00:00+02:00",
+          "end": "2026-08-12T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse metalband High On Fire maakt een verpletterende mix van sludge, thrash en stoner, nu al 28 jaar zonder te verslappen. Frontman Matt Pike is dan ook een harde werker: behalve in High On Fire zit hij ook nog in de doommetalband Sleep. De rauwe stem van Pike doet soms denken aan Lemmy –…",
+          "url": "https://www.podiuminfo.nl/concert/451355/High-On-Fire/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "483030",
+          "title": "Wym van Noort in de Lutherse Kerk",
+          "start": "2026-08-14T13:30:00+02:00",
+          "end": "2026-08-14T14:30:00.000Z",
+          "location": "Lutherse Kerk, Hamburgerstraat 9, Utrecht",
+          "description": "Wym van Noort geeft een gratis concert in de Lutherse Kerk als onderdeel van de serie 'Kerken Luisteren'. Deze serie, georganiseerd door ZIMIHC in samenwerking met Kerken Kijken Utrecht, biedt gedurende de zomer 24 middagconcerten aan in zeven kerken in de Utrechtse binnenstad. De muzikale genres…",
+          "url": "https://www.podiuminfo.nl/concert/483030/Wym-van-Noort-in-de-Lutherse-Kerk/Lutherse-Kerk/",
           "tags": []
         }
       ]
@@ -2308,23 +2308,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-de-betonnerie-tweedekansmarkt-15",
-          "title": "De Betonnerie – tweedekansmarkt",
-          "start": "2026-07-26T00:00:00+02:00",
-          "end": "2026-07-26T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/de-betonnerie-tweedekansmarkt-15/",
-          "tags": [
-            "Eten / Drinken",
-            "Gratis",
-            "Markt",
-            "Muziek",
-            "Studio-T",
-            "Terras"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-10",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-07-27T00:00:00+02:00",
@@ -2461,6 +2444,19 @@
             "Workshop",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-9",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-08-03T00:00:00+02:00",
+          "end": "2026-08-03T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-9/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
         }
       ]
     },
@@ -2552,20 +2548,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001487-1785023940-1785023940",
-          "title": "BASIS/ DJ Cringey/ Eva Bon/ Luca v/d Hombergh/ NYCO",
-          "start": "2026-07-25T23:59:00+02:00",
-          "end": "2026-07-25T23:59:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-dj-cringey-eva-bon-luca-v-d-hombergh-nyco/",
-          "tags": [
-            "Bounce",
-            "Hard house",
-            "House"
-          ]
-        },
         {
           "id": "basis-utrecht-10001485-1785542340-1785564000",
           "title": "BASIS Talent Night/ Daniel Plainview/ DJ Zelda/ Hedemann/ Jssst",
@@ -2829,16 +2811,6 @@
       "scene": "utrecht",
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
-        {
-          "id": "geheime-liefde-tuinen-van-geluk",
-          "title": "Geheime Liefde: Tuinen van Geluk",
-          "start": "2026-07-25T14:00:00+00:00",
-          "end": "2026-07-25T14:00:00+00:00",
-          "location": "De Middengaarde, Utrecht",
-          "description": "Geheime Liefde organiseer in juli nóg een event: Tuinen van Geluk. Lees hier alles over dit speciale festival op zaterdag 25 juli.",
-          "url": "https://festivalfans.nl/event/geheime-liefde-tuinen-van-geluk/",
-          "tags": []
-        },
         {
           "id": "basis-outdoor",
           "title": "BASIS Outdoor",
@@ -4350,16 +4322,6 @@
           "tags": []
         },
         {
-          "id": "76366",
-          "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2027-04-09T20:00:00.000Z",
-          "end": "2027-04-09T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76366",
-          "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
-          "tags": []
-        },
-        {
           "id": "75704",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
           "start": "2027-04-10T20:00:00.000Z",
@@ -4370,32 +4332,12 @@
           "tags": []
         },
         {
-          "id": "76367",
-          "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2027-04-10T20:00:00.000Z",
-          "end": "2027-04-10T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76367",
-          "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
-          "tags": []
-        },
-        {
           "id": "75703",
           "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
           "start": "2027-04-11T20:00:00.000Z",
           "end": "2027-04-11T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75703",
-          "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
-          "tags": []
-        },
-        {
-          "id": "76368",
-          "title": "The Lord of the Rings: The Fellowship of the Ring in Concert",
-          "start": "2027-04-11T20:00:00.000Z",
-          "end": "2027-04-11T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76368",
           "description": "Howard Shore - The Lord of the Rings: The Fellowship of the Ring<BR><BR>Composer Howard Shore brings J.R.R. Tolkien’s literary imagination to vivid life with his Academy&reg;- and Grammy&reg; Award-winning score to The Lord of the Rings: The Fellowship of the Ring. Shore’s music expresse",
           "tags": []
         },
@@ -4698,16 +4640,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-pride-liefdestours-op-25-juli-2026-2026",
-          "title": "Pride Liefdestours op 25 juli 2026",
-          "start": "2026-07-25T10:00:00+02:00",
-          "end": "2026-07-25T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/pride-liefdestours-op-25-juli-2026/",
-          "tags": []
-        },
         {
           "id": "muiderslot-aan-de-slag-in-het-atelier-2026",
           "title": "Aan de slag in het atelier",
@@ -5039,16 +4971,6 @@
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
         {
-          "id": "loevestein-kasteelschutters-2026-07",
-          "title": "Kasteelschutters",
-          "start": "2026-07-25T10:00:00+02:00",
-          "end": "2026-07-26T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/kasteelschutters/",
-          "tags": []
-        },
-        {
           "id": "loevestein-sluit-je-aan-bij-de-ridderschool-2026-08",
           "title": "Sluit je aan bij de ridderschool",
           "start": "2026-08-01T10:00:00+02:00",
@@ -5276,16 +5198,6 @@
           "location": "Ruïne van Brederode, Santpoort-Zuid",
           "description": "",
           "url": "https://ruinevanbrederode.nl/ruine-bewoond-12-april/",
-          "tags": []
-        },
-        {
-          "id": "brederode-valkenier-birdlive-2026-07-25",
-          "title": "Valkenier Birdlive",
-          "start": "2026-07-25T11:00:00+02:00",
-          "end": "2026-07-25T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/valkenier-birdlive/",
           "tags": []
         },
         {

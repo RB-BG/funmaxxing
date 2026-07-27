@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T07:38:04.577Z",
+  "updatedAt": "2026-07-27T08:34:32.234Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001032",
-          "title": "DZ DEATHRAYS (OZ) + MANNEQUIN DEATH SQUAD (OZ) + Badminton",
-          "start": "2026-07-26T20:00:00+02:00",
-          "end": "2026-07-26T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Remember It’s For Fun! \nEn deze avond gaat FUN worden ook, met de toevoeging van twee mooie openers. Allereerst het Nederlandse Badminton dat hard op weg is een vaste waarde te worden in de NL rockscene met hun energieke mix van alt rock en garage. \nEn we zijn ook zeer blij om het Australische duo…",
-          "url": "https://dbstudio.nl/event/dbs-en-tivoli-vredenburg-present-dz-deathrays-oz/",
-          "tags": [
-            "Garage",
-            "Punk"
-          ]
-        },
         {
           "id": "10001042",
           "title": "200 STAB WOUNDS (USA) + Caedere + Backhoe Loader",
@@ -410,6 +397,19 @@
           "url": "https://dbstudio.nl/event/ploegendienst/",
           "tags": [
             "Punk"
+          ]
+        },
+        {
+          "id": "10001111",
+          "title": "Metal Quiz & Karaoke",
+          "start": "2026-09-26T19:30:00+02:00",
+          "end": "2026-09-26T23:30:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "METAL KARAOKE!\nOf je nu klinkt als Rob Halford of een kettingzaag in de regen — het podium is van jou. Niet zo’n metalhead, maar wél karaokegek?\nZing je favoriete Mariah Carey, maar je grunt wel eerst de eerste zin. Regels zijn regels, ook voor glitterdiva’s. Kom headbangen, lachen, winnen en…",
+          "url": "https://dbstudio.nl/event/metal-quiz-karaoke/",
+          "tags": [
+            "Cafe",
+            "Metal Quiz & Karaoke"
           ]
         }
       ]
@@ -1653,16 +1653,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "460246",
-          "title": "DZ Deathrays",
-          "start": "2026-07-26T20:30:00+02:00",
-          "end": "2026-07-26T21:30:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "De Australische band DZ Deathrays mengt garagerock, punk en dansbare beats tot een explosieve cocktail. In hun thuisland zijn deze trashy rockers razend populair – zo werden ze in 2018 uitverkoren door Foo Fighters als support van hun Australische stadiontour. Hoewel DZ Deathrays er een stevig…",
-          "url": "https://www.podiuminfo.nl/concert/460246/DZ-Deathrays/dBs/",
-          "tags": []
-        },
-        {
           "id": "482694",
           "title": "YIP in de Lutherse Kerk",
           "start": "2026-07-31T13:30:00+02:00",
@@ -1891,6 +1881,16 @@
           "description": "Wym van Noort geeft een gratis concert in de Lutherse Kerk als onderdeel van de serie 'Kerken Luisteren'. Deze serie, georganiseerd door ZIMIHC in samenwerking met Kerken Kijken Utrecht, biedt gedurende de zomer 24 middagconcerten aan in zeven kerken in de Utrechtse binnenstad. De muzikale genres…",
           "url": "https://www.podiuminfo.nl/concert/483030/Wym-van-Noort-in-de-Lutherse-Kerk/Lutherse-Kerk/",
           "tags": []
+        },
+        {
+          "id": "486488",
+          "title": "Salsa on Friday",
+          "start": "2026-08-14T20:15:00+02:00",
+          "end": "2026-08-14T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Salsa on Friday biedt een avond voor iedereen die van salsa houdt, van beginners tot gevorderden. De aanwezige dj's verzorgen een selectie van salsa hits, variërend van klassiekers tot nieuwe favorieten. Bezoekers zijn welkom om te dansen, nieuwe passen te leren, of sociale contacten te leggen in…",
+          "url": "https://www.podiuminfo.nl/concert/486488/Salsa-on-Friday/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1918,7 +1918,27 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "D&amp;D 5.5e: Dark Matter \"Mall-mazing\" Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter campaign…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/65aeb561-08b7-4c31-81e7-7236400a0c29",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "603840",
+          "title": "D&D 5.5e Phandelver: Thralls of Enternality",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "603837",
+          "title": "DnD 5e (One-Shot/ Beginner Friendly/ Level 1) The Missing Mead Mystery",
+          "start": "2026-07-29T19:00:00+02:00",
+          "end": "2026-07-29T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "DnD 5e (One-Shot/ Beginner Friendly/ Level 1) The Missing Mead Mystery Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Location: De Bierkantine, Utrecht | Walk-in: 18:30 to 19:00 | Participation fee: €5 | No need to bring or know anything about RPGs (you…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
@@ -1928,7 +1948,7 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "EIDOLON: Become Your Best Self \"Follow Your Ghost\" Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Molly Rhinebeck and Luke Varner EIDOLON: Become Your Best Self is a tabletop RPG where you look deep inside yourself to find the power lying dormant within, nourish…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/438af1d1-1e81-49c7-a357-2a7bb18b203e",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
@@ -1938,7 +1958,7 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Blades in the Dark - Sandmen [Beginner-friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/818a15b9-2ee4-42d5-9f5e-79f644bc0d27",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
@@ -1948,7 +1968,7 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Mothership, a sci-fi RPG Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate dangerous…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/4997f45a-2c3d-4c20-b0cc-db540b5aa92b",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
@@ -1958,7 +1978,7 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Murder of Crows - The Crowette from Shanghai [Beginner friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Indie RPG Written by Maya Saveliev &amp;amp;amp; Michael E. Weil A murder investigation TTRPG Play as agents of the Crow Anticrime Wing (C.A.W) as they try to figure out who…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/447b9413-b592-4aa2-8e97-6d773c76a8cd",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
@@ -1968,7 +1988,7 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "PFS2: 🍻 Port Peril Pub Crawl [Beginner-friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by James Case Venture-Captain Calisro Benarry has arranged for the PC’s…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/09ec8453-f786-401c-94bf-2c7092978f9c",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
@@ -1978,7 +1998,7 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Pirate Borg - Beginner Friendly TTRPG 🏴‍☠️ (3 tables) Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp; flintlock…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/9c87cc78-58ea-4a19-93ed-17e3adf4c016",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
@@ -1988,7 +2008,7 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Golven in Oevervoorde Wed 29/7 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/0bf631d1-7e67-43fd-99e2-e826b8e0a42e",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
@@ -1998,7 +2018,7 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Wanderhome - The Aristobats Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy fields,…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/dab69a4c-d574-4da7-86ba-d8318b64939a",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
@@ -2008,7 +2028,7 @@
           "end": "2026-07-29T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Wanderhome - the grotto bookstore (beginner friendly!) Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule/sessions/94b762dc-191d-4fdc-8158-c872468467fb",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         }
       ]
@@ -2020,7 +2040,56 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": []
+      "events": [
+        {
+          "id": "lab-monkey-22938",
+          "title": "Commander Tuesday",
+          "start": "2026-07-28T18:00:00+02:00",
+          "end": "2026-07-28T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-236/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
+          "id": "lab-monkey-22944",
+          "title": "Weekly Draft",
+          "start": "2026-07-30T19:00:00+02:00",
+          "end": "2026-07-30T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-120/",
+          "tags": [
+            "Draft"
+          ]
+        },
+        {
+          "id": "lab-monkey-22940",
+          "title": "Prerelease Ticket – Zaterdag 11:00 – 1v1 – The Hobbit",
+          "start": "2026-08-08T11:00:00+02:00",
+          "end": "2026-08-08T17:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "Een nieuwe set betekend een prerelease! Let op wij beginnen om 11:00! Je krijgt 6 boosters, een random foil en natuurlijk de befaamde spindown dobbelsteen. Deelnamekosten: €50,-. We spelen 4 rondes Swiss (je kunt elke ronde spelen). Per speler gaat er 1.5 Play Booster in de prijzenpot. Bestel hier…",
+          "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zaterdag-1100-1v1-the-hobbit/",
+          "tags": [
+            "Pre-release"
+          ]
+        },
+        {
+          "id": "lab-monkey-22941",
+          "title": "Prerelease Ticket – Zondag 11:00 – 1v1 – The Hobbit",
+          "start": "2026-08-09T11:00:00+02:00",
+          "end": "2026-08-09T17:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "Een nieuwe set betekend een prerelease! Let op wij beginnen om 11:00! Je krijgt 6 boosters, een random foil en natuurlijk de befaamde spindown dobbelsteen. Deelnamekosten: €50,-. We spelen 4 rondes Swiss (je kunt elke ronde spelen). Per speler gaat er 1.5 Play Booster in de prijzenpot. Bestel hier…",
+          "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zondag-1100-1v1-the-hobbit/",
+          "tags": [
+            "Pre-release"
+          ]
+        }
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2308,61 +2377,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-10",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-07-27T00:00:00+02:00",
-          "end": "2026-07-27T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-10/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-32",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-07-27T00:00:00+02:00",
-          "end": "2026-07-27T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-32/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-14",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-07-27T00:00:00+02:00",
-          "end": "2026-07-27T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-14/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-31",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-07-27T00:00:00+02:00",
-          "end": "2026-07-27T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-31/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
           "id": "beton-cafe-pause-ai",
           "title": "Café Pause AI",
           "start": "2026-07-28T00:00:00+02:00",
@@ -2454,6 +2468,20 @@
           "description": "",
           "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-9/",
           "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-33",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-08-03T00:00:00+02:00",
+          "end": "2026-08-03T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-33/",
+          "tags": [
+            "Kunst",
             "Workshop",
             "Vechtclub XL"
           ]
@@ -4501,7 +4529,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",

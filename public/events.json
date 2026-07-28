@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T08:34:32.234Z",
+  "updatedAt": "2026-07-28T07:42:18.812Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -423,26 +423,6 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
-          "id": "29351",
-          "title": "Bedouine",
-          "start": "2026-09-03T20:00:00+02:00",
-          "end": "2026-09-03T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Bedouine is het muzikale project van Azniv Korkejian. Ze maakt verstilde folkpop vol warme melodieën en intieme verhalen. Met haar kenmerkende fingerpicked gitaarspel en tijdloze songwriting maakt ze songs die klein beginnen maar langzaam uitgroeien tot emotionele landschappen. Op haar nieuwe album…",
-          "url": "https://ekko.nl/event/bedouine/",
-          "tags": []
-        },
-        {
-          "id": "30339",
-          "title": "Baila Baixa",
-          "start": "2026-08-08T23:30:00+02:00",
-          "end": "2026-08-09T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Deze clubnacht is helaas afgelast. Kaartkopers ontvangen een mail met daarin meer informatie. Van de straten van Brazilië naar EKKO: Baila Baixa is een clubnacht waar baile funk centraal staat en invloeden uit de underground elektronische scene ontmoet, van UK sounds tot jersey club en house.…",
-          "url": "https://ekko.nl/event/baila-baixa/",
-          "tags": []
-        },
-        {
           "id": "30412",
           "title": "Musical Rave",
           "start": "2026-08-22T22:30:00+02:00",
@@ -450,6 +430,16 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De start van het theaterseizoen vieren we niet in rode pluche stoelen, maar op de dansvloer. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg:…",
           "url": "https://ekko.nl/event/musicalrave/",
+          "tags": []
+        },
+        {
+          "id": "29351",
+          "title": "Bedouine",
+          "start": "2026-09-03T20:00:00+02:00",
+          "end": "2026-09-03T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Bedouine is het muzikale project van Azniv Korkejian. Ze maakt verstilde folkpop vol warme melodieën en intieme verhalen. Met haar kenmerkende fingerpicked gitaarspel en tijdloze songwriting maakt ze songs die klein beginnen maar langzaam uitgroeien tot emotionele landschappen. Op haar nieuwe album…",
+          "url": "https://ekko.nl/event/bedouine/",
           "tags": []
         },
         {
@@ -1503,6 +1493,16 @@
           "tags": []
         },
         {
+          "id": "helling-violent-vira-21-11-2026",
+          "title": "Violent Vira",
+          "start": "2026-11-21T20:00:00+01:00",
+          "end": "2026-11-21T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Duistere altrockzangeres met songteksten die druipen van het bloed",
+          "url": "https://dehelling.nl/agenda/violent-vira-21-11-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-the-hillbilly-moonshiners-28-11-2026",
           "title": "The Hillbilly Moonshiners",
           "start": "2026-11-28T20:45:00+01:00",
@@ -2377,20 +2377,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cafe-pause-ai",
-          "title": "Café Pause AI",
-          "start": "2026-07-28T00:00:00+02:00",
-          "end": "2026-07-28T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cafe-pause-ai/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-46",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-07-29T00:00:00+02:00",
@@ -2484,6 +2470,62 @@
             "Kunst",
             "Workshop",
             "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-15",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-08-03T00:00:00+02:00",
+          "end": "2026-08-03T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-15/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-32",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-08-03T00:00:00+02:00",
+          "end": "2026-08-03T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-32/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-10",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-08-03T00:00:00+02:00",
+          "end": "2026-08-03T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-10/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-47",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-08-05T00:00:00+02:00",
+          "end": "2026-08-05T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-47/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
           ]
         }
       ]
@@ -4529,8 +4571,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4669,26 +4710,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-aan-de-slag-in-het-atelier-2026",
-          "title": "Aan de slag in het atelier",
-          "start": "2026-07-27T10:00:00+02:00",
-          "end": "2026-08-16T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/aan-de-slag-in-het-atelier/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-workshop-linosnede-drukken-2026",
-          "title": "Workshop: Linosnede drukken",
-          "start": "2026-07-27T10:00:00+02:00",
-          "end": "2026-08-16T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/workshop-linosnede-drukken/",
-          "tags": []
-        },
         {
           "id": "muiderslot-tuinsafari-28-juli-2026-2026",
           "title": "Tuinsafari 28 juli 2026",

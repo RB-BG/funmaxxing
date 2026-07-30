@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T07:46:24.018Z",
+  "updatedAt": "2026-07-30T07:36:35.822Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1922,116 +1922,6 @@
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
-          "id": "603657",
-          "title": "D&D 5.5e: Dark Matter \"Mall-mazing\"",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "D&amp;D 5.5e: Dark Matter \"Mall-mazing\" Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter campaign…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "603840",
-          "title": "D&D 5.5e Phandelver: Thralls of Enternality",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "603837",
-          "title": "DnD 5e (One-Shot/ Beginner Friendly/ Level 1) The Missing Mead Mystery",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "DnD 5e (One-Shot/ Beginner Friendly/ Level 1) The Missing Mead Mystery Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Location: De Bierkantine, Utrecht | Walk-in: 18:30 to 19:00 | Participation fee: €5 | No need to bring or know anything about RPGs (you…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "599598",
-          "title": "Blades in the Dark - Sandmen [Beginner-friendly]",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Blades in the Dark - Sandmen [Beginner-friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "601638",
-          "title": "Mothership, a sci-fi RPG",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Mothership, a sci-fi RPG Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate dangerous…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "603663",
-          "title": "Murder of Crows - The Crowette from Shanghai [Beginner friendly]",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Murder of Crows - The Crowette from Shanghai [Beginner friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Indie RPG Written by Maya Saveliev &amp;amp;amp; Michael E. Weil A murder investigation TTRPG Play as agents of the Crow Anticrime Wing (C.A.W) as they try to figure out who…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "599630",
-          "title": "PFS2: 🍻 Port Peril Pub Crawl [Beginner-friendly]",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "PFS2: 🍻 Port Peril Pub Crawl [Beginner-friendly] Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by James Case Venture-Captain Calisro Benarry has arranged for the PC’s…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "603598",
-          "title": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️ (2 tables)",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️ (2 tables) Wed 29/7 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "600149",
-          "title": "Campagne: Golven in Oevervoorde",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Campagne: Golven in Oevervoorde Wed 29/7 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "602799",
-          "title": "Wanderhome - The Aristobats",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - The Aristobats Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy fields,…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "602801",
-          "title": "Wanderhome - the grotto bookstore (beginner friendly!)",
-          "start": "2026-07-29T19:00:00+02:00",
-          "end": "2026-07-29T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - the grotto bookstore (beginner friendly!) Wed 29/7 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
           "id": "604221",
           "title": "DnD 5.5e:Phandelver: Thralls of Eternality",
           "start": "2026-08-05T19:00:00+02:00",
@@ -2062,6 +1952,16 @@
           "tags": []
         },
         {
+          "id": "604223",
+          "title": "TROIKA! - whimsical and weird science-fantasy (beginner friendly!)",
+          "start": "2026-08-05T19:00:00+02:00",
+          "end": "2026-08-05T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "TROIKA! - whimsical and weird science-fantasy (beginner friendly!) Wed 5/8 7-10pm at Subcultures @De Bierkantine English, Indie RPG Character level 0 Location: De Bierkantine, Utrecht | Walk-in: 18:30 to 19:00 | Participation fee: €5 | No need to bring or know anything about RPGs (you can bring…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "604018",
           "title": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables)",
           "start": "2026-08-05T19:00:00+02:00",
@@ -2083,11 +1983,11 @@
         },
         {
           "id": "604028",
-          "title": "PFS2 1-22: Doom of Cassomir",
+          "title": "🌚 PFS2 1-22: Doom of Cassomir",
           "start": "2026-08-12T19:00:00+02:00",
           "end": "2026-08-12T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "PFS2 1-22: Doom of Cassomir Wed 12/8 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition) Character levels 1-4 Written by Calder CaDavid Doom stalks the streets of Cassomir! The people of Admiral's Fen have long been doughty…",
+          "description": "🌚 PFS2 1-22: Doom of Cassomir Wed 12/8 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition) Character levels 1-4 Written by Calder CaDavid Doom stalks the streets of Cassomir! The people of Admiral's Fen have long been doughty…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2113,11 +2013,11 @@
         },
         {
           "id": "604045",
-          "title": "PF2 Bounty 12: Somewhere Below [Beginner-friendly]",
+          "title": "🗻PF2 Bounty 12: Somewhere Below [Beginner-friendly]🎨",
           "start": "2026-08-26T19:00:00+02:00",
           "end": "2026-08-26T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "PF2 Bounty 12: Somewhere Below [Beginner-friendly] Wed 26/8 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Kim Frandsen While sheltering in a cave from a storm, the PCs discover a…",
+          "description": "🗻PF2 Bounty 12: Somewhere Below [Beginner-friendly]🎨 Wed 26/8 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Kim Frandsen While sheltering in a cave from a storm, the PCs discover…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2189,7 +2089,8 @@
             "Pre-release"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "casual-carnage",
@@ -2295,7 +2196,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2477,20 +2379,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-lievens-bike-fietsclub-3",
-          "title": "Lievens Bike Fietsclub",
-          "start": "2026-07-30T00:00:00+02:00",
-          "end": "2026-07-30T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/lievens-bike-fietsclub-3/",
-          "tags": [
-            "Gratis",
-            "Sport",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-workshop-chinese-landschappen-schilderen-creatiehallen",
           "title": "Workshop Chinese landschappen schilderen – Creatiehallen",
           "start": "2026-07-31T00:00:00+02:00",
@@ -2625,6 +2513,20 @@
           "tags": [
             "Film",
             "Kantine"
+          ]
+        },
+        {
+          "id": "beton-buitenspeelavond-voor-volwassenen-10",
+          "title": "Buitenspeelavond voor volwassenen – Onderwater thema!",
+          "start": "2026-08-06T00:00:00+02:00",
+          "end": "2026-08-06T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/buitenspeelavond-voor-volwassenen-10/",
+          "tags": [
+            "Eten / Drinken",
+            "Sport",
+            "Terras"
           ]
         }
       ]
@@ -2925,6 +2827,19 @@
           ]
         },
         {
+          "id": "basis-utrecht-10001501-1790380740-1790402400",
+          "title": "BASIS/ Stan Christ all night long",
+          "start": "2026-09-25T23:59:00+02:00",
+          "end": "2026-09-26T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "Some sets aren’t meant to be cut short. One club, one night, one legend. See you on the dancefloor on Friday, September 25. \n// BASIS & Stan",
+          "url": "https://clubbasis.nl/event/basis-stan-christ-all-night-long/",
+          "tags": [
+            "Hardtechno",
+            "Industrial"
+          ]
+        },
+        {
           "id": "basis-utrecht-10001497-1790467140-1790488800",
           "title": "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ Newtone/ Roos Reijmers",
           "start": "2026-09-26T23:59:00+02:00",
@@ -2950,8 +2865,7 @@
             "Trance"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "soia-utrecht",
@@ -3021,16 +2935,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "77765",
-          "title": "Dokwerk Saxophone Quartet",
-          "start": "2026-07-29T20:00:00.000Z",
-          "end": "2026-07-29T23:00:00.000Z",
-          "location": "Hoenderloo, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77765",
-          "description": "Dokwerk Saxophone Quartet:<BR>Lisa Schreiber, sopraansax<BR>Jen-Hong Wu, altsax<BR>Ileana Termini, tenorsax<BR>Pedro Silva, baritonsax <BR><BR>A dragon with four heads – that's how you could see the Dokwerk Saxophone Quartet: four powerful voices, breathing as one.<BR><BR>Dokwerk is k",
-          "tags": []
-        },
         {
           "id": "76971",
           "title": "Tribute to Howard Shore",
@@ -5465,17 +5369,6 @@
           "country": "Poland",
           "description": "Buhurt-toernooi in Poland.",
           "url": "https://www.buhurtinternational.com/tournament/king-kazimierz-cup-v",
-          "tags": []
-        },
-        {
-          "id": "bi-1.-eisencup-2026",
-          "title": "1. Eisencup 2026",
-          "start": "2026-09-26T00:00:00+02:00",
-          "end": "2026-09-26T23:00:00+02:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/1.-eisencup-2026",
           "tags": []
         },
         {

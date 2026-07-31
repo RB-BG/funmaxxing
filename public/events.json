@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T07:36:35.822Z",
+  "updatedAt": "2026-07-31T07:53:40.745Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -196,9 +196,9 @@
           "id": "10001000",
           "title": "Blueprint",
           "start": "2026-09-03T20:00:00+02:00",
-          "end": "2026-09-04T00:00:00+02:00",
+          "end": "2026-09-03T23:00:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "ze zetten je aan het denken over onszelf en de wereld om ons heen. Van intieme momenten tot grootse rockpassages, je weet nooit precies wat je kunt verwachten – maar je blijft geboeid bij elke stap.\n\n﻿ \n \nBlueprint maakt cinematische, duistere, en dynamische alternatieve muziek. Denk post-punk en…",
+          "description": "ze zetten je aan het denken over onszelf en de wereld om ons heen. Van intieme momenten tot grootse rockpassages, je weet nooit precies wat je kunt verwachten – maar je blijft geboeid bij elke stap.\n\nSpeciaal voor deze avond presenteert Paravision een show met arrangementen die tot in de puntjes…",
           "url": "https://dbstudio.nl/event/paravision/",
           "tags": [
             "Concert"
@@ -422,6 +422,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30590",
+          "title": "Bubbel",
+          "start": "2026-09-19T23:30:00+02:00",
+          "end": "2026-09-20T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Bubbel is jarig! Na alle succesvol opgeblazen sociale bubbels tijdens voorgaande feesten, volgt nu het langverwachte eenjarige Bubbel-jubileum. De zomer is warm, maar gaat nog wat heter worden op het zomerfeest van Bubbel: we zorgen dat je uit je sociale Bubbel kruipt in de zengende hitte. We…",
+          "url": "https://ekko.nl/event/bubbel-3/",
+          "tags": []
+        },
         {
           "id": "30445",
           "title": "PERRX",
@@ -1962,12 +1972,22 @@
           "tags": []
         },
         {
+          "id": "604401",
+          "title": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️ (1 of 3 tables)",
+          "start": "2026-08-05T19:00:00+02:00",
+          "end": "2026-08-05T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️ (1 of 3 tables) Wed 5/8 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "604018",
-          "title": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables)",
+          "title": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 of 3 tables)",
           "start": "2026-08-05T19:00:00+02:00",
           "end": "2026-08-05T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables) Wed 5/8 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass…",
+          "description": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 of 3 tables) Wed 5/8 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2042,18 +2062,6 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-22944",
-          "title": "Weekly Draft",
-          "start": "2026-07-30T19:00:00+02:00",
-          "end": "2026-07-30T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-120/",
-          "tags": [
-            "Draft"
-          ]
-        },
-        {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
           "start": "2026-08-04T19:00:00+02:00",
@@ -2089,8 +2097,7 @@
             "Pre-release"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2196,8 +2203,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -2379,19 +2385,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-workshop-chinese-landschappen-schilderen-creatiehallen",
-          "title": "Workshop Chinese landschappen schilderen – Creatiehallen",
-          "start": "2026-07-31T00:00:00+02:00",
-          "end": "2026-07-31T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/workshop-chinese-landschappen-schilderen-creatiehallen/",
-          "tags": [
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-basis-outdoor-2026",
           "title": "Basis Outdoor 2026",
           "start": "2026-08-01T00:00:00+02:00",
@@ -2528,6 +2521,21 @@
             "Sport",
             "Terras"
           ]
+        },
+        {
+          "id": "beton-beton-nuit-tweedekansmarkt-by-night-2",
+          "title": "Beton Nuit- tweedekansmarkt by night",
+          "start": "2026-08-07T00:00:00+02:00",
+          "end": "2026-08-07T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-nuit-tweedekansmarkt-by-night-2/",
+          "tags": [
+            "Gratis",
+            "Markt",
+            "Muziek",
+            "Terras"
+          ]
         }
       ]
     },
@@ -2539,6 +2547,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260917-drag-me-to-utrecht-10",
+          "title": "Drag Me To Utrecht",
+          "start": "2026-09-17T00:00:00+02:00",
+          "end": "2026-09-17T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 17th. With Miss Mia Mora and Loena Maas. Beautiful people, fabulous souls, and walking mysteries: welcome to Drag Me to Utrecht! A night where we celebrate the art of drag with glamour, beauty, and sheer nonsense. Hosted by the dazzling Miss Mia More and the enchanting Loena Maas, each…",
+          "url": "https://acu.nl/events/20260917/drag-me-to-utrecht-10",
+          "tags": []
+        },
         {
           "id": "acu-20260919-backhoe-loader-aquelarre-dyslekt",
           "title": "Backhoe Loader + Aquelarre + Dyslekt",
@@ -2597,16 +2615,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "October 8th. EKKO x ACU Band Night. UTRECHT’S VERY OWN HIGH ENERGY ROCK WITH A PUNK MENTALITY John Coffey is one of the most explosive bands The Netherlands have ever spawned. Using punk and rock-‘n-roll as a container for all their energy, David Achter de Molen and his band mates have built a…",
           "url": "https://acu.nl/events/20261008/john-coffey-punk-rock",
-          "tags": []
-        },
-        {
-          "id": "acu-20261118-lezard-post-punk-disco",
-          "title": "Lézard (Post-Punk / Disco)",
-          "start": "2026-11-18T00:00:00+01:00",
-          "end": "2026-11-18T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 18th. EKKO x ACU Band Night. DISCOPUNK THAT FALLS BETWEEN CHAOS AND THEATRE Lézard balances on the cutting edge of comedy and tragedy with an explosive mix of post-punk, disco, glam rock, new wave, and electroclash. Their debut album ‘Que Se Passe t-il’ feels like a chaotic diorama in…",
-          "url": "https://acu.nl/events/20261118/lezard-post-punk-disco",
           "tags": []
         }
       ]
@@ -4644,18 +4652,7 @@
       "icon": "🏰",
       "scene": "middeleeuwen",
       "feedUrl": "https://castlefest.nl/nl",
-      "events": [
-        {
-          "id": "castlefest-2026",
-          "title": "Castlefest 2026",
-          "start": "2026-07-30T11:00:00+02:00",
-          "end": "2026-08-02T23:00:00+02:00",
-          "location": "Kasteel Keukenhof, Lisse",
-          "description": "Vier dagen fantasy, middeleeuwen en live muziek bij Kasteel Keukenhof.",
-          "url": "https://castlefest.nl/nl",
-          "tags": []
-        }
-      ]
+      "events": []
     },
     {
       "id": "elfia",
@@ -4714,16 +4711,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-circus-olifant-30-juli-2026-2026",
-          "title": "Circus Olifant &#8211; 30 juli 2026",
-          "start": "2026-07-30T10:00:00+02:00",
-          "end": "2026-07-30T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/circus-olifant-30-juli-2026/",
-          "tags": []
-        },
         {
           "id": "muiderslot-meespeeltheater-31-juli-2026-2026",
           "title": "Meespeeltheater &#8211; 31 juli 2026",
@@ -5372,6 +5359,17 @@
           "tags": []
         },
         {
+          "id": "bi-1.-eisencup-2026",
+          "title": "1. Eisencup 2026",
+          "start": "2026-09-26T00:00:00+02:00",
+          "end": "2026-09-26T23:00:00+02:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/1.-eisencup-2026",
+          "tags": []
+        },
+        {
           "id": "bi-v.-veszprém-medieval-day",
           "title": "V. Veszprém Medieval Day 2026",
           "start": "2026-10-10T00:00:00+01:00",
@@ -5457,6 +5455,17 @@
           "country": "Germany",
           "description": "Buhurt-toernooi in Germany.",
           "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-heritage-shield-2026",
+          "title": "Heritage Shield 2026",
+          "start": "2026-10-03T00:00:00+01:00",
+          "end": "2026-10-03T23:00:00+01:00",
+          "location": "United Kingdom",
+          "country": "United Kingdom",
+          "description": "Buhurt-toernooi in United Kingdom.",
+          "url": "https://www.buhurtinternational.com/tournament/heritage-shield-2026",
           "tags": []
         },
         {

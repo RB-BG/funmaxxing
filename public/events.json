@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T07:53:40.745Z",
+  "updatedAt": "2026-08-01T07:30:13.428Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -422,6 +422,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30625",
+          "title": "Perfect Indie Disco",
+          "start": "2026-09-18T22:30:00+02:00",
+          "end": "2026-09-19T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Waar schitteren Big Thief of Phoebe Bridgers in het holst van de nacht, en zijn Tame Impala en Mitski heuse godheden? Waar staan Fontaines D.C. en Little Simz flirtend in een hoekje, en treffen Wunderhorse en Clairo elkaar in de moshpit? Waar blijken The Cure en Caroline Polachek ineens een match…",
+          "url": "https://ekko.nl/event/perfect-indie-disco-18-sep-2026/",
+          "tags": []
+        },
         {
           "id": "30590",
           "title": "Bubbel",
@@ -1673,46 +1683,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "482694",
-          "title": "YIP in de Lutherse Kerk",
-          "start": "2026-07-31T13:30:00+02:00",
-          "end": "2026-07-31T14:30:00.000Z",
-          "location": "Lutherse Kerk, Hamburgerstraat 9, Utrecht",
-          "description": "Ervaar een intieme performance van YIP, een Utrechtse indiefolk artiest, in de Lutherse Kerk. YIP combineert folky gitaarklanken met dromerige zang en experimentele vocale uitstappen, en laat zich leiden door de muziek om verhalen over maatschappelijke thema’s te vertellen. Dit gratis concert is…",
-          "url": "https://www.podiuminfo.nl/concert/482694/YIP-in-de-Lutherse-Kerk/Lutherse-Kerk/",
-          "tags": []
-        },
-        {
-          "id": "443171",
-          "title": "Kim Dracula",
-          "start": "2026-07-31T20:00:00+02:00",
-          "end": "2026-07-31T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Australische zanger/rapper/producer Kim Dracula combineert nu-metal, metalcore, trap, industrial, bossanova en opera met een gezonde dosis drama. In 2020 ging Kim Dracula viral op TikTok met een metalcover van Paparazzi (Lady Gaga) die inmiddels ook op Spotify 162 miljoen streams heeft vergaard.…",
-          "url": "https://www.podiuminfo.nl/concert/443171/Kim-Dracula/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "458504",
-          "title": "Vinylfeestje",
-          "start": "2026-07-31T20:00:00+02:00",
-          "end": "2026-07-31T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het populaire Vinylfeestje keert terug naar TivoliVredenburg voor een avond vol dansbare klassiekers. Een vriendengroep uit Utrecht brengt een uitgebreide collectie 7-inch plaatjes mee, variërend van Michael Jackson en Donna Summer tot The Kinks en Stevie Wonder. Bezoekers krijgen de unieke kans om…",
-          "url": "https://www.podiuminfo.nl/concert/458504/Vinylfeestje/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "474221",
-          "title": "Fiesta Macumba",
-          "start": "2026-07-31T23:55:00+02:00",
-          "end": "2026-08-01T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Fiesta Macumba trapt op 19 juni officieel af in TivoliVredenburg en viert de zomer met een reeks Latin-feesten. Het belooft een nacht te worden vol dans, gezelligheid en de lekkerste Música Latina. De sfeer wordt compleet gemaakt door de tropische klanken en zomerse vibes die het publiek omringen.…",
-          "url": "https://www.podiuminfo.nl/concert/474221/Fiesta-Macumba/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "462867",
           "title": "200 Stab Wounds",
           "start": "2026-08-01T20:00:00+02:00",
@@ -1730,6 +1700,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "After Sun: Midnight Melodies is een zomernacht in de Ronda, waar de warmte van buiten plaatsmaakt voor de verkoeling van airco en een golf van de beste muziek. De avond, die start om 22:00 uur met gratis entree tussen 22:00 en 23:00 uur, staat in het teken van uit volle borst meezingen met zoete…",
           "url": "https://www.podiuminfo.nl/concert/477367/After-Sun-Midnight-Melodies/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "489138",
+          "title": "Tante Alie's Metal Koor",
+          "start": "2026-08-02T13:15:00+02:00",
+          "end": "2026-08-02T14:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Tante Alie's Metal Koor is ontstaan uit een spontaan idee tijdens metalquiz- en karaokeavonden in TivoliVredenburg. Het initiatief van Tante Alie richt zich op het samenbrengen van liefhebbers van metalmuziek om samen te zingen. Het doel is om toe te werken naar een kerstconcert vol powerballads,…",
+          "url": "https://www.podiuminfo.nl/concert/489138/Tante-Alies-Metal-Koor/TivoliVredenburg/",
           "tags": []
         },
         {
@@ -1911,6 +1891,36 @@
           "description": "Salsa on Friday biedt een avond voor iedereen die van salsa houdt, van beginners tot gevorderden. De aanwezige dj's verzorgen een selectie van salsa hits, variërend van klassiekers tot nieuwe favorieten. Bezoekers zijn welkom om te dansen, nieuwe passen te leren, of sociale contacten te leggen in…",
           "url": "https://www.podiuminfo.nl/concert/486488/Salsa-on-Friday/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "480602",
+          "title": "Zer00s Heroes",
+          "start": "2026-08-14T22:00:00+02:00",
+          "end": "2026-08-14T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Zer00s Heroes neemt bezoekers mee op een nostalgische reis naar de jaren 2000-2009. Deze clubavond in Ronda staat in het teken van de muzikale hoogtepunten van dit decennium, met hits van onder andere Britney Spears, 50 Cent, Arctic Monkeys en Avril Lavigne. Het publiek kan dansen op bekende '00s…",
+          "url": "https://www.podiuminfo.nl/concert/480602/Zer00s-Heroes/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "488943",
+          "title": "Pop-O-Matic",
+          "start": "2026-08-15T23:30:00+02:00",
+          "end": "2026-08-16T00:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Pop-O-Matic, de vaste popnacht in TivoliVredenburg's zaal Pandora, wordt muzikaal ingevuld door DJ St. Paul en VJ Switchdoctor. Zij creëren een diverse dansvloer door stijlen, tijden en subculturen te combineren. De avond staat bekend om haar scherpe en trendsettende muziekkeuze, waarbij de drempel…",
+          "url": "https://www.podiuminfo.nl/concert/488943/Pop-O-Matic/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "462577",
+          "title": "Two Feet",
+          "start": "2026-08-16T20:00:00+02:00",
+          "end": "2026-08-16T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De eerste track die de jonge Amerikaanse singer-songwriter/producer Two Feet ooit uitbracht, Go Fuck Yourself (2017), ging meteen viral. Niet zo vreemd, want de sound van Two Feet – bluesy gitaar, zompige beats en soulvolle zang – is eigenzinnig, donker en uniek. Sinds hij vorig jaar is gestopt met…",
+          "url": "https://www.podiuminfo.nl/concert/462577/Two-Feet/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1972,6 +1982,16 @@
           "tags": []
         },
         {
+          "id": "604540",
+          "title": "A Familiar Problem (Beginner Friendly)",
+          "start": "2026-08-05T19:00:00+02:00",
+          "end": "2026-08-05T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "A Familiar Problem (Beginner Friendly) Wed 5/8 7-10pm at Subcultures @De Bierkantine English, Indie RPG Character level 0 -- Info box ------------------------------- Where: De Bierkantine When: Walk-in from 18:30, start at 19:00 Participation fee: €5 Prep: no need to bring or know anything about…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "604401",
           "title": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️ (1 of 3 tables)",
           "start": "2026-08-05T19:00:00+02:00",
@@ -2018,6 +2038,26 @@
           "end": "2026-08-12T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "The Goblings - The Sun Thief [Beginner Friendly] Wed 12/8 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Bodie H In The Goblings , you’ll take on the role of freshly spawned, mostly formed goblins, known in the nest as goblings. Together with your other…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "604492",
+          "title": "Wanderhome - The Aristobugs",
+          "start": "2026-08-12T19:00:00+02:00",
+          "end": "2026-08-12T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - The Aristobugs Wed 12/8 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy fields,…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "604505",
+          "title": "Wanderhome - the day of song (beginner friendly!)",
+          "start": "2026-08-12T19:00:00+02:00",
+          "end": "2026-08-12T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - the day of song (beginner friendly!) Wed 12/8 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2385,20 +2425,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-basis-outdoor-2026",
-          "title": "Basis Outdoor 2026",
-          "start": "2026-08-01T00:00:00+02:00",
-          "end": "2026-08-01T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/basis-outdoor-2026/",
-          "tags": [
-            "Festival",
-            "Muziek",
-            "Verhoogd geluidslimiet"
-          ]
-        },
-        {
           "id": "beton-gentle-yoga-2",
           "title": "Gentle Yoga",
           "start": "2026-08-02T00:00:00+02:00",
@@ -2536,6 +2562,21 @@
             "Muziek",
             "Terras"
           ]
+        },
+        {
+          "id": "beton-beton-te-land-ter-zee-en-in-de-lucht",
+          "title": "Beton-te Land, ter Zee en in de Lucht",
+          "start": "2026-08-08T00:00:00+02:00",
+          "end": "2026-08-08T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-te-land-ter-zee-en-in-de-lucht/",
+          "tags": [
+            "Eten / Drinken",
+            "Muziek",
+            "Skaten",
+            "Sport"
+          ]
         }
       ]
     },
@@ -2627,19 +2668,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001485-1785542340-1785564000",
-          "title": "BASIS Talent Night/ Daniel Plainview/ DJ Zelda/ Hedemann/ Jssst",
-          "start": "2026-07-31T23:59:00+02:00",
-          "end": "2026-08-01T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-talent-night-daniel-plainview-dj-zelda-hedemann-jssst/",
-          "tags": [
-            "Hypnotic Techno",
-            "Underground techno"
-          ]
-        },
         {
           "id": "basis-utrecht-10001446-1785589200-1785625200",
           "title": "BASIS Outdoor/ 2026",
@@ -2742,6 +2770,18 @@
           ]
         },
         {
+          "id": "basis-utrecht-10001502-1787443140-1787464800",
+          "title": "BASIS/ DYNAMI/ Nyctonian/ Stugats/ XRTN",
+          "start": "2026-08-22T23:59:00+02:00",
+          "end": "2026-08-23T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-dynami-nyctonian-stugats-xrtn/",
+          "tags": [
+            "Hardtechno"
+          ]
+        },
+        {
           "id": "basis-utrecht-10001495-1787961540-1787983200",
           "title": "BASIS Talent Night/ Flexusz/ KROM/ LIRIOS/ N9S",
           "start": "2026-08-28T23:59:00+02:00",
@@ -2840,7 +2880,7 @@
           "start": "2026-09-25T23:59:00+02:00",
           "end": "2026-09-26T06:00:00+02:00",
           "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "Some sets aren’t meant to be cut short. One club, one night, one legend. See you on the dancefloor on Friday, September 25. \n// BASIS & Stan",
+          "description": "//www.youtube.com/@basisclubutrecht",
           "url": "https://clubbasis.nl/event/basis-stan-christ-all-night-long/",
           "tags": [
             "Hardtechno",
@@ -4583,7 +4623,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -4692,7 +4733,8 @@
           "url": "https://archeon.eu/midwinterfair/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "kommus-kasteelfestival",
@@ -4711,16 +4753,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-meespeeltheater-31-juli-2026-2026",
-          "title": "Meespeeltheater &#8211; 31 juli 2026",
-          "start": "2026-07-31T10:00:00+02:00",
-          "end": "2026-07-31T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/meespeeltheater-31-juli-2026/",
-          "tags": []
-        },
         {
           "id": "muiderslot-historische-proeverij-11-2026",
           "title": "Historische proeverij 1 aug 2026",
@@ -5152,16 +5184,6 @@
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
         {
-          "id": "brederode-valkenier-met-roofvogels-2026-07-31",
-          "title": "Valkenier met roofvogels",
-          "start": "2026-07-31T11:00:00+02:00",
-          "end": "2026-07-31T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/valkenier-31juli/",
-          "tags": []
-        },
-        {
           "id": "brederode-valkenier-met-roofvogels-2026-08-07",
           "title": "Valkenier met roofvogels",
           "start": "2026-08-07T11:00:00+02:00",
@@ -5328,7 +5350,8 @@
             "Melee"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "buhurt-clubnights",

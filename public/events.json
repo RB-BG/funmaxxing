@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T07:30:13.428Z",
+  "updatedAt": "2026-08-02T07:34:25.466Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001042",
-          "title": "200 STAB WOUNDS (USA) + Caedere + Backhoe Loader",
-          "start": "2026-08-01T20:00:00+02:00",
-          "end": "2026-08-01T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "𝟮𝟬𝟬 𝗦𝗧𝗔𝗕 𝗪𝗢𝗨𝗡𝗗𝗦 komt het betere sloopwerk verrichten in dB’s. Messcherpe riffs, loeizware grooves en rauwe, compromisloze energie maken dat de Amerikaanse formatie uit Cleveland, Ohio de nieuwe sensatie aan het front van de hedendaagse deathmetal wordt genoemd. Albums Slave to the…",
-          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-200-stab-wounds-usa/",
-          "tags": [
-            "Death Metal"
-          ]
-        },
         {
           "id": "10001028",
           "title": "DEAD MEADOW (USA - HEAVY PSYCH SOUNDS) + Dan Green & the Mystery Machine",
@@ -411,6 +399,18 @@
             "Cafe",
             "Metal Quiz & Karaoke"
           ]
+        },
+        {
+          "id": "10001055",
+          "title": "Ballroom Blitz",
+          "start": "2026-09-26T23:00:00+02:00",
+          "end": "2026-09-27T03:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Wars van trends maar niet vies van vette hits… elke laatste zaterdag van de maand turns in a Ballroom Blitz. Een feestje voor de zoekenden, de losgelatenen en de wonderkinderen.  It is like lightning and the music is grooving. \nHeb je een onbedwingbare drang tot dansen maar zijn er veel te veel…",
+          "url": "https://dbstudio.nl/event/ballroom-blitz-8/2026-09-26/",
+          "tags": [
+            "Ballroom Blitz"
+          ]
         }
       ]
     },
@@ -730,16 +730,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "STROT. De Gestampte Meisjes gaan dit land redden met zieke HITS. Hoe? Vraag je je af? Way meer polarisering. Ze hebben kneiterhard geprobeerd te verbinden in deze chaos, maar dat is flink mislukt. We proberen nu al decennialang te verbinden; tijd om te splitsen! Zieke wall of death in je…",
           "url": "https://ekko.nl/event/de-gestampte-meisjes-strot/",
-          "tags": []
-        },
-        {
-          "id": "29217",
-          "title": "Beware of Banshees Festival",
-          "start": "2026-08-01T13:30:00+02:00",
-          "end": "2026-08-01T23:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Beware of Banshees is een festival voor ruige muziek dat gendernormen aan diggelen slaat in de Nijverheid. Deze vijfde editie hebben we een volle dag harde acts op 3 podia, diversiteit-inspirerende workshops, een inclusie panel, een Banshee tattoo parlor en nog veel meer. Kortom, een inspirerende…",
-          "url": "https://ekko.nl/event/beware-of-banshees-festival/",
           "tags": []
         },
         {
@@ -1683,26 +1673,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "462867",
-          "title": "200 Stab Wounds",
-          "start": "2026-08-01T20:00:00+02:00",
-          "end": "2026-08-01T21:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Brute, maar groovende deathmetal: 200 Stab Wounds komt het betere sloopwerk verrichten in dB's. Messcherpe riffs, loeizware grooves en rauwe, compromisloze energie maken de Amerikaanse formatie uit Cleveland, Ohio de nieuwe sensatie aan het front van de hedendaagse deathmetal. Albums Slave to the…",
-          "url": "https://www.podiuminfo.nl/concert/462867/200-Stab-Wounds/dBs/",
-          "tags": []
-        },
-        {
-          "id": "477367",
-          "title": "After Sun: Midnight Melodies",
-          "start": "2026-08-01T22:00:00+02:00",
-          "end": "2026-08-01T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "After Sun: Midnight Melodies is een zomernacht in de Ronda, waar de warmte van buiten plaatsmaakt voor de verkoeling van airco en een golf van de beste muziek. De avond, die start om 22:00 uur met gratis entree tussen 22:00 en 23:00 uur, staat in het teken van uit volle borst meezingen met zoete…",
-          "url": "https://www.podiuminfo.nl/concert/477367/After-Sun-Midnight-Melodies/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "489138",
           "title": "Tante Alie's Metal Koor",
           "start": "2026-08-02T13:15:00+02:00",
@@ -1920,6 +1890,26 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "De eerste track die de jonge Amerikaanse singer-songwriter/producer Two Feet ooit uitbracht, Go Fuck Yourself (2017), ging meteen viral. Niet zo vreemd, want de sound van Two Feet – bluesy gitaar, zompige beats en soulvolle zang – is eigenzinnig, donker en uniek. Sinds hij vorig jaar is gestopt met…",
           "url": "https://www.podiuminfo.nl/concert/462577/Two-Feet/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "455723",
+          "title": "Alcest",
+          "start": "2026-08-18T20:00:00+02:00",
+          "end": "2026-08-18T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": " De Franse post-blackmetalband Alcest is de pionier van de blackgaze, ofwel de combinatie van blackmetal en shoegaze, even intens als meditatief. Frontman Stéphane ‘Neige’ Phaut en drummer Jean ‘Winterhalter’ Deflandre vormen de kern van Alcest, dat inmiddels al 26 jaar bestaat en zeven albums…",
+          "url": "https://www.podiuminfo.nl/concert/455723/Alcest/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "454064",
+          "title": "Arthur Verocai with Nu Civilisation Orchestra",
+          "start": "2026-08-20T20:15:00+02:00",
+          "end": "2026-08-20T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Braziliaanse componist, arrangeur en producer Arthur Verocai, geboren in 1945, kende pas solobekendheid met zijn debuutalbum uit 1972, een psychedelische mix van samba, soul, jazz, rock en funk, nadat dit in de jaren nul door de hiphopcommunity werd omarmd. Gesterkt door deze herwaardering begon…",
+          "url": "https://www.podiuminfo.nl/concert/454064/Arthur-Verocai-with-Nu-Civilisation-Orchestra/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2425,20 +2415,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-gentle-yoga-2",
-          "title": "Gentle Yoga",
-          "start": "2026-08-02T00:00:00+02:00",
-          "end": "2026-08-02T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/gentle-yoga-2/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-9",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-08-03T00:00:00+02:00",
@@ -2668,36 +2644,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001446-1785589200-1785625200",
-          "title": "BASIS Outdoor/ 2026",
-          "start": "2026-08-01T13:00:00+02:00",
-          "end": "2026-08-01T23:00:00+02:00",
-          "location": "Beton-T, Koningin Wilhelminalaan 4, Utrecht, Utrecht, , 3527 LD",
-          "description": "//www.soundcloud.com/terugnaardebasis",
-          "url": "https://clubbasis.nl/event/basis-outdoor-2026/",
-          "tags": [
-            "Bounce",
-            "Groovy techno",
-            "Hard house",
-            "Hardtechno",
-            "Techno",
-            "Trance"
-          ]
-        },
-        {
-          "id": "basis-utrecht-10001490-1785628740-1785650400",
-          "title": "BASIS Outdoor After/ Lisa Korver/ Mika Heggemann/ Slimfit",
-          "start": "2026-08-01T23:59:00+02:00",
-          "end": "2026-08-02T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-outdoor-after-lisa-korver-mika-heggemann-slimfit/",
-          "tags": [
-            "Bounce",
-            "Trance"
-          ]
-        },
         {
           "id": "basis-utrecht-10001492-1786147140-1786168800",
           "title": "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI",
@@ -2944,16 +2890,6 @@
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
         {
-          "id": "basis-outdoor",
-          "title": "BASIS Outdoor",
-          "start": "2026-08-01T13:00:00+00:00",
-          "end": "2026-08-01T13:00:00+00:00",
-          "location": "Beton-T, Utrecht",
-          "description": "Lees alles hier over BASIS Outdoor 2026 (Beton-T, Utrecht). Van de kaartverkoop tot line-up en de sfeer van dit festival.",
-          "url": "https://festivalfans.nl/event/basis-outdoor/",
-          "tags": []
-        },
-        {
           "id": "smeerboel-festival",
           "title": "Smeerboel Festival",
           "start": "2026-09-12T12:00:00+00:00",
@@ -3020,7 +2956,7 @@
           "end": "2026-08-19T23:00:00.000Z",
           "location": "Den Haag (The Hague), Scheveningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77784",
-          "description": "Cinema Morricone:<BR>An Intimate Celebration<BR><BR>Sara Andon, flute &bull; Simone Pedroni, piano<BR><BR>Music composed by Ennio Morricone (1928-2020)<BR>Transcriptions and arrangements by Simone Pedroni<BR><BR>Produced by Robert Townson<BR><BR>more details to be announced",
+          "description": "Cinema Morricone:<BR>An Intimate Celebration<BR><BR>Sara Andon, flute &bull; Simone Pedroni, piano<BR><BR>Music composed by Ennio Morricone (1928-2020)<BR>Transcriptions and arrangements by Simone Pedroni<BR><BR>Produced by Robert Townson",
           "tags": []
         },
         {
@@ -4623,8 +4559,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4733,8 +4668,7 @@
           "url": "https://archeon.eu/midwinterfair/",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "kommus-kasteelfestival",
@@ -4753,16 +4687,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-historische-proeverij-11-2026",
-          "title": "Historische proeverij 1 aug 2026",
-          "start": "2026-08-01T10:00:00+02:00",
-          "end": "2026-08-01T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-11/",
-          "tags": []
-        },
         {
           "id": "muiderslot-familietheater-hansje-brinker-over-water-en-dijken-2026",
           "title": "Familietheater: Hansje Brinker &#8211; Over water en dijken &#8211; 2 aug 2026",
@@ -5033,16 +4957,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
-        {
-          "id": "loevestein-sluit-je-aan-bij-de-ridderschool-2026-08",
-          "title": "Sluit je aan bij de ridderschool",
-          "start": "2026-08-01T10:00:00+02:00",
-          "end": "2026-08-02T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/sluit-je-aan-bij-de-ridderschool/",
-          "tags": []
-        },
         {
           "id": "loevestein-de-meyden-van-loevestein-2026-08",
           "title": "De Meyden van Loevestein en de Hollandsche Bastaarden",
@@ -5350,8 +5264,7 @@
             "Melee"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "buhurt-clubnights",

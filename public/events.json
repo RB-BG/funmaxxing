@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T08:33:19.278Z",
+  "updatedAt": "2026-08-04T07:43:01.105Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1433,6 +1433,16 @@
           "tags": []
         },
         {
+          "id": "helling-le-guess-who-2026-05-11-2026",
+          "title": "Le Guess Who? 2026",
+          "start": "2026-11-05T10:00:00+01:00",
+          "end": "2026-11-06T00:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "20e jubileumeditie - donderdag",
+          "url": "https://dehelling.nl/agenda/le-guess-who-2026-05-11-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-ciao-lucifer-05-11-2026",
           "title": "Ciao Lucifer",
           "start": "2026-11-05T20:15:00+01:00",
@@ -1440,6 +1450,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Amsterdams indiepopduo draagt de titel ‘feelgoodband’ met trots",
           "url": "https://dehelling.nl/agenda/ciao-lucifer-05-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-le-guess-who-2026-07-11-2026",
+          "title": "Le Guess Who? 2026",
+          "start": "2026-11-07T10:00:00+01:00",
+          "end": "2026-11-08T00:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "20e jubileumeditie - zaterdag",
+          "url": "https://dehelling.nl/agenda/le-guess-who-2026-07-11-2026/",
           "tags": []
         },
         {
@@ -1672,16 +1692,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "462844",
-          "title": "Protest The Hero",
-          "start": "2026-08-03T19:00:00+02:00",
-          "end": "2026-08-03T20:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Canadese progressieve metalband Protest The Hero brak in 2008 door met hun tweede album annex riffbombardement Fortress, volgens de OOR ‘een essentiële plaat voor iedereen die van math én maf houdt.’ Protest The Hero combineert hun technisch hoogstaande metal met al even hoogstaande ironische…",
-          "url": "https://www.podiuminfo.nl/concert/462844/Protest-The-Hero/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "454059",
           "title": "Sacred Reich",
@@ -1921,6 +1931,16 @@
           "description": "Salsa on Friday biedt een avond vol salsamuziek en dans voor zowel beginners als gevorderden in de Vrije Ruimte van TivoliVredenburg. De dj's draaien een mix van klassieke en hedendaagse salsa hits. Bezoekers zijn welkom om te dansen, te leren of nieuwe mensen te ontmoeten in een gastvrije sfeer.…",
           "url": "https://www.podiuminfo.nl/concert/486489/Salsa-on-Friday/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "477369",
+          "title": "After Sun: Hitjesgolf",
+          "start": "2026-08-21T22:00:00+02:00",
+          "end": "2026-08-21T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "After Sun presenteert 'Hitjesgolf', een nieuwe zomernacht in de Ronda van TivoliVredenburg. Bezoekers kunnen afkoelen en genieten van een golf van de beste muziek, variërend van festivalhits tot zwoele R&B-tracks en de heetste hits van dit moment. De deuren gaan open om 22:00 uur. Deze avond staat…",
+          "url": "https://www.podiuminfo.nl/concert/477369/After-Sun-Hitjesgolf/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2142,15 +2162,39 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
+          "id": "lab-monkey-23040",
+          "title": "Commander Tuesday",
+          "start": "2026-08-04T18:00:00+02:00",
+          "end": "2026-08-04T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-237/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
           "start": "2026-08-04T19:00:00+02:00",
           "end": "2026-08-04T23:00:00+02:00",
           "location": "t Lab, Utrecht",
-          "description": "Zin om Magic te spelen met andere vrouwen? Voelt het weleens intimiderend om de enige meid te zijn aan tafel? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het je graag. &nbsp; Op 4…",
+          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het…",
           "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
           "tags": [
             "Ladies'(K)night"
+          ]
+        },
+        {
+          "id": "lab-monkey-23042",
+          "title": "Weekly Draft",
+          "start": "2026-08-06T19:00:00+02:00",
+          "end": "2026-08-06T22:30:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-121/",
+          "tags": [
+            "Draft"
           ]
         },
         {
@@ -2176,9 +2220,20 @@
           "tags": [
             "Pre-release"
           ]
+        },
+        {
+          "id": "lab-monkey-19145",
+          "title": "Ladies Knight – De Hobbit Draft!",
+          "start": "2026-08-15T11:30:00+02:00",
+          "end": "2026-08-15T17:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! ✨ Naast onze gebruikelijke tweewekelijkse Commander/Jumpstart avond, organiseren we op zaterdag 15 augustus overdag een exclusieve…",
+          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023-duskmourn-draft/",
+          "tags": [
+            "Ladies'(K)night"
+          ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2284,8 +2339,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -2547,6 +2601,75 @@
             "Muziek",
             "Skaten",
             "Sport"
+          ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-11",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-08-10T00:00:00+02:00",
+          "end": "2026-08-10T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-11/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-34",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-08-10T00:00:00+02:00",
+          "end": "2026-08-10T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-34/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-16",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-08-10T00:00:00+02:00",
+          "end": "2026-08-10T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-16/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-33",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-08-10T00:00:00+02:00",
+          "end": "2026-08-10T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-33/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-11",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-08-10T00:00:00+02:00",
+          "end": "2026-08-10T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-11/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
           ]
         }
       ]
@@ -4544,7 +4667,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -4673,6 +4797,16 @@
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
         {
+          "id": "muiderslot-pruimenweekend-2026",
+          "title": "Pruimenweekend 22 &amp; 23 aug 2026",
+          "start": "2026-08-22T10:00:00+02:00",
+          "end": "2026-08-22T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/pruimenweekend/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-tuinsafari-4-augustus-2026-2026",
           "title": "Tuinsafari 4 augustus 2026",
           "start": "2026-08-04T10:00:00+02:00",
@@ -4750,16 +4884,6 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/historische-proeverij-12/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-pruimenweekend-2026",
-          "title": "Pruimenweekend 22 &amp; 23 aug 2026",
-          "start": "2026-08-22T10:00:00+02:00",
-          "end": "2026-08-23T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/pruimenweekend/",
           "tags": []
         },
         {
@@ -4844,7 +4968,7 @@
         },
         {
           "id": "muiderslot-mindful-muiderslot-yoga-10-oktober-2026-2026",
-          "title": "Mindful Muiderslot: yoga &#8211; 10 oktober 2026",
+          "title": "Mindful Muiderslot: yoga &amp; mindful kunstkijken &#8211; 10 oktober 2026",
           "start": "2026-10-10T10:00:00+01:00",
           "end": "2026-10-10T18:00:00+01:00",
           "location": "Muiderslot, Muiden",
@@ -4933,16 +5057,6 @@
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
         {
-          "id": "loevestein-de-meyden-van-loevestein-2026-08",
-          "title": "De Meyden van Loevestein en de Hollandsche Bastaarden",
-          "start": "2026-08-08T10:00:00+02:00",
-          "end": "2026-08-09T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/de-meyden-van-loevestein/",
-          "tags": []
-        },
-        {
           "id": "loevestein-schermen-toernooi-2026-08",
           "title": "Schermen, touwslager &#038; toernooi",
           "start": "2026-08-15T10:00:00+02:00",
@@ -4950,6 +5064,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/schermen-toernooi/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-de-meyden-van-loevestein-2026-08",
+          "title": "De Meyden van Loevestein en de Hollandsche Bastaarden",
+          "start": "2026-08-08T10:00:00+02:00",
+          "end": "2026-08-09T18:00:00+02:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/de-meyden-van-loevestein/",
           "tags": []
         },
         {

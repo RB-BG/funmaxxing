@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T07:43:01.105Z",
+  "updatedAt": "2026-08-05T07:43:41.937Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -422,6 +422,36 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30666",
+          "title": "BUS 12",
+          "start": "2026-09-17T23:00:00+02:00",
+          "end": "2026-09-18T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet staakt staat niets een voorspoedige rit in de weg. Reis mee langs nieuwe muzikale haltes en een dienstregeling vol throwbacks uit de ‘00s…",
+          "url": "https://ekko.nl/event/bus-12-204/",
+          "tags": []
+        },
+        {
+          "id": "30660",
+          "title": "BUS 12",
+          "start": "2026-09-10T23:00:00+02:00",
+          "end": "2026-09-11T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet staakt staat niets een voorspoedige rit in de weg. Reis mee langs nieuwe muzikale haltes en een dienstregeling vol throwbacks uit de ‘00s…",
+          "url": "https://ekko.nl/event/bus-12-202/",
+          "tags": []
+        },
+        {
+          "id": "30647",
+          "title": "BUS 12",
+          "start": "2026-09-03T23:00:00+02:00",
+          "end": "2026-09-04T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet staakt staat niets een voorspoedige rit in de weg. Reis mee langs nieuwe muzikale haltes en een dienstregeling vol throwbacks uit de ‘00s…",
+          "url": "https://ekko.nl/event/bus-12-200/",
+          "tags": []
+        },
         {
           "id": "29771",
           "title": "Daryll-Ann",
@@ -1693,16 +1723,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "454059",
-          "title": "Sacred Reich",
-          "start": "2026-08-04T20:00:00+02:00",
-          "end": "2026-08-04T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Amerikaanse thrashmetalband met zesde album Into The Abyss - De Amerikaanse thrashmetalband Sacred Reich draait al veertig jaar mee, maar denkt nog niet aan stoppen, sterker nog: met hun punkinvloeden en sociaal-politieke songteksten is Sacred Reich relevanter dan ooit. ",
-          "url": "https://www.podiuminfo.nl/concert/454059/Sacred-Reich/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "449034",
           "title": "Opeth",
           "start": "2026-08-05T20:00:00+02:00",
@@ -1941,6 +1961,16 @@
           "description": "After Sun presenteert 'Hitjesgolf', een nieuwe zomernacht in de Ronda van TivoliVredenburg. Bezoekers kunnen afkoelen en genieten van een golf van de beste muziek, variërend van festivalhits tot zwoele R&B-tracks en de heetste hits van dit moment. De deuren gaan open om 22:00 uur. Deze avond staat…",
           "url": "https://www.podiuminfo.nl/concert/477369/After-Sun-Hitjesgolf/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "483031",
+          "title": "Het Danspaleis",
+          "start": "2026-08-22T14:00:00+02:00",
+          "end": "2026-08-22T15:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Danspaleis presenteert een ouderwets gezellige dansmiddag, speciaal voor ouderen en iedereen die graag danst. De toegang is gratis. Het initiatief heeft als doel ouderen in Nederland vitaal en betrokken te houden, waarbij muziek dient als krachtig middel om mensen samen te brengen en in…",
+          "url": "https://www.podiuminfo.nl/concert/483031/Het-Danspaleis/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1982,6 +2012,16 @@
           "tags": []
         },
         {
+          "id": "604806",
+          "title": "DnD 5e Ghost City (Nederlandse sessie/ Level 1/ Beginner Vriendelijk)",
+          "start": "2026-08-05T19:00:00+02:00",
+          "end": "2026-08-05T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "DnD 5e Ghost City (Nederlandse sessie/ Level 1/ Beginner Vriendelijk) Wed 5/8 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Locatie: De Bierkantine, Utrecht | Inloop: 18:30 tot 19:00 | Deelnamebijdrage: €5 | Je hoeft niets mee te nemen of te weten over RPG's (je…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "604019",
           "title": "Blades in the Dark – Sandmen",
           "start": "2026-08-05T19:00:00+02:00",
@@ -2008,16 +2048,6 @@
           "end": "2026-08-05T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "A Familiar Problem (Beginner Friendly) Wed 5/8 7-10pm at Subcultures @De Bierkantine English, Indie RPG Character level 0 -- Info box ------------------------------- Where: De Bierkantine When: Walk-in from 18:30, start at 19:00 Participation fee: €5 Prep: no need to bring or know anything about…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604602",
-          "title": "Murder of Crows [beginner friendly]",
-          "start": "2026-08-05T19:00:00+02:00",
-          "end": "2026-08-05T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Murder of Crows [beginner friendly] Wed 5/8 7-10pm at Subcultures @De Bierkantine English, Indie RPG Written by Maya Saveliev &amp;amp;amp; Michael E. Weil A murder investigation TTRPG Play as agents of the Crow Anticrime Wing (C.A.W) as they try to figure out who killed a crow, why, and what they…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2161,30 +2191,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-23040",
-          "title": "Commander Tuesday",
-          "start": "2026-08-04T18:00:00+02:00",
-          "end": "2026-08-04T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-237/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
-          "id": "lab-monkey-11402",
-          "title": "Ladies Knight",
-          "start": "2026-08-04T19:00:00+02:00",
-          "end": "2026-08-04T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het…",
-          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
-          "tags": [
-            "Ladies'(K)night"
-          ]
-        },
         {
           "id": "lab-monkey-23042",
           "title": "Weekly Draft",
@@ -2521,33 +2527,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-salsa-nights-elke-woensdag-47",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-08-05T00:00:00+02:00",
-          "end": "2026-08-05T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-47/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-ruggengraat-community-filmavond-met-panelgesprek",
-          "title": "Filmavond",
-          "start": "2026-08-05T00:00:00+02:00",
-          "end": "2026-08-05T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/ruggengraat-community-filmavond-met-panelgesprek/",
-          "tags": [
-            "Film",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-buitenspeelavond-voor-volwassenen-10",
           "title": "Buitenspeelavond voor volwassenen – Onderwater thema!",
           "start": "2026-08-06T00:00:00+02:00",
@@ -2570,6 +2549,20 @@
           "description": "",
           "url": "https://www.vechtclub.nl/agenda/lan-tine-het-mario-party-tournament/",
           "tags": [
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-lars-gypsy-project-live",
+          "title": "Lars Gypsy Project (Live)",
+          "start": "2026-08-07T00:00:00+02:00",
+          "end": "2026-08-07T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lars-gypsy-project-live/",
+          "tags": [
+            "Gratis",
+            "Muziek",
             "Kantine"
           ]
         },
@@ -3044,7 +3037,7 @@
           "end": "2026-08-15T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73710",
-          "description": "Embark on an epic journey through magical worlds, with music from The Lord of the Rings , Harry Potter and Game of Thrones , among others. Philharmonie Leipzig plays works by Hans Zimmer, John Williams, Ramin Djawadi and many others.<BR><BR>Legendary heroes and epic stories deserve music that lifts",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Embark on an epic journey through magical worlds, with music from The Lord of the Rings , Harry Potter and Game of Thrones , among others. Philharmonie Leipzig plays works by Hans Zimmer, John Williams, Ramin Djawadi and many others.<BR><BR>Legendary heroes and epic…",
           "tags": []
         },
         {
@@ -3324,7 +3317,7 @@
           "end": "2026-10-12T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74690",
-          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the…",
           "tags": []
         },
         {
@@ -3334,7 +3327,7 @@
           "end": "2026-10-13T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74691",
-          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the…",
           "tags": []
         },
         {
@@ -4308,22 +4301,22 @@
           "tags": []
         },
         {
-          "id": "77752",
-          "title": "Intouchables Live in Concert",
-          "start": "2027-02-22T20:00:00.000Z",
-          "end": "2027-02-22T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77752",
-          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
-          "tags": []
-        },
-        {
           "id": "77753",
           "title": "Intouchables Live in Concert",
           "start": "2027-02-23T20:00:00.000Z",
           "end": "2027-02-23T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77753",
+          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
+          "tags": []
+        },
+        {
+          "id": "78045",
+          "title": "Intouchables Live in Concert",
+          "start": "2027-02-23T20:00:00.000Z",
+          "end": "2027-02-23T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78045",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
           "tags": []
         },
@@ -4667,8 +4660,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4804,16 +4796,6 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/pruimenweekend/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-tuinsafari-4-augustus-2026-2026",
-          "title": "Tuinsafari 4 augustus 2026",
-          "start": "2026-08-04T10:00:00+02:00",
-          "end": "2026-08-04T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/tuinsafari-4-augustus-2026/",
           "tags": []
         },
         {

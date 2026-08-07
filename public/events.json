@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T07:43:31.654Z",
+  "updatedAt": "2026-08-07T06:11:46.974Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001028",
-          "title": "DEAD MEADOW (USA - HEAVY PSYCH SOUNDS) + Dan Green & the Mystery Machine",
-          "start": "2026-08-06T20:00:00+02:00",
-          "end": "2026-08-06T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "De Amerikaanse vaandeldragers van de moderne psychedelische rock, Dead Meadow, zijn met hun nieuwe album Voyager To Voyager toe aan de tiende studioplaat in hun 25-jarig bestaan.  Het trio mochten we  eerder meermaals ontvangen in de oude dB’s maar dit keer is toch anders want Dead Meadow heeft met…",
-          "url": "https://dbstudio.nl/event/dead-meadow-usa-heavy-psych-sounds/",
-          "tags": [
-            "Psychedelic"
-          ]
-        },
         {
           "id": "10000990",
           "title": "LUNA KILLS (Fin) ism TivoliVredenburg + Pacemaker",
@@ -411,6 +399,18 @@
           "tags": [
             "Ballroom Blitz"
           ]
+        },
+        {
+          "id": "10001115",
+          "title": "PopPubQuiz Live",
+          "start": "2026-09-27T15:00:00+02:00",
+          "end": "2026-09-27T19:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "//dbstudio.nl/wp-content/uploads/2026/07/PopPubQuiz-Teaser-2025-IG.mp4",
+          "url": "https://dbstudio.nl/event/poppubquiz-live/",
+          "tags": [
+            "PopPubQuiz Live"
+          ]
         }
       ]
     },
@@ -422,6 +422,36 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30718",
+          "title": "Diep In De Groef",
+          "start": "2026-09-25T23:30:00+02:00",
+          "end": "2026-09-26T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-226/",
+          "tags": []
+        },
+        {
+          "id": "30713",
+          "title": "Diep In De Groef",
+          "start": "2026-09-11T23:30:00+02:00",
+          "end": "2026-09-12T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-224/",
+          "tags": []
+        },
+        {
+          "id": "30708",
+          "title": "Diep In De Groef",
+          "start": "2026-09-04T23:30:00+02:00",
+          "end": "2026-09-05T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-222/",
+          "tags": []
+        },
         {
           "id": "29074",
           "title": "Prostitute",
@@ -1113,6 +1143,16 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
+          "id": "helling-uitweek-pubquiz-11-08-2026",
+          "title": "UITweek Pubquiz",
+          "start": "2026-08-11T20:00:00+02:00",
+          "end": "2026-08-11T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Pubquiz voor UITlopers tijdens de UITweek in onze zaal en café!",
+          "url": "https://dehelling.nl/agenda/uitweek-pubquiz-11-08-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-the-dreadnoughts-13-08-2026",
           "title": "The Dreadnoughts",
           "start": "2026-08-13T20:45:00+02:00",
@@ -1225,7 +1265,7 @@
         {
           "id": "helling-pann-25-11-09-2026",
           "title": "PANN 25+",
-          "start": "2026-09-11T23:00:00+02:00",
+          "start": "2026-09-11T22:00:00+02:00",
           "end": "2026-09-12T04:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Het leukste LHBTQIA+ event van Nederland",
@@ -1350,6 +1390,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Utrechtse hardcore-legends zijn terug met vijfde album",
           "url": "https://dehelling.nl/agenda/john-coffey-09-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-the-funky-cat-office-day-rave-10-10-2026",
+          "title": "The Funky Cat – Office Day Rave",
+          "start": "2026-10-10T15:00:00+01:00",
+          "end": "2026-10-10T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Alle underground dance genres in de blender voor een knotsgekke en kleurrijke rave!",
+          "url": "https://dehelling.nl/agenda/the-funky-cat-office-day-rave-10-10-2026/",
           "tags": []
         },
         {
@@ -1480,6 +1530,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Amsterdams indiepopduo draagt de titel ‘feelgoodband’ met trots",
           "url": "https://dehelling.nl/agenda/ciao-lucifer-05-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-le-guess-who-2026-06-11-2026",
+          "title": "Le Guess Who? 2026",
+          "start": "2026-11-06T10:00:00+01:00",
+          "end": "2026-11-07T00:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "20e jubileumeditie - vrijdag",
+          "url": "https://dehelling.nl/agenda/le-guess-who-2026-06-11-2026/",
           "tags": []
         },
         {
@@ -1723,16 +1783,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "452653",
-          "title": "The Get Up Kids",
-          "start": "2026-08-06T20:00:00+02:00",
-          "end": "2026-08-06T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Amerikaanse emoband met energieke, punk gedreven sound - De Amerikaanse emoband The Get Up Kids kan hun naam inmiddels veranderen in The Get Up Adults, want de vijf mannen zijn – samen met hun fans – volwassen geworden. Dat bleek ook op hun laatste album Problems (2019), waarop de band onbeschaamd…",
-          "url": "https://www.podiuminfo.nl/concert/452653/The-Get-Up-Kids/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "486487",
           "title": "Salsa on Friday",
           "start": "2026-08-07T20:15:00+02:00",
@@ -1971,6 +2021,16 @@
           "description": "Dit ochtendconcert presenteert een spannende samenwerking tussen twee vooraanstaande Nederlandse muzikanten. Harpiste Lavinia Meijer, bekend van haar werk met Philip Glass en Ludovico Einaudi, behoort tot de internationale top van gestreamde klassieke artiesten. Reyer Zwart is een veelzijdige…",
           "url": "https://www.podiuminfo.nl/concert/456972/Lavinia-Meijer-Reyer-Zwart/Slottuintheater/",
           "tags": []
+        },
+        {
+          "id": "455732",
+          "title": "Paco Peña",
+          "start": "2026-08-23T20:30:00+02:00",
+          "end": "2026-08-23T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Flamencogitarist Paco Peña behoort tot de grote namen die deze traditie al meer dan vijftig jaar uitdragen. Hij trad wereldwijd op en was ook regelmatig in Nederland te horen, zowel met solorecitals als met zijn eigen flamencogezelschap en met een groep bijzondere flamenco-vrienden. ",
+          "url": "https://www.podiuminfo.nl/concert/455732/Paco-Pena/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2072,6 +2132,16 @@
           "tags": []
         },
         {
+          "id": "605085",
+          "title": "Foul Play [beginner friendly] [playtest]",
+          "start": "2026-08-19T19:00:00+02:00",
+          "end": "2026-08-19T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Foul Play [beginner friendly] [playtest] Wed 19/8 7-10pm at Subcultures @Silver Heron Studios English, Foul Play Written by Hendrik ten Napel, art by Ema Acosta Foul Play is a role-playing game for a group of horrible geese and one Goose Master. During the one shot adventures the geese wreak havoc…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "604603",
           "title": "Murder of Crows [Beginner friendly]",
           "start": "2026-08-19T19:00:00+02:00",
@@ -2112,6 +2182,16 @@
           "tags": []
         },
         {
+          "id": "605039",
+          "title": "Mothership 1e Year of the Rat",
+          "start": "2026-08-26T19:00:00+02:00",
+          "end": "2026-08-26T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Mothership 1e Year of the Rat Wed 26/8 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "604045",
           "title": "🗻PF2 Bounty 12: Somewhere Below [Beginner-friendly]🎨",
           "start": "2026-08-26T19:00:00+02:00",
@@ -2141,18 +2221,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-23042",
-          "title": "Weekly Draft",
-          "start": "2026-08-06T19:00:00+02:00",
-          "end": "2026-08-06T22:30:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-121/",
-          "tags": [
-            "Draft"
-          ]
-        },
         {
           "id": "lab-monkey-22940",
           "title": "Prerelease Ticket – Zaterdag 11:00 – 1v1 – The Hobbit",
@@ -2477,35 +2545,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-lars-gypsy-project-live",
-          "title": "Lars Gypsy Project (Live)",
-          "start": "2026-08-07T00:00:00+02:00",
-          "end": "2026-08-07T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/lars-gypsy-project-live/",
-          "tags": [
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-beton-nuit-tweedekansmarkt-by-night-2",
-          "title": "Beton Nuit- tweedekansmarkt by night",
-          "start": "2026-08-07T00:00:00+02:00",
-          "end": "2026-08-07T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-nuit-tweedekansmarkt-by-night-2/",
-          "tags": [
-            "Gratis",
-            "Markt",
-            "Muziek",
-            "Terras"
-          ]
-        },
-        {
           "id": "beton-beton-te-land-ter-zee-en-in-de-lucht",
           "title": "Beton-te Land, ter Zee en in de Lucht",
           "start": "2026-08-08T00:00:00+02:00",
@@ -2610,6 +2649,36 @@
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
         {
+          "id": "acu-20261111-noisevember-4",
+          "title": "NOISEVEMBER",
+          "start": "2026-11-11T00:00:00+01:00",
+          "end": "2026-11-11T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 11th. 1111. 1111 is ███████████████████ ████████████████████████████████████ ███████████████████████████ 15 ████████████████████████████████████████████████████████████████████████████████ █████ ███████████████████████████████████████████ █████████████████████████████████████████…",
+          "url": "https://acu.nl/events/20261111/noisevember-4",
+          "tags": []
+        },
+        {
+          "id": "acu-20261117-noisevember-3",
+          "title": "NOISEVEMBER",
+          "start": "2026-11-17T00:00:00+01:00",
+          "end": "2026-11-17T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 17th. OPEN NOISE. This event is part of NOISEVEMBER. NOISEVEMBER is a month-long festival and celebration of diy noise culture. @%@@@@@@%@@@@%@%%%%%%%%%%%%%%%@@@@@%%%@@@%%%%%%%%%%@%@%%@%@%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%@%@@@%%%%%…",
+          "url": "https://acu.nl/events/20261117/noisevember-3",
+          "tags": []
+        },
+        {
+          "id": "acu-20260912-acu-x-open-monumentendag-2026",
+          "title": "ACU x Open Monumentendag 2026",
+          "start": "2026-09-12T00:00:00+02:00",
+          "end": "2026-09-12T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 12th. ACU will be joining Open Monumentendag on September 12! The theme this year is “Weerbaar Erfgoed: Utrecht beschermt!” >> “Resilient Culture: Utrecht protects!” We will open from 10am until 5pm, so feel free to drop in and say hey 🙂 Most of the ACU will be open to look around and…",
+          "url": "https://acu.nl/events/20260912/acu-x-open-monumentendag-2026",
+          "tags": []
+        },
+        {
           "id": "acu-20260813-metric-system-rotjochies-enzo",
           "title": "Metric System / Rotjochies / Enzo",
           "start": "2026-08-13T00:00:00+02:00",
@@ -2625,7 +2694,7 @@
           "start": "2026-10-23T00:00:00+01:00",
           "end": "2026-10-23T00:00:00+01:00",
           "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 23rd. //Suggested price 10 euro but pay what you can we would rather have you enjoy the party than to stay at home because of the price. //Be in time we start at 20:30 the night is going to be packed with live acts. //Entrance on for this show also grants you aces to...",
+          "description": "October 23rd. //Suggested price 10 euro, however pay what you can. We would rather have you enjoy the party than to stay at home because of the price. //Be in time we start at 20:30 the night is going to be packed with live acts. //Entrance on for this show also grants you aces to...",
           "url": "https://acu.nl/events/20261023/moonbean-eneona-0oooo000oo0ooo0oooo",
           "tags": []
         },
@@ -2667,26 +2736,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "September 15th. Rotten Food Booking + Tinnitus Patches Present....",
           "url": "https://acu.nl/events/20260915/punk-and-folk-cheap-dirty-horse-uk-ruen-nl-pt-moonbugs-moon",
-          "tags": []
-        },
-        {
-          "id": "acu-20260925-feral-snackbar-designer-violence",
-          "title": "FERAL + Snackbar + Designer Violence",
-          "start": "2026-09-25T00:00:00+02:00",
-          "end": "2026-09-25T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 25th. Silent Call Collective presents. Silent Call Collective presents: FERAL FERAL is an untamed Spanish/American duo from Amsterdam featuring pounding beats and chainsaw guitar riffs that sound like the Cosmic Psychos and Atari Teenage Riot went out for a night of heavy drinking and…",
-          "url": "https://acu.nl/events/20260925/feral-snackbar-designer-violence",
-          "tags": []
-        },
-        {
-          "id": "acu-20260821-super-maintenance-karaoke",
-          "title": "Super Duper Karaoke",
-          "start": "2026-08-21T00:00:00+02:00",
-          "end": "2026-08-21T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "August 21st. Low budget karaoke night. This August release your inner goblin at another Super Duper Karaoke night!! Date: Fri, 21-08-2026, 21:00 Location: ACU, Voorstraat 71 Donation based! Poster by @izzyfangs A production of @mirai.futuro",
-          "url": "https://acu.nl/events/20260821/super-maintenance-karaoke",
           "tags": []
         }
       ]
@@ -2913,6 +2962,16 @@
             "House",
             "Trance"
           ]
+        },
+        {
+          "id": "basis-utrecht-10001503-1792278000-1792303200",
+          "title": "BASIS/ Rebekah all night long",
+          "start": "2026-10-17T23:00:00+01:00",
+          "end": "2026-10-18T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-rebekah-all-night-long-7/",
+          "tags": []
         }
       ]
     },
@@ -2944,6 +3003,16 @@
       "scene": "utrecht",
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
+        {
+          "id": "festival-strand",
+          "title": "Festival Strand",
+          "start": "2026-08-28T13:00:00+00:00",
+          "end": "2026-08-29T23:00:00+00:00",
+          "location": "Haarrijnseplas, Utrecht",
+          "description": "Festival Strand vindt plaats op 28 & 29 augustus 2026. Bekijk hier de line-up, ticketinfo en sfeer van Strand.",
+          "url": "https://festivalfans.nl/event/festival-strand/",
+          "tags": []
+        },
         {
           "id": "smeerboel-festival",
           "title": "Smeerboel Festival",
@@ -3002,6 +3071,16 @@
           "location": "Den Haag (The Hague), Scheveningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77784",
           "description": "Cinema Morricone:<BR>An Intimate Celebration<BR><BR>Sara Andon, flute &bull; Simone Pedroni, piano<BR><BR>Music composed by Ennio Morricone (1928-2020)<BR>Transcriptions and arrangements by Simone Pedroni<BR><BR>Produced by Robert Townson<BR><BR>For information on the repertoire use the additional l",
+          "tags": []
+        },
+        {
+          "id": "78077",
+          "title": "Hollywood Love Stories",
+          "start": "2026-08-20T20:00:00.000Z",
+          "end": "2026-08-20T23:00:00.000Z",
+          "location": "Den Haag (The Hague), Scheveningen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78077",
+          "description": "Chamber Orchestra<BR>Conrad Pope, conductor<BR>Michiel de Boer, conductor<BR>Sara Andon, flute<BR>Simone Pedroni, piano<BR>Robert Townson, host<BR><BR>A night of wonderful film melodies from blockbuster motion pictures such as \"Titanic\", \"Out of Africa\", &quot",
           "tags": []
         },
         {
@@ -4255,16 +4334,6 @@
           "tags": []
         },
         {
-          "id": "78045",
-          "title": "Intouchables Live in Concert",
-          "start": "2027-02-23T20:00:00.000Z",
-          "end": "2027-02-23T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78045",
-          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
-          "tags": []
-        },
-        {
           "id": "76176",
           "title": "20 Live Movies in Concert",
           "start": "2027-02-25T20:00:00.000Z",
@@ -4604,8 +4673,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4744,13 +4812,13 @@
           "tags": []
         },
         {
-          "id": "muiderslot-circus-olifant-6-augustus-2026-2026",
-          "title": "Circus Olifant &#8211; 6 augustus 2026",
-          "start": "2026-08-06T10:00:00+02:00",
-          "end": "2026-08-06T18:00:00+02:00",
+          "id": "muiderslot-presentatie-tropische-planten-2027",
+          "title": "Presentatie: Tropische planten",
+          "start": "2027-06-08T10:00:00+02:00",
+          "end": "2027-08-30T18:00:00+02:00",
           "location": "Muiderslot, Muiden",
           "description": "",
-          "url": "https://muiderslot.nl/activiteit/circus-olifant-6-augustus-2026/",
+          "url": "https://muiderslot.nl/activiteit/presentatie-tropische-planten/",
           "tags": []
         },
         {
@@ -5204,6 +5272,16 @@
           "tags": []
         },
         {
+          "id": "brederode-ru-ne-bewoond-beleef-de-middeleeuwen-2027-06-08",
+          "title": "Ruïne Bewoond – Beleef de middeleeuwen",
+          "start": "2027-06-08T11:00:00+02:00",
+          "end": "2027-06-09T17:00:00+02:00",
+          "location": "Ruïne van Brederode, Santpoort-Zuid",
+          "description": "",
+          "url": "https://ruinevanbrederode.nl/ruine-bewoond/",
+          "tags": []
+        },
+        {
           "id": "brederode-zelf-handboogschieten-met-de-kasteelschutter-2026-09-13",
           "title": "Zelf handboogschieten met de Kasteelschutter",
           "start": "2026-09-13T11:00:00+02:00",
@@ -5428,17 +5506,6 @@
           "country": "United Kingdom",
           "description": "Buhurt-toernooi in United Kingdom.",
           "url": "https://www.buhurtinternational.com/tournament/heritage-shield-2026",
-          "tags": []
-        },
-        {
-          "id": "bi-\"way-of-honor\"",
-          "title": "Way of Honor 2026",
-          "start": "2026-08-07T00:00:00+02:00",
-          "end": "2026-08-07T23:00:00+02:00",
-          "location": "Germany",
-          "country": "Germany",
-          "description": "Buhurt-toernooi in Germany.",
-          "url": "https://www.buhurtinternational.com/tournament/\"way-of-honor\"",
           "tags": []
         }
       ]

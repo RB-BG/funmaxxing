@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T06:11:46.974Z",
+  "updatedAt": "2026-08-08T05:44:51.259Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -423,6 +423,26 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "29536",
+          "title": "Apeshit",
+          "start": "2026-09-10T19:30:00+02:00",
+          "end": "2026-09-10T22:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Met razende riffjes, snauwende vocals en melodieuze hooks zorgt het Utrechtse Apeshit voor een dynamische jangle-punk-mengelmoes. De nummers, die ironische ondertonen combineren met serieuze onderwerpen, resulteren live in een mix van rauwe energie, aanstekelijke melodieën en een goede dosis humor.…",
+          "url": "https://ekko.nl/event/apeshit/",
+          "tags": []
+        },
+        {
+          "id": "30233",
+          "title": "Ratboys",
+          "start": "2026-09-12T20:30:00+02:00",
+          "end": "2026-09-12T23:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Ratboys maakt warme, gitaargedreven indierock waarin invloeden van powerpop, americana en alt-country moeiteloos samenvloeien. Op hun zesde album ‘Singin’ to an Empty Chair’ presenteert het viertal uit Chicago elf nummers over vervreemding, therapie en de wens om een onmogelijk gesprek toch te…",
+          "url": "https://ekko.nl/event/ratboys-1/",
+          "tags": []
+        },
+        {
           "id": "30718",
           "title": "Diep In De Groef",
           "start": "2026-09-25T23:30:00+02:00",
@@ -623,16 +643,6 @@
           "tags": []
         },
         {
-          "id": "30039",
-          "title": "Diep In De Groef",
-          "start": "2026-08-07T23:30:00+02:00",
-          "end": "2026-08-08T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-216-2/",
-          "tags": []
-        },
-        {
           "id": "29542",
           "title": "Ray Fuego",
           "start": "2026-08-08T20:00:00+02:00",
@@ -720,16 +730,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Grace Cummings maakt als singer-songwriter muziek die even rauw als meeslepend klinkt. De Australische zangeres staat bekend om haar diepe, onmiskenbare stem en intense nummers waarin kwetsbaarheid en kracht samenkomen. Op haar nieuwe album ‘Bloodhorse!’ verruilt ze de kampvuurintimiteit van…",
           "url": "https://ekko.nl/event/grace-cummings/",
-          "tags": []
-        },
-        {
-          "id": "30233",
-          "title": "Ratboys",
-          "start": "2026-09-12T20:30:00+02:00",
-          "end": "2026-09-12T23:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ratboys maakt warme, gitaargedreven indierock waarin invloeden van powerpop, americana en alt-country moeiteloos samenvloeien. Op hun zesde album ‘Singin’ to an Empty Chair’ presenteert het viertal uit Chicago elf nummers over vervreemding, therapie en de wens om een onmogelijk gesprek toch te…",
-          "url": "https://ekko.nl/event/ratboys-1/",
           "tags": []
         },
         {
@@ -960,16 +960,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "The Guest List is een aanstormende band uit Manchester, bestaande uit vijf schoolvrienden die elkaar vonden in een gedeelde liefde voor The Strokes. Met hun indierocknummers bouwden ze in korte tijd een fervent publiek op, aangedreven door het emotionele en maatschappelijk bewuste schrijven van…",
           "url": "https://ekko.nl/event/the-guest-list/",
-          "tags": []
-        },
-        {
-          "id": "29536",
-          "title": "Apeshit",
-          "start": "2026-09-10T19:30:00+02:00",
-          "end": "2026-09-10T22:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Met razende riffjes, snauwende vocals en melodieuze hooks zorgt het Utrechtse Apeshit voor een dynamische jangle-punk-mengelmoes. De nummers, die ironische ondertonen combineren met serieuze onderwerpen, resulteren live in een mix van rauwe energie, aanstekelijke melodieën en een goede dosis humor.…",
-          "url": "https://ekko.nl/event/apeshit/",
           "tags": []
         },
         {
@@ -1783,26 +1773,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "486487",
-          "title": "Salsa on Friday",
-          "start": "2026-08-07T20:15:00+02:00",
-          "end": "2026-08-07T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Salsa on Friday biedt een uitnodigende dansavond voor iedereen, ongeacht ervaringsniveau. De dj's presenteren een selectie van de lekkerste salsa hits, variërend van tijdloze klassiekers tot recente favorieten. De warme community en gastvrije sfeer moedigen bezoekers aan om te dansen, hun…",
-          "url": "https://www.podiuminfo.nl/concert/486487/Salsa-on-Friday/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "477368",
-          "title": "After Sun: ANTHEMS",
-          "start": "2026-08-07T22:00:00+02:00",
-          "end": "2026-08-07T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "After Sun is een nieuwe zomernacht in Ronda van TivoliVredenburg, waar bezoekers kunnen afkoelen van de zon op de dansvloer. De avond brengt een golf van de beste muziek, variërend van festivalhits tot zwoele R&B en actuele tophits. De deuren openen om 22:00 uur. Deze editie, getiteld ANTHEMS,…",
-          "url": "https://www.podiuminfo.nl/concert/477368/After-Sun-ANTHEMS/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "483028",
           "title": "Wildrooster in de Doopsgezinde kerk",
           "start": "2026-08-08T13:30:00+02:00",
@@ -2031,6 +2001,26 @@
           "description": "Flamencogitarist Paco Peña behoort tot de grote namen die deze traditie al meer dan vijftig jaar uitdragen. Hij trad wereldwijd op en was ook regelmatig in Nederland te horen, zowel met solorecitals als met zijn eigen flamencogezelschap en met een groep bijzondere flamenco-vrienden. ",
           "url": "https://www.podiuminfo.nl/concert/455732/Paco-Pena/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "480152",
+          "title": "Brother Wallace",
+          "start": "2026-08-27T20:15:00+02:00",
+          "end": "2026-08-27T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse soulzanger Brother Wallace is recent begonnen aan zijn solocarrière, na jarenlang als achtergrondzanger getourd te hebben met de Engelse soul-rockband The Heavy. Zijn samenwerking met The Heavy-gitarist Dan Taylor resulteerde in het debuutalbum Electric Love (2026). Op dit album…",
+          "url": "https://www.podiuminfo.nl/concert/480152/Brother-Wallace/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "461003",
+          "title": "Hannah Juanita",
+          "start": "2026-08-27T20:30:00+02:00",
+          "end": "2026-08-27T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "‘I’m a honky tonkin’ baby, with a hardliner blues’ is de eerste regel van het nieuwe, tweede album Tennessee Songbird (2025) van de Amerikaanse countryzangeres Hannah Juanita. Dit liedje omschrijft haar levensstijl en muzikale stijl. Juanita's muziek neemt luisteraars mee naar broeierige…",
+          "url": "https://www.podiuminfo.nl/concert/461003/Hannah-Juanita/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2068,6 +2058,16 @@
           "end": "2026-08-12T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Blades in the Dark – Sandmen Wed 12/8 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "605104",
+          "title": "Murder of Crows [Beginner friendly]",
+          "start": "2026-08-12T19:00:00+02:00",
+          "end": "2026-08-12T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Murder of Crows [Beginner friendly] Wed 12/8 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Maya Saveliev &amp;amp;amp; Michael E. Weil A murder investigation TTRPG Play as agents of the Crow Anticrime Wing (C.A.W) as they try to figure out who killed a crow, why, and…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2122,6 +2122,16 @@
           "tags": []
         },
         {
+          "id": "605100",
+          "title": "D&D 5.5e Phandelver: Thralls of Enternality",
+          "start": "2026-08-19T19:00:00+02:00",
+          "end": "2026-08-19T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 19/8 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "604988",
           "title": "DDHC-WBW The Wild Beyond the Witchlight",
           "start": "2026-08-19T19:00:00+02:00",
@@ -2132,12 +2142,12 @@
           "tags": []
         },
         {
-          "id": "605085",
+          "id": "605088",
           "title": "Foul Play [beginner friendly] [playtest]",
           "start": "2026-08-19T19:00:00+02:00",
           "end": "2026-08-19T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Foul Play [beginner friendly] [playtest] Wed 19/8 7-10pm at Subcultures @Silver Heron Studios English, Foul Play Written by Hendrik ten Napel, art by Ema Acosta Foul Play is a role-playing game for a group of horrible geese and one Goose Master. During the one shot adventures the geese wreak havoc…",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Foul Play [beginner friendly] [playtest] Wed 19/8 7-10pm at Subcultures @De Bierkantine English, Foul Play Written by Hendrik ten Napel, art by Ema Acosta Foul Play is a role-playing game for a group of horrible geese and one Goose Master. During the one shot adventures the geese wreak havoc in a…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2178,6 +2188,16 @@
           "end": "2026-08-26T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "D&amp;D 5.5e: Dark Matter \"The confrontation\" Wed 26/8 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "605089",
+          "title": "Foul Play [beginner friendly] [playtest]",
+          "start": "2026-08-26T19:00:00+02:00",
+          "end": "2026-08-26T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Foul Play [beginner friendly] [playtest] Wed 26/8 7-10pm at Subcultures @Silver Heron Studios English, Foul Play Written by Hendrik ten Napel, art by Ema Acosta Foul Play is a role-playing game for a group of horrible geese and one Goose Master. During the one shot adventures the geese wreak havoc…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2306,8 +2326,8 @@
         {
           "id": "casualcarnage-241",
           "title": "Casual Carnage: August 8th",
-          "start": "2026-08-08T11:15:00+02:00",
-          "end": "2026-08-08T18:15:00.000Z",
+          "start": "2027-08-08T11:15:00+02:00",
+          "end": "2027-08-08T18:15:00.000Z",
           "location": "Silver Heron Studios, Utrecht",
           "description": "",
           "url": "https://www.casualcarnage.nl/event/casual-carnage-august-8th/",
@@ -2497,21 +2517,7 @@
       "icon": "🌸",
       "scene": "games",
       "feedUrl": "https://abunaicon.nl/",
-      "events": [
-        {
-          "id": "abunai-2026",
-          "title": "Abunai! 2026",
-          "start": "2026-08-07T10:00:00+02:00",
-          "end": "2026-08-09T22:00:00+02:00",
-          "location": "NH Koningshof, Veldhoven",
-          "description": "Japanse anime- en mangaconventie in Veldhoven.",
-          "url": "https://abunaicon.nl/",
-          "tags": [
-            "Anime",
-            "Manga"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "animecon",
@@ -2544,21 +2550,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-beton-te-land-ter-zee-en-in-de-lucht",
-          "title": "Beton-te Land, ter Zee en in de Lucht",
-          "start": "2026-08-08T00:00:00+02:00",
-          "end": "2026-08-08T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-te-land-ter-zee-en-in-de-lucht/",
-          "tags": [
-            "Eten / Drinken",
-            "Muziek",
-            "Skaten",
-            "Sport"
-          ]
-        },
         {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-11",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
@@ -2637,6 +2628,33 @@
           "description": "",
           "url": "https://www.vechtclub.nl/agenda/besloten-evenement-12/",
           "tags": []
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-48",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-08-12T00:00:00+02:00",
+          "end": "2026-08-12T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-48/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-de-nablijf-klup",
+          "title": "De Nablijf Klup – Voor makers die nog niet af zijn",
+          "start": "2026-08-12T00:00:00+02:00",
+          "end": "2026-08-12T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/de-nablijf-klup/",
+          "tags": [
+            "Workshop",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2648,6 +2666,66 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260828-bankra-bike-sounds",
+          "title": "Bankra Bike Sounds",
+          "start": "2026-08-28T00:00:00+02:00",
+          "end": "2026-08-28T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "August 28th. Global bass, Electro, DnB, Baile/UK Funk. Bankra Bangers, to celebrate the europe tour of the Bankra Bike Sound System of this year we do an ‘allstar’ session. We’ve played Couleur Cafe (BE), Les Nuits de Secrets (FR) and Zwarte Cross (NL) and now we can hit our home town to close off…",
+          "url": "https://acu.nl/events/20260828/bankra-bike-sounds",
+          "tags": []
+        },
+        {
+          "id": "acu-20260828-heavy-jam-2",
+          "title": "Heavy Jam",
+          "start": "2026-08-28T00:00:00+02:00",
+          "end": "2026-08-28T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "August 28th. With Cream Cheese. Crank the amps, grab your instrument and come make some noise. We’re hosting a heavy jam session at ACU for anyone into metal, hardcore, punk, grunge, stoner, doom or anything loud and heavy. Whether you’ve been playing for years or just want to jump in and see what…",
+          "url": "https://acu.nl/events/20260828/heavy-jam-2",
+          "tags": []
+        },
+        {
+          "id": "acu-20261030-control-the-law-rah-collective-kryptogen-rundfunk",
+          "title": "Control, The [Law-Rah] Collective & Kryptogen Rundfunk",
+          "start": "2026-10-30T00:00:00+01:00",
+          "end": "2026-10-30T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 30th. More info soon",
+          "url": "https://acu.nl/events/20261030/control-the-law-rah-collective-kryptogen-rundfunk",
+          "tags": []
+        },
+        {
+          "id": "acu-20261215-eectronic-open-stage-23",
+          "title": "EECtronic open stage",
+          "start": "2026-12-15T00:00:00+01:00",
+          "end": "2026-12-15T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "December 15th. For all your EECtronic experiments. Buildup starts at 19:00. The bar is open at: 19:00 We start playing around 20:00 – 20:30. We do generally not use the stage. Half a circle of tables is set up on the floor. If you arrive at 19:00 you can claim a spot and have roughly...",
+          "url": "https://acu.nl/events/20261215/eectronic-open-stage-23",
+          "tags": []
+        },
+        {
+          "id": "acu-20260912-anarchist-dinner-utrecht-info-talk",
+          "title": "Anarchist Dinner Utrecht + Info Talk",
+          "start": "2026-09-12T00:00:00+02:00",
+          "end": "2026-09-12T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 12th. Sex Work & Local Current Situation.",
+          "url": "https://acu.nl/events/20260912/anarchist-dinner-utrecht-info-talk",
+          "tags": []
+        },
+        {
+          "id": "acu-20261020-eectronic-open-stage-22",
+          "title": "EECtronic open stage",
+          "start": "2026-10-20T00:00:00+01:00",
+          "end": "2026-10-20T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 20th. For all your EECtronic experiments. Buildup starts at 19:00. The bar is open at: 19:00 We start playing around 20:00 – 20:30. We do generally not use the stage. Half a circle of tables is set up on the floor. If you arrive at 19:00 you can claim a spot and have roughly...",
+          "url": "https://acu.nl/events/20261020/eectronic-open-stage-22",
+          "tags": []
+        },
         {
           "id": "acu-20261111-noisevember-4",
           "title": "NOISEVEMBER",
@@ -2687,56 +2765,6 @@
           "description": "August 13th. WIJK LUID x Rampoline.",
           "url": "https://acu.nl/events/20260813/metric-system-rotjochies-enzo",
           "tags": []
-        },
-        {
-          "id": "acu-20261023-moonbean-eneona-0oooo000oo0ooo0oooo",
-          "title": "Moonbean, Eneona, 0ooOo000oO0ooO0OoOO",
-          "start": "2026-10-23T00:00:00+01:00",
-          "end": "2026-10-23T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 23rd. //Suggested price 10 euro, however pay what you can. We would rather have you enjoy the party than to stay at home because of the price. //Be in time we start at 20:30 the night is going to be packed with live acts. //Entrance on for this show also grants you aces to...",
-          "url": "https://acu.nl/events/20261023/moonbean-eneona-0oooo000oo0ooo0oooo",
-          "tags": []
-        },
-        {
-          "id": "acu-20260917-drag-me-to-utrecht-10",
-          "title": "Drag Me To Utrecht",
-          "start": "2026-09-17T00:00:00+02:00",
-          "end": "2026-09-17T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 17th. With Miss Mia Mora and Loena Maas. Beautiful people, fabulous souls, and walking mysteries: welcome to Drag Me to Utrecht! A night where we celebrate the art of drag with glamour, beauty, and sheer nonsense. Hosted by the dazzling Miss Mia More and the enchanting Loena Maas, each…",
-          "url": "https://acu.nl/events/20260917/drag-me-to-utrecht-10",
-          "tags": []
-        },
-        {
-          "id": "acu-20260919-backhoe-loader-aquelarre-dyslekt",
-          "title": "Backhoe Loader + Aquelarre + Dyslekt",
-          "start": "2026-09-19T00:00:00+02:00",
-          "end": "2026-09-19T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 19th. hardcore/screamo/slam band night. soil promotions presents BACKHOE LOADER Twente slamdown – A band that combines slam and beatdown. Low gutterals, agressive mosh calls, slow riffs and even slower breakdowns by combinings these thing you’ll get a band that sounds like pure hate.…",
-          "url": "https://acu.nl/events/20260919/backhoe-loader-aquelarre-dyslekt",
-          "tags": []
-        },
-        {
-          "id": "acu-20260829-patatas-ratas-ep-release-party",
-          "title": "PATATAS RATAS – EP RELEASE PARTY",
-          "start": "2026-08-29T00:00:00+02:00",
-          "end": "2026-08-29T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "August 29th. Support with: Pomme Grenade & Smetvrees. EP RELEASE PARTY OF PATATAS RATAS SUPPORTED BY: POMME GRENADE & SMETVREES",
-          "url": "https://acu.nl/events/20260829/patatas-ratas-ep-release-party",
-          "tags": []
-        },
-        {
-          "id": "acu-20260915-punk-and-folk-cheap-dirty-horse-uk-ruen-nl-pt-moonbugs-moon",
-          "title": "Punk and Folk: Cheap Dirty Horse (UK), Ruen (NL/PT), Moonbugs (Moon)",
-          "start": "2026-09-15T00:00:00+02:00",
-          "end": "2026-09-15T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 15th. Rotten Food Booking + Tinnitus Patches Present....",
-          "url": "https://acu.nl/events/20260915/punk-and-folk-cheap-dirty-horse-uk-ruen-nl-pt-moonbugs-moon",
-          "tags": []
         }
       ]
     },
@@ -2748,21 +2776,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001492-1786147140-1786168800",
-          "title": "BASIS Talent Night/ Jean Luc/ KØLŤÏXA/ Late Attendant/ WALICHI",
-          "start": "2026-08-07T23:59:00+02:00",
-          "end": "2026-08-08T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-talent-night-jean-luc-koltixa-late-attendant-walichi/",
-          "tags": [
-            "Groovy techno",
-            "Hardtechno",
-            "House",
-            "Underground techno"
-          ]
-        },
         {
           "id": "basis-utrecht-10001477-1786233540-1786255200",
           "title": "BASIS/ Blame the Mono/ Fiene/ LENA/ Sons of Hidden (live)",
@@ -4822,16 +4835,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-meespeeltheater-7-augustus-2026-2026",
-          "title": "Meespeeltheater &#8211; 7 augustus 2026",
-          "start": "2026-08-07T10:00:00+02:00",
-          "end": "2026-08-07T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/meespeeltheater-7-augustus-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-mindful-muiderslot-yoga-4-2026",
           "title": "Mindful Muiderslot: yoga &#8211; 8 aug 2026",
           "start": "2026-08-08T10:00:00+02:00",
@@ -5192,16 +5195,6 @@
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
         {
-          "id": "brederode-valkenier-met-roofvogels-2026-08-07",
-          "title": "Valkenier met roofvogels",
-          "start": "2026-08-07T11:00:00+02:00",
-          "end": "2026-08-07T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/valkenier-7augustus/",
-          "tags": []
-        },
-        {
           "id": "brederode-ru-ne-bewoond-2026-08-08",
           "title": "Ruïne Bewoond",
           "start": "2026-08-08T11:00:00+02:00",
@@ -5342,19 +5335,6 @@
       "scene": "buhurt",
       "feedUrl": "https://www.worldofbuhurt.com/tournaments",
       "events": [
-        {
-          "id": "wob-way-of-honor-2026",
-          "title": "Way of Honor 2026",
-          "start": "2026-08-08T00:00:00+02:00",
-          "end": "2026-08-09T23:00:00+02:00",
-          "location": "Pfaffen-Schwabenheim, Germany",
-          "country": "Germany",
-          "description": "Buhurt-toernooi in Germany. 08-09 August 2026.",
-          "url": "https://www.worldofbuhurt.com/tournaments/way-of-honor-2026",
-          "tags": [
-            "Melee"
-          ]
-        },
         {
           "id": "wob-heritage-shield-2026",
           "title": "Heritage Shield 2026",

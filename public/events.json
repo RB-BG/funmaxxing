@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T05:44:51.259Z",
+  "updatedAt": "2026-08-09T05:49:27.612Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,20 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10000990",
-          "title": "LUNA KILLS (Fin) ism TivoliVredenburg + Pacemaker",
-          "start": "2026-08-08T20:00:00+02:00",
-          "end": "2026-08-08T22:30:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "debuutalbum Deathmatch (2025) klinkt nog het meest als de soundtrack van een dystopische videogame!\nIN 2025 al te zien op ESNS en volgens insiders een band om in de gaten te houden. Nu gaan zien in een kleine zaal voor het beste effect. \nOpener is het Tilburgse Nu Metal gezelschap PACEMAKER",
-          "url": "https://dbstudio.nl/event/luna-kills-fin-ism-tivolivredenburg/",
-          "tags": [
-            "Concert",
-            "Electronics",
-            "Metal"
-          ]
-        },
         {
           "id": "10001095",
           "title": "REGGAE BOMB Summer Terrace Jam >vibes, food & music",
@@ -411,6 +397,20 @@
           "tags": [
             "PopPubQuiz Live"
           ]
+        },
+        {
+          "id": "10001062",
+          "title": "KATE CLOVER (USA)",
+          "start": "2026-09-30T20:00:00+02:00",
+          "end": "2026-09-30T23:30:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "“Kate Clover’s second album proves she’s an underground rising powerpop punk star set to explode.” \nNieuwe plaat verschijnt deze zomer, en werd ingespeeld door Kate’s matties van THE HIVES, goede credentials deze dame. Nu gaan zien in dB’s, later in grotere zalen.",
+          "url": "https://dbstudio.nl/event/kate-clover-usa/",
+          "tags": [
+            "Garage",
+            "Post Punk",
+            "Punk"
+          ]
         }
       ]
     },
@@ -553,16 +553,6 @@
           "tags": []
         },
         {
-          "id": "30339",
-          "title": "Baila Baixa",
-          "start": "2026-08-08T23:30:00+02:00",
-          "end": "2026-08-09T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Deze clubnacht is helaas afgelast. Kaartkopers ontvangen een mail met daarin meer informatie. Van de straten van Brazilië naar EKKO: Baila Baixa is een clubnacht waar baile funk centraal staat en invloeden uit de underground elektronische scene ontmoet, van UK sounds tot jersey club en house.…",
-          "url": "https://ekko.nl/event/baila-baixa/",
-          "tags": []
-        },
-        {
           "id": "30412",
           "title": "Musical Rave",
           "start": "2026-08-22T22:30:00+02:00",
@@ -640,16 +630,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
           "url": "https://ekko.nl/event/diep-in-de-groef-221/",
-          "tags": []
-        },
-        {
-          "id": "29542",
-          "title": "Ray Fuego",
-          "start": "2026-08-08T20:00:00+02:00",
-          "end": "2026-08-08T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ray Fuego is een Nederlandse hiphop- en urbanartiest met een uitgesproken artistieke identiteit en een sterke live-reputatie. Als oprichter van collectief SMIB en frontman van punkformatie Ploegendienst beweegt hij zich moeiteloos tussen hiphop, punk en andere alternatieve muziekgenres. Zijn muziek…",
-          "url": "https://ekko.nl/event/ray-fuego-1/",
           "tags": []
         },
         {
@@ -1773,66 +1753,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "483028",
-          "title": "Wildrooster in de Doopsgezinde kerk",
-          "start": "2026-08-08T13:30:00+02:00",
-          "end": "2026-08-08T14:30:00.000Z",
-          "location": "Doopsgezinde Kerk, Oudegracht 270, Utrecht",
-          "description": "Beleef een gratis concert van Wildrooster, een vijfkoppige band uit Utrecht, in de Doopsgezinde kerk. Wildrooster speelt eigen semi-akoestische nummers met invloeden van country en americana, gekenmerkt door wisselende meerstemmige zang, meerdere gitaren en warme pianoklanken. Dit optreden maakt…",
-          "url": "https://www.podiuminfo.nl/concert/483028/Wildrooster-in-de-Doopsgezinde-kerk/Doopsgezinde-Kerk/",
-          "tags": []
-        },
-        {
-          "id": "451596",
-          "title": "Less Than Jake",
-          "start": "2026-08-08T19:00:00+02:00",
-          "end": "2026-08-08T20:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse skapunkband Less Than Jake heeft ruim dertig jaar op de teller staan, maar klinkt op hun jongste ep Uncharted (2024) nog net zo energiek als altijd. Begin jaren nul brak de band door met twee ijzersterke albums op rij: Borders & Boundaries (2000) en Anthem (2003), die eerste…",
-          "url": "https://www.podiuminfo.nl/concert/451596/Less-Than-Jake/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "450956",
-          "title": "Wolfmother",
-          "start": "2026-08-08T20:00:00+02:00",
-          "end": "2026-08-08T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Australische rockband Wolfmother brak in 2005 door met hun titelloze debuutalbum waarop het drietal de klassieke hardrock uit de seventies nieuw leven inblaast – dat de stem van frontman Andrew Stockdale wel wat weg heeft van Ozzy Osbourne, helpt hierbij ook mee. Nummers als Woman en The Joker &…",
-          "url": "https://www.podiuminfo.nl/concert/450956/Wolfmother/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452905",
-          "title": "Luna Kills",
-          "start": "2026-08-08T20:30:00+02:00",
-          "end": "2026-08-08T21:30:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "De Finse formatie Luna Kills combineert nu-metal met elektronica, alternative metal en een dosis energie waarmee heel Finland van warmte kan worden voorzien. Met dank aan frontvrouw Lotta, die moeiteloos switcht van een allesversplinterende fry scream naar cleane zang en haar hand ook niet omdraait…",
-          "url": "https://www.podiuminfo.nl/concert/452905/Luna-Kills/dBs/",
-          "tags": []
-        },
-        {
-          "id": "474231",
-          "title": "Gitaardisco: Wolfmoon Edition",
-          "start": "2026-08-08T22:30:00+02:00",
-          "end": "2026-08-08T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Tijdens Gitaardisco: Wolfmoon Edition in de Ronda draait DJ Vrijmoed de beste dansbare gitaartunes. De avond is gevuld met gitaartracks uit de popgeschiedenis, aangevuld met frisse, hedendaagse nummers. Het programma is een mix van iconische artiesten en bands zoals Iggy Pop, IDLES, Blur, Oasis,…",
-          "url": "https://www.podiuminfo.nl/concert/474231/Gitaardisco-Wolfmoon-Edition/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "480150",
-          "title": "Wasserette",
-          "start": "2026-08-08T23:55:00+02:00",
-          "end": "2026-08-09T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Op zaterdag 8 augustus keert Wasserette terug naar de Pandora zaal van TivoliVredenburg. Bezoekers kunnen een avond vol tropische klanken verwachten, met een energieke mix van diverse genres zoals Dancehall, Afro, R&B en Latin. Dit evenement belooft een onvergetelijke belevenis te worden, waarbij…",
-          "url": "https://www.podiuminfo.nl/concert/480150/Wasserette/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "452711",
           "title": "Arch Enemy",
           "start": "2026-08-09T21:00:00+02:00",
@@ -2020,6 +1940,66 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "‘I’m a honky tonkin’ baby, with a hardliner blues’ is de eerste regel van het nieuwe, tweede album Tennessee Songbird (2025) van de Amerikaanse countryzangeres Hannah Juanita. Dit liedje omschrijft haar levensstijl en muzikale stijl. Juanita's muziek neemt luisteraars mee naar broeierige…",
           "url": "https://www.podiuminfo.nl/concert/461003/Hannah-Juanita/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "487586",
+          "title": "YIP in de Lutherse Kerk",
+          "start": "2026-08-28T13:30:00+02:00",
+          "end": "2026-08-28T14:30:00.000Z",
+          "location": "Lutherse Kerk, Hamburgerstraat 9, Utrecht",
+          "description": "YIP treedt op in de Lutherse Kerk als onderdeel van de serie 'Kerken Luisteren', een reeks gratis middagconcerten georganiseerd door ZIMIHC en Kerken Kijken Utrecht. Deze concerten vinden plaats van 26 juni tot en met 3 september in zeven kerken in de Utrechtse binnenstad en bieden diverse…",
+          "url": "https://www.podiuminfo.nl/concert/487586/YIP-in-de-Lutherse-Kerk/Lutherse-Kerk/",
+          "tags": []
+        },
+        {
+          "id": "460689",
+          "title": "Missio",
+          "start": "2026-08-28T20:00:00+02:00",
+          "end": "2026-08-28T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Amerikaanse duo MISSIO mengt alternatieve rock, synthpop en andere elektronica tot nummers die tegelijkertijd donker en meezingbaar zijn. Door de koele synths en harde beats doet MISSIO soms denken aan de new wave en industrial uit de jaren tachtig en negentig, al klinkt hun werk door de…",
+          "url": "https://www.podiuminfo.nl/concert/460689/Missio/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "474376",
+          "title": "Fiesta Macumba - Summer of Macumba",
+          "start": "2026-08-28T23:55:00+02:00",
+          "end": "2026-08-29T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Fiesta Macumba keert op 28 augustus terug naar TivoliVredenburg in Utrecht voor een onvergetelijke Summer of Macumba night. Bezoekers kunnen een avond verwachten vol dansen, flirten en genieten van de lekkerste Música Latina, zowel van toen als nu. Het evenement staat bekend om zijn molotovcocktail…",
+          "url": "https://www.podiuminfo.nl/concert/474376/Fiesta-Macumba-Summer-of-Macumba/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "453594",
+          "title": "The Living Tombstone",
+          "start": "2026-08-29T20:00:00+02:00",
+          "end": "2026-08-29T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "The internet's biggest gaming band - De Israëlisch-Amerikaanse band The Living Tombstone wordt ook wel ‘the internet's biggest gaming band’ genoemd. De twee kernleden, Yoav Landau en Sam Haft, vergaarden vanaf 2011 hun eerste online successen met nummers geïnspireerd door games als Five Nights at…",
+          "url": "https://www.podiuminfo.nl/concert/453594/The-Living-Tombstone/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "462912",
+          "title": "Hush: AAT, Easttown e.a.",
+          "start": "2026-08-29T23:55:00+02:00",
+          "end": "2026-08-30T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Hush is een evenement waar housemuziek centraal staat, gericht op zowel doorgewinterde liefhebbers als nieuwkomers. De avond belooft onvergetelijke house vibes te leveren. AAT, een snel opkomende house-DJ uit Den Haag, bekend van festivals als Loveland en Awakenings, brengt haar groovy sound en…",
+          "url": "https://www.podiuminfo.nl/concert/462912/Hush-AAT-Easttown-e-a-/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "453917",
+          "title": "The Living Tombstone",
+          "start": "2026-08-30T20:00:00+02:00",
+          "end": "2026-08-30T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Israëlisch-Amerikaanse band The Living Tombstone wordt ook wel ‘the internet's biggest gaming band’ genoemd. De twee kernleden, Yoav Landau en Sam Haft, vergaarden vanaf 2011 hun eerste online successen met nummers geïnspireerd door games als Five Nights at Freddy’s, Overwatch en My Little Pony",
+          "url": "https://www.podiuminfo.nl/concert/453917/The-Living-Tombstone/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2230,6 +2210,26 @@
           "description": "Campagne: Golven in Oevervoorde Wed 26/8 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
+        },
+        {
+          "id": "605109",
+          "title": "Wanderhome - What We Weave  [Beginner Friendly]",
+          "start": "2026-08-26T19:00:00+02:00",
+          "end": "2026-08-26T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - What We Weave [Beginner Friendly] Wed 26/8 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "605151",
+          "title": "Wanderhome - The Bogbugs",
+          "start": "2026-08-26T19:00:00+02:00",
+          "end": "2026-08-26T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - The Bogbugs Wed 26/8 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy fields,…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
         }
       ]
     },
@@ -2241,18 +2241,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-22940",
-          "title": "Prerelease Ticket – Zaterdag 11:00 – 1v1 – The Hobbit",
-          "start": "2026-08-08T11:00:00+02:00",
-          "end": "2026-08-08T17:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "Een nieuwe set betekend een prerelease! Let op wij beginnen om 11:00! Je krijgt 6 boosters, een random foil en natuurlijk de befaamde spindown dobbelsteen. Deelnamekosten: €50,-. We spelen 4 rondes Swiss (je kunt elke ronde spelen). Per speler gaat er 1.5 Play Booster in de prijzenpot. Bestel hier…",
-          "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zaterdag-1100-1v1-the-hobbit/",
-          "tags": [
-            "Pre-release"
-          ]
-        },
         {
           "id": "lab-monkey-22941",
           "title": "Prerelease Ticket – Zondag 11:00 – 1v1 – The Hobbit",
@@ -2655,6 +2643,34 @@
             "Workshop",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-dineren-op-beton-3",
+          "title": "Dineren op Beton gehost door A Beautiful Mess",
+          "start": "2026-08-13T00:00:00+02:00",
+          "end": "2026-08-13T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/dineren-op-beton-3/",
+          "tags": [
+            "Eten / Drinken",
+            "Terras"
+          ]
+        },
+        {
+          "id": "beton-gratis-ukg-festival-gehost-door-pardon-amsterdam",
+          "title": "GRATIS UKG Festival | Gehost door PARDON Amsterdam",
+          "start": "2026-08-14T00:00:00+02:00",
+          "end": "2026-08-14T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/gratis-ukg-festival-gehost-door-pardon-amsterdam/",
+          "tags": [
+            "Dans",
+            "Festival",
+            "Gratis",
+            "Muziek"
+          ]
         }
       ]
     },
@@ -2776,21 +2792,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001477-1786233540-1786255200",
-          "title": "BASIS/ Blame the Mono/ Fiene/ LENA/ Sons of Hidden (live)",
-          "start": "2026-08-08T23:59:00+02:00",
-          "end": "2026-08-09T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-blame-the-mono-fiene-lena-sons-of-hidden-live/",
-          "tags": [
-            "Acid Techno",
-            "Groovy techno",
-            "Old school techno",
-            "Underground techno"
-          ]
-        },
         {
           "id": "basis-utrecht-10001493-1786751940-1786773600",
           "title": "BASIS Talent Night/ Jappe/ L!SA/ MAGGIE/ TOMMY",
@@ -2995,18 +2996,7 @@
       "icon": "🏖️",
       "scene": "utrecht",
       "feedUrl": "https://soia.nl/agenda/feed/",
-      "events": [
-        {
-          "id": "soia-in-het-zand",
-          "title": "In het zand",
-          "start": "2026-08-08T14:00:00+02:00",
-          "end": "2026-08-08T21:00:00.000Z",
-          "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
-          "description": "In het zand festival - sold out Zaterdag 08/08/2026 14:00 - 23:00 Voor onze zevende editie houden we ons bij het vertrouwde recept: House & Disco, verdeeld over twee stages bij SOIA – Strand Oog in Al. Line-up (a-z) ADA AYS BENNY2 BERKAN V8 EILEEN EMVAE & MOXES KENNEDY KLÉO LUCKY DONE GONE & TSEPO…",
-          "url": "https://soia.nl/agenda/in-het-zand/",
-          "tags": []
-        }
-      ]
+      "events": []
     },
     {
       "id": "festivalfans-utrecht",
@@ -3083,7 +3073,7 @@
           "end": "2026-08-19T23:00:00.000Z",
           "location": "Den Haag (The Hague), Scheveningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77784",
-          "description": "Cinema Morricone:<BR>An Intimate Celebration<BR><BR>Sara Andon, flute &bull; Simone Pedroni, piano<BR><BR>Music composed by Ennio Morricone (1928-2020)<BR>Transcriptions and arrangements by Simone Pedroni<BR><BR>Produced by Robert Townson<BR><BR>For information on the repertoire use the additional l",
+          "description": "Cinema Morricone:<BR>An Intimate Celebration<BR><BR>Sara Andon, flute &bull; Simone Pedroni, piano<BR><BR>Music composed by Ennio Morricone (1928-2020)<BR>Transcriptions and arrangements by Simone Pedroni<BR><BR>Hollywood Music Workshop presents the concert ‘Cinema MORRICONE – An intimat",
           "tags": []
         },
         {
@@ -4835,16 +4825,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-mindful-muiderslot-yoga-4-2026",
-          "title": "Mindful Muiderslot: yoga &#8211; 8 aug 2026",
-          "start": "2026-08-08T10:00:00+02:00",
-          "end": "2026-08-08T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-muiderslot-yoga-4/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-tuinsafari-12-augustus-2026-2026",
           "title": "Tuinsafari 12 augustus 2026",
           "start": "2026-08-12T10:00:00+02:00",
@@ -5065,16 +5045,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-de-meyden-van-loevestein-2026-08",
-          "title": "De Meyden van Loevestein en de Hollandsche Bastaarden",
-          "start": "2026-08-08T10:00:00+02:00",
-          "end": "2026-08-09T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/de-meyden-van-loevestein/",
-          "tags": []
-        },
-        {
           "id": "loevestein-middeleeuws-kampement-2026-08",
           "title": "Middeleeuws kampement",
           "start": "2026-08-18T10:00:00+02:00",
@@ -5194,16 +5164,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
-        {
-          "id": "brederode-ru-ne-bewoond-2026-08-08",
-          "title": "Ruïne Bewoond",
-          "start": "2026-08-08T11:00:00+02:00",
-          "end": "2026-08-09T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/ruine-bewoond-8-9-augustus/",
-          "tags": []
-        },
         {
           "id": "brederode-valkenier-met-roofvogels-2026-08-14",
           "title": "Valkenier met roofvogels",

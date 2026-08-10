@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T05:49:27.612Z",
+  "updatedAt": "2026-08-10T06:13:24.389Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,20 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001095",
-          "title": "REGGAE BOMB Summer Terrace Jam >vibes, food & music",
-          "start": "2026-08-09T16:00:00+02:00",
-          "end": "2026-08-09T21:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "De zomer is niet compleet zonder een Reggae Bomb feestje. You know the drill, DJ’s Martial Ard, Don Arco, Skank Around SOund & Sista Souljah bring you the music. You bring the vibes, Fritz prepares the jerk chicken. \nToegang is gratis! \nAll is good, UNITE!",
-          "url": "https://dbstudio.nl/event/reggae-bomb-summer-terrace-jam-vibes-food-music/",
-          "tags": [
-            "Concert",
-            "Reggae",
-            "REGGAE BOMB"
-          ]
-        },
         {
           "id": "10001071",
           "title": "Gijsjaradijsja + Kinderleed + ZOEKHETUITMAN + Fokko (solo)",
@@ -411,6 +397,19 @@
             "Post Punk",
             "Punk"
           ]
+        },
+        {
+          "id": "10001057",
+          "title": "DE BOKKERŸERS + Larrikino",
+          "start": "2026-10-01T20:00:00+01:00",
+          "end": "2026-10-01T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "dit is een combinatie van keiharde doom-, sludge- en thrashmetal, voorzien van Limburgstalige teksten met een punk-attitude, een flinke dosis humor en nepbloed. En een collab met Limburgse carnavalskoningin Beppie Kraft. Geen grap. \nVOLKSLEED komt uit op 10 september op Electrosaurus Records…",
+          "url": "https://dbstudio.nl/event/de-bokkeryders/",
+          "tags": [
+            "Metal",
+            "Trash"
+          ]
         }
       ]
     },
@@ -590,16 +589,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Stap binnen bij Housewarming, de nacht waar de dansvloer voelt als thuiskomen. Waar house de fundering is, de muren zijn beklad met disco en funk de ruimte vult. Samen bouwen we aan een (t)huis waar het grote licht uit staat, de stoelen en banken aan de kant zijn geschoven en je de videobanden niet…",
           "url": "https://ekko.nl/event/housewarming-6/",
-          "tags": []
-        },
-        {
-          "id": "29883",
-          "title": "Just Mustard",
-          "start": "2026-08-09T20:00:00+02:00",
-          "end": "2026-08-09T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het Ierse vijftal Just Mustard laat noise rock, postpunk en shoegaze samensmelten tot iets volkomen eigens met donkere industriële texturen en dromerige soundscapes. De band zet hypnotische vocals in het middelpunt en rekt gitaren graag tot ver voorbij herkenbaarheid op. Op hun recentste album ‘WE…",
-          "url": "https://ekko.nl/event/just-mustard-1/",
           "tags": []
         },
         {
@@ -1753,16 +1742,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "452711",
-          "title": "Arch Enemy",
-          "start": "2026-08-09T21:00:00+02:00",
-          "end": "2026-08-09T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Zweedse melodieuze-deathmetalband Arch Enemy bestaat ruim 30 jaar en begint inmiddels aan zijn vierde leven. Al die tijd weet de band compromisloze agressie te combineren met melodieuze elementen, zoals te horen op hun beste albums Wages Of Sin (2001) en Doomsday Machine (2005). Nadat frontvrouw…",
-          "url": "https://www.podiuminfo.nl/concert/452711/Arch-Enemy/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "456715",
           "title": "Wolves In The Throne Room",
           "start": "2026-08-11T20:00:00+02:00",
@@ -2000,6 +1979,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "De Israëlisch-Amerikaanse band The Living Tombstone wordt ook wel ‘the internet's biggest gaming band’ genoemd. De twee kernleden, Yoav Landau en Sam Haft, vergaarden vanaf 2011 hun eerste online successen met nummers geïnspireerd door games als Five Nights at Freddy’s, Overwatch en My Little Pony",
           "url": "https://www.podiuminfo.nl/concert/453917/The-Living-Tombstone/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "469108",
+          "title": "Chuck Ragan",
+          "start": "2026-09-02T20:30:00+02:00",
+          "end": "2026-09-02T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse zanger en gitarist Chuck Ragan, mede-frontman van de punkrockband Hot Water Music, komt naar Cloud Nine voor een solo-optreden. Sinds 2007 combineert Ragan zijn werk bij Hot Water Music met een succesvolle solocarrière. Zijn kenmerkende schuurpapieren stemgeluid en punk-achtige…",
+          "url": "https://www.podiuminfo.nl/concert/469108/Chuck-Ragan/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2242,15 +2231,27 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-22941",
-          "title": "Prerelease Ticket – Zondag 11:00 – 1v1 – The Hobbit",
-          "start": "2026-08-09T11:00:00+02:00",
-          "end": "2026-08-09T17:00:00+02:00",
+          "id": "lab-monkey-23114",
+          "title": "Commander Tuesday",
+          "start": "2026-08-11T18:00:00+02:00",
+          "end": "2026-08-11T23:00:00+02:00",
           "location": "t Lab, Utrecht",
-          "description": "Een nieuwe set betekend een prerelease! Let op wij beginnen om 11:00! Je krijgt 6 boosters, een random foil en natuurlijk de befaamde spindown dobbelsteen. Deelnamekosten: €50,-. We spelen 4 rondes Swiss (je kunt elke ronde spelen). Per speler gaat er 1.5 Play Booster in de prijzenpot. Bestel hier…",
-          "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zondag-1100-1v1-the-hobbit/",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-238/",
           "tags": [
-            "Pre-release"
+            "Commander"
+          ]
+        },
+        {
+          "id": "lab-monkey-23112",
+          "title": "Weekly Draft",
+          "start": "2026-08-13T19:00:00+02:00",
+          "end": "2026-08-13T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-122/",
+          "tags": [
+            "Draft"
           ]
         },
         {
@@ -2539,75 +2540,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-11",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-08-10T00:00:00+02:00",
-          "end": "2026-08-10T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-11/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-34",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-08-10T00:00:00+02:00",
-          "end": "2026-08-10T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-34/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-16",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-08-10T00:00:00+02:00",
-          "end": "2026-08-10T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-16/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-33",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-08-10T00:00:00+02:00",
-          "end": "2026-08-10T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-33/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-11",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-08-10T00:00:00+02:00",
-          "end": "2026-08-10T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-11/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-besloten-evenement-12",
           "title": "Besloten event",
           "start": "2026-08-11T00:00:00+02:00",
@@ -2670,6 +2602,19 @@
             "Festival",
             "Gratis",
             "Muziek"
+          ]
+        },
+        {
+          "id": "beton-workshop-chinese-landschappen-schilderen-creatiehallen-2",
+          "title": "Workshop Chinese landschappen schilderen – Creatiehallen",
+          "start": "2026-08-14T00:00:00+02:00",
+          "end": "2026-08-14T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/workshop-chinese-landschappen-schilderen-creatiehallen-2/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
           ]
         }
       ]
@@ -4676,7 +4621,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",

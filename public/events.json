@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T08:49:40.463Z",
+  "updatedAt": "2026-08-11T12:14:35.507Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -422,6 +422,16 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "30151",
+          "title": "De Gestampte Meisjes: STROT",
+          "start": "2026-10-16T20:00:00+01:00",
+          "end": "2026-10-16T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "STROT. De Gestampte Meisjes gaan dit land redden met zieke HITS. Hoe? Vraag je je af? Way meer polarisering. Ze hebben kneiterhard geprobeerd te verbinden in deze chaos, maar dat is flink mislukt. We proberen nu al decennialang te verbinden; tijd om te splitsen! Zieke wall of death in je…",
+          "url": "https://ekko.nl/event/de-gestampte-meisjes-strot/",
+          "tags": []
+        },
+        {
           "id": "30680",
           "title": "Weval Presents: CLUB CHOROPHOBIA",
           "start": "2026-10-10T23:30:00+01:00",
@@ -439,16 +449,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Daryll-Ann is een van de belangrijkste indiebands die Nederland ooit voortbracht. De band bouwde in de jaren negentig een indrukwekkend oeuvre op, met ‘Daryll-Ann Weeps’ uit 1996 als hoogtepunt. Het is een album waar alles in zit: woede, verdriet, schoonheid en troost, samengebracht in zestien…",
           "url": "https://ekko.nl/event/daryll-ann/",
-          "tags": []
-        },
-        {
-          "id": "30151",
-          "title": "De Gestampte Meisjes: STROT",
-          "start": "2026-10-16T20:00:00+01:00",
-          "end": "2026-10-16T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "STROT. De Gestampte Meisjes gaan dit land redden met zieke HITS. Hoe? Vraag je je af? Way meer polarisering. Ze hebben kneiterhard geprobeerd te verbinden in deze chaos, maar dat is flink mislukt. We proberen nu al decennialang te verbinden; tijd om te splitsen! Zieke wall of death in je…",
-          "url": "https://ekko.nl/event/de-gestampte-meisjes-strot/",
           "tags": []
         },
         {
@@ -5437,6 +5437,17 @@
           "tags": []
         },
         {
+          "id": "bi-v.-veszprém-medieval-day",
+          "title": "V. Veszprém Medieval Day 2026",
+          "start": "2026-10-10T00:00:00+01:00",
+          "end": "2026-10-10T23:00:00+01:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/v.-veszprém-medieval-day",
+          "tags": []
+        },
+        {
           "id": "bi-desafio-belmonte-2026",
           "title": "Desafio Belmonte 2026",
           "start": "2026-09-19T00:00:00+02:00",
@@ -6206,6 +6217,198 @@
           "location": "Lemelerveldseweg 37 Heino, Heino",
           "description": "&nbsp; Zaterdag 19 september ’26 organiseren Corine en Harrie weer de Sallandrit, Verzamelen vanaf 10.30 uur bij Restaurant en Zalen De Veldhoek Lemelerveldseweg 37, 8141 PS Heino vertrek om 11.30 uur kosten leden; € 5.- kosten niet leden; €12,50 opgave tot uiterlijk zaterdag 13 september bij;…",
           "url": "https://brommerritten.nl/ritten/de-harrie-en-caroline-sallandrit-heino-voc-t-oale-kreng/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-2921",
+          "title": "AMBC Staphorst herfstrit",
+          "start": "2026-09-19T13:00:00+02:00",
+          "end": "2026-09-19T17:00:00+02:00",
+          "location": "Spoordijk 2 Staphorst, Staphorst",
+          "description": "De afsluiter van het 2026 toerseizoen van de AMBC vanaf de kantine.",
+          "url": "https://brommerritten.nl/ritten/ambc-staphorst-herfstrit/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-3507",
+          "title": "Benelli Revival",
+          "start": "2026-09-27T08:00:00+02:00",
+          "end": "2026-09-27T17:00:00+02:00",
+          "location": "Brommerritten.nl",
+          "description": "Benelli Revival DÉ BROMFIETSRIT VOOR BENELLI-LIEFHEBBERS Een ontspannen toertocht door het Nederlandse landschap voor de eigenaren en bewonderaars van klassieke Benelli &amp; Motobi 50cc bromfietsen. Geen wedstrijd, geen kaartverkoop. Wél gemeenschap, sfeer en zeldzame Italiaanse techniek.…",
+          "url": "https://brommerritten.nl/ritten/benelli-revival/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-1236",
+          "title": "Oldtimer herfstrit “de Heuvelrijders” Gilze",
+          "start": "2026-09-27T10:00:00+02:00",
+          "end": "2026-09-27T17:00:00+02:00",
+          "location": "Alphenseweg 14a, Gilze",
+          "description": "Jaarlijkse Herfstrit voor brommers, motors en auto&#8217;s. Inschrijven vanaf 10.00 uur, vertrek van de voertuigen 11.30 uur",
+          "url": "https://brommerritten.nl/ritten/oldtimer-herfstrit-de-heuvelrijders-gilze/",
+          "tags": [
+            "Auto",
+            "Bromfiets",
+            "Motor"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-3154",
+          "title": "KCON Boekelo Tour",
+          "start": "2026-09-27T10:30:00+02:00",
+          "end": "2026-09-27T17:00:00+02:00",
+          "location": "Beckumerstraat 2 Boekelo, Boekelo",
+          "description": "De Boekelo Tour word georganiseerd door Hennie Abbink. Het zal een prachtige rit door het Twentse landschap worden van ca 90 km lang. Verzamelen 10:30 koffie, 11:00 uur vertrek. Adres: Café de Buren Beckumerstraat 2 7548 BG Boekelo. Info: Hennie Abbink: 06-2042 3558",
+          "url": "https://brommerritten.nl/ritten/kcon-boekelo-tour/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-1275",
+          "title": "Terug van weggeweest Nijnsel",
+          "start": "2026-10-04T09:30:00+01:00",
+          "end": "2026-10-04T17:00:00+01:00",
+          "location": "Oude Lieshoutseweg 7 Sint-Oedenrode (Nijnsel), Nijnsel",
+          "description": "Terug Van Weggeweest Nijnsel. Toertocht van ongeveer 80 km voor bromfietsen, solexen en snorfietsen van 20 jaar of ouder. Inschrijving van 09.30 uur tot 10.30 uur. Vertrek solexen ensnorfietsen om 10.30 uur. Bromfietsen kunnen vanaf 11.00 uur sta rten. De bezemwagen zal om 11.00 uur na het vertrek…",
+          "url": "https://brommerritten.nl/ritten/terug-van-weggeweest-nijnsel/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-1976",
+          "title": "Snertrit ’t Oale Kreng Westerhaar",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-10T17:00:00+01:00",
+          "location": "Beeklaan 1 Westerhaar, Westerhaar",
+          "description": "Locatie Kulturhus De Klaampe, Beeklaan 1 7676BC, Westerhaar &nbsp; Verzamelen vanaf 10.00 uur Vertrek 11.00 uur Opgave t/m 3 oktober bij: Herman Gerritsen, 06-13229077 Martin Nijland, 06-13086177 &nbsp; Kosten leden € 10.- Kosten niet leden € 15,-",
+          "url": "https://brommerritten.nl/ritten/snertrit-t-oale-kreng-westerhaar/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-2320",
+          "title": "Afsluitrit KCON Borculo",
+          "start": "2026-10-11T09:30:00+01:00",
+          "end": "2026-10-11T17:00:00+01:00",
+          "location": "Ruurloseweg 51 Borculo, Borculo",
+          "description": "LET OP !!! EIGEN RIT !!! DEZE RIT IS IN PRINCIPE ALLEEN VOOR LEDEN VAN DE K.C.O.N. !!! LIJKT HET U LEUK OM (VAKER) MET ONS MEE TE RIJDEN DAN BENT U VAN HARTE WELKOM OM DIT EENS TE ERVAREN. INFO EN AANMELDINGEN LIDMAATSCHAP: WWW.KREIDLER-CLUB.NL",
+          "url": "https://brommerritten.nl/ritten/afsluitrit-kcon-borculo/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-1294",
+          "title": "2e zondag in de maandrit Oktober – Hulst",
+          "start": "2026-10-11T13:00:00+01:00",
+          "end": "2026-10-11T18:00:00+01:00",
+          "location": "Tolweg 109 Hulst, Hulst",
+          "description": "2e Zondagrit van de maand. Georganiseerd door Brommerclub &#8220;De Grensrijders&#8221;. Deze ritten zijn van Maart t/m November. Deelname aan een van deze ritten, is geheel op eigen risico. Samen komst: De Bourgondiër (Kaart) Waar: Tolweg 109, 4561RL Hulst. (Absdale) Verzamelen: ± 13:00 uur.…",
+          "url": "https://brommerritten.nl/ritten/zondagrit-de-grensrijders-5/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-2004",
+          "title": "Oude voertuigendag Boekelo",
+          "start": "2026-10-18T10:00:00+01:00",
+          "end": "2026-10-18T17:00:00+01:00",
+          "location": "Beckumerstraat 2 Boekelo, Boekelo",
+          "description": "Later meer&#8230;",
+          "url": "https://brommerritten.nl/ritten/oude-voertuigendag-boekelo/",
+          "tags": [
+            "Auto",
+            "Bromfiets",
+            "Motor",
+            "Tractor",
+            "Truck"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-1296",
+          "title": "2e zondag in de maandrit November – Hulst",
+          "start": "2026-11-08T13:00:00+01:00",
+          "end": "2026-11-08T18:00:00+01:00",
+          "location": "Tolweg 109 Hulst, Hulst",
+          "description": "2e Zondagrit van de maand. Georganiseerd door Brommerclub &#8220;De Grensrijders&#8221;. Deze ritten zijn van Maart t/m November. Deelname aan een van deze ritten, is geheel op eigen risico. Samen komst: De Bourgondiër (Kaart) Waar: Tolweg 109, 4561RL Hulst. (Absdale) Verzamelen: ± 13:00 uur.…",
+          "url": "https://brommerritten.nl/ritten/zondagrit-de-grensrijders-6/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-746",
+          "title": "Oldtimerdag De Westereen",
+          "start": "2027-05-01T11:00:00+02:00",
+          "end": "2027-05-01T17:00:00+02:00",
+          "location": "Badhuiswei de Westereen, de Westereen",
+          "description": "",
+          "url": "https://brommerritten.nl/ritten/oldtimerdag-de-westereen/",
+          "tags": [
+            "Auto",
+            "Bromfiets",
+            "Motor",
+            "Tractor",
+            "Truck"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-928",
+          "title": "Big Honda Event Ameide",
+          "start": "2027-05-22T08:00:00+02:00",
+          "end": "2027-05-22T17:00:00+02:00",
+          "location": "Industrieweg 1 Ameide, Ameide",
+          "description": "",
+          "url": "https://brommerritten.nl/ritten/3e-big-honda-event-ameide/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-3412",
+          "title": "Brommertocht Kootstertille",
+          "start": "2027-06-26T09:00:00+02:00",
+          "end": "2027-06-26T17:00:00+02:00",
+          "location": "Goudsjeblomstrjitte 34a Kootstertille, Kootstertille",
+          "description": "Tocht tijdens het dorpsfeest van Kootstertille, informatie volgt.",
+          "url": "https://brommerritten.nl/ritten/brommertocht-kootstertille/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-2470",
+          "title": "Moped at Sea Goes",
+          "start": "2027-07-03T10:00:00+02:00",
+          "end": "2027-07-03T17:00:00+02:00",
+          "location": "Oostschans 26C Goes, 4463 AM",
+          "description": "Op zoek naar een dag vol passie voor bromfietsen, vintage sfeer en technische pracht? Kom naar Mopedatsea! Dit is hét 2-takt &amp; 4-takt bromfietsevenement in Zeeland, georganiseerd door ons, TomosOnderdelenZeeland. Na het grote succes van het afgelopen jaar kunnen wij wel stellen dat wij dit jaar…",
+          "url": "https://brommerritten.nl/ritten/moped-at-sea-goes/",
           "tags": [
             "Bromfiets"
           ],

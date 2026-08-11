@@ -298,14 +298,20 @@ function formatTribeDate(d) {
 
 async function scrapeTribe(venue) {
   const today = new Date().toISOString().slice(0, 10)
-  const res = await fetch(`${venue.feedUrl}?per_page=50&start_date=${today}`, {
-    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
-  })
-  if (!res.ok) throw new Error(`HTTP ${res.status}`)
-  const data = await res.json()
-  if (!Array.isArray(data.events)) throw new Error('Unexpected response — no events array')
+  const UA = { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' }
 
-  return data.events.map((event) => {
+  const rawEvents = []
+  for (let page = 1; page <= 10; page++) {
+    const res = await fetch(`${venue.feedUrl}?per_page=50&start_date=${today}&page=${page}`, { headers: UA })
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    const data = await res.json()
+    if (!Array.isArray(data.events)) throw new Error('Unexpected response — no events array')
+
+    rawEvents.push(...data.events)
+    if (page >= (data.total_pages ?? 1)) break
+  }
+
+  return rawEvents.map((event) => {
     const start = event.start_date_details
       ? formatTribeDate(event.start_date_details)
       : event.start_date.replace(' ', 'T') + '+01:00'

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T06:13:24.389Z",
+  "updatedAt": "2026-08-11T05:55:54.343Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -411,7 +411,8 @@
             "Trash"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ekko-utrecht",
@@ -421,6 +422,36 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30680",
+          "title": "Weval Presents: CLUB CHOROPHOBIA",
+          "start": "2026-10-10T23:30:00+01:00",
+          "end": "2026-10-11T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Na een eerder bezoek aan de Bemuurde Weerd, alweer tien jaar geleden, keert Weval op 10 oktober terug naar EKKO voor een bijzondere editie van hun clubconcept CLUB CHOROPHOBIA. Waar het Amsterdamse duo voorheen in EKKO met een liveshow op het podium stond, nemen ze op 10 oktober plaats achter de…",
+          "url": "https://ekko.nl/event/weval-presents-club-chorophobia/",
+          "tags": []
+        },
+        {
+          "id": "29771",
+          "title": "Daryll-Ann",
+          "start": "2026-09-20T20:00:00+02:00",
+          "end": "2026-09-20T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Daryll-Ann is een van de belangrijkste indiebands die Nederland ooit voortbracht. De band bouwde in de jaren negentig een indrukwekkend oeuvre op, met ‘Daryll-Ann Weeps’ uit 1996 als hoogtepunt. Het is een album waar alles in zit: woede, verdriet, schoonheid en troost, samengebracht in zestien…",
+          "url": "https://ekko.nl/event/daryll-ann/",
+          "tags": []
+        },
+        {
+          "id": "30151",
+          "title": "De Gestampte Meisjes: STROT",
+          "start": "2026-10-16T20:00:00+01:00",
+          "end": "2026-10-16T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "STROT. De Gestampte Meisjes gaan dit land redden met zieke HITS. Hoe? Vraag je je af? Way meer polarisering. Ze hebben kneiterhard geprobeerd te verbinden in deze chaos, maar dat is flink mislukt. We proberen nu al decennialang te verbinden; tijd om te splitsen! Zieke wall of death in je…",
+          "url": "https://ekko.nl/event/de-gestampte-meisjes-strot/",
+          "tags": []
+        },
         {
           "id": "29536",
           "title": "Apeshit",
@@ -509,16 +540,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet staakt staat niets een voorspoedige rit in de weg. Reis mee langs nieuwe muzikale haltes en een dienstregeling vol throwbacks uit de ‘00s…",
           "url": "https://ekko.nl/event/bus-12-200/",
-          "tags": []
-        },
-        {
-          "id": "29771",
-          "title": "Daryll-Ann",
-          "start": "2026-09-20T20:00:00+02:00",
-          "end": "2026-09-20T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Daryll-Ann is een van de belangrijkste indiebands die Nederland ooit voortbracht. De band bouwde in de jaren negentig een indrukwekkend oeuvre op, met ‘Daryll-Ann Weeps’ uit 1996 als hoogtepunt. Het is een album waar alles in zit: woede, verdriet, schoonheid en troost, samengebracht in zestien…",
-          "url": "https://ekko.nl/event/daryll-ann/",
           "tags": []
         },
         {
@@ -759,16 +780,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Coaster is het slowcoreproject van Bart Appel en Paul Dijkman. Het duo, beide voornamelijk gitaristen, stelde al snel een band op met een gedeelde liefde voor rustige en trage muziek. Hun nummers bouwen voort op de lo-fi en slowcore ideeën uit de jaren 90 en 00 van o.a. Duster, Red House Painters,…",
           "url": "https://ekko.nl/event/coaster/",
-          "tags": []
-        },
-        {
-          "id": "30151",
-          "title": "De Gestampte Meisjes: STROT",
-          "start": "2026-10-16T20:00:00+01:00",
-          "end": "2026-10-16T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "STROT. De Gestampte Meisjes gaan dit land redden met zieke HITS. Hoe? Vraag je je af? Way meer polarisering. Ze hebben kneiterhard geprobeerd te verbinden in deze chaos, maar dat is flink mislukt. We proberen nu al decennialang te verbinden; tijd om te splitsen! Zieke wall of death in je…",
-          "url": "https://ekko.nl/event/de-gestampte-meisjes-strot/",
           "tags": []
         },
         {
@@ -2451,6 +2462,16 @@
           "description": "P\n\nYou can bring your own games and/or play those brought by others.\nAlso, plenty of games to be chosen from Het Lab to be played.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for…",
           "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/315733616/",
           "tags": []
+        },
+        {
+          "id": "weighted-dice-event_316063574",
+          "title": "September Board Gaming Meetup",
+          "start": "2026-09-12T13:00:00+02:00",
+          "end": "2026-09-12T22:30:00+02:00",
+          "location": "Weighted Dice Utrecht, Utrecht",
+          "description": "P\n\nYou can bring your own games or play those brought by others. There are also dozens of games available for us at Het Lab.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for players…",
+          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/316063574/",
+          "tags": []
         }
       ]
     },
@@ -2540,16 +2561,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-besloten-evenement-12",
-          "title": "Besloten event",
-          "start": "2026-08-11T00:00:00+02:00",
-          "end": "2026-08-11T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/besloten-evenement-12/",
-          "tags": []
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-48",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-08-12T00:00:00+02:00",
@@ -2616,6 +2627,19 @@
             "Workshop",
             "Vechtclub Keiland"
           ]
+        },
+        {
+          "id": "beton-fabelfest",
+          "title": "Fabelfest",
+          "start": "2026-08-15T00:00:00+02:00",
+          "end": "2026-08-15T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/fabelfest/",
+          "tags": [
+            "Festival",
+            "Muziek"
+          ]
         }
       ]
     },
@@ -2627,6 +2651,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261016-nothing-works-static-vision-tba",
+          "title": "Nothing Works + Static Vision + TBA",
+          "start": "2026-10-16T00:00:00+01:00",
+          "end": "2026-10-16T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 16th. Silent Call Collective presents. Silent Call Collective presents: Nothing Works (DE) Nothing Works, formed in late 2022, has quickly established itself as one of the most exciting new bands to emerge from Berlin’s underground. Drawing on ’90s indie and alternative while embracing the…",
+          "url": "https://acu.nl/events/20261016/nothing-works-static-vision-tba",
+          "tags": []
+        },
         {
           "id": "acu-20260828-bankra-bike-sounds",
           "title": "Bankra Bike Sounds",
@@ -2715,16 +2749,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "September 12th. ACU will be joining Open Monumentendag on September 12! The theme this year is “Weerbaar Erfgoed: Utrecht beschermt!” >> “Resilient Culture: Utrecht protects!” We will open from 10am until 5pm, so feel free to drop in and say hey 🙂 Most of the ACU will be open to look around and…",
           "url": "https://acu.nl/events/20260912/acu-x-open-monumentendag-2026",
-          "tags": []
-        },
-        {
-          "id": "acu-20260813-metric-system-rotjochies-enzo",
-          "title": "Metric System / Rotjochies / Enzo",
-          "start": "2026-08-13T00:00:00+02:00",
-          "end": "2026-08-13T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "August 13th. WIJK LUID x Rampoline.",
-          "url": "https://acu.nl/events/20260813/metric-system-rotjochies-enzo",
           "tags": []
         }
       ]
@@ -2941,7 +2965,28 @@
       "icon": "🏖️",
       "scene": "utrecht",
       "feedUrl": "https://soia.nl/agenda/feed/",
-      "events": []
+      "events": [
+        {
+          "id": "soia-soia-koningsdag",
+          "title": "SOIA koningsdag",
+          "start": "2027-04-27T14:00:00+02:00",
+          "end": "2027-04-27T21:00:00.000Z",
+          "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
+          "description": "SOIA Koningsdag 2027 Maandag 27/04/2027 14:00 - 23:00 Ook in 2027 zal je favoriete Koningsdagfestival weer plaatsvinden bij ons. Sluit aan en meng je linksvoor in het oranje feestgedruis! binnenkort meer info",
+          "url": "https://soia.nl/agenda/soia-koningsdag/",
+          "tags": []
+        },
+        {
+          "id": "soia-in-het-zand",
+          "title": "In het zand",
+          "start": "2027-08-14T14:00:00+02:00",
+          "end": "2027-08-14T21:00:00.000Z",
+          "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
+          "description": "In het zand festival - sold out Zaterdag 14/08/2027 14:00 - 23:00 binnenkort meer info",
+          "url": "https://soia.nl/agenda/in-het-zand/",
+          "tags": []
+        }
+      ]
     },
     {
       "id": "festivalfans-utrecht",
@@ -4621,8 +4666,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4731,7 +4775,8 @@
           "url": "https://archeon.eu/midwinterfair/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "kommus-kasteelfestival",
@@ -5254,7 +5299,8 @@
             "Melee"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "buhurt-clubnights",
@@ -5315,17 +5361,6 @@
           "country": "Spain",
           "description": "Buhurt-toernooi in Spain.",
           "url": "https://www.buhurtinternational.com/tournament/desafio-belmonte-2026",
-          "tags": []
-        },
-        {
-          "id": "bi-alpine-warrior-2027",
-          "title": "Alpine Warrior 2027",
-          "start": "2027-05-01T00:00:00+02:00",
-          "end": "2027-05-01T23:00:00+02:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
           "tags": []
         },
         {

@@ -50,6 +50,37 @@ commit. Gebruikt alleen de automatische `GITHUB_TOKEN` — geen externe API-keys
 - Instagram (bv. @deathsectorbp) is niet publiek/automatisch te volgen; nieuwe club nights handmatig
   toevoegen in dat bestand.
 
+## Brommer Tours (scene brommer)
+- **Nederland** heeft wél een goede bron: [brommerritten.nl](https://brommerritten.nl/ritten/)
+  draait op WordPress met de "The Events Calendar"-plugin en heeft dus dezelfde JSON REST feed
+  als Lab Monkey/Ducosim (`type: 'tribe'`, zie `scrapeTribe` in `scrape.mjs`). Bron
+  `brommerritten-nl` in `VENUES` haalt hiermee automatisch alle NL-toertochten op
+  (192 events voor 2026 bij het schrijven van dit stuk, incl. Beltrum, Zijtaart Bromt Meer en
+  alle Batavus-clubritten).
+- **België** heeft geen vergelijkbare bron. `oldtimerweb.be`'s `?c=bromfietsen`-filter is wél
+  een echte, scrapebare HTML-lijst (geen JS-rendering, geen paginering), maar bij controle
+  bevatte die lijst geen van de specifieke BE-clubritten die hieronder staan (Aardbeirit,
+  Avondrit Maaseiker, Aa-Beeckrit, Torhoutse Kastelentocht) — de site categoriseert ze kennelijk
+  niet als "bromfietsen", dus de filter is niet betrouwbaar genoeg om op te automatiseren.
+  `brommer.nl` (dat wél NL+BE-events toont) is volledig JS-rendered zonder publieke API
+  (`/wp-json/events-manager/v1/events` geeft `401 rest_forbidden`).
+- Alles wat niet via `brommerritten-nl` binnenkomt (BE-evenementen, meerdaagse tours zoals
+  Rust 'N Dust, en beurzen zoals MotoVelo) staat met de hand in
+  [`scripts/manual-brommer.mjs`](../scripts/manual-brommer.mjs)
+  (`id, title, start, end, location, country, description, url, tags`), na verificatie van
+  datum/locatie/url via websearch. Facet is `country` (Nederland/België), net als bij buhurt.
+
+### Onderzocht maar niet toegevoegd (geen bevestigde 2026-datum)
+| Evenement | Locatie | Reden |
+|---|---|---|
+| Bromvliegers Voorjaarsrit | Venhorst | "Jaarlijks lente" — editie 2026 al geweest, volgende datum onbekend |
+| Holder De Polder | Rosmalen | "Jaarlijks augustus" — editie 2026 al geweest, geen vaste kalenderdatum gevonden |
+| Gaasterlandse Bromfiets Toertocht | Balk/Harich | Geen bevestigde 2026-datum gevonden (laatst bekende editie: okt 2022) |
+| Bromfietsclub 6-Volt | Gullegem | Geen concrete ritdatum voor 2026 gevonden, enkel een winterweekend |
+| Moms & Dads on Mopeds | Kapellen | Geen editie sinds 2011 teruggevonden |
+
+Kom je een bevestigde datum tegen voor een van deze? Voeg 'm toe aan `manual-brommer.mjs`.
+
 ## Feeds boven HTML
 Geef altijd de voorkeur aan een echte feed (RSS/Atom/iCal) boven HTML-scrapen: stabieler en
 minder breekbaar. Voorbeelden in gebruik: dB's (iCal), RPG Night (Warhorn Atom), ACU (RSS via

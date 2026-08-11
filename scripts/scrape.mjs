@@ -2,6 +2,7 @@
 import { resolve, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { MANUAL_BUHURT } from './manual-buhurt.mjs'
+import { MANUAL_BROMMER } from './manual-brommer.mjs'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_PATH = resolve(__dirname, '../public/events.json')
@@ -52,6 +53,10 @@ const VENUES = [
   { id: 'buhurt-eu',         name: 'Buhurt toernooien (EU)', color: '#b61e1e', icon: '⚔️', scene: 'buhurt', type: 'buhurt-wob',    feedUrl: 'https://www.worldofbuhurt.com/tournaments' },
   { id: 'buhurt-clubnights', name: 'Buhurt club nights',     color: '#9b51e0', icon: '🛡️', scene: 'buhurt', type: 'buhurt-manual', feedUrl: '' },
   { id: 'buhurt-bi',         name: 'Buhurt International',   color: '#7f1d1d', icon: '⚔️', scene: 'buhurt', type: 'buhurt-bi',     feedUrl: 'https://www.buhurtinternational.com/tournaments' },
+
+  // Brommer scene (moped club toertochten), Nederland & België.
+  { id: 'brommerritten-nl', name: 'Brommerritten.nl', color: '#16a34a', icon: '🛵', scene: 'brommer', type: 'tribe', country: 'Nederland', feedUrl: 'https://brommerritten.nl/wp-json/tribe/events/v1/events' },
+  { id: 'brommer-manual', name: 'Brommer toertochten (overig)', color: '#ea580c', icon: '🛵', scene: 'brommer', type: 'brommer-manual', feedUrl: '' },
 ]
 
 const NL_MONTHS = { jan:1, feb:2, mrt:3, apr:4, mei:5, jun:6, jul:7, aug:8, sep:9, okt:10, nov:11, dec:12 }
@@ -321,6 +326,7 @@ async function scrapeTribe(venue) {
       description: truncate(stripHtml(event.description ?? '')),
       url: event.url ?? venue.feedUrl,
       tags: (event.categories ?? []).map((c) => c.name).filter(Boolean),
+      ...(venue.country ? { country: venue.country } : {}),
     }
   })
 }
@@ -1476,6 +1482,11 @@ async function scrapeManualBuhurt() {
   return MANUAL_BUHURT.map((e) => ({ ...e }))
 }
 
+/** Manually curated brommer toertochten (NL & BE clubs without a shared feed). */
+async function scrapeManualBrommer() {
+  return MANUAL_BROMMER.map((e) => ({ ...e }))
+}
+
 async function scrapeVenue(venue, fallback) {
   try {
     process.stdout.write(`  Scraping ${venue.name}… `)
@@ -1510,6 +1521,7 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'montfort')              events = await scrapeMontfort(venue)
     else if (venue.type === 'festivalfans')          events = await scrapeFestivalfans(venue)
     else if (venue.type === 'mic')                   events = await scrapeMoviesInConcert(venue)
+    else if (venue.type === 'brommer-manual')        events = await scrapeManualBrommer(venue)
     else events = await scrapePodiuminfo(venue)
 
     // Sanity check: a silent break (HTML restructured, feed empty) returns 0 without throwing.

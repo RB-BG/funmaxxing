@@ -72,6 +72,15 @@ export const SCENES: SceneDef[] = [
     facetsOf: (e) => [e.source.name],
     facetLabel: (f) => f,
   },
+  {
+    id: "brommer",
+    name: "Brommer Tours",
+    titleLines: ["BROMMER", "TOERTOCHTEN"],
+    tagline: "Bromfietsclub-toertochten en -treffens in Nederland en België.",
+    skin: { accent: "#ea580c", accent2: "#0d9488" },
+    facetsOf: (e) => (e.country ? [e.country] : []),
+    facetLabel: (f) => f,
+  },
 ]
 
 export function sceneById(id: string): SceneDef {

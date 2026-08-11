@@ -151,4 +151,19 @@ export const SOURCES: Omit<Source, "events">[] = [
     icon: "⚔️",
     feedUrl: "https://www.buhurtinternational.com/tournaments",
   },
+  // Brommer scene: automated feed for NL + manual curation for the rest (BE, multi-day tours)
+  {
+    id: "brommerritten-nl",
+    name: "Brommerritten.nl",
+    color: "#16a34a",
+    icon: "🛵",
+    feedUrl: "https://brommerritten.nl/wp-json/tribe/events/v1/events",
+  },
+  {
+    id: "brommer-manual",
+    name: "Brommer toertochten (overig)",
+    color: "#ea580c",
+    icon: "🛵",
+    feedUrl: "",
+  },
 ]

@@ -3,7 +3,8 @@
 Een speelse event-kiezer met **scenes** waartussen je schakelt: Utrechtse podia
 (concerten, clubnachten), **Spellen & Games** (Magic, Warhammer, tabletop RPG),
 **Beurzen & Cons** (comic cons, anime-cons, spellenmarkten), **Middeleeuwen & Fantasy**
-(riddertoernooien, fantasy fairs) en **Buhurt Europe** (geharnaste toernooien en fight nights).
+(riddertoernooien, fantasy fairs), **Buhurt Europe** (geharnaste toernooien en fight nights)
+en **Brommer Tours** (bromfietsclub-toertochten in Nederland en België).
 Selecteer events en exporteer ze als `.ics` of voeg ze toe aan Google Agenda. Per scene een eigen filter en skin.
 
 ## Hoe het werkt
@@ -102,7 +103,8 @@ NAR heeft momenteel geen events op Podiuminfo; pikt automatisch op zodra ze publ
 | Lab Monkey | WooCommerce RSS + titel-datumparser | eigen site |
 | Casual Carnage | WordPress REST API (`/wp-json/wp/v2/evge_event`) | eigen site |
 
-Naast Utrecht en Spellen is er een **Buhurt Europe**-scene (zie [docs/CONTENT.md](docs/CONTENT.md)).
+Naast Utrecht en Spellen zijn er ook **Buhurt Europe**- en **Brommer Tours**-scenes
+(zie [docs/CONTENT.md](docs/CONTENT.md)).
 
 ### Onderzochte venues die niet zijn toegevoegd
 

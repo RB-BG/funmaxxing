@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T12:14:35.507Z",
+  "updatedAt": "2026-08-11T12:46:44.316Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -5550,7 +5550,7 @@
           "title": "AMBC Staphorst Avondrit",
           "start": "2026-08-11T08:00:00+02:00",
           "end": "2026-08-11T17:00:00+02:00",
-          "location": "Spoordijk 2 Staphorst, Staphorst",
+          "location": "Spoordijk 2 Staphorst, Staphorst (Overijssel)",
           "description": "De vierde avondrit van 2026 van de AMBC vanaf de kantine.",
           "url": "https://brommerritten.nl/ritten/ambc-staphorst-avondrit-3/",
           "tags": [
@@ -5563,7 +5563,7 @@
           "title": "Keet Brugwachter toerrit Havelte",
           "start": "2026-08-14T17:00:00+02:00",
           "end": "2026-08-15T01:00:00+02:00",
-          "location": "Loosweg 1 Havelte, Havelte",
+          "location": "Loosweg 1 Havelte, Havelte (Drenthe)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/keet-brugwachter-toerrit-havelte/",
           "tags": [
@@ -5576,7 +5576,7 @@
           "title": "Oldtimerdag Ruinerwold",
           "start": "2026-08-15T00:00:00+02:00",
           "end": "2026-08-15T23:59:00+02:00",
-          "location": "Dijkhuizen Ruinerwold, Ruinerwold",
+          "location": "Dijkhuizen Ruinerwold, Ruinerwold (Drenthe)",
           "description": "Groot, groter grootst! Dat is de Oldtimerdag Ruinerwold met 25.000 bezoekers en 1400 deelnemers waaronder brommers, auto&#8217;s , motoren, trekkers en trucks.groot,",
           "url": "https://brommerritten.nl/ritten/oldtimerdag-ruinerwold/",
           "tags": [
@@ -5593,7 +5593,7 @@
           "title": "Peellandrit Deurne",
           "start": "2026-08-15T09:00:00+02:00",
           "end": "2026-08-15T17:00:00+02:00",
-          "location": "Blassiusstraat 7 Deurne, Deurne",
+          "location": "Blassiusstraat 7 Deurne, Deurne (Noord-Brabant)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/peellandrit-deurne/",
           "tags": [
@@ -5606,7 +5606,7 @@
           "title": "Toertocht Friesland – Heerenveen",
           "start": "2026-08-15T10:00:00+02:00",
           "end": "2026-08-15T17:00:00+02:00",
-          "location": "Venus 11 Heerenveen, Heerenveen",
+          "location": "Venus 11 Heerenveen, Heerenveen (Friesland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/toertocht-friesland-heerenveen/",
           "tags": [
@@ -5619,7 +5619,7 @@
           "title": "14e editie Brommer’s Kieken in Elburg",
           "start": "2026-08-15T10:00:00+02:00",
           "end": "2026-08-15T17:00:00+02:00",
-          "location": "Beekstraat Elburg, Elbug",
+          "location": "Beekstraat Elburg, Elbug (Gelderland)",
           "description": "Jaarlijks terugkerend evenement: Brommers kiek&#8217;n in Elburg. Verzamelen aan de Beekstraat in Elburg vanaf 10:00 uur pepijlde toerrit van ruim 85 km. &nbsp;",
           "url": "https://brommerritten.nl/ritten/12e-editie-brommers-kieken-in-elburg/",
           "tags": [
@@ -5632,7 +5632,7 @@
           "title": "Veluwerit vanuit Deventer",
           "start": "2026-08-15T10:00:00+02:00",
           "end": "2026-08-15T17:00:00+02:00",
-          "location": "Karel de Groteplein 1 Deventer, Deventer",
+          "location": "Karel de Groteplein 1 Deventer, Deventer (Overijssel)",
           "description": "Verzamellocatie: Kwalitaria Keizerslanden te Deventer overige informatie is te vinden op de flyer &nbsp;",
           "url": "https://brommerritten.nl/ritten/veluwerit-deventer/",
           "tags": [
@@ -5645,7 +5645,7 @@
           "title": "Nozems Bromfietsrit Wouw",
           "start": "2026-08-15T10:30:00+02:00",
           "end": "2026-08-15T17:00:00+02:00",
-          "location": "Markt 22 Wouw, Wouw",
+          "location": "Markt 22 Wouw, Wouw (Noord-Brabant)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/nozems-bromfietsrit-wouw/",
           "tags": [
@@ -5658,7 +5658,7 @@
           "title": "NostalgIE",
           "start": "2026-08-15T11:00:00+02:00",
           "end": "2026-08-15T18:00:00+02:00",
-          "location": "Stienfeksterwei 2A 9131KN Ee (Frl.), Ee",
+          "location": "Stienfeksterwei 2A 9131KN Ee (Frl.), Ee (Friesland)",
           "description": "15 augustus 2026 Beleef de Nostalgische Dag op 15 augustus 2026 in Ie! Een evenement vol spanning en sensatie met een toerrit, palingroken, markt, flaaksdemo, oude voertuigen, live muziek en een knallende afsluiting in het dorpshuis. Mis het niet en dompel je onder in nostalgie!",
           "url": "https://brommerritten.nl/ritten/nostalgie/",
           "tags": [
@@ -5675,7 +5675,7 @@
           "title": "Veghels bromfiets treffen met toerrit Bromvliegers",
           "start": "2026-08-16T09:30:00+02:00",
           "end": "2026-08-16T17:00:00+02:00",
-          "location": "Dobbelsteenplein 1 Mariaheide, Mariaheide",
+          "location": "Dobbelsteenplein 1 Mariaheide, Mariaheide (Noord-Brabant)",
           "description": "Holder De Polder Rosmalen. Toertocht van ongeveer 80 km voor bromfietsen, solexen en snorfietsen van 20 jaar of ouder. Inschrijving van 09.30 uur tot 10.30 uur. Vertrek solexen en snorfietsen om 10.30 uur. Bromfietsen kunnen vanaf 11.00 uur starten. De bezemwagen zal om 11.00 uur na het vertrek van…",
           "url": "https://brommerritten.nl/ritten/veghels-bromfiets-treffen-met-toerrit-bromvliegers/",
           "tags": [
@@ -5688,7 +5688,7 @@
           "title": "Oldtimerrit Buurse",
           "start": "2026-08-16T09:30:00+02:00",
           "end": "2026-08-16T17:00:00+02:00",
-          "location": "Haaksbergseweg Buurse, Buurse",
+          "location": "Haaksbergseweg Buurse, Buurse (Overijssel)",
           "description": "Gratis deelname met tourrit voor brommers, auto’s, motoren en tractoren. Incl. lunchpakket en koffie. Locatie: Terrein Volksfeest Buurse aan de Haaksbergseweg. Inschrijven v.a. half 10. Tourrit voor de brommers, vertrek 11:45 uur. Info: Thomas Beumer: 06-2224 4327",
           "url": "https://brommerritten.nl/ritten/oldtimerrit-buurse/",
           "tags": [
@@ -5704,7 +5704,7 @@
           "title": "Bromfietstocht bij Zomerfeest Garderen",
           "start": "2026-08-20T12:30:00+02:00",
           "end": "2026-08-20T16:30:00+02:00",
-          "location": "Speulderbosweg 28 Garderen, Garderen",
+          "location": "Speulderbosweg 28 Garderen, Garderen (Gelderland)",
           "description": "Spring op je brommer en beleef een onvergetelijk avontuur door de adembenemende Veluwe! Op donderdag 20 augustus organiseert brommerclub De Vale Ouwe vanuit Garderen een prachtige rit van zo&#8217;n 70 km over de mooiste wegen van de Veluwe. als onderdeel van het jaarlijkse Zomerfeest. En vergeet…",
           "url": "https://brommerritten.nl/ritten/koningsrit-op-de-brommer-garderen/",
           "tags": [
@@ -5717,7 +5717,7 @@
           "title": "MeerPeut toertocht Tzum",
           "start": "2026-08-22T10:00:00+02:00",
           "end": "2026-08-22T17:00:00+02:00",
-          "location": "Sportlaan 12 Tzum, Tzum",
+          "location": "Sportlaan 12 Tzum, Tzum (Friesland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/meerpeut-toertocht-tzum/",
           "tags": [
@@ -5730,7 +5730,7 @@
           "title": "Haverkort BBQ Brommertoertocht Slagharen",
           "start": "2026-08-22T13:00:00+02:00",
           "end": "2026-08-22T17:00:00+02:00",
-          "location": "Geert Migchelsweg 5 Slagharen, Slagharen",
+          "location": "Geert Migchelsweg 5 Slagharen, Slagharen (Overijssel)",
           "description": "Zaterdag 22 augustus 2026 gaan de brommers van BC the Old Kulls uit Slagharen onder het kleed vandaan. Deze Brommerclub zal bij Haverkort Eten &amp; Drinken aan de Geert Michelsweg 5 te Slagharen gaan starten met hun tocht om 11.00 uur. Bij terugkomst is het natuurlijk tijd voor een dikke BBQ. Heb…",
           "url": "https://brommerritten.nl/ritten/brommertoertocht-slagharen-en-omstreken/",
           "tags": [
@@ -5743,7 +5743,7 @@
           "title": "1e ZVC Bramenrit Eerbeek",
           "start": "2026-08-23T09:30:00+02:00",
           "end": "2026-08-23T17:00:00+02:00",
-          "location": "Kanaalweg 3 Eerbeek, Eerbeek",
+          "location": "Kanaalweg 3 Eerbeek, Eerbeek (Gelderland)",
           "description": "De Bramenrit wordt vervolgd op de Veluwe. In 2025 vond de 10e en laatste Bramenrit van de Zündapp Veteranen Club plaats in Nijmegen. Maar de Bramenrit gaat door! Op zondag 23 augustus 2026 wordt gestart voor de 1e Eerbeekse Bramenrit in.. Eerbeek op de Veluwe. Deze regio nodigt uit voor sfeervolle…",
           "url": "https://brommerritten.nl/ritten/9e-zvc-bramenrit-nijmegen/",
           "tags": [
@@ -5756,7 +5756,7 @@
           "title": "Sjooke bij Straatschorem Tilburg",
           "start": "2026-08-23T09:30:00+02:00",
           "end": "2026-08-23T17:00:00+02:00",
-          "location": "IJsselstraat 11a Tilburg, Tilburg",
+          "location": "IJsselstraat 11a Tilburg, Tilburg (Noord-Brabant)",
           "description": "Na de swingende, zonnige en onovertroffen eerste editie van ‘Sjooke’ bij Straatschorem vorig jaar kon het natuurlijk niet uitblijven, dus ook in 2026 gaan we weer ‘Sjooke’. Op zondag 23 augustus is het oude brommers, tweetakt, rock ‘n roll, goede sfeer en toffe mensen wat de klok slaat,…",
           "url": "https://brommerritten.nl/ritten/sjooke-by-straatschorem/",
           "tags": [
@@ -5769,7 +5769,7 @@
           "title": "BOLUZ Zomerrit – Wemeldinge",
           "start": "2026-08-23T10:00:00+02:00",
           "end": "2026-08-23T17:00:00+02:00",
-          "location": "Chezeeweg 37 Wemeldinge, Wemeldinge",
+          "location": "Chezeeweg 37 Wemeldinge, Wemeldinge (Zeeland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/boluz-zomerrit-wemeldinge/",
           "tags": [
@@ -5782,7 +5782,7 @@
           "title": "Brommerrit Velden",
           "start": "2026-08-23T10:00:00+02:00",
           "end": "2026-08-23T17:00:00+02:00",
-          "location": "Schandeloseweg 1a Velden, Velden",
+          "location": "Schandeloseweg 1a Velden, Velden (Limburg)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/brommerrit-velden/",
           "tags": [
@@ -5795,7 +5795,7 @@
           "title": "Brommertocht de Wilp 2026",
           "start": "2026-08-23T13:00:00+02:00",
           "end": "2026-08-23T17:00:00+02:00",
-          "location": "Schoolstraat 17 de Wilp, de Wilp",
+          "location": "Schoolstraat 17 de Wilp, de Wilp (Groningen)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/brommertocht-de-wilp-2026/",
           "tags": [
@@ -5808,7 +5808,7 @@
           "title": "Beleef de JMPB BromfieTTs 2026",
           "start": "2026-08-29T08:00:00+02:00",
           "end": "2026-08-29T17:00:00+02:00",
-          "location": "de Haar 9 Assen, Assen",
+          "location": "de Haar 9 Assen, Assen (Drenthe)",
           "description": "Kom gezellig &#8216;Brommen op de TT-baan&#8217; tijdens het grootste bromfietsevenement van Nederland Duik in de zomer van 2026 samen met vele andere bromfietsers weer voor één dag terug in de brommertijd? Beleef op zaterdag 29 augustus de JMPB BromfieTTs, de TT voor bromfietsen. Rijd met jouw…",
           "url": "https://brommerritten.nl/ritten/beleef-de-jmpb-bromfietts-2024/",
           "tags": [
@@ -5821,7 +5821,7 @@
           "title": "de brommerrspeurrit Krimpen aan den IJssel",
           "start": "2026-08-29T12:30:00+02:00",
           "end": "2026-08-29T17:00:00+02:00",
-          "location": "van Utrechtweg 112 Krimpen aan den IJssel, Krimpen aan den IJssel",
+          "location": "van Utrechtweg 112 Krimpen aan den IJssel, Krimpen aan den IJssel (Zuid-Holland)",
           "description": "Brommerrit door de Krimpenerwaard met foto opdrachten. Starten kan vanaf 13:00 tot 15:30, alleen of met een groepje. Route en opdrachten worden bij de start (Loods 41 in Krimpen aan den IJssel) in een enveloppe verstrekt. De meest creatieve deelnemers maken kans op leuke prijzen! &nbsp; vragen:…",
           "url": "https://brommerritten.nl/ritten/de-brommerrspeurrit-krimpen-aan-den-ijssel/",
           "tags": [
@@ -5834,7 +5834,7 @@
           "title": "Smoks Hannerit Zelhem",
           "start": "2026-08-30T09:00:00+02:00",
           "end": "2026-08-30T17:00:00+02:00",
-          "location": "Burgemeester Langmanweg Zelhem, Zelhem",
+          "location": "Burgemeester Langmanweg Zelhem, Zelhem (Gelderland)",
           "description": "Een prachtige rit door de Achterhoek, met na afloop een geweldig gezellig feest op het marktplein van Zelhem. Er staan drie geweldige bands op ons koepelpodium.",
           "url": "https://brommerritten.nl/ritten/smoks-hannerit-zelhem/",
           "tags": [
@@ -5851,7 +5851,7 @@
           "title": "Etten Leurse Bromfiets Vrienden Zomerrit 2026",
           "start": "2026-08-30T09:30:00+02:00",
           "end": "2026-08-30T17:00:00+02:00",
-          "location": "Hoevenseweg 48 Etten Leur, Etten Leur",
+          "location": "Hoevenseweg 48 Etten Leur, Etten Leur (Noord-Brabant)",
           "description": "Op de laatste zondag van augustus organiseert de ELBV de Zomerrit. Bepijlde rit van circa 90 kilometer door het mooie West Brabantse landschap. Inschrijven vanaf 9.30 uur bij Café het Strooienhuis, Hoevenseweg 48 Etten Leur. Vertrek is om 11.00 uur. Bij inschrijving ontvangt u bonnen voor een…",
           "url": "https://brommerritten.nl/ritten/etten-leurse-bromfiets-vrienden-zomerrit-2026/",
           "tags": [
@@ -5864,7 +5864,7 @@
           "title": "Heusdense Heerenrit",
           "start": "2026-08-30T12:30:00+02:00",
           "end": "2026-08-30T17:00:00+02:00",
-          "location": "Raadhuisplein 11 Drunen, Drunen",
+          "location": "Raadhuisplein 11 Drunen, Drunen (Noord-Brabant)",
           "description": "WIJ RIJDEN VOOR GIJSJE EIGENWIJSJE Met trots maken wij bekend dat de volledige opbrengst van De Heusdense Heerenrit 2026 ten goede komt aan Gijsje Eigenwijsje. Deze stichting zet zich in voor gezinnen met een ernstig ziek kind. Door bijzondere activiteiten en waardevolle herinneringen mogelijk te…",
           "url": "https://brommerritten.nl/ritten/heusdense-heerenrit/",
           "tags": [
@@ -5878,7 +5878,7 @@
           "title": "Authentieke dag Vreeswijk Nieuwegein",
           "start": "2026-09-05T08:00:00+02:00",
           "end": "2026-09-05T16:30:00+02:00",
-          "location": "Koninginnenlaan Nieuwegein, Nieuwegein",
+          "location": "Koninginnenlaan Nieuwegein, Nieuwegein (Utrecht)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/authentieke-dag-vreeswijk-nieuwegein/",
           "tags": [
@@ -5895,7 +5895,7 @@
           "title": "Oldtimerdag BC de Stofwolk met toerrit",
           "start": "2026-09-05T09:00:00+02:00",
           "end": "2026-09-05T17:00:00+02:00",
-          "location": "Bernhardlaan Nieuwkoop, Nieuwkoop",
+          "location": "Bernhardlaan Nieuwkoop, Nieuwkoop (Zuid-Holland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/oldtimerdag-bc-de-stofwolk-met-toerrit/",
           "tags": [
@@ -5908,7 +5908,7 @@
           "title": "Brammers en Bierkes Hoornsterzwaag",
           "start": "2026-09-05T10:30:00+02:00",
           "end": "2026-09-05T17:00:00+02:00",
-          "location": "Schoterlandseweg 36a Hoornsterzwaag, Hoornsterzwaag",
+          "location": "Schoterlandseweg 36a Hoornsterzwaag, Hoornsterzwaag (Friesland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/motortreffen-hoornsterzwaag/",
           "tags": [
@@ -5922,7 +5922,7 @@
           "title": "Deurzetters toerrit voor bromfietsen en tractoren – Kerkenveld",
           "start": "2026-09-05T13:00:00+02:00",
           "end": "2026-09-05T18:00:00+02:00",
-          "location": "Burgemeester Jansstraat 14 Kerkenveld, Kerkenveld",
+          "location": "Burgemeester Jansstraat 14 Kerkenveld, Kerkenveld (Drenthe)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/deurzetters-koningsdagrit-alteveer-drenthe/",
           "tags": [
@@ -5936,7 +5936,7 @@
           "title": "BOLUZ Walcherenrit Middelburg",
           "start": "2026-09-06T09:30:00+02:00",
           "end": "2026-09-06T17:00:00+02:00",
-          "location": "de Kruitmolen, Middelburg",
+          "location": "de Kruitmolen, Middelburg (Zeeland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/walcherenrit/",
           "tags": [
@@ -5949,7 +5949,7 @@
           "title": "de 8 van Bergeijk",
           "start": "2026-09-06T09:30:00+02:00",
           "end": "2026-09-06T17:00:00+02:00",
-          "location": "Hof 18c Bergeijk, Bergeijk",
+          "location": "Hof 18c Bergeijk, Bergeijk (Noord-Brabant)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/zomer-zinder-toertocht-bergeijk/",
           "tags": [
@@ -5962,7 +5962,7 @@
           "title": "Sallandtours Bromfietstocht 2026 Wijhe",
           "start": "2026-09-06T09:30:00+02:00",
           "end": "2026-09-06T17:00:00+02:00",
-          "location": "Torenstraat Wijhe, Wijhe",
+          "location": "Torenstraat Wijhe, Wijhe (Overijssel)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/brommertoertocht-diekdaegen-wijhe/",
           "tags": [
@@ -5975,7 +5975,7 @@
           "title": "Open Toerrit Bleiswijk",
           "start": "2026-09-06T09:30:00+02:00",
           "end": "2026-09-06T17:00:00+02:00",
-          "location": "Lange Vaart 17a Bleiswijk, Bleiswijk",
+          "location": "Lange Vaart 17a Bleiswijk, Bleiswijk (Zuid-Holland)",
           "description": "Voor vragen bel: 0651 532274 &nbsp; Clubhuis de Sneeuwbal",
           "url": "https://brommerritten.nl/ritten/open-toerrit-bleiswijk/",
           "tags": [
@@ -5988,7 +5988,7 @@
           "title": "Twents Oldtimerfestival Tilligte",
           "start": "2026-09-06T10:00:00+02:00",
           "end": "2026-09-06T17:00:00+02:00",
-          "location": "Westenveldweg 8 Tilligte, Tilligte",
+          "location": "Westenveldweg 8 Tilligte, Tilligte (Overijssel)",
           "description": "ZONDAG PROGRAMMA 🕙 Vanaf 10.00 uur barst het Twents Oldtimer Festival echt los! 📅 Dagindeling: 9.45 uur – Start van de bromfietsronde (Deelname via bromfietsclub Denekamp of melden bij secretariaat om 9:30) 10.00 uur – Officiële opening van het Twents Oldtimer Festival 11.00 uur – Optreden…",
           "url": "https://brommerritten.nl/ritten/twents-oldtimerfestival-tilligte/",
           "tags": [
@@ -6001,7 +6001,7 @@
           "title": "Toerrit door de Achterhoek Aalten",
           "start": "2026-09-06T10:30:00+02:00",
           "end": "2026-09-06T17:00:00+02:00",
-          "location": "Loohuisweg 5 Aalten, Aalten",
+          "location": "Loohuisweg 5 Aalten, Aalten (Gelderland)",
           "description": "Geert Vreeman uit Aalten, organiseert weer een prachtige tourrit die rond om Winterswijk en Aalten gereden zal worden. Verzamelen 10:30 uur voor een kop koffie, vertrek 11:00 uur. Adres: Suzie’s Farm Loohuisweg 5 7121 JL Aalten. Info: Geert Vreeman 06-1268 1016",
           "url": "https://brommerritten.nl/ritten/toerrit-door-de-achterhoek-aalten/",
           "tags": [
@@ -6014,7 +6014,7 @@
           "title": "Texel Toertocht Buikschuivers",
           "start": "2026-09-07T08:00:00+02:00",
           "end": "2026-09-07T17:00:00+02:00",
-          "location": "Viaduct 3 Zurich, Zurich",
+          "location": "Viaduct 3 Zurich, Zurich (Friesland)",
           "description": "Afgelopen jaar zijn we naar Texel geweest met de Buikschuivers. Het was waarschijnlijk één van de mooiste ritten van het afgelopen jaar. En daarom ook dit jaar op maandag 7 september weer de Texeltocht op de planning gezet. info later op: https://www.facebook.com/groups/2453063631435719",
           "url": "https://brommerritten.nl/ritten/texel-toertocht-buikschuivers/",
           "tags": [
@@ -6027,7 +6027,7 @@
           "title": "8 Dorpen puzzeltocht voor oldtimer bromfietsen Buren",
           "start": "2026-09-08T10:00:00+02:00",
           "end": "2026-09-08T17:00:00+02:00",
-          "location": "Plantsoen 5 Buren (Gld.), Buren",
+          "location": "Plantsoen 5 Buren (Gld.), Buren (Gelderland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/8-dorpen-puzzeltocht-voor-oldtimer-bromfietsen-buren/",
           "tags": [
@@ -6040,7 +6040,7 @@
           "title": "Opella Nederlandse bromfietsenrit Bennekom",
           "start": "2026-09-12T09:00:00+02:00",
           "end": "2026-09-12T17:00:00+02:00",
-          "location": "Oost Breukelderweg 1 Bennekom, Bennekom",
+          "location": "Oost Breukelderweg 1 Bennekom, Bennekom (Gelderland)",
           "description": "Zaterdag 12 september 2026 Toertocht voor alleen Nederlandse bromfietsen. Start bij Opella locatie Walraven, Bennekom. Afstand: 85 km. Kosten: €15 p.p. incl. koffie/thee, lunch en consumptie na afloop. Aanmelden verplicht i.v.m. catering. Zie flyer!",
           "url": "https://brommerritten.nl/ritten/opella-nederlandse-bromfietsenrit-bennekom/",
           "tags": [],
@@ -6051,7 +6051,7 @@
           "title": "4e Editie Brommertocht Boelenslaan",
           "start": "2026-09-12T09:30:00+02:00",
           "end": "2026-09-12T15:30:00+02:00",
-          "location": "Piter Jellesstrjitte 11 Boelenslaan, Boelenslaan",
+          "location": "Piter Jellesstrjitte 11 Boelenslaan, Boelenslaan (Friesland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/3e-editie-brommertocht-boelenslaan/",
           "tags": [
@@ -6064,7 +6064,7 @@
           "title": "Harkiesbarrit 2026",
           "start": "2026-09-12T10:00:00+02:00",
           "end": "2026-09-12T18:00:00+02:00",
-          "location": "Geerligsland 3 Staphorst, Staphorst",
+          "location": "Geerligsland 3 Staphorst, Staphorst (Overijssel)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/harkiesbarrit-2026/",
           "tags": [
@@ -6078,7 +6078,7 @@
           "title": "Sparta Oldtimer bromfietstocht Vriezenveen",
           "start": "2026-09-12T10:00:00+02:00",
           "end": "2026-09-12T17:00:00+02:00",
-          "location": "Manitobaplein Vriezenveen, Vriezenveen",
+          "location": "Manitobaplein Vriezenveen, Vriezenveen (Overijssel)",
           "description": "12 september 2026 Deelname is alleen voor Nederlandse Bromfietsen. Bezemwagen aanwezig. Start en Finish Vriezenveen",
           "url": "https://brommerritten.nl/ritten/sparta-oldtimer-bromfietstocht-vriezenveen/",
           "tags": [
@@ -6091,7 +6091,7 @@
           "title": "Oldtimertreffen Stein",
           "start": "2026-09-13T09:00:00+02:00",
           "end": "2026-09-13T17:00:00+02:00",
-          "location": "Veldschuurweg 100 Stein, Stein",
+          "location": "Veldschuurweg 100 Stein, Stein (Limburg)",
           "description": "Oldtimertreffen 2026 Op zaterdag 12 en zondag 13 september 2026 organiseert schutterij St. Joseph Stein een oldtimertreffen. Ten voordele van nieuwe uniformen voor de schutterij. Het oldtimertreffen vindt plaats bij ons clubgebouw aan de Veldschuurweg 100 in Stein. vind ons op Google Maps Bekijk…",
           "url": "https://brommerritten.nl/ritten/oldtimertreffen-stein/",
           "tags": [
@@ -6106,7 +6106,7 @@
           "title": "10e ABC Brommerrit Achtmaal",
           "start": "2026-09-13T09:30:00+02:00",
           "end": "2026-09-13T17:00:00+02:00",
-          "location": "van den Berghstraat 2 Achtmaal, Achtmaal",
+          "location": "van den Berghstraat 2 Achtmaal, Achtmaal (Noord-Brabant)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/8e-abc-brommerrit-achtmaal/",
           "tags": [
@@ -6119,7 +6119,7 @@
           "title": "Brommertoertocht Nieuw-Heeten",
           "start": "2026-09-13T09:30:00+02:00",
           "end": "2026-09-13T17:00:00+02:00",
-          "location": "Zwarteweg 24 Nieuw-Heeten, Nieuw-Heeten",
+          "location": "Zwarteweg 24 Nieuw-Heeten, Nieuw-Heeten (Overijssel)",
           "description": "Na jaren is het eindelijk weer zover! De 7e editie van onze gezellige oldtimer brommertocht staat gepland op zondag 13 september. De laatste tocht was in 2019 en nu pakken we de draad weer op. Dit keer vanaf een nieuwe locatie: De Belte in Nieuw Heeten. Heb jij een oldtimer brommer? Haal hem uit de…",
           "url": "https://brommerritten.nl/ritten/brommertoertocht-nieuw-heeten/",
           "tags": [
@@ -6132,7 +6132,7 @@
           "title": "19e Bromfiets Oldtimerrit Diessen",
           "start": "2026-09-13T10:00:00+02:00",
           "end": "2026-09-13T17:00:00+02:00",
-          "location": "Kerkstraat 10 Diessen, Diessen",
+          "location": "Kerkstraat 10 Diessen, Diessen (Noord-Brabant)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/16e-bromfiets-oldtimerrit-diessen/",
           "tags": [
@@ -6145,7 +6145,7 @@
           "title": "BCT tocht Tijnje",
           "start": "2026-09-13T10:00:00+02:00",
           "end": "2026-09-13T17:00:00+02:00",
-          "location": "Heawei 9 Tijnje, Tijnje",
+          "location": "Heawei 9 Tijnje, Tijnje (Friesland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/bct-tocht-tijnje/",
           "tags": [
@@ -6158,7 +6158,7 @@
           "title": "2e zondag in de maandrit September – Hulst",
           "start": "2026-09-13T13:30:00+02:00",
           "end": "2026-09-13T18:00:00+02:00",
-          "location": "Tolweg 109 Hulst, Hulst",
+          "location": "Tolweg 109 Hulst, Hulst (Zeeland)",
           "description": "2e Zondagrit van de maand. Georganiseerd door Brommerclub &#8220;De Grensrijders&#8221;. Deze ritten zijn van Maart t/m November. Deelname aan een van deze ritten, is geheel op eigen risico. Samen komst: De Bourgondiër (Kaart) Waar: Tolweg 109, 4561RL Hulst. (Absdale) Verzamelen: ± 13:00 uur.…",
           "url": "https://brommerritten.nl/ritten/zondagrit-de-grensrijders-4/",
           "tags": [
@@ -6171,7 +6171,7 @@
           "title": "Houtse oldtimer bromfietsrit den Hout",
           "start": "2026-09-19T09:00:00+02:00",
           "end": "2026-09-19T17:00:00+02:00",
-          "location": "Houtse Heuvel den Hout, den Hout",
+          "location": "Houtse Heuvel den Hout, den Hout (Noord-Brabant)",
           "description": "De voorbereidingen voor de tweede editie zijn inmiddels begonnen. De plannen zijn groots. We gaan aan de slag om een mooie tocht uit te stippelen. Suggesties zijn welkom! Schrijf je nu in voor de 2e editie! Koffie vanaf 9.00 uur &#8211; laatste vertrektijd 10.00 uur Inschrijven? Stuur een mailtje…",
           "url": "https://brommerritten.nl/ritten/houtse-oldtimer-bromfietsrit-den-hout/",
           "tags": [
@@ -6184,7 +6184,7 @@
           "title": "Oldtimerdag Nieuwe-Tonge",
           "start": "2026-09-19T10:00:00+02:00",
           "end": "2026-09-19T16:00:00+02:00",
-          "location": "Korteweegje 52 Nieuwe-Tonge, Nieuwe Tonge",
+          "location": "Korteweegje 52 Nieuwe-Tonge, Nieuwe Tonge (Zuid-Holland)",
           "description": "Nederlands Kom jij ook naar het leukste oldtimerevenement van de Zuid-Hollandse Eilanden? Op zaterdag 19 september ben je van harte welkom bij Oldtimerdag Nieuwe-Tonge! Bewonder een grote collectie prachtige oldtimers, waaronder auto&#8217;s, brommers, motoren, trekkers en vrachtwagens. Naast alle…",
           "url": "https://brommerritten.nl/ritten/oldtimerdag-nieuwe-tonge/",
           "tags": [
@@ -6201,7 +6201,7 @@
           "title": "Batavus Bromfiets Clubrit 4 – Terkaple",
           "start": "2026-09-19T10:00:00+02:00",
           "end": "2026-09-19T17:00:00+02:00",
-          "location": "Buorren 34 Terkaple, Terkaple",
+          "location": "Buorren 34 Terkaple, Terkaple (Friesland)",
           "description": "Start- en finishlocatie: Mfs it Heechein, Buorren 34, 8542 AB Terkaple Inschrijving vanaf 10.00 tot 10.45 uur. Kosten € 5.00. Lunchkosten € 15,00 p.p. Starttijd toertocht: 11.00 uur. Na de verloting van de toertocht is er gelegenheid voor een Barbeque De kosten zijn € 20.00 excl. drankjes. Opgeven…",
           "url": "https://brommerritten.nl/ritten/batavus-bromfiets-clubrit-4-terkaple/",
           "tags": [
@@ -6214,7 +6214,7 @@
           "title": "Sallandrit Heino – VOC ’t Oale Kreng",
           "start": "2026-09-19T10:30:00+02:00",
           "end": "2026-09-19T17:00:00+02:00",
-          "location": "Lemelerveldseweg 37 Heino, Heino",
+          "location": "Lemelerveldseweg 37 Heino, Heino (Overijssel)",
           "description": "&nbsp; Zaterdag 19 september ’26 organiseren Corine en Harrie weer de Sallandrit, Verzamelen vanaf 10.30 uur bij Restaurant en Zalen De Veldhoek Lemelerveldseweg 37, 8141 PS Heino vertrek om 11.30 uur kosten leden; € 5.- kosten niet leden; €12,50 opgave tot uiterlijk zaterdag 13 september bij;…",
           "url": "https://brommerritten.nl/ritten/de-harrie-en-caroline-sallandrit-heino-voc-t-oale-kreng/",
           "tags": [
@@ -6227,7 +6227,7 @@
           "title": "AMBC Staphorst herfstrit",
           "start": "2026-09-19T13:00:00+02:00",
           "end": "2026-09-19T17:00:00+02:00",
-          "location": "Spoordijk 2 Staphorst, Staphorst",
+          "location": "Spoordijk 2 Staphorst, Staphorst (Overijssel)",
           "description": "De afsluiter van het 2026 toerseizoen van de AMBC vanaf de kantine.",
           "url": "https://brommerritten.nl/ritten/ambc-staphorst-herfstrit/",
           "tags": [
@@ -6253,7 +6253,7 @@
           "title": "Oldtimer herfstrit “de Heuvelrijders” Gilze",
           "start": "2026-09-27T10:00:00+02:00",
           "end": "2026-09-27T17:00:00+02:00",
-          "location": "Alphenseweg 14a, Gilze",
+          "location": "Alphenseweg 14a, Gilze (Noord-Brabant)",
           "description": "Jaarlijkse Herfstrit voor brommers, motors en auto&#8217;s. Inschrijven vanaf 10.00 uur, vertrek van de voertuigen 11.30 uur",
           "url": "https://brommerritten.nl/ritten/oldtimer-herfstrit-de-heuvelrijders-gilze/",
           "tags": [
@@ -6268,7 +6268,7 @@
           "title": "KCON Boekelo Tour",
           "start": "2026-09-27T10:30:00+02:00",
           "end": "2026-09-27T17:00:00+02:00",
-          "location": "Beckumerstraat 2 Boekelo, Boekelo",
+          "location": "Beckumerstraat 2 Boekelo, Boekelo (Overijssel)",
           "description": "De Boekelo Tour word georganiseerd door Hennie Abbink. Het zal een prachtige rit door het Twentse landschap worden van ca 90 km lang. Verzamelen 10:30 koffie, 11:00 uur vertrek. Adres: Café de Buren Beckumerstraat 2 7548 BG Boekelo. Info: Hennie Abbink: 06-2042 3558",
           "url": "https://brommerritten.nl/ritten/kcon-boekelo-tour/",
           "tags": [
@@ -6281,7 +6281,7 @@
           "title": "Terug van weggeweest Nijnsel",
           "start": "2026-10-04T09:30:00+01:00",
           "end": "2026-10-04T17:00:00+01:00",
-          "location": "Oude Lieshoutseweg 7 Sint-Oedenrode (Nijnsel), Nijnsel",
+          "location": "Oude Lieshoutseweg 7 Sint-Oedenrode (Nijnsel), Nijnsel (Noord-Brabant)",
           "description": "Terug Van Weggeweest Nijnsel. Toertocht van ongeveer 80 km voor bromfietsen, solexen en snorfietsen van 20 jaar of ouder. Inschrijving van 09.30 uur tot 10.30 uur. Vertrek solexen ensnorfietsen om 10.30 uur. Bromfietsen kunnen vanaf 11.00 uur sta rten. De bezemwagen zal om 11.00 uur na het vertrek…",
           "url": "https://brommerritten.nl/ritten/terug-van-weggeweest-nijnsel/",
           "tags": [
@@ -6294,7 +6294,7 @@
           "title": "Snertrit ’t Oale Kreng Westerhaar",
           "start": "2026-10-10T10:00:00+01:00",
           "end": "2026-10-10T17:00:00+01:00",
-          "location": "Beeklaan 1 Westerhaar, Westerhaar",
+          "location": "Beeklaan 1 Westerhaar, Westerhaar (Overijssel)",
           "description": "Locatie Kulturhus De Klaampe, Beeklaan 1 7676BC, Westerhaar &nbsp; Verzamelen vanaf 10.00 uur Vertrek 11.00 uur Opgave t/m 3 oktober bij: Herman Gerritsen, 06-13229077 Martin Nijland, 06-13086177 &nbsp; Kosten leden € 10.- Kosten niet leden € 15,-",
           "url": "https://brommerritten.nl/ritten/snertrit-t-oale-kreng-westerhaar/",
           "tags": [
@@ -6307,7 +6307,7 @@
           "title": "Afsluitrit KCON Borculo",
           "start": "2026-10-11T09:30:00+01:00",
           "end": "2026-10-11T17:00:00+01:00",
-          "location": "Ruurloseweg 51 Borculo, Borculo",
+          "location": "Ruurloseweg 51 Borculo, Borculo (Gelderland)",
           "description": "LET OP !!! EIGEN RIT !!! DEZE RIT IS IN PRINCIPE ALLEEN VOOR LEDEN VAN DE K.C.O.N. !!! LIJKT HET U LEUK OM (VAKER) MET ONS MEE TE RIJDEN DAN BENT U VAN HARTE WELKOM OM DIT EENS TE ERVAREN. INFO EN AANMELDINGEN LIDMAATSCHAP: WWW.KREIDLER-CLUB.NL",
           "url": "https://brommerritten.nl/ritten/afsluitrit-kcon-borculo/",
           "tags": [
@@ -6320,7 +6320,7 @@
           "title": "2e zondag in de maandrit Oktober – Hulst",
           "start": "2026-10-11T13:00:00+01:00",
           "end": "2026-10-11T18:00:00+01:00",
-          "location": "Tolweg 109 Hulst, Hulst",
+          "location": "Tolweg 109 Hulst, Hulst (Zeeland)",
           "description": "2e Zondagrit van de maand. Georganiseerd door Brommerclub &#8220;De Grensrijders&#8221;. Deze ritten zijn van Maart t/m November. Deelname aan een van deze ritten, is geheel op eigen risico. Samen komst: De Bourgondiër (Kaart) Waar: Tolweg 109, 4561RL Hulst. (Absdale) Verzamelen: ± 13:00 uur.…",
           "url": "https://brommerritten.nl/ritten/zondagrit-de-grensrijders-5/",
           "tags": [
@@ -6333,7 +6333,7 @@
           "title": "Oude voertuigendag Boekelo",
           "start": "2026-10-18T10:00:00+01:00",
           "end": "2026-10-18T17:00:00+01:00",
-          "location": "Beckumerstraat 2 Boekelo, Boekelo",
+          "location": "Beckumerstraat 2 Boekelo, Boekelo (Overijssel)",
           "description": "Later meer&#8230;",
           "url": "https://brommerritten.nl/ritten/oude-voertuigendag-boekelo/",
           "tags": [
@@ -6350,7 +6350,7 @@
           "title": "2e zondag in de maandrit November – Hulst",
           "start": "2026-11-08T13:00:00+01:00",
           "end": "2026-11-08T18:00:00+01:00",
-          "location": "Tolweg 109 Hulst, Hulst",
+          "location": "Tolweg 109 Hulst, Hulst (Zeeland)",
           "description": "2e Zondagrit van de maand. Georganiseerd door Brommerclub &#8220;De Grensrijders&#8221;. Deze ritten zijn van Maart t/m November. Deelname aan een van deze ritten, is geheel op eigen risico. Samen komst: De Bourgondiër (Kaart) Waar: Tolweg 109, 4561RL Hulst. (Absdale) Verzamelen: ± 13:00 uur.…",
           "url": "https://brommerritten.nl/ritten/zondagrit-de-grensrijders-6/",
           "tags": [
@@ -6363,7 +6363,7 @@
           "title": "Oldtimerdag De Westereen",
           "start": "2027-05-01T11:00:00+02:00",
           "end": "2027-05-01T17:00:00+02:00",
-          "location": "Badhuiswei de Westereen, de Westereen",
+          "location": "Badhuiswei de Westereen, de Westereen (Friesland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/oldtimerdag-de-westereen/",
           "tags": [
@@ -6380,7 +6380,7 @@
           "title": "Big Honda Event Ameide",
           "start": "2027-05-22T08:00:00+02:00",
           "end": "2027-05-22T17:00:00+02:00",
-          "location": "Industrieweg 1 Ameide, Ameide",
+          "location": "Industrieweg 1 Ameide, Ameide (Utrecht)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/3e-big-honda-event-ameide/",
           "tags": [
@@ -6393,7 +6393,7 @@
           "title": "Brommertocht Kootstertille",
           "start": "2027-06-26T09:00:00+02:00",
           "end": "2027-06-26T17:00:00+02:00",
-          "location": "Goudsjeblomstrjitte 34a Kootstertille, Kootstertille",
+          "location": "Goudsjeblomstrjitte 34a Kootstertille, Kootstertille (Friesland)",
           "description": "Tocht tijdens het dorpsfeest van Kootstertille, informatie volgt.",
           "url": "https://brommerritten.nl/ritten/brommertocht-kootstertille/",
           "tags": [
@@ -6406,7 +6406,7 @@
           "title": "Moped at Sea Goes",
           "start": "2027-07-03T10:00:00+02:00",
           "end": "2027-07-03T17:00:00+02:00",
-          "location": "Oostschans 26C Goes, 4463 AM",
+          "location": "Oostschans 26C Goes, 4463 AM (Zeeland)",
           "description": "Op zoek naar een dag vol passie voor bromfietsen, vintage sfeer en technische pracht? Kom naar Mopedatsea! Dit is hét 2-takt &amp; 4-takt bromfietsevenement in Zeeland, georganiseerd door ons, TomosOnderdelenZeeland. Na het grote succes van het afgelopen jaar kunnen wij wel stellen dat wij dit jaar…",
           "url": "https://brommerritten.nl/ritten/moped-at-sea-goes/",
           "tags": [
@@ -6470,7 +6470,7 @@
           "title": "Serskampse Oldtimer Tour",
           "start": "2026-08-23T09:00:00+02:00",
           "end": "2026-08-23T17:00:00+02:00",
-          "location": "Terreinen Esveeka, Nieuwstraat 48D, Serskamp",
+          "location": "Terreinen Esveeka, Nieuwstraat 48D, Serskamp (Oost-Vlaanderen)",
           "country": "België",
           "description": "11de editie ('Dress 'n Ride'), open voor alle oldtimers incl. bromfietsen en scooters. Live muziek, kinderanimatie en marktkramen.",
           "url": "http://serskampseoldtimertour.be/",

@@ -320,9 +320,10 @@ async function scrapeTribe(venue) {
       : event.end_date
         ? event.end_date.replace(' ', 'T') + '+01:00'
         : addHours(start, 3)
-    const loc = event.venue?.venue
+    const baseLoc = event.venue?.venue
       ? [event.venue.venue, event.venue.city].filter(Boolean).join(', ')
       : venue.name
+    const loc = event.venue?.province ? `${baseLoc} (${event.venue.province})` : baseLoc
     return {
       id: `${venue.id}-${event.id}`,
       title: decodeXml(stripHtml(event.title ?? '')).trim(),

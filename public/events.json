@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T06:18:09.476Z",
+  "updatedAt": "2026-08-13T06:20:54.895Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -130,7 +130,7 @@
         },
         {
           "id": "10001025",
-          "title": "WYATT E. (BE)",
+          "title": "WYATT E. (BE) + Thistle Sifter",
           "start": "2026-09-03T20:00:00+02:00",
           "end": "2026-09-03T22:30:00+02:00",
           "location": "ACU, Netherlands",
@@ -1762,26 +1762,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "483029",
-          "title": "Sherpa Steps",
-          "start": "2026-08-12T13:30:00+02:00",
-          "end": "2026-08-12T14:30:00.000Z",
-          "location": "Geertekerk, Geertekerkhof 23, Utrecht",
-          "description": "Dit gratis concert van Sherpa Steps is onderdeel van de serie Kerken Luisteren, georganiseerd door ZIMIHC in samenwerking met Kerken Kijken Utrecht. Van 26 juni tot en met 3 september worden 24 middagconcerten gehouden in zeven kerken in de Utrechtse binnenstad. De muzikale programmering omvat…",
-          "url": "https://www.podiuminfo.nl/concert/483029/Sherpa-Steps/Geertekerk/",
-          "tags": []
-        },
-        {
-          "id": "451355",
-          "title": "High On Fire",
-          "start": "2026-08-12T20:00:00+02:00",
-          "end": "2026-08-12T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse metalband High On Fire maakt een verpletterende mix van sludge, thrash en stoner, nu al 28 jaar zonder te verslappen. Frontman Matt Pike is dan ook een harde werker: behalve in High On Fire zit hij ook nog in de doommetalband Sleep. De rauwe stem van Pike doet soms denken aan Lemmy –…",
-          "url": "https://www.podiuminfo.nl/concert/451355/High-On-Fire/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "483030",
           "title": "Wym van Noort in de Lutherse Kerk",
           "start": "2026-08-14T13:30:00+02:00",
@@ -2010,6 +1990,26 @@
           "description": "Beleef een gratis concert van Saxuo, een saxofoonduo dat sfeervolle melodieën ten gehore brengt in de Nicolaikerk. Met slechts twee saxofoons weten zij twee melodielijnen kunstig in elkaar te vlechten, waardoor de suggestie van meer instrumenten wordt gewekt en de muziek spannend blijft. Dit…",
           "url": "https://www.podiuminfo.nl/concert/483033/Saxuo-in-de-Nicolaikerk/Nicolaikerk/",
           "tags": []
+        },
+        {
+          "id": "489227",
+          "title": "Gone Country",
+          "start": "2026-09-03T19:30:00+02:00",
+          "end": "2026-09-03T20:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Gone Country neemt bezoekers een avond lang mee naar een authentieke honky-tonk in Nashville. Wat begon als een eenmalig evenement in Amsterdam, is uitgegroeid tot een maandelijks terugkerende linedance party die door heel Nederland reist. Het evenement is toegankelijk voor zowel beginnende dansers…",
+          "url": "https://www.podiuminfo.nl/concert/489227/Gone-Country/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "480495",
+          "title": "Burning Spear",
+          "start": "2026-09-03T21:00:00+02:00",
+          "end": "2026-09-03T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Jamaicaanse reggaezanger Burning Spear, ook bekend als Winston Rodney, viert zijn vijftigjarige carrière en staat bekend als een van de meest invloedrijke artiesten binnen de rootsreggae. Zijn doorbraak kwam in 1973 met het album 'Marcus Garvey', uitgebracht op het legendarische Island Records.…",
+          "url": "https://www.podiuminfo.nl/concert/480495/Burning-Spear/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2030,86 +2030,6 @@
       "scene": "games",
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
-        {
-          "id": "604908",
-          "title": "D&D 5.5e: Dark Matter \"The revelation\"",
-          "start": "2026-08-12T19:00:00+02:00",
-          "end": "2026-08-12T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "D&amp;D 5.5e: Dark Matter \"The revelation\" Wed 12/8 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604020",
-          "title": "Blades in the Dark – Sandmen",
-          "start": "2026-08-12T19:00:00+02:00",
-          "end": "2026-08-12T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Blades in the Dark – Sandmen Wed 12/8 7-10pm at Subcultures @De Bierkantine English, Blades in the Dark Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "605104",
-          "title": "Murder of Crows [Beginner friendly]",
-          "start": "2026-08-12T19:00:00+02:00",
-          "end": "2026-08-12T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Murder of Crows [Beginner friendly] Wed 12/8 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Maya Saveliev &amp;amp;amp; Michael E. Weil A murder investigation TTRPG Play as agents of the Crow Anticrime Wing (C.A.W) as they try to figure out who killed a crow, why, and…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604028",
-          "title": "🌚 PFS2 1-22: Doom of Cassomir",
-          "start": "2026-08-12T19:00:00+02:00",
-          "end": "2026-08-12T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "🌚 PFS2 1-22: Doom of Cassomir Wed 12/8 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition) Character levels 1-4 Written by Calder CaDavid Doom stalks the streets of Cassomir! The people of Admiral's Fen have long been doughty…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604609",
-          "title": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️ (2 tables)",
-          "start": "2026-08-12T19:00:00+02:00",
-          "end": "2026-08-12T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🏴‍☠️ (2 tables) Wed 12/8 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604136",
-          "title": "The Goblings - The Sun Thief [Beginner Friendly]",
-          "start": "2026-08-12T19:00:00+02:00",
-          "end": "2026-08-12T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "The Goblings - The Sun Thief [Beginner Friendly] Wed 12/8 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Bodie H In The Goblings , you’ll take on the role of freshly spawned, mostly formed goblins, known in the nest as goblings. Together with your other…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604492",
-          "title": "Wanderhome - The Aristobugs",
-          "start": "2026-08-12T19:00:00+02:00",
-          "end": "2026-08-12T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - The Aristobugs Wed 12/8 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy fields,…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604505",
-          "title": "Wanderhome - the day of song (beginner friendly!)",
-          "start": "2026-08-12T19:00:00+02:00",
-          "end": "2026-08-12T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - the day of song (beginner friendly!) Wed 12/8 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
         {
           "id": "605100",
           "title": "D&D 5.5e Phandelver: Thralls of Enternality",
@@ -2286,7 +2206,8 @@
             "Ladies'(K)night"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "casual-carnage",
@@ -2392,7 +2313,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2570,19 +2492,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-dineren-op-beton-3",
-          "title": "Dineren op Beton gehost door A Beautiful Mess",
-          "start": "2026-08-13T00:00:00+02:00",
-          "end": "2026-08-13T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/dineren-op-beton-3/",
-          "tags": [
-            "Eten / Drinken",
-            "Terras"
-          ]
-        },
-        {
           "id": "beton-gratis-ukg-festival-gehost-door-pardon-amsterdam",
           "title": "GRATIS UKG Festival | Gehost door PARDON Amsterdam",
           "start": "2026-08-14T00:00:00+02:00",
@@ -2690,6 +2599,20 @@
             "Kunst",
             "Workshop",
             "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-12",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-08-17T00:00:00+02:00",
+          "end": "2026-08-17T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-12/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
           ]
         }
       ]
@@ -3019,6 +2942,19 @@
           "description": "//www.youtube.com/@basisclubutrecht",
           "url": "https://clubbasis.nl/event/basis-rebekah-all-night-long-7/",
           "tags": []
+        },
+        {
+          "id": "basis-utrecht-10001506-1795906800-1795932000",
+          "title": "BASIS x Aphøtic Invites/ Kevin Makkinga/ nota./ Ornella",
+          "start": "2026-11-28T23:00:00+01:00",
+          "end": "2026-11-29T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-x-aphotic-invites-kevin-makkinga-nota-ornella/",
+          "tags": [
+            "Hardtechno",
+            "Schranz"
+          ]
         }
       ]
     },
@@ -3137,7 +3073,7 @@
           "end": "2026-08-20T23:00:00.000Z",
           "location": "Den Haag (The Hague), Scheveningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78077",
-          "description": "Chamber Orchestra<BR>Conrad Pope, conductor<BR>Michiel de Boer, conductor<BR>Sara Andon, flute<BR>Simone Pedroni, piano<BR>Robert Townson, host<BR><BR>A night of wonderful film melodies from blockbuster motion pictures such as \"Titanic\", \"Out of Africa\", &quot",
+          "description": "Chamber Orchestra<BR>Conrad Pope, conductor<BR>Michiel de Boer, conductor<BR>Sara Andon, flute<BR>Simone Pedroni, piano<BR>Robert Townson, host<BR><BR>This concert is a celebration of love – all kinds of love. Young love and old love&hellip; timeless tales of romance from the movies that help",
           "tags": []
         },
         {
@@ -4879,16 +4815,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-tuinsafari-12-augustus-2026-2026",
-          "title": "Tuinsafari 12 augustus 2026",
-          "start": "2026-08-12T10:00:00+02:00",
-          "end": "2026-08-12T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/tuinsafari-12-augustus-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-circus-olifant-13-augustus-2026-2026",
           "title": "Circus Olifant &#8211; 13 augustus 2026",
           "start": "2026-08-13T10:00:00+02:00",
@@ -4959,16 +4885,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
-          "title": "Maand van de Geschiedenis op het Muiderslot",
-          "start": "2026-10-01T10:00:00+01:00",
-          "end": "2026-10-31T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-mindful-wandeling-muiderslot-2026",
           "title": "Mindful wandeling Muiderslot",
           "start": "2026-10-01T10:00:00+01:00",
@@ -4976,6 +4892,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
+          "title": "Maand van de Geschiedenis op het Muiderslot",
+          "start": "2026-10-01T10:00:00+01:00",
+          "end": "2026-10-31T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
           "tags": []
         },
         {
@@ -4989,6 +4915,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-writer-in-residence-2026-pim-lammers-2026",
+          "title": "Writer in Residence 2026: Pim Lammers",
+          "start": "2026-10-05T10:00:00+01:00",
+          "end": "2026-10-09T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/writer-in-residence-2026-pim-lammers/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-lezing-oogst-het-muiderslot-2026",
           "title": "Lezing: Oogst &amp; het Muiderslot &#8211; 7 okt 2026",
           "start": "2026-10-07T10:00:00+01:00",
@@ -4996,6 +4932,26 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/lezing-oogst-het-muiderslot/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-10-okt-2026-2026",
+          "title": "Historische proeverij 10 okt 2026",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-10T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-10-okt-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-herfstvakantie-in-het-kasteelatelier-2026",
+          "title": "Herfstvakantie in het Kasteelatelier",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/herfstvakantie-in-het-kasteelatelier/",
           "tags": []
         },
         {
@@ -5019,13 +4975,13 @@
           "tags": []
         },
         {
-          "id": "muiderslot-historische-proeverij-10-okt-2026-2026",
-          "title": "Historische proeverij 10 okt 2026",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-10T18:00:00+01:00",
+          "id": "muiderslot-ridderweekend-oktober-2026-2026",
+          "title": "Ridderweekend oktober 2026",
+          "start": "2026-10-17T10:00:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
           "location": "Muiderslot, Muiden",
           "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-10-okt-2026/",
+          "url": "https://muiderslot.nl/activiteit/ridderweekend-oktober-2026/",
           "tags": []
         },
         {
@@ -5099,13 +5055,13 @@
           "tags": []
         },
         {
-          "id": "loevestein-middeleeuws-kampement-2026-08",
-          "title": "Middeleeuws kampement",
+          "id": "loevestein-rondleiding-2026-08",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Middeleeuws kampement",
           "start": "2026-08-18T10:00:00+02:00",
           "end": "2026-08-21T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/middeleeuws-kampement/",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
@@ -5246,6 +5202,16 @@
           "location": "Ruïne van Brederode, Santpoort-Zuid",
           "description": "",
           "url": "https://ruinevanbrederode.nl/ruine-bewoond-25-oktober/",
+          "tags": []
+        },
+        {
+          "id": "brederode-ru-ne-bewoond-2027-06-14",
+          "title": "Ruïne Bewoond",
+          "start": "2027-06-14T11:00:00+02:00",
+          "end": "2027-06-14T17:00:00+02:00",
+          "location": "Ruïne van Brederode, Santpoort-Zuid",
+          "description": "",
+          "url": "https://ruinevanbrederode.nl/ruine-bewoond-14-juni/",
           "tags": []
         },
         {
@@ -5403,28 +5369,6 @@
           "tags": []
         },
         {
-          "id": "bi-1.-eisencup-2026",
-          "title": "1. Eisencup 2026",
-          "start": "2026-09-26T00:00:00+02:00",
-          "end": "2026-09-26T23:00:00+02:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/1.-eisencup-2026",
-          "tags": []
-        },
-        {
-          "id": "bi-v.-veszprém-medieval-day",
-          "title": "V. Veszprém Medieval Day 2026",
-          "start": "2026-10-10T00:00:00+01:00",
-          "end": "2026-10-10T23:00:00+01:00",
-          "location": "Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary.",
-          "url": "https://www.buhurtinternational.com/tournament/v.-veszprém-medieval-day",
-          "tags": []
-        },
-        {
           "id": "bi-desafio-belmonte-2026",
           "title": "Desafio Belmonte 2026",
           "start": "2026-09-19T00:00:00+02:00",
@@ -5436,17 +5380,6 @@
           "tags": []
         },
         {
-          "id": "bi-alpine-warrior-2027",
-          "title": "Alpine Warrior 2027",
-          "start": "2027-05-01T00:00:00+02:00",
-          "end": "2027-05-01T23:00:00+02:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
-          "tags": []
-        },
-        {
           "id": "bi-tavola-rotonda-2026",
           "title": "Tavola Rotonda 2026",
           "start": "2026-09-26T00:00:00+02:00",
@@ -5455,61 +5388,6 @@
           "country": "Italy",
           "description": "Buhurt-toernooi in Italy.",
           "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
-          "tags": []
-        },
-        {
-          "id": "bi-sudovo-cup",
-          "title": "Sudovo Cup 2026",
-          "start": "2026-08-29T00:00:00+02:00",
-          "end": "2026-08-29T23:00:00+02:00",
-          "location": "Czech Republic",
-          "country": "Czech Republic",
-          "description": "Buhurt-toernooi in Czech Republic.",
-          "url": "https://www.buhurtinternational.com/tournament/sudovo-cup",
-          "tags": []
-        },
-        {
-          "id": "bi-pálóci-boarnament",
-          "title": "Pálóci Boarnament 2026",
-          "start": "2026-09-19T00:00:00+02:00",
-          "end": "2026-09-19T23:00:00+02:00",
-          "location": "Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary.",
-          "url": "https://www.buhurtinternational.com/tournament/pálóci-boarnament",
-          "tags": []
-        },
-        {
-          "id": "bi-tournament-of-the-mace-and-shield",
-          "title": "Tournament of the Mace and Seal 2026",
-          "start": "2026-08-16T00:00:00+02:00",
-          "end": "2026-08-16T23:00:00+02:00",
-          "location": "Ireland",
-          "country": "Ireland",
-          "description": "Buhurt-toernooi in Ireland.",
-          "url": "https://www.buhurtinternational.com/tournament/tournament-of-the-mace-and-shield",
-          "tags": []
-        },
-        {
-          "id": "bi-st.-georgen-cup",
-          "title": "St. Georgen Cup 2026",
-          "start": "2026-09-05T00:00:00+02:00",
-          "end": "2026-09-05T23:00:00+02:00",
-          "location": "Germany",
-          "country": "Germany",
-          "description": "Buhurt-toernooi in Germany.",
-          "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
-          "tags": []
-        },
-        {
-          "id": "bi-heritage-shield-2026",
-          "title": "Heritage Shield 2026",
-          "start": "2026-10-03T00:00:00+01:00",
-          "end": "2026-10-03T23:00:00+01:00",
-          "location": "United Kingdom",
-          "country": "United Kingdom",
-          "description": "Buhurt-toernooi in United Kingdom.",
-          "url": "https://www.buhurtinternational.com/tournament/heritage-shield-2026",
           "tags": []
         }
       ]

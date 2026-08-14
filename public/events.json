@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T06:20:54.895Z",
+  "updatedAt": "2026-08-14T06:17:50.415Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1112,16 +1112,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-the-dreadnoughts-13-08-2026",
-          "title": "The Dreadnoughts",
-          "start": "2026-08-13T20:45:00+02:00",
-          "end": "2026-08-13T23:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Canadese clusterfolk-legends veranderen festivalweiden in plakkerige pubs",
-          "url": "https://dehelling.nl/agenda/the-dreadnoughts-13-08-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-set-the-bar-w-stupid-crew-14-08-2026",
           "title": "Set the Bar w/ Stupid Crew",
           "start": "2026-08-14T21:00:00+02:00",
@@ -1637,7 +1627,7 @@
           "start": "2026-12-04T20:00:00+01:00",
           "end": "2026-12-04T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Half-mens-half-robotband neemt je mee naar de gouden dagen van de synthpop",
+          "description": "Synthpop half-mens-half-robotband neemt je mee naar de gouden dagen.",
           "url": "https://dehelling.nl/agenda/voxtechnik-04-12-2026/",
           "tags": []
         },
@@ -2171,18 +2161,6 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-23112",
-          "title": "Weekly Draft",
-          "start": "2026-08-13T19:00:00+02:00",
-          "end": "2026-08-13T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-122/",
-          "tags": [
-            "Draft"
-          ]
-        },
-        {
           "id": "lab-monkey-19145",
           "title": "Ladies Knight – De Hobbit Draft!",
           "start": "2026-08-15T11:30:00+02:00",
@@ -2492,34 +2470,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-gratis-ukg-festival-gehost-door-pardon-amsterdam",
-          "title": "GRATIS UKG Festival | Gehost door PARDON Amsterdam",
-          "start": "2026-08-14T00:00:00+02:00",
-          "end": "2026-08-14T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/gratis-ukg-festival-gehost-door-pardon-amsterdam/",
-          "tags": [
-            "Dans",
-            "Festival",
-            "Gratis",
-            "Muziek"
-          ]
-        },
-        {
-          "id": "beton-workshop-chinese-landschappen-schilderen-creatiehallen-2",
-          "title": "Workshop Chinese landschappen schilderen – Creatiehallen",
-          "start": "2026-08-14T00:00:00+02:00",
-          "end": "2026-08-14T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/workshop-chinese-landschappen-schilderen-creatiehallen-2/",
-          "tags": [
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-fabelfest",
           "title": "Fabelfest",
           "start": "2026-08-15T00:00:00+02:00",
@@ -2614,6 +2564,33 @@
             "Workshop",
             "Vechtclub Keiland"
           ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-49",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-08-19T00:00:00+02:00",
+          "end": "2026-08-19T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-49/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-filmavond-kantine",
+          "title": "Filmavond",
+          "start": "2026-08-19T00:00:00+02:00",
+          "end": "2026-08-19T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/filmavond-kantine/",
+          "tags": [
+            "Film",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2625,6 +2602,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260904-dubtrecht",
+          "title": "Dubtrecht by Translator Soundsystem",
+          "start": "2026-09-04T00:00:00+02:00",
+          "end": "2026-09-04T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 4th. Roots/Dub/Jungle soundsystem party!. Acu’s very own dub party! Newly founded soundsystem by aspiring soundpeople coming to Acu for their inaugural session. Expect real roots reggae, live dub mixes and musicians, filthy steppers and even some deep dubstep and jungle in the mix. The…",
+          "url": "https://acu.nl/events/20260904/dubtrecht",
+          "tags": []
+        },
         {
           "id": "acu-20261016-nothing-works-static-vision-tba",
           "title": "Nothing Works + Static Vision + Undertone",
@@ -2653,16 +2640,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "August 28th. With Cream Cheese. Crank the amps, grab your instrument and come make some noise. We’re hosting a heavy jam session at ACU for anyone into metal, hardcore, punk, grunge, stoner, doom or anything loud and heavy. Whether you’ve been playing for years or just want to jump in and see what…",
           "url": "https://acu.nl/events/20260828/heavy-jam-2",
-          "tags": []
-        },
-        {
-          "id": "acu-20261030-control-the-law-rah-collective-kryptogen-rundfunk",
-          "title": "Control, The [Law-Rah] Collective & Kryptogen Rundfunk",
-          "start": "2026-10-30T00:00:00+01:00",
-          "end": "2026-10-30T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 30th. More info soon",
-          "url": "https://acu.nl/events/20261030/control-the-law-rah-collective-kryptogen-rundfunk",
           "tags": []
         },
         {
@@ -2942,6 +2919,18 @@
           "description": "//www.youtube.com/@basisclubutrecht",
           "url": "https://clubbasis.nl/event/basis-rebekah-all-night-long-7/",
           "tags": []
+        },
+        {
+          "id": "basis-utrecht-10001507-1795215600-1795240800",
+          "title": "BASIS/ Tassery All Night Long",
+          "start": "2026-11-20T23:00:00+01:00",
+          "end": "2026-11-21T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-tassery-all-night-long/",
+          "tags": [
+            "Schranz"
+          ]
         },
         {
           "id": "basis-utrecht-10001506-1795906800-1795932000",
@@ -4158,7 +4147,7 @@
         },
         {
           "id": "76805",
-          "title": "Film & Game Music",
+          "title": "Maestro del Cinema",
           "start": "2027-01-14T20:00:00.000Z",
           "end": "2027-01-14T23:00:00.000Z",
           "location": "Utrecht, Netherlands",
@@ -4194,6 +4183,16 @@
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76600",
           "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
+          "tags": []
+        },
+        {
+          "id": "78220",
+          "title": "Maestro del Cinema",
+          "start": "2027-01-17T20:00:00.000Z",
+          "end": "2027-01-17T23:00:00.000Z",
+          "location": "Zutphen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78220",
+          "description": "The legendary film music by masterful Italian composers comes to life this winter in Maestro del Cinema. The Netherlands Film Orchestra takes you past the masterpieces of classical and modern film composers: from Morricone to Einaudi.<BR><BR>The orchestra will play Ennio Morricone's memorab",
           "tags": []
         },
         {
@@ -4294,6 +4293,26 @@
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77750",
           "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
+          "tags": []
+        },
+        {
+          "id": "78221",
+          "title": "The Epic Music of Lord of the Rings, The Hobbit & The Rings of Power",
+          "start": "2027-02-15T20:00:00.000Z",
+          "end": "2027-02-15T23:00:00.000Z",
+          "location": "Zutphen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78221",
+          "description": "The Hobbits are coming! Experience The Lord of the Rings, The Hobbit and The Rings of Power in Concert – presented by a star guest from the films! Enjoy the unique music worlds of J.R.R. Tolkien in a magnificent concert featuring world-class star soloists, the voice of legendary Saruman actor",
+          "tags": []
+        },
+        {
+          "id": "78222",
+          "title": "The Music of Hans Zimmer & Others",
+          "start": "2027-02-15T20:00:00.000Z",
+          "end": "2027-02-15T23:00:00.000Z",
+          "location": "Zutphen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78222",
+          "description": "No other composer has influenced the film world in the past two decades as much as the Oscar, Globe and Emmy winner Hans Zimmer with his staggering compositions for films such as The Lion King, Pirates of the Carribean, Gladiator, The Dark Knight, Man of Steel, Inception and Interstellar. The visito",
           "tags": []
         },
         {
@@ -4812,16 +4831,6 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/presentatie-tropische-planten/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-circus-olifant-13-augustus-2026-2026",
-          "title": "Circus Olifant &#8211; 13 augustus 2026",
-          "start": "2026-08-13T10:00:00+02:00",
-          "end": "2026-08-13T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/circus-olifant-13-augustus-2026/",
           "tags": []
         },
         {
@@ -5369,6 +5378,28 @@
           "tags": []
         },
         {
+          "id": "bi-1.-eisencup-2026",
+          "title": "1. Eisencup 2026",
+          "start": "2026-09-26T00:00:00+02:00",
+          "end": "2026-09-26T23:00:00+02:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/1.-eisencup-2026",
+          "tags": []
+        },
+        {
+          "id": "bi-v.-veszprém-medieval-day",
+          "title": "V. Veszprém Medieval Day 2026",
+          "start": "2026-10-10T00:00:00+01:00",
+          "end": "2026-10-10T23:00:00+01:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/v.-veszprém-medieval-day",
+          "tags": []
+        },
+        {
           "id": "bi-desafio-belmonte-2026",
           "title": "Desafio Belmonte 2026",
           "start": "2026-09-19T00:00:00+02:00",
@@ -5380,6 +5411,17 @@
           "tags": []
         },
         {
+          "id": "bi-alpine-warrior-2027",
+          "title": "Alpine Warrior 2027",
+          "start": "2027-05-01T00:00:00+02:00",
+          "end": "2027-05-01T23:00:00+02:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
+          "tags": []
+        },
+        {
           "id": "bi-tavola-rotonda-2026",
           "title": "Tavola Rotonda 2026",
           "start": "2026-09-26T00:00:00+02:00",
@@ -5388,6 +5430,61 @@
           "country": "Italy",
           "description": "Buhurt-toernooi in Italy.",
           "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
+          "tags": []
+        },
+        {
+          "id": "bi-sudovo-cup",
+          "title": "Sudovo Cup 2026",
+          "start": "2026-08-29T00:00:00+02:00",
+          "end": "2026-08-29T23:00:00+02:00",
+          "location": "Czech Republic",
+          "country": "Czech Republic",
+          "description": "Buhurt-toernooi in Czech Republic.",
+          "url": "https://www.buhurtinternational.com/tournament/sudovo-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-pálóci-boarnament",
+          "title": "Pálóci Boarnament 2026",
+          "start": "2026-09-19T00:00:00+02:00",
+          "end": "2026-09-19T23:00:00+02:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/pálóci-boarnament",
+          "tags": []
+        },
+        {
+          "id": "bi-tournament-of-the-mace-and-shield",
+          "title": "Tournament of the Mace and Seal 2026",
+          "start": "2026-08-16T00:00:00+02:00",
+          "end": "2026-08-16T23:00:00+02:00",
+          "location": "Ireland",
+          "country": "Ireland",
+          "description": "Buhurt-toernooi in Ireland.",
+          "url": "https://www.buhurtinternational.com/tournament/tournament-of-the-mace-and-shield",
+          "tags": []
+        },
+        {
+          "id": "bi-st.-georgen-cup",
+          "title": "St. Georgen Cup 2026",
+          "start": "2026-09-05T00:00:00+02:00",
+          "end": "2026-09-05T23:00:00+02:00",
+          "location": "Germany",
+          "country": "Germany",
+          "description": "Buhurt-toernooi in Germany.",
+          "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-heritage-shield-2026",
+          "title": "Heritage Shield 2026",
+          "start": "2026-10-03T00:00:00+01:00",
+          "end": "2026-10-03T23:00:00+01:00",
+          "location": "United Kingdom",
+          "country": "United Kingdom",
+          "description": "Buhurt-toernooi in United Kingdom.",
+          "url": "https://www.buhurtinternational.com/tournament/heritage-shield-2026",
           "tags": []
         }
       ]
@@ -5549,6 +5646,20 @@
             "Bromfiets",
             "Motor",
             "Tractor"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-3628",
+          "title": "Oldtimer bromfiets- en motorenrit Haler",
+          "start": "2026-08-16T09:30:00+02:00",
+          "end": "2026-08-16T17:00:00+02:00",
+          "location": "Pinxtenstraat 1 Haler, Haler (Limburg)",
+          "description": "20e oldtimer bromfiets en motorenrit vanuit Haler in Limburg.",
+          "url": "https://brommerritten.nl/ritten/oldtimer-bromfiets-en-motorenrit-haler/",
+          "tags": [
+            "Bromfiets",
+            "Motor"
           ],
           "country": "Nederland"
         },

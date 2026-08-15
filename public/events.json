@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T06:17:50.415Z",
+  "updatedAt": "2026-08-15T05:29:04.360Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001071",
-          "title": "Gijsjaradijsja + Kinderleed + ZOEKHETUITMAN + Fokko (solo)",
-          "start": "2026-08-14T19:30:00+02:00",
-          "end": "2026-08-15T01:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Anti-alles. Geen maatschappelijk of controversieel onderwerp gaat deze band te ver. Bekend van ruige, knallende nummers als PFAS, WILLEM DE LAATSTE en BLOED. \nNormaliter een Nederrockband, maar ditmaal komt Fokko de boel in zijn eentje rocken. Met oorwurmerige nummers en een hoop energie. Bekend…",
-          "url": "https://dbstudio.nl/event/gijsjaradijsja-kinderleed-zoekhetuitman-fokko-solo/",
-          "tags": [
-            "Concert"
-          ]
-        },
         {
           "id": "10001110",
           "title": "NEON NOIR x CAMY HUOT Floating in the Sink release party",
@@ -154,11 +142,11 @@
         },
         {
           "id": "10001064",
-          "title": "KILLER KIN (USA) + SICK SHOOTERS",
+          "title": "KILLER KIN (USA) + JC Thomaz & the Missing Slippers",
           "start": "2026-09-04T20:00:00+02:00",
           "end": "2026-09-04T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Vorig jaar mochten we de muzikale wervelwind die Killer Kin heet al aan den lijve ondervinden als support bij het concert van ZEKE. Nu op deze vrijdag verwelkomen we KILLER KIN als hoofdact op ons podium.\nHoe het klinkt?\nAls het bastaardkind van Motorhead en the Stooges.\nHoe het eruit ziet?\nALs een…",
+          "description": "*** LOOSE ENDS PRE-PARTY gratis op vertoon van Loose Ends ticket *** \nVorig jaar mochten we de muzikale wervelwind die Killer Kin heet al aan den lijve ondervinden als support bij het concert van ZEKE. Nu op deze vrijdag verwelkomen we KILLER KIN als hoofdact op ons podium. Hoe het klinkt? Als het…",
           "url": "https://dbstudio.nl/event/killer-kin-usa/",
           "tags": [
             "Concert",
@@ -209,7 +197,7 @@
         },
         {
           "id": "10001103",
-          "title": "SKAMPIDA (Colombia)",
+          "title": "SKAMPIDA (Colombia) + I'm With Stupid",
           "start": "2026-09-11T20:00:00+02:00",
           "end": "2026-09-11T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
@@ -410,6 +398,21 @@
             "Metal",
             "Trash"
           ]
+        },
+        {
+          "id": "10001104",
+          "title": "HARDCORE EARTHQUAKE ft. LOMA PRIETA (USA) + Hexis (DK) + Violence (DK)",
+          "start": "2026-10-02T20:00:00+01:00",
+          "end": "2026-10-02T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Deze drie bands op een affiche is een garantie voor een harde avond blackened screamo en posthardcore punk. \nHeadliner, het Amerikaanse 𝐋𝐎𝐌𝐀 𝐏𝐑𝐈𝐄𝐓𝐀  op Deathwish Inc. records, is al ruim 20 jaar een vaste waarde in de Bay Area hardcore punk scene waarbij de band zich beweegt tussen…",
+          "url": "https://dbstudio.nl/event/hardcore-earthquake-ft-loma-prieta-usa-hexis-dk-violence-dk/",
+          "tags": [
+            "Hardcore",
+            "Post Hardcore",
+            "Punk",
+            "Screamo"
+          ]
         }
       ]
     },
@@ -421,6 +424,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "29802",
+          "title": "R.M.F.C.",
+          "start": "2026-09-23T19:30:00+02:00",
+          "end": "2026-09-23T22:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "R.M.F.C. is het project van multi-instrumentalist Buz Clatworthy. Wat begon als een thuisstudio-project, is uitgegroeid tot een volwaardige liveband en een belangrijke speler binnen de wereldwijde DIY-punk-underground. Met het album ‘Club Hits’ (2023) groeide hij uit tot een van de vaandeldragers…",
+          "url": "https://ekko.nl/event/rmfc/",
+          "tags": []
+        },
         {
           "id": "30151",
           "title": "De Gestampte Meisjes: STROT",
@@ -619,16 +632,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Carson McHone is een singer-songwriter en beeldend kunstenaar uit Austin, Texas, die inmiddels haar thuis heeft gevonden in het Canadese Ontario. Haar muziek beweegt zich op het snijvlak van gitaarrock, pastorale folk en poëzie, en put uit uiteenlopende bronnen als veldopnames, haar herinneringen…",
           "url": "https://ekko.nl/event/carson-mchone/",
-          "tags": []
-        },
-        {
-          "id": "30063",
-          "title": "Diep In De Groef",
-          "start": "2026-08-14T23:30:00+02:00",
-          "end": "2026-08-15T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-219/",
           "tags": []
         },
         {
@@ -912,16 +915,6 @@
           "tags": []
         },
         {
-          "id": "29802",
-          "title": "R.M.F.C.",
-          "start": "2026-09-23T19:30:00+02:00",
-          "end": "2026-09-23T22:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "R.M.F.C. is het project van multi-instrumentalist Buz Clatworthy. Wat begon als een thuisstudio-project, is uitgegroeid tot een volwaardige liveband en een belangrijke speler binnen de wereldwijde DIY-punk-underground. Met het album ‘Club Hits’ (2023) groeide hij uit tot een van de vaandeldragers…",
-          "url": "https://ekko.nl/event/rmfc/",
-          "tags": []
-        },
-        {
           "id": "29626",
           "title": "Ontaard",
           "start": "2026-10-23T19:30:00+01:00",
@@ -1111,16 +1104,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-set-the-bar-w-stupid-crew-14-08-2026",
-          "title": "Set the Bar w/ Stupid Crew",
-          "start": "2026-08-14T21:00:00+02:00",
-          "end": "2026-08-15T02:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Fresh faces and filthy basses",
-          "url": "https://dehelling.nl/agenda/set-the-bar-w-stupid-crew-14-08-2026/",
-          "tags": []
-        },
         {
           "id": "helling-club-weeb-xl-15-08-2026",
           "title": "Club Weeb XL",
@@ -1592,6 +1575,16 @@
           "tags": []
         },
         {
+          "id": "helling-krav-boca-emirhan-x-20-11-2026",
+          "title": "Krav Boca + Emirhan X",
+          "start": "2026-11-20T20:15:00+01:00",
+          "end": "2026-11-20T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Achtkoppig rap-punk circus geeft een gemaskerde kopstoot in het gezicht van het establishment",
+          "url": "https://dehelling.nl/agenda/krav-boca-emirhan-x-20-11-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-violent-vira-21-11-2026",
           "title": "Violent Vira",
           "start": "2026-11-21T20:00:00+01:00",
@@ -1751,36 +1744,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "483030",
-          "title": "Wym van Noort in de Lutherse Kerk",
-          "start": "2026-08-14T13:30:00+02:00",
-          "end": "2026-08-14T14:30:00.000Z",
-          "location": "Lutherse Kerk, Hamburgerstraat 9, Utrecht",
-          "description": "Wym van Noort geeft een gratis concert in de Lutherse Kerk als onderdeel van de serie 'Kerken Luisteren'. Deze serie, georganiseerd door ZIMIHC in samenwerking met Kerken Kijken Utrecht, biedt gedurende de zomer 24 middagconcerten aan in zeven kerken in de Utrechtse binnenstad. De muzikale genres…",
-          "url": "https://www.podiuminfo.nl/concert/483030/Wym-van-Noort-in-de-Lutherse-Kerk/Lutherse-Kerk/",
-          "tags": []
-        },
-        {
-          "id": "486488",
-          "title": "Salsa on Friday",
-          "start": "2026-08-14T20:15:00+02:00",
-          "end": "2026-08-14T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Salsa on Friday biedt een avond voor iedereen die van salsa houdt, van beginners tot gevorderden. De aanwezige dj's verzorgen een selectie van salsa hits, variërend van klassiekers tot nieuwe favorieten. Bezoekers zijn welkom om te dansen, nieuwe passen te leren, of sociale contacten te leggen in…",
-          "url": "https://www.podiuminfo.nl/concert/486488/Salsa-on-Friday/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "480602",
-          "title": "Zer00s Heroes",
-          "start": "2026-08-14T22:00:00+02:00",
-          "end": "2026-08-14T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Zer00s Heroes neemt bezoekers mee op een nostalgische reis naar de jaren 2000-2009. Deze clubavond in Ronda staat in het teken van de muzikale hoogtepunten van dit decennium, met hits van onder andere Britney Spears, 50 Cent, Arctic Monkeys en Avril Lavigne. Het publiek kan dansen op bekende '00s…",
-          "url": "https://www.podiuminfo.nl/concert/480602/Zer00s-Heroes/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "488943",
           "title": "Pop-O-Matic",
@@ -2000,6 +1963,36 @@
           "description": "De Jamaicaanse reggaezanger Burning Spear, ook bekend als Winston Rodney, viert zijn vijftigjarige carrière en staat bekend als een van de meest invloedrijke artiesten binnen de rootsreggae. Zijn doorbraak kwam in 1973 met het album 'Marcus Garvey', uitgebracht op het legendarische Island Records.…",
           "url": "https://www.podiuminfo.nl/concert/480495/Burning-Spear/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "480603",
+          "title": "De Microclub",
+          "start": "2026-09-04T20:00:00+02:00",
+          "end": "2026-09-04T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Microclub biedt een speciale clubavond voor het 23+ publiek dat een geweldige sfeer en goede muziek zoekt, maar ook op tijd naar huis wil. Vanaf 20:00 uur kunnen bezoekers zich volledig uitleven op een zorgvuldig samengestelde mix van funky house beats, opzwepende techno en heerlijke club…",
+          "url": "https://www.podiuminfo.nl/concert/480603/De-Microclub/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "483034",
+          "title": "Blackout Rewind: Aphrodite, Dillinja, Matrix b2b Optical, BSE",
+          "start": "2026-09-04T20:00:00+02:00",
+          "end": "2026-09-04T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Blackout keert terug met een editie die volledig in het teken staat van de sounds van vroeger. Het evenement duikt diep in de drum 'n bass historie met optredens van legendarische namen zoals Aphrodite, Dillinja, Matrix b2b Optical en Black Sun Empire. Zij worden vergezeld door lokale DJ’s Adi-J en…",
+          "url": "https://www.podiuminfo.nl/concert/483034/Blackout-Rewind-Aphrodite-Dillinja-Matrix-b2b-Optical-BSE/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "486490",
+          "title": "The Preacher Men",
+          "start": "2026-09-04T20:00:00+02:00",
+          "end": "2026-09-04T21:00:00.000Z",
+          "location": "Muziekhuis, Loevenhoutsedijk 301, Utrecht",
+          "description": "UJazz, ZenneZ records en TivoliVredenburg organiseren samen de serie Nieuwe Jazz, met presentaties van nieuwe albums. Op vrijdag 4 september met een jubileumconcert van The Preacher Men. De band, eerder genomineerd en winnaar van de Edison Jazz Publiekprijs, viert in december hun 12-jarig bestaan.…",
+          "url": "https://www.podiuminfo.nl/concert/486490/The-Preacher-Men/Muziekhuis/",
+          "tags": []
         }
       ]
     },
@@ -2047,6 +2040,16 @@
           "end": "2026-08-19T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Foul Play [beginner friendly] [playtest] Wed 19/8 7-10pm at Subcultures @De Bierkantine English, Foul Play Written by Hendrik ten Napel, art by Ema Acosta Foul Play is a role-playing game for a group of horrible geese and one Goose Master. During the one shot adventures the geese wreak havoc in a…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "605651",
+          "title": "The Devil’s Dandy Dogs (Beginner Friendly)",
+          "start": "2026-08-19T19:00:00+02:00",
+          "end": "2026-08-19T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "The Devil’s Dandy Dogs (Beginner Friendly) Wed 19/8 7-10pm at Subcultures @De Bierkantine English, Indie RPG Character level 0 -- Info box ------------------------------- Where: De Bierkantine When: Walk-in from 18:30, start at 19:00 Participation fee: €5 Prep: no need to bring or know anything…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2184,8 +2187,7 @@
             "Ladies'(K)night"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2195,42 +2197,6 @@
       "scene": "games",
       "feedUrl": "https://www.casualcarnage.nl/wp-json/wp/v2/evge_event",
       "events": [
-        {
-          "id": "casualcarnage-274",
-          "title": "Casual Carnage: November 14th",
-          "start": "2026-11-14T11:15:00+01:00",
-          "end": "2026-11-14T19:15:00.000Z",
-          "location": "Silver Heron Studios, Utrecht",
-          "description": "",
-          "url": "https://www.casualcarnage.nl/event/casual-carnage-november-14th/",
-          "tags": [
-            "Warhammer"
-          ]
-        },
-        {
-          "id": "casualcarnage-271",
-          "title": "Casual Carnage: October 17th",
-          "start": "2026-10-17T11:15:00+01:00",
-          "end": "2026-10-17T19:15:00.000Z",
-          "location": "Silver Heron Studios, Utrecht",
-          "description": "",
-          "url": "https://www.casualcarnage.nl/event/casual-carnage-october-17th/",
-          "tags": [
-            "Warhammer"
-          ]
-        },
-        {
-          "id": "casualcarnage-270",
-          "title": "Casual Carnage: September 19th",
-          "start": "2026-09-19T11:15:00+02:00",
-          "end": "2026-09-19T18:15:00.000Z",
-          "location": "Silver Heron Studios, Utrecht",
-          "description": "",
-          "url": "https://www.casualcarnage.nl/event/casual-carnage-september-19th/",
-          "tags": [
-            "Warhammer"
-          ]
-        },
         {
           "id": "casualcarnage-241",
           "title": "Casual Carnage: August 8th",
@@ -2291,8 +2257,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -2470,19 +2435,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-fabelfest",
-          "title": "Fabelfest",
-          "start": "2026-08-15T00:00:00+02:00",
-          "end": "2026-08-15T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/fabelfest/",
-          "tags": [
-            "Festival",
-            "Muziek"
-          ]
-        },
-        {
           "id": "beton-mista-kay-live",
           "title": "Misto Kay (live)",
           "start": "2026-08-16T00:00:00+02:00",
@@ -2590,6 +2542,22 @@
           "tags": [
             "Film",
             "Kantine"
+          ]
+        },
+        {
+          "id": "beton-het-spreekbeurten-festival-2e-editie",
+          "title": "Het Spreekbeurten Festival – Singles Editie",
+          "start": "2026-08-20T00:00:00+02:00",
+          "end": "2026-08-20T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/het-spreekbeurten-festival-2e-editie/",
+          "tags": [
+            "Eten / Drinken",
+            "Festival",
+            "Kunst",
+            "Panelgesprek",
+            "Terras"
           ]
         }
       ]
@@ -2712,20 +2680,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001493-1786751940-1786773600",
-          "title": "BASIS Talent Night/ Jappe/ L!SA/ MAGGIE/ TOMMY",
-          "start": "2026-08-14T23:59:00+02:00",
-          "end": "2026-08-15T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-talent-night-jappe-lsa-maggie-tommy/",
-          "tags": [
-            "Bounce",
-            "Hard house",
-            "House"
-          ]
-        },
         {
           "id": "basis-utrecht-10001496-1786838340-1786860000",
           "title": "BASIS/ gioray [live]/ Identified Patient/ Schacke",
@@ -4834,16 +4788,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-meespeeltheater-14-augustus-2026-2026",
-          "title": "Meespeeltheater &#8211; 14 augustus 2026",
-          "start": "2026-08-14T10:00:00+02:00",
-          "end": "2026-08-14T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/meespeeltheater-14-augustus-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-historische-proeverij-12-2026",
           "title": "Historische proeverij 15 aug 2026",
           "start": "2026-08-15T10:00:00+02:00",
@@ -5184,16 +5128,6 @@
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
         {
-          "id": "brederode-valkenier-met-roofvogels-2026-08-14",
-          "title": "Valkenier met roofvogels",
-          "start": "2026-08-14T11:00:00+02:00",
-          "end": "2026-08-14T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/valkenier-met-roofvogels/",
-          "tags": []
-        },
-        {
           "id": "brederode-ru-ne-bewoond-2026-09-20",
           "title": "Ruïne Bewoond",
           "start": "2026-09-20T11:00:00+02:00",
@@ -5293,7 +5227,8 @@
           "url": "https://ruinevanbrederode.nl/handboogschieten/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "hoensbroek",
@@ -5497,36 +5432,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-3585",
-          "title": "Keet Brugwachter toerrit Havelte",
-          "start": "2026-08-14T17:00:00+02:00",
-          "end": "2026-08-15T01:00:00+02:00",
-          "location": "Loosweg 1 Havelte, Havelte (Drenthe)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/keet-brugwachter-toerrit-havelte/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-691",
-          "title": "Oldtimerdag Ruinerwold",
-          "start": "2026-08-15T00:00:00+02:00",
-          "end": "2026-08-15T23:59:00+02:00",
-          "location": "Dijkhuizen Ruinerwold, Ruinerwold (Drenthe)",
-          "description": "Groot, groter grootst! Dat is de Oldtimerdag Ruinerwold met 25.000 bezoekers en 1400 deelnemers waaronder brommers, auto&#8217;s , motoren, trekkers en trucks.groot,",
-          "url": "https://brommerritten.nl/ritten/oldtimerdag-ruinerwold/",
-          "tags": [
-            "Auto",
-            "Bromfiets",
-            "Motor",
-            "Tractor",
-            "Truck"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-889",
           "title": "Peellandrit Deurne",

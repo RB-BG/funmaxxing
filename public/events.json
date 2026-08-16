@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:29:04.360Z",
+  "updatedAt": "2026-08-16T05:32:35.793Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,28 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001110",
-          "title": "NEON NOIR x CAMY HUOT Floating in the Sink release party",
-          "start": "2026-08-15T20:00:00+02:00",
-          "end": "2026-08-16T03:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "In the music scene realm, there are musicians that dream of doing their craft freely and peacefully. They will meet amazing friends to support their dreams that will put up a whole filming crew together and shoot a music video in two days time. They will also meet untalented narcissist rats with…",
-          "url": "https://dbstudio.nl/event/neon-noir-x-camy-huot-floating-in-the-sink-release-party/",
-          "tags": [
-            "Alternative",
-            "Concert",
-            "Dansavond",
-            "Electronics",
-            "Entertainment",
-            "Exotica",
-            "Experimenteel",
-            "No Wave",
-            "Punk",
-            "Ritualistic Dance Music",
-            "Techno"
-          ]
-        },
         {
           "id": "10001106",
           "title": "Gratis Terrasconcert > HANDPICKED",
@@ -60,7 +38,7 @@
           "start": "2026-08-22T13:00:00+02:00",
           "end": "2026-08-22T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "BACHT’N DE VULLE MOANE\nSwerve\nSvjetlost\nINVUNCHE\nOnhou\nIskandr\nModder\nSun Worship\nAlkerdeel\nBombstrap\nMathlovsky\n\nDagtickets gaan binnenkort in de verkoop.",
+          "description": "BACHT’N DE VULLE MOANE\nHidden Since the Foundation of the World\nSvjetlost\nINVUNCHE\nOnhou\nIskandr\nModder\nSun Worship\nAlkerdeel\nBombstrap\nMathlovsky\n\nDagtickets gaan binnenkort in de verkoop.",
           "url": "https://dbstudio.nl/event/duister-collectief/",
           "tags": [
             "Concert",
@@ -413,6 +391,23 @@
             "Punk",
             "Screamo"
           ]
+        },
+        {
+          "id": "10000796",
+          "title": "DUB PISTOLS (UK) > verplaatste concert van 1 november 2025",
+          "start": "2026-10-03T20:00:00+01:00",
+          "end": "2026-10-03T22:30:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Het uitgestelde concert van 1 november 2025.  Tickets blijven uiteraard geldig. \nFantastische liveband en een garantie voor a big party!\nDub Pistols bestaat ruim 25 jaar en heeft in die tijd een unieke sound ontwikkelt met invloeden uit dub, punk, jungle, ska, breakbeat, hip-hop, jungle en nog veel…",
+          "url": "https://dbstudio.nl/event/dub-pistols-uk/",
+          "tags": [
+            "Concert",
+            "Dub",
+            "Hiphop",
+            "Punk",
+            "Reggae",
+            "Ska"
+          ]
         }
       ]
     },
@@ -572,16 +567,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Bubbel is jarig! Na alle succesvol opgeblazen sociale bubbels tijdens voorgaande feesten, volgt nu het langverwachte eenjarige Bubbel-jubileum. De zomer is warm, maar gaat nog wat heter worden op het zomerfeest van Bubbel: we zorgen dat je uit je sociale Bubbel kruipt in de zengende hitte. We…",
           "url": "https://ekko.nl/event/bubbel-3/",
-          "tags": []
-        },
-        {
-          "id": "30445",
-          "title": "PERRX",
-          "start": "2026-08-15T23:30:00+02:00",
-          "end": "2026-08-16T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ola bbs, nos extrañaron 👄? PERRX’s latinx-queer party is TERUG in EKKO voor hun 3rd CUMPEAÑO ANNIVERSARY 🎂. Tonight the DJs will make your ass smile with cumbia, baile funk y muchísimo ppppeeerrrrreeeooo; genres die nog te weinig centraal staan in queer nightlife in Nederland. PERRX omarmt…",
-          "url": "https://ekko.nl/event/perrx-8/",
           "tags": []
         },
         {
@@ -1104,16 +1089,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-club-weeb-xl-15-08-2026",
-          "title": "Club Weeb XL",
-          "start": "2026-08-15T18:00:00+02:00",
-          "end": "2026-08-16T00:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Jubileumeditie van grootste anime clubnacht in Nederland",
-          "url": "https://dehelling.nl/agenda/club-weeb-xl-15-08-2026/",
-          "tags": []
-        },
         {
           "id": "helling-teen-mortgage-cowboy-hunters-19-08-2026",
           "title": "Teen Mortgage + Cowboy Hunters",
@@ -1745,16 +1720,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "488943",
-          "title": "Pop-O-Matic",
-          "start": "2026-08-15T23:30:00+02:00",
-          "end": "2026-08-16T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Pop-O-Matic, de vaste popnacht in TivoliVredenburg's zaal Pandora, wordt muzikaal ingevuld door DJ St. Paul en VJ Switchdoctor. Zij creëren een diverse dansvloer door stijlen, tijden en subculturen te combineren. De avond staat bekend om haar scherpe en trendsettende muziekkeuze, waarbij de drempel…",
-          "url": "https://www.podiuminfo.nl/concert/488943/Pop-O-Matic/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "462577",
           "title": "Two Feet",
           "start": "2026-08-16T20:00:00+02:00",
@@ -1993,6 +1958,16 @@
           "description": "UJazz, ZenneZ records en TivoliVredenburg organiseren samen de serie Nieuwe Jazz, met presentaties van nieuwe albums. Op vrijdag 4 september met een jubileumconcert van The Preacher Men. De band, eerder genomineerd en winnaar van de Edison Jazz Publiekprijs, viert in december hun 12-jarig bestaan.…",
           "url": "https://www.podiuminfo.nl/concert/486490/The-Preacher-Men/Muziekhuis/",
           "tags": []
+        },
+        {
+          "id": "487145",
+          "title": "Marmoucha Orchestra ft. Antonio Lizana & Ahmad Joudeh - Carried by ...",
+          "start": "2026-09-04T20:15:00+02:00",
+          "end": "2026-09-04T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Marmoucha Orchestra presenteert samen met Antonio Lizana en Ahmad Joudeh de voorstelling 'Carried by the Wind'. Dit unieke project brengt flamenco, oosterse klanken en Sama-dans samen als een gedeelde taal. Antonio Lizana, een virtuoze jazzsaxofonist en authentiek flamencozanger, is bekend van zijn…",
+          "url": "https://www.podiuminfo.nl/concert/487145/Marmoucha-Orchestra-ft-Antonio-Lizana-Ahmad-Joudeh-Carried-by-/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2163,18 +2138,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-19145",
-          "title": "Ladies Knight – De Hobbit Draft!",
-          "start": "2026-08-15T11:30:00+02:00",
-          "end": "2026-08-15T17:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! ✨ Naast onze gebruikelijke tweewekelijkse Commander/Jumpstart avond, organiseren we op zaterdag 15 augustus overdag een exclusieve…",
-          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023-duskmourn-draft/",
-          "tags": [
-            "Ladies'(K)night"
-          ]
-        },
         {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
@@ -2435,20 +2398,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-mista-kay-live",
-          "title": "Misto Kay (live)",
-          "start": "2026-08-16T00:00:00+02:00",
-          "end": "2026-08-16T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/mista-kay-live/",
-          "tags": [
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-12",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-08-17T00:00:00+02:00",
@@ -2558,6 +2507,34 @@
             "Kunst",
             "Panelgesprek",
             "Terras"
+          ]
+        },
+        {
+          "id": "beton-trackvogels",
+          "title": "Trackvogels (live)",
+          "start": "2026-08-20T00:00:00+02:00",
+          "end": "2026-08-20T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/trackvogels/",
+          "tags": [
+            "Gratis",
+            "Live muziek",
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-bring-your-own-beeldmateriaal-2",
+          "title": "Bring Your Own Beeldmateriaal",
+          "start": "2026-08-22T00:00:00+02:00",
+          "end": "2026-08-22T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/bring-your-own-beeldmateriaal-2/",
+          "tags": [
+            "Film",
+            "Kunst"
           ]
         }
       ]
@@ -2680,19 +2657,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001496-1786838340-1786860000",
-          "title": "BASIS/ gioray [live]/ Identified Patient/ Schacke",
-          "start": "2026-08-15T23:59:00+02:00",
-          "end": "2026-08-16T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-gioray-live-identified-patient-schacke/",
-          "tags": [
-            "Experimental",
-            "Leftfield techno"
-          ]
-        },
         {
           "id": "basis-utrecht-10001494-1787356740-1787378400",
           "title": "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra",
@@ -2979,16 +2943,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "73710",
-          "title": "Vriendenloterij ZomerConcerten: Film music: from Lord of the Rings to Inception",
-          "start": "2026-08-15T20:00:00.000Z",
-          "end": "2026-08-15T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73710",
-          "description": "CONCERT IS SOLD OUT<BR><BR>Embark on an epic journey through magical worlds, with music from The Lord of the Rings , Harry Potter and Game of Thrones , among others. Philharmonie Leipzig plays works by Hans Zimmer, John Williams, Ramin Djawadi and many others.<BR><BR>Legendary heroes and epic…",
-          "tags": []
-        },
         {
           "id": "73711",
           "title": "Vriendenloterij ZomerConcerten:  Family Favourites: from Harry Potter to Frozen",
@@ -4639,7 +4593,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -4788,16 +4743,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-historische-proeverij-12-2026",
-          "title": "Historische proeverij 15 aug 2026",
-          "start": "2026-08-15T10:00:00+02:00",
-          "end": "2026-08-15T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-12/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-prikkelarme-openstelling-3-2026",
           "title": "Prikkelarme openstelling",
           "start": "2026-08-29T10:00:00+02:00",
@@ -4838,16 +4783,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-mindful-wandeling-muiderslot-2026",
-          "title": "Mindful wandeling Muiderslot",
-          "start": "2026-10-01T10:00:00+01:00",
-          "end": "2026-10-31T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
           "title": "Maand van de Geschiedenis op het Muiderslot",
           "start": "2026-10-01T10:00:00+01:00",
@@ -4855,6 +4790,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-mindful-wandeling-muiderslot-2026",
+          "title": "Mindful wandeling Muiderslot",
+          "start": "2026-10-01T10:00:00+01:00",
+          "end": "2026-10-31T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
           "tags": []
         },
         {
@@ -4997,16 +4942,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
-        {
-          "id": "loevestein-schermen-toernooi-2026-08",
-          "title": "Schermen, touwslager &#038; toernooi",
-          "start": "2026-08-15T10:00:00+02:00",
-          "end": "2026-08-16T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/schermen-toernooi/",
-          "tags": []
-        },
         {
           "id": "loevestein-rondleiding-2026-08",
           "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Middeleeuws kampement",
@@ -5357,17 +5292,6 @@
           "tags": []
         },
         {
-          "id": "bi-tavola-rotonda-2026",
-          "title": "Tavola Rotonda 2026",
-          "start": "2026-09-26T00:00:00+02:00",
-          "end": "2026-09-26T23:00:00+02:00",
-          "location": "Italy",
-          "country": "Italy",
-          "description": "Buhurt-toernooi in Italy.",
-          "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
-          "tags": []
-        },
-        {
           "id": "bi-sudovo-cup",
           "title": "Sudovo Cup 2026",
           "start": "2026-08-29T00:00:00+02:00",
@@ -5387,17 +5311,6 @@
           "country": "Hungary",
           "description": "Buhurt-toernooi in Hungary.",
           "url": "https://www.buhurtinternational.com/tournament/pálóci-boarnament",
-          "tags": []
-        },
-        {
-          "id": "bi-tournament-of-the-mace-and-shield",
-          "title": "Tournament of the Mace and Seal 2026",
-          "start": "2026-08-16T00:00:00+02:00",
-          "end": "2026-08-16T23:00:00+02:00",
-          "location": "Ireland",
-          "country": "Ireland",
-          "description": "Buhurt-toernooi in Ireland.",
-          "url": "https://www.buhurtinternational.com/tournament/tournament-of-the-mace-and-shield",
           "tags": []
         },
         {
@@ -5432,99 +5345,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-889",
-          "title": "Peellandrit Deurne",
-          "start": "2026-08-15T09:00:00+02:00",
-          "end": "2026-08-15T17:00:00+02:00",
-          "location": "Blassiusstraat 7 Deurne, Deurne (Noord-Brabant)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/peellandrit-deurne/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-767",
-          "title": "Toertocht Friesland – Heerenveen",
-          "start": "2026-08-15T10:00:00+02:00",
-          "end": "2026-08-15T17:00:00+02:00",
-          "location": "Venus 11 Heerenveen, Heerenveen (Friesland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/toertocht-friesland-heerenveen/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1573",
-          "title": "14e editie Brommer’s Kieken in Elburg",
-          "start": "2026-08-15T10:00:00+02:00",
-          "end": "2026-08-15T17:00:00+02:00",
-          "location": "Beekstraat Elburg, Elbug (Gelderland)",
-          "description": "Jaarlijks terugkerend evenement: Brommers kiek&#8217;n in Elburg. Verzamelen aan de Beekstraat in Elburg vanaf 10:00 uur pepijlde toerrit van ruim 85 km. &nbsp;",
-          "url": "https://brommerritten.nl/ritten/12e-editie-brommers-kieken-in-elburg/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2113",
-          "title": "Veluwerit vanuit Deventer",
-          "start": "2026-08-15T10:00:00+02:00",
-          "end": "2026-08-15T17:00:00+02:00",
-          "location": "Karel de Groteplein 1 Deventer, Deventer (Overijssel)",
-          "description": "Verzamellocatie: Kwalitaria Keizerslanden te Deventer overige informatie is te vinden op de flyer &nbsp;",
-          "url": "https://brommerritten.nl/ritten/veluwerit-deventer/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3618",
-          "title": "Brommerrit Surhuizum",
-          "start": "2026-08-15T10:00:00+02:00",
-          "end": "2026-08-15T17:00:00+02:00",
-          "location": "Bartemerwei 21A Surhuizum, Surhuizum (Friesland)",
-          "description": "De jaarlijkse brommertocht in Surhuizum vindt plaats op zaterdag 15 augustus 2026 om 10.00 uur vanaf het Mienskipsfjild . Dit evenement maakt deel uit van de lokale Spulwike en biedt een mooie rit van ongeveer 80 kilometer voor zowel klassieke als moderne brommers. Datum: Zaterdag 15 augustus 2026…",
-          "url": "https://brommerritten.nl/ritten/brommerrit-surhuizum/",
-          "tags": [],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3580",
-          "title": "Nozems Bromfietsrit Wouw",
-          "start": "2026-08-15T10:30:00+02:00",
-          "end": "2026-08-15T17:00:00+02:00",
-          "location": "Markt 22 Wouw, Wouw (Noord-Brabant)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/nozems-bromfietsrit-wouw/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2909",
-          "title": "NostalgIE",
-          "start": "2026-08-15T11:00:00+02:00",
-          "end": "2026-08-15T18:00:00+02:00",
-          "location": "Stienfeksterwei 2A 9131KN Ee (Frl.), Ee (Friesland)",
-          "description": "15 augustus 2026 Beleef de Nostalgische Dag op 15 augustus 2026 in Ie! Een evenement vol spanning en sensatie met een toerrit, palingroken, markt, flaaksdemo, oude voertuigen, live muziek en een knallende afsluiting in het dorpshuis. Mis het niet en dompel je onder in nostalgie!",
-          "url": "https://brommerritten.nl/ritten/nostalgie/",
-          "tags": [
-            "Auto",
-            "Bromfiets",
-            "Motor",
-            "Tractor",
-            "Truck"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-1269",
           "title": "Veghels bromfiets treffen met toerrit Bromvliegers",
@@ -6305,33 +6125,6 @@
           "tags": [
             "Toertocht",
             "Hulpmotor"
-          ]
-        },
-        {
-          "id": "torhoutse-kastelentocht-2026",
-          "title": "Torhoutse Oldtimer Kastelentocht",
-          "start": "2026-08-15T08:00:00+02:00",
-          "end": "2026-08-15T17:00:00+02:00",
-          "location": "Zaal De Mast, Industrielaan 3, Torhout (West-Vlaanderen)",
-          "country": "België",
-          "description": "44e editie, kastelenroute door het Brugse Ommeland en het Houtland voor voertuigen van vóór 1940. Rond 16:00 stop op de Torhoutse markt.",
-          "url": "https://www.uitinvlaanderen.be/agenda/e/oldtimer-kastelentocht/9399ad28-45e2-427b-8c73-2c1d418f69ff",
-          "tags": [
-            "Toertocht",
-            "Kastelenroute"
-          ]
-        },
-        {
-          "id": "avondrit-maaseiker-2026",
-          "title": "Avondrit Maaseiker Oldtimer Club",
-          "start": "2026-08-15T17:00:00+02:00",
-          "end": "2026-08-15T22:00:00+02:00",
-          "location": "Emiel Van Dorenlaan 144, Genk (Limburg)",
-          "country": "België",
-          "description": "Avondrit van ca. 70 km, aankomst bij Katapultclub Rosse Lei in Bree. Optioneel BBQ na afloop.",
-          "url": "https://www.oldtimerweb.be/oldtimer-evenementen/21077-avondrit-maaseiker-oldtimer-club",
-          "tags": [
-            "Avondrit"
           ]
         },
         {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:32:35.793Z",
+  "updatedAt": "2026-08-17T05:38:29.925Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,16 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001106",
-          "title": "Gratis Terrasconcert > HANDPICKED",
-          "start": "2026-08-16T16:00:00+02:00",
-          "end": "2026-08-16T19:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "HANDPICKED plays ACOUSTIC PEARLS from the WORLD’S SONGBOOK, from Patsy Cline to Amy Winehouse. \nOftewel, een kleine band met mooie songs van diverse pluimage, gratis op ons terras.",
-          "url": "https://dbstudio.nl/event/gratis-terrasconcert-handpicked/",
-          "tags": []
-        },
         {
           "id": "10001041",
           "title": "FILTH (USA)",
@@ -407,6 +397,20 @@
             "Punk",
             "Reggae",
             "Ska"
+          ]
+        },
+        {
+          "id": "10001097",
+          "title": "Boppin' the Rock presents Marcel Riesco & The Ray Allen Band + Mischief!",
+          "start": "2026-10-04T16:00:00+01:00",
+          "end": "2026-10-04T20:30:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "ik heb leren zingen met de liedjes van Roy Orbison. Hij is altijd mijn leermeester geweest, dus die invloed is vanzelfsprekend aanwezig.” \nEn het is alweer een tijdje geleden dat Mischief! bij ons op het podium te zien was. Veel te lang geleden. \nMarcel Riesco komt langs met The Ray Allen Band, die…",
+          "url": "https://dbstudio.nl/event/boppin-the-rock-presents-marcel-riesco-the-ray-allen-band-mischief/",
+          "tags": [
+            "Boppin' the Rock",
+            "Concert",
+            "Rockabilly"
           ]
         }
       ]
@@ -1720,16 +1724,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "462577",
-          "title": "Two Feet",
-          "start": "2026-08-16T20:00:00+02:00",
-          "end": "2026-08-16T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De eerste track die de jonge Amerikaanse singer-songwriter/producer Two Feet ooit uitbracht, Go Fuck Yourself (2017), ging meteen viral. Niet zo vreemd, want de sound van Two Feet – bluesy gitaar, zompige beats en soulvolle zang – is eigenzinnig, donker en uniek. Sinds hij vorig jaar is gestopt met…",
-          "url": "https://www.podiuminfo.nl/concert/462577/Two-Feet/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "455723",
           "title": "Alcest",
           "start": "2026-08-18T20:00:00+02:00",
@@ -1968,6 +1962,16 @@
           "description": "Marmoucha Orchestra presenteert samen met Antonio Lizana en Ahmad Joudeh de voorstelling 'Carried by the Wind'. Dit unieke project brengt flamenco, oosterse klanken en Sama-dans samen als een gedeelde taal. Antonio Lizana, een virtuoze jazzsaxofonist en authentiek flamencozanger, is bekend van zijn…",
           "url": "https://www.podiuminfo.nl/concert/487145/Marmoucha-Orchestra-ft-Antonio-Lizana-Ahmad-Joudeh-Carried-by-/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "478002",
+          "title": "Birdtalker",
+          "start": "2026-09-04T20:30:00+02:00",
+          "end": "2026-09-04T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse indiefolk-/americanaband Birdtalker, die in 2012 begon als duo en nu een vierkoppige band is, brengt hun moderne americana met warme samenzang naar TivoliVredenburg. Hun debuutalbum 'One' bevatte de verrassende hit 'Heavy', die bijna 100 miljoen Spotify-streams heeft bereikt. In 2024…",
+          "url": "https://www.podiuminfo.nl/concert/478002/Birdtalker/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2138,6 +2142,18 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
+        {
+          "id": "lab-monkey-23165",
+          "title": "Commander Tuesday",
+          "start": "2026-08-18T18:00:00+02:00",
+          "end": "2026-08-18T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-239/",
+          "tags": [
+            "Commander"
+          ]
+        },
         {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
@@ -2398,75 +2414,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-12",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-08-17T00:00:00+02:00",
-          "end": "2026-08-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-12/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-35",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-08-17T00:00:00+02:00",
-          "end": "2026-08-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-35/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-17",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-08-17T00:00:00+02:00",
-          "end": "2026-08-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-17/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-34",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-08-17T00:00:00+02:00",
-          "end": "2026-08-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-34/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-12",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-08-17T00:00:00+02:00",
-          "end": "2026-08-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-12/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-49",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-08-19T00:00:00+02:00",
@@ -2536,6 +2483,23 @@
             "Film",
             "Kunst"
           ]
+        },
+        {
+          "id": "beton-de-betonnerie-tweedekansmarkt-14",
+          "title": "De Betonnerie – tweedekansmarkt",
+          "start": "2026-08-23T00:00:00+02:00",
+          "end": "2026-08-23T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/de-betonnerie-tweedekansmarkt-14/",
+          "tags": [
+            "Eten / Drinken",
+            "Gratis",
+            "Markt",
+            "Muziek",
+            "Studio-T",
+            "Terras"
+          ]
         }
       ]
     },
@@ -2547,6 +2511,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261121-screamo-fest-tba",
+          "title": "Screamo Fest TBA",
+          "start": "2026-11-21T00:00:00+01:00",
+          "end": "2026-11-21T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 21st. When It Hurts ⚔️ Rotten Tooth Punk. Save the date – November 21 @whenithurts.shows ⚔️ @rotten.tooth.punk It’s gonna hurt More details soon – keep your eyes peeled 👀",
+          "url": "https://acu.nl/events/20261121/screamo-fest-tba",
+          "tags": []
+        },
         {
           "id": "acu-20260904-dubtrecht",
           "title": "Dubtrecht by Translator Soundsystem",
@@ -2635,16 +2609,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "November 17th. OPEN NOISE. This event is part of NOISEVEMBER. NOISEVEMBER is a month-long festival and celebration of diy noise culture. @%@@@@@@%@@@@%@%%%%%%%%%%%%%%%@@@@@%%%@@@%%%%%%%%%%@%@%%@%@%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%@%@@@%%%%%…",
           "url": "https://acu.nl/events/20261117/noisevember-3",
-          "tags": []
-        },
-        {
-          "id": "acu-20260912-acu-x-open-monumentendag-2026",
-          "title": "ACU x Open Monumentendag 2026",
-          "start": "2026-09-12T00:00:00+02:00",
-          "end": "2026-09-12T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 12th. ACU will be joining Open Monumentendag on September 12! The theme this year is “Weerbaar Erfgoed: Utrecht beschermt!” >> “Resilient Culture: Utrecht protects!” We will open from 10am until 5pm, so feel free to drop in and say hey 🙂 Most of the ACU will be open to look around and…",
-          "url": "https://acu.nl/events/20260912/acu-x-open-monumentendag-2026",
           "tags": []
         }
       ]
@@ -2943,16 +2907,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "73711",
-          "title": "Vriendenloterij ZomerConcerten:  Family Favourites: from Harry Potter to Frozen",
-          "start": "2026-08-16T20:00:00.000Z",
-          "end": "2026-08-16T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73711",
-          "description": "The most beautiful music from beloved family films, such as Frozen , Aladdin , Harry Potter and The Lion King .<BR><BR>Beautiful film music for the whole family on Sunday afternoon. Be swept away by the iconic sounds from Frozen, Harry Potter and The Lion King , among others, performed by the Leipzi",
-          "tags": []
-        },
         {
           "id": "77784",
           "title": "Cinema Morricone",
@@ -4593,8 +4547,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -5292,6 +5245,17 @@
           "tags": []
         },
         {
+          "id": "bi-tavola-rotonda-2026",
+          "title": "Tavola Rotonda 2026",
+          "start": "2026-09-26T00:00:00+02:00",
+          "end": "2026-09-26T23:00:00+02:00",
+          "location": "Italy",
+          "country": "Italy",
+          "description": "Buhurt-toernooi in Italy.",
+          "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
+          "tags": []
+        },
+        {
           "id": "bi-sudovo-cup",
           "title": "Sudovo Cup 2026",
           "start": "2026-08-29T00:00:00+02:00",
@@ -5345,49 +5309,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-1269",
-          "title": "Veghels bromfiets treffen met toerrit Bromvliegers",
-          "start": "2026-08-16T09:30:00+02:00",
-          "end": "2026-08-16T17:00:00+02:00",
-          "location": "Dobbelsteenplein 1 Mariaheide, Mariaheide (Noord-Brabant)",
-          "description": "Holder De Polder Rosmalen. Toertocht van ongeveer 80 km voor bromfietsen, solexen en snorfietsen van 20 jaar of ouder. Inschrijving van 09.30 uur tot 10.30 uur. Vertrek solexen en snorfietsen om 10.30 uur. Bromfietsen kunnen vanaf 11.00 uur starten. De bezemwagen zal om 11.00 uur na het vertrek van…",
-          "url": "https://brommerritten.nl/ritten/veghels-bromfiets-treffen-met-toerrit-bromvliegers/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3151",
-          "title": "Oldtimerrit Buurse",
-          "start": "2026-08-16T09:30:00+02:00",
-          "end": "2026-08-16T17:00:00+02:00",
-          "location": "Haaksbergseweg Buurse, Buurse (Overijssel)",
-          "description": "Gratis deelname met tourrit voor brommers, auto’s, motoren en tractoren. Incl. lunchpakket en koffie. Locatie: Terrein Volksfeest Buurse aan de Haaksbergseweg. Inschrijven v.a. half 10. Tourrit voor de brommers, vertrek 11:45 uur. Info: Thomas Beumer: 06-2224 4327",
-          "url": "https://brommerritten.nl/ritten/oldtimerrit-buurse/",
-          "tags": [
-            "Auto",
-            "Bromfiets",
-            "Motor",
-            "Tractor"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3628",
-          "title": "Oldtimer bromfiets- en motorenrit Haler",
-          "start": "2026-08-16T09:30:00+02:00",
-          "end": "2026-08-16T17:00:00+02:00",
-          "location": "Pinxtenstraat 1 Haler, Haler (Limburg)",
-          "description": "20e oldtimer bromfiets en motorenrit vanuit Haler in Limburg.",
-          "url": "https://brommerritten.nl/ritten/oldtimer-bromfiets-en-motorenrit-haler/",
-          "tags": [
-            "Bromfiets",
-            "Motor"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-452",
           "title": "Bromfietstocht bij Zomerfeest Garderen",

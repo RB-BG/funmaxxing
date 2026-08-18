@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T05:38:29.925Z",
+  "updatedAt": "2026-08-18T05:34:02.802Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001041",
-          "title": "FILTH (USA)",
-          "start": "2026-08-17T20:00:00+02:00",
-          "end": "2026-08-17T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "𝗙𝗜𝗟𝗧𝗛 brengt hun eigen snoeiharde mix van rapteksten, smerige vocals en loeizware breakdowns. De band uit North Carolina bewijst wederom dat hiphop en deathcore hand in hand gaan. Het album Southern Hostility (2024) bevatte al een aantal ijzersterke beukers, nieuwste release Welcome To Shell…",
-          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-filth-usa/",
-          "tags": [
-            "Deathcore",
-            "Rap"
-          ]
-        },
         {
           "id": "10000951",
           "title": "DUISTER COLLECTIEF Part I",
@@ -412,6 +399,19 @@
             "Concert",
             "Rockabilly"
           ]
+        },
+        {
+          "id": "10001109",
+          "title": "YELLOFOX",
+          "start": "2026-10-07T20:00:00+01:00",
+          "end": "2026-10-07T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "verhalend, swingend, intens en vol energie. De melodieën en samenzang doen je al snel denken aan muzikanten als Paul Simon, Gram Parsons, Jackson Browne en Nick Drake. Het geluid van toen vloeit automatisch over in het hedendaagse van Eels en Fleet Foxes.",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-yellofox/",
+          "tags": [
+            "70'S",
+            "Americana"
+          ]
         }
       ]
     },
@@ -423,6 +423,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30680",
+          "title": "Weval Presents: CLUB CHOROPHOBIA",
+          "start": "2026-10-10T23:30:00+01:00",
+          "end": "2026-10-11T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Na een eerder bezoek aan de Bemuurde Weerd, alweer tien jaar geleden, keert Weval op 10 oktober terug naar EKKO voor een bijzondere editie van hun clubconcept CLUB CHOROPHOBIA. Waar het Amsterdamse duo voorheen in EKKO met een liveshow op het podium stond, nemen ze op 10 oktober plaats achter de…",
+          "url": "https://ekko.nl/event/weval-presents-club-chorophobia/",
+          "tags": []
+        },
         {
           "id": "29802",
           "title": "R.M.F.C.",
@@ -441,16 +451,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "STROT. De Gestampte Meisjes gaan dit land redden met zieke HITS. Hoe? Vraag je je af? Way meer polarisering. Ze hebben kneiterhard geprobeerd te verbinden in deze chaos, maar dat is flink mislukt. We proberen nu al decennialang te verbinden; tijd om te splitsen! Zieke wall of death in je…",
           "url": "https://ekko.nl/event/de-gestampte-meisjes-strot/",
-          "tags": []
-        },
-        {
-          "id": "30680",
-          "title": "Weval Presents: CLUB CHOROPHOBIA",
-          "start": "2026-10-10T23:30:00+01:00",
-          "end": "2026-10-11T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Na een eerder bezoek aan de Bemuurde Weerd, alweer tien jaar geleden, keert Weval op 10 oktober terug naar EKKO voor een bijzondere editie van hun clubconcept CLUB CHOROPHOBIA. Waar het Amsterdamse duo voorheen in EKKO met een liveshow op het podium stond, nemen ze op 10 oktober plaats achter de…",
-          "url": "https://ekko.nl/event/weval-presents-club-chorophobia/",
           "tags": []
         },
         {
@@ -1324,6 +1324,16 @@
           "tags": []
         },
         {
+          "id": "helling-afrobeats-nl-utrecht-edition-10-10-2026",
+          "title": "AFROBEATS NL: UTRECHT EDITION",
+          "start": "2026-10-10T23:59:00+01:00",
+          "end": "2026-10-11T05:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "The afrobeat movement that took over Groningen and Amsterdam is landing in Utrecht.",
+          "url": "https://dehelling.nl/agenda/afrobeats-nl-utrecht-edition-10-10-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-the-magic-numbers-12-10-2026",
           "title": "The Magic Numbers",
           "start": "2026-10-12T20:15:00+01:00",
@@ -2043,6 +2053,16 @@
           "tags": []
         },
         {
+          "id": "605973",
+          "title": "PFS2 Quest #25: The Greengold Dilemma (beginner-friendly, combat-light, roleplay-focused)",
+          "start": "2026-08-19T19:00:00+02:00",
+          "end": "2026-08-19T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "PFS2 Quest #25: The Greengold Dilemma (beginner-friendly, combat-light, roleplay-focused) Wed 19/8 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by Glen Parnell Greengold, a port…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "604608",
           "title": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables)",
           "start": "2026-08-19T19:00:00+02:00",
@@ -2500,6 +2520,18 @@
             "Studio-T",
             "Terras"
           ]
+        },
+        {
+          "id": "beton-workshop-topje-naaien-en-verven-met-natuurlijke-pigmenten",
+          "title": "Betonnerie Workshop: Topje naaien, en verven met natuurlijke pigmenten",
+          "start": "2026-08-23T00:00:00+02:00",
+          "end": "2026-08-23T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/workshop-topje-naaien-en-verven-met-natuurlijke-pigmenten/",
+          "tags": [
+            "Workshop"
+          ]
         }
       ]
     },
@@ -2777,6 +2809,19 @@
           "tags": [
             "Hard house",
             "House"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001508-1791071940-1791093600",
+          "title": "BASIS/ BIIA All Night Long",
+          "start": "2026-10-03T23:59:00+01:00",
+          "end": "2026-10-04T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-biia-all-night-long/",
+          "tags": [
+            "Acid Techno",
+            "Hardtechno"
           ]
         },
         {
@@ -4547,7 +4592,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -4827,7 +4873,7 @@
         },
         {
           "id": "muiderslot-ridderweekend-oktober-2026-2026",
-          "title": "Ridderweekend oktober 2026",
+          "title": "Ridder- en Ambachtenweekend 2026",
           "start": "2026-10-17T10:00:00+01:00",
           "end": "2026-10-18T18:00:00+01:00",
           "location": "Muiderslot, Muiden",
@@ -4896,16 +4942,6 @@
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
         {
-          "id": "loevestein-rondleiding-2026-08",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Middeleeuws kampement",
-          "start": "2026-08-18T10:00:00+02:00",
-          "end": "2026-08-21T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
-          "tags": []
-        },
-        {
           "id": "loevestein-sluit-je-aan-bij-de-ridderschool-2-2026-08",
           "title": "Sluit je aan bij de ridderschool",
           "start": "2026-08-22T10:00:00+02:00",
@@ -4913,6 +4949,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/sluit-je-aan-bij-de-ridderschool-2/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-rondleiding-2026-08",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Middeleeuws kampement",
+          "start": "2026-08-18T10:00:00+02:00",
+          "end": "2026-08-21T18:00:00+02:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
@@ -5267,17 +5313,6 @@
           "tags": []
         },
         {
-          "id": "bi-pálóci-boarnament",
-          "title": "Pálóci Boarnament 2026",
-          "start": "2026-09-19T00:00:00+02:00",
-          "end": "2026-09-19T23:00:00+02:00",
-          "location": "Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary.",
-          "url": "https://www.buhurtinternational.com/tournament/pálóci-boarnament",
-          "tags": []
-        },
-        {
           "id": "bi-st.-georgen-cup",
           "title": "St. Georgen Cup 2026",
           "start": "2026-09-05T00:00:00+02:00",
@@ -5371,6 +5406,22 @@
           "url": "https://brommerritten.nl/ritten/sjooke-by-straatschorem/",
           "tags": [
             "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-3151",
+          "title": "Oldtimerrit Buurse",
+          "start": "2026-08-23T09:30:00+02:00",
+          "end": "2026-08-23T17:00:00+02:00",
+          "location": "Haaksbergseweg Buurse, Buurse (Overijssel)",
+          "description": "Gratis deelname met tourrit voor brommers, auto’s, motoren en tractoren. Incl. lunchpakket en koffie. Locatie: Terrein Volksfeest Buurse aan de Haaksbergseweg. Inschrijven v.a. half 10. Tourrit voor de brommers, vertrek 11:45 uur. Info: Thomas Beumer: 06-2224 4327",
+          "url": "https://brommerritten.nl/ritten/oldtimerrit-buurse/",
+          "tags": [
+            "Auto",
+            "Bromfiets",
+            "Motor",
+            "Tractor"
           ],
           "country": "Nederland"
         },

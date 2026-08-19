@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:34:02.802Z",
+  "updatedAt": "2026-08-19T05:34:35.370Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -413,7 +413,8 @@
             "Americana"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ekko-utrecht",
@@ -423,6 +424,26 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "29258",
+          "title": "Destroyer (solo)",
+          "start": "2026-09-18T20:00:00+02:00",
+          "end": "2026-09-18T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Destroyer is het eigenzinnige project van Dan Bejar, een indievedette uit Vancouver die sinds de jaren ’90 een uniek oeuvre opbouwt. Als voormalig lid van The New Pornographers ontwikkelde hij met Destroyer een uitgesproken signatuur, waarin hij genres als glam, yacht rock en indie vrijelijk naar…",
+          "url": "https://ekko.nl/event/destroyer/",
+          "tags": []
+        },
+        {
+          "id": "30412",
+          "title": "Musical Rave",
+          "start": "2026-08-22T22:30:00+02:00",
+          "end": "2026-08-23T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De start van het theaterseizoen vieren we niet in rode pluche stoelen, maar op de dansvloer. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg:…",
+          "url": "https://ekko.nl/event/musicalrave/",
+          "tags": []
+        },
         {
           "id": "30680",
           "title": "Weval Presents: CLUB CHOROPHOBIA",
@@ -571,16 +592,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Bubbel is jarig! Na alle succesvol opgeblazen sociale bubbels tijdens voorgaande feesten, volgt nu het langverwachte eenjarige Bubbel-jubileum. De zomer is warm, maar gaat nog wat heter worden op het zomerfeest van Bubbel: we zorgen dat je uit je sociale Bubbel kruipt in de zengende hitte. We…",
           "url": "https://ekko.nl/event/bubbel-3/",
-          "tags": []
-        },
-        {
-          "id": "30412",
-          "title": "Musical Rave",
-          "start": "2026-08-22T22:30:00+02:00",
-          "end": "2026-08-23T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De start van het theaterseizoen vieren we niet in rode pluche stoelen, maar op de dansvloer. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg:…",
-          "url": "https://ekko.nl/event/musicalrave/",
           "tags": []
         },
         {
@@ -971,16 +982,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Francis of Delirium is het project van Jana Bahrich, de in Luxemburg gevestigde indierockartiest die razendsnel naam maakt. Met een sound waarin grunge, folk en powerpop samenkomen, schrijft ze emotioneel geladen songs vol rauwe gitaren en kwetsbare, directe teksten. Na haar veelgeprezen…",
           "url": "https://ekko.nl/event/francis-of-delirium/",
-          "tags": []
-        },
-        {
-          "id": "29258",
-          "title": "Destroyer (solo)",
-          "start": "2026-09-18T20:00:00+02:00",
-          "end": "2026-09-18T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Destroyer is het eigenzinnige project van Dan Bejar, een indievedette uit Vancouver die sinds de jaren ’90 een uniek oeuvre opbouwt. Als voormalig lid van The New Pornographers ontwikkelde hij met Destroyer een uitgesproken signatuur, waarin hij genres als glam, yacht rock en indie vrijelijk naar…",
-          "url": "https://ekko.nl/event/destroyer/",
           "tags": []
         },
         {
@@ -1734,16 +1735,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "455723",
-          "title": "Alcest",
-          "start": "2026-08-18T20:00:00+02:00",
-          "end": "2026-08-18T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": " De Franse post-blackmetalband Alcest is de pionier van de blackgaze, ofwel de combinatie van blackmetal en shoegaze, even intens als meditatief. Frontman Stéphane ‘Neige’ Phaut en drummer Jean ‘Winterhalter’ Deflandre vormen de kern van Alcest, dat inmiddels al 26 jaar bestaat en zeven albums…",
-          "url": "https://www.podiuminfo.nl/concert/455723/Alcest/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "454064",
           "title": "Arthur Verocai with Nu Civilisation Orchestra",
           "start": "2026-08-20T20:15:00+02:00",
@@ -2161,32 +2152,7 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": [
-        {
-          "id": "lab-monkey-23165",
-          "title": "Commander Tuesday",
-          "start": "2026-08-18T18:00:00+02:00",
-          "end": "2026-08-18T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-239/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
-          "id": "lab-monkey-11402",
-          "title": "Ladies Knight",
-          "start": "2026-08-18T19:00:00+02:00",
-          "end": "2026-08-18T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het…",
-          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
-          "tags": [
-            "Ladies'(K)night"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "casual-carnage",
@@ -2414,7 +2380,7 @@
           "id": "animecon-2027",
           "title": "AnimeCon 2027",
           "start": "2027-04-16T14:00:00+02:00",
-          "end": "2027-04-19T18:00:00+02:00",
+          "end": "2027-04-18T18:00:00+02:00",
           "location": "De Broodfabriek Expo, Rijswijk",
           "description": "De grootste anime-conventie van Nederland.",
           "url": "https://animecon.nl/",
@@ -2433,33 +2399,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-salsa-nights-elke-woensdag-49",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-08-19T00:00:00+02:00",
-          "end": "2026-08-19T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-49/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-filmavond-kantine",
-          "title": "Filmavond",
-          "start": "2026-08-19T00:00:00+02:00",
-          "end": "2026-08-19T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/filmavond-kantine/",
-          "tags": [
-            "Film",
-            "Kantine"
-          ]
-        },
         {
           "id": "beton-het-spreekbeurten-festival-2e-editie",
           "title": "Het Spreekbeurten Festival – Singles Editie",
@@ -2532,6 +2471,75 @@
           "tags": [
             "Workshop"
           ]
+        },
+        {
+          "id": "beton-indie-label-market-bij-kromme-haring",
+          "title": "Indie Label Market Bij Kromme Haring",
+          "start": "2026-08-23T00:00:00+02:00",
+          "end": "2026-08-23T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/indie-label-market-bij-kromme-haring/",
+          "tags": [
+            "Live muziek",
+            "Markt",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-13",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-08-24T00:00:00+02:00",
+          "end": "2026-08-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-13/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-36",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-08-24T00:00:00+02:00",
+          "end": "2026-08-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-36/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-18",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-08-24T00:00:00+02:00",
+          "end": "2026-08-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-18/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-35",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-08-24T00:00:00+02:00",
+          "end": "2026-08-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-35/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
         }
       ]
     },
@@ -2543,6 +2551,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260820-bailoteo-solidario",
+          "title": "Bailoteo Solidario",
+          "start": "2026-08-20T00:00:00+02:00",
+          "end": "2026-08-20T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "August 20th. One night for Colombia. BAILOTEO SOLIDARIO — ONE NIGHT FOR COLOMBIA Recovery after an earthquake is a long-term effort, and we can all be part of it 💛 Join us for a night of Latin music, dancing, Colombian bites and good vibes, all while coming together to support Colombia. 🇨🇴🫶 📅…",
+          "url": "https://acu.nl/events/20260820/bailoteo-solidario",
+          "tags": []
+        },
         {
           "id": "acu-20261121-screamo-fest-tba",
           "title": "Screamo Fest TBA",
@@ -2631,16 +2649,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "November 11th. 1111. 1111 is ███████████████████ ████████████████████████████████████ ███████████████████████████ 15 ████████████████████████████████████████████████████████████████████████████████ █████ ███████████████████████████████████████████ █████████████████████████████████████████…",
           "url": "https://acu.nl/events/20261111/noisevember-4",
-          "tags": []
-        },
-        {
-          "id": "acu-20261117-noisevember-3",
-          "title": "NOISEVEMBER",
-          "start": "2026-11-17T00:00:00+01:00",
-          "end": "2026-11-17T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 17th. OPEN NOISE. This event is part of NOISEVEMBER. NOISEVEMBER is a month-long festival and celebration of diy noise culture. @%@@@@@@%@@@@%@%%%%%%%%%%%%%%%@@@@@%%%@@@%%%%%%%%%%@%@%%@%@%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%@%@@@%%%%%…",
-          "url": "https://acu.nl/events/20261117/noisevember-3",
           "tags": []
         }
       ]
@@ -2822,6 +2830,18 @@
           "tags": [
             "Acid Techno",
             "Hardtechno"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001509-1791586800-1791612000",
+          "title": "BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem",
+          "start": "2026-10-09T23:00:00+01:00",
+          "end": "2026-10-10T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-ghetto-house-special-bohm-dj-assault-extended-set-dj-godfather-zora-soundsystem/",
+          "tags": [
+            "Ghetto house"
           ]
         },
         {
@@ -4483,6 +4503,26 @@
           "tags": []
         },
         {
+          "id": "78318",
+          "title": "Content Organs presents: Anna Lapwood in concert!",
+          "start": "2027-04-19T20:00:00.000Z",
+          "end": "2027-04-19T23:00:00.000Z",
+          "location": "Leusden, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78318",
+          "description": "Anna Lapwood MBE, Associate Artist of the Royal Albert Hall and TikTok sensation, demonstrates just how hip and versatile the organ can be. With her innovative approach and virtuoso playing, she explores the boundaries of the instrument in a program full of cinematic and minimalist sounds, featuring",
+          "tags": []
+        },
+        {
+          "id": "78319",
+          "title": "Content Organs presents: Anna Lapwood in concert!",
+          "start": "2027-04-20T20:00:00.000Z",
+          "end": "2027-04-20T23:00:00.000Z",
+          "location": "Leusden, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78319",
+          "description": "Anna Lapwood MBE, Associate Artist of the Royal Albert Hall and TikTok sensation, demonstrates just how hip and versatile the organ can be. With her innovative approach and virtuoso playing, she explores the boundaries of the instrument in a program full of cinematic and minimalist sounds, featuring",
+          "tags": []
+        },
+        {
           "id": "74695",
           "title": "The Planets",
           "start": "2027-04-23T20:00:00.000Z",
@@ -4592,8 +4632,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4952,16 +4991,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-rondleiding-2026-08",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Middeleeuws kampement",
-          "start": "2026-08-18T10:00:00+02:00",
-          "end": "2026-08-21T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
-          "tags": []
-        },
-        {
           "id": "loevestein-klanken-in-het-kasteelgras-2026-08",
           "title": "Klanken in het kasteelgras",
           "start": "2026-08-23T10:00:00+02:00",
@@ -5310,6 +5339,17 @@
           "country": "Czech Republic",
           "description": "Buhurt-toernooi in Czech Republic.",
           "url": "https://www.buhurtinternational.com/tournament/sudovo-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-pálóci-boarnament",
+          "title": "Pálóci Boarnament 2026",
+          "start": "2026-09-19T00:00:00+02:00",
+          "end": "2026-09-19T23:00:00+02:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/pálóci-boarnament",
           "tags": []
         },
         {

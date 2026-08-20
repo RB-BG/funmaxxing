@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:34:35.370Z",
+  "updatedAt": "2026-08-20T05:34:59.192Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -413,8 +413,7 @@
             "Americana"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ekko-utrecht",
@@ -1094,16 +1093,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-teen-mortgage-cowboy-hunters-19-08-2026",
-          "title": "Teen Mortgage + Cowboy Hunters",
-          "start": "2026-08-19T20:15:00+02:00",
-          "end": "2026-08-19T23:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Moddervette mix van eastcoast-hardcore en surf laat de zolen van je skateschoenen verdwijnen",
-          "url": "https://dehelling.nl/agenda/teen-mortgage-cowboy-hunters-19-08-2026/",
-          "tags": []
-        },
         {
           "id": "helling-cyberia-reunion-rotersand-28-08-2026",
           "title": "Cyberia Reunion + Rotersand",
@@ -1805,6 +1794,16 @@
           "tags": []
         },
         {
+          "id": "490947",
+          "title": "Salsa on Tuesday",
+          "start": "2026-08-25T20:15:00+02:00",
+          "end": "2026-08-25T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Salsa on Tuesday is een gratis evenement in TivoliVredenburg waar iedereen welkom is, ongeacht danservaring. Dj's draaien een mix van klassieke en moderne salsahits. Het evenement start met een workshop voor beginners of voor degenen die hun passen willen opfrissen. De sfeer is warm en gastvrij,…",
+          "url": "https://www.podiuminfo.nl/concert/490947/Salsa-on-Tuesday/TivoliVredenburg/",
+          "tags": []
+        },
+        {
           "id": "480152",
           "title": "Brother Wallace",
           "start": "2026-08-27T20:15:00+02:00",
@@ -1993,86 +1992,6 @@
       "scene": "games",
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
-        {
-          "id": "605100",
-          "title": "D&D 5.5e Phandelver: Thralls of Enternality",
-          "start": "2026-08-19T19:00:00+02:00",
-          "end": "2026-08-19T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "D&amp;D 5.5e Phandelver: Thralls of Enternality Wed 19/8 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604988",
-          "title": "DDHC-WBW The Wild Beyond the Witchlight",
-          "start": "2026-08-19T19:00:00+02:00",
-          "end": "2026-08-19T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "DDHC-WBW The Wild Beyond the Witchlight Wed 19/8 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign (WBW) Character levels 1-8 Written by Wizards of the Coast Once every eight years, the fantastic Witchlight…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "605088",
-          "title": "Foul Play [beginner friendly] [playtest]",
-          "start": "2026-08-19T19:00:00+02:00",
-          "end": "2026-08-19T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Foul Play [beginner friendly] [playtest] Wed 19/8 7-10pm at Subcultures @De Bierkantine English, Foul Play Written by Hendrik ten Napel, art by Ema Acosta Foul Play is a role-playing game for a group of horrible geese and one Goose Master. During the one shot adventures the geese wreak havoc in a…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "605651",
-          "title": "The Devil’s Dandy Dogs (Beginner Friendly)",
-          "start": "2026-08-19T19:00:00+02:00",
-          "end": "2026-08-19T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "The Devil’s Dandy Dogs (Beginner Friendly) Wed 19/8 7-10pm at Subcultures @De Bierkantine English, Indie RPG Character level 0 -- Info box ------------------------------- Where: De Bierkantine When: Walk-in from 18:30, start at 19:00 Participation fee: €5 Prep: no need to bring or know anything…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604603",
-          "title": "Murder of Crows [Beginner friendly]",
-          "start": "2026-08-19T19:00:00+02:00",
-          "end": "2026-08-19T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Murder of Crows [Beginner friendly] Wed 19/8 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Maya Saveliev &amp;amp;amp; Michael E. Weil A murder investigation TTRPG Play as agents of the Crow Anticrime Wing (C.A.W) as they try to figure out who killed a crow, why, and…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "605973",
-          "title": "PFS2 Quest #25: The Greengold Dilemma (beginner-friendly, combat-light, roleplay-focused)",
-          "start": "2026-08-19T19:00:00+02:00",
-          "end": "2026-08-19T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "PFS2 Quest #25: The Greengold Dilemma (beginner-friendly, combat-light, roleplay-focused) Wed 19/8 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by Glen Parnell Greengold, a port…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604608",
-          "title": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables)",
-          "start": "2026-08-19T19:00:00+02:00",
-          "end": "2026-08-19T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables) Wed 19/8 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "604052",
-          "title": "Campagne: Koning van de Krotten",
-          "start": "2026-08-19T19:00:00+02:00",
-          "end": "2026-08-19T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Campagne: Koning van de Krotten Wed 19/8 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
         {
           "id": "604909",
           "title": "D&D 5.5e: Dark Matter \"The confrontation\"",
@@ -2400,37 +2319,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-het-spreekbeurten-festival-2e-editie",
-          "title": "Het Spreekbeurten Festival – Singles Editie",
-          "start": "2026-08-20T00:00:00+02:00",
-          "end": "2026-08-20T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/het-spreekbeurten-festival-2e-editie/",
-          "tags": [
-            "Eten / Drinken",
-            "Festival",
-            "Kunst",
-            "Panelgesprek",
-            "Terras"
-          ]
-        },
-        {
-          "id": "beton-trackvogels",
-          "title": "Trackvogels (live)",
-          "start": "2026-08-20T00:00:00+02:00",
-          "end": "2026-08-20T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/trackvogels/",
-          "tags": [
-            "Gratis",
-            "Live muziek",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-bring-your-own-beeldmateriaal-2",
           "title": "Bring Your Own Beeldmateriaal",
           "start": "2026-08-22T00:00:00+02:00",
@@ -2552,13 +2440,23 @@
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
         {
-          "id": "acu-20260820-bailoteo-solidario",
-          "title": "Bailoteo Solidario",
-          "start": "2026-08-20T00:00:00+02:00",
-          "end": "2026-08-20T00:00:00+02:00",
+          "id": "acu-20260826-bi-cafe-utrecht-2",
+          "title": "Bi+ Café Utrecht",
+          "start": "2026-08-26T00:00:00+02:00",
+          "end": "2026-08-26T00:00:00+02:00",
           "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "August 20th. One night for Colombia. BAILOTEO SOLIDARIO — ONE NIGHT FOR COLOMBIA Recovery after an earthquake is a long-term effort, and we can all be part of it 💛 Join us for a night of Latin music, dancing, Colombian bites and good vibes, all while coming together to support Colombia. 🇨🇴🫶 📅…",
-          "url": "https://acu.nl/events/20260820/bailoteo-solidario",
+          "description": "August 26th. A place to meet other bi+ people. Bi+ Café Utrecht 26-08-2026, 19:15-22:00 A place to meet other bi+ people Join our monthly bi+ café in Utrecht! The bi+ café offers a place for bi+ people to meet, get together, share experiences and, above all, have a fun evening. We believe it is…",
+          "url": "https://acu.nl/events/20260826/bi-cafe-utrecht-2",
+          "tags": []
+        },
+        {
+          "id": "acu-20260822-bar-night-73",
+          "title": "Bar Night",
+          "start": "2026-08-22T00:00:00+02:00",
+          "end": "2026-08-22T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "August 22nd. We are open!. Enjoy a peaceful Bar Night Saturday in ACU. Bring your friends, have a date, bring a board game, strike a conversation with a stranger, or planning for the revolution while have a drink in our bar.",
+          "url": "https://acu.nl/events/20260822/bar-night-73",
           "tags": []
         },
         {
@@ -2629,26 +2527,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "September 12th. Sex Work & Local Current Situation.",
           "url": "https://acu.nl/events/20260912/anarchist-dinner-utrecht-info-talk",
-          "tags": []
-        },
-        {
-          "id": "acu-20261020-eectronic-open-stage-22",
-          "title": "EECtronic open stage",
-          "start": "2026-10-20T00:00:00+01:00",
-          "end": "2026-10-20T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 20th. For all your EECtronic experiments. Buildup starts at 19:00. The bar is open at: 19:00 We start playing around 20:00 – 20:30. We do generally not use the stage. Half a circle of tables is set up on the floor. If you arrive at 19:00 you can claim a spot and have roughly...",
-          "url": "https://acu.nl/events/20261020/eectronic-open-stage-22",
-          "tags": []
-        },
-        {
-          "id": "acu-20261111-noisevember-4",
-          "title": "NOISEVEMBER",
-          "start": "2026-11-11T00:00:00+01:00",
-          "end": "2026-11-11T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 11th. 1111. 1111 is ███████████████████ ████████████████████████████████████ ███████████████████████████ 15 ████████████████████████████████████████████████████████████████████████████████ █████ ███████████████████████████████████████████ █████████████████████████████████████████…",
-          "url": "https://acu.nl/events/20261111/noisevember-4",
           "tags": []
         }
       ]
@@ -2765,6 +2643,16 @@
             "Techno",
             "Trance"
           ]
+        },
+        {
+          "id": "basis-utrecht-10001510-1789255800-1789279200",
+          "title": "BASIS x Smeerboel After/ Anne Nymphaea/ DART b2b Kyle Starkey/ Jessie Dols",
+          "start": "2026-09-12T23:30:00+02:00",
+          "end": "2026-09-13T06:00:00+02:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-x-smeerboel-after-anne-nymphaea-dart-b2b-kyle-starkey-jessie-dols/",
+          "tags": []
         },
         {
           "id": "basis-utrecht-10001491-1789772400-1789797600",
@@ -2972,16 +2860,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "77784",
-          "title": "Cinema Morricone",
-          "start": "2026-08-19T20:00:00.000Z",
-          "end": "2026-08-19T23:00:00.000Z",
-          "location": "Den Haag (The Hague), Scheveningen, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77784",
-          "description": "Cinema Morricone:<BR>An Intimate Celebration<BR><BR>Sara Andon, flute &bull; Simone Pedroni, piano<BR><BR>Music composed by Ennio Morricone (1928-2020)<BR>Transcriptions and arrangements by Simone Pedroni<BR><BR>Hollywood Music Workshop presents the concert ‘Cinema MORRICONE – An intimat",
-          "tags": []
-        },
         {
           "id": "78077",
           "title": "Hollywood Love Stories",
@@ -3953,6 +3831,16 @@
           "tags": []
         },
         {
+          "id": "78356",
+          "title": "The Snowman & Flight to the North Pole",
+          "start": "2026-12-20T20:00:00.000Z",
+          "end": "2026-12-20T23:00:00.000Z",
+          "location": "Arnhem, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78356",
+          "description": "The James Whale Orchestra (JWO) makes film screenings special by adding live music, with both their own compositions and well-known soundtracks. They are known for their immersive concerts that transform films into a unique total experience. <BR><BR>The orchestra presents two types of programs: mode",
+          "tags": []
+        },
+        {
           "id": "76647",
           "title": "Christmas Gala",
           "start": "2026-12-27T20:00:00.000Z",
@@ -4710,18 +4598,7 @@
       "icon": "🧝",
       "scene": "middeleeuwen",
       "feedUrl": "https://elfia.com",
-      "events": [
-        {
-          "id": "elfia-arcen-2026",
-          "title": "Elfia Arcen 2026",
-          "start": "2026-09-19T10:00:00+02:00",
-          "end": "2026-09-20T22:00:00+02:00",
-          "location": "Arcen Castle Gardens, Nederland",
-          "description": "Outdoor fantasy fair bij Arcen Castle Gardens.",
-          "url": "https://elfia.com",
-          "tags": []
-        }
-      ]
+      "events": []
     },
     {
       "id": "archeon",

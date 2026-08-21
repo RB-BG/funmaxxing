@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:34:59.192Z",
+  "updatedAt": "2026-08-21T05:36:40.714Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -423,6 +423,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30766",
+          "title": "DON’T MIND THE GAP x Keep Hush",
+          "start": "2026-10-03T23:30:00+01:00",
+          "end": "2026-10-04T04:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Een ode aan de energie en breedte van de moderne sounds uit de UK: clubavond DON’T MIND THE GAP wil een frisse wind brengen. Voor deze editie slaan ze de handen ineen met het internationale muziekplatform voor underground cultuur: Keep Hush. De boodschap van het Britse Keep Hush is simpel: Back the…",
+          "url": "https://ekko.nl/event/dmtg-keephush/",
+          "tags": []
+        },
         {
           "id": "29258",
           "title": "Destroyer (solo)",
@@ -1224,6 +1234,16 @@
           "tags": []
         },
         {
+          "id": "helling-cult-uren-w-the-funky-cat-20-09-2026",
+          "title": "CULT-UREN w/ The Funky Cat",
+          "start": "2026-09-20T13:30:00+02:00",
+          "end": "2026-09-20T18:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Het clubhuis van alle niches ",
+          "url": "https://dehelling.nl/agenda/cult-uren-w-the-funky-cat-20-09-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-jesse-barnett-acoustic-in-stadsklooster-utrecht-22-09-2026",
           "title": "Jesse Barnett – acoustic in Stadsklooster Utrecht",
           "start": "2026-09-22T20:15:00+02:00",
@@ -1261,6 +1281,26 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Utrechts nieuwe hardcore-revelatie lanceert debuutalbum met mini-festival",
           "url": "https://dehelling.nl/agenda/state-power-release-show-26-09-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-digital-darkroom-x-nff-x-nemo-vos-01-10-2026",
+          "title": "Digital Darkroom x NFF x Nemo Vos",
+          "start": "2026-10-01T21:00:00+01:00",
+          "end": "2026-10-02T02:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Hallucinant minifestival met hoofdrol voor VR-kunst, maar dan zonder enge big tech-vibe ",
+          "url": "https://dehelling.nl/agenda/digital-darkroom-x-nff-x-nemo-vos-01-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-avondklok-02-10-2026",
+          "title": "Avondklok",
+          "start": "2026-10-02T21:00:00+01:00",
+          "end": "2026-10-03T02:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Early-hours clubnacht voor échte muziekliefhebbers",
+          "url": "https://dehelling.nl/agenda/avondklok-02-10-2026/",
           "tags": []
         },
         {
@@ -1694,6 +1734,16 @@
           "tags": []
         },
         {
+          "id": "helling-bloodred-hourglass-05-03-2027",
+          "title": "Bloodred Hourglass",
+          "start": "2027-03-05T20:15:00+01:00",
+          "end": "2027-03-05T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Drie ijskoude metalbands uit het Hoge Noorden",
+          "url": "https://dehelling.nl/agenda/bloodred-hourglass-05-03-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-morgan-wallen-tribute-22-03-2027",
           "title": "Morgan Wallen Tribute",
           "start": "2027-03-22T20:15:00+01:00",
@@ -1723,26 +1773,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "454064",
-          "title": "Arthur Verocai with Nu Civilisation Orchestra",
-          "start": "2026-08-20T20:15:00+02:00",
-          "end": "2026-08-20T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Braziliaanse componist, arrangeur en producer Arthur Verocai, geboren in 1945, kende pas solobekendheid met zijn debuutalbum uit 1972, een psychedelische mix van samba, soul, jazz, rock en funk, nadat dit in de jaren nul door de hiphopcommunity werd omarmd. Gesterkt door deze herwaardering begon…",
-          "url": "https://www.podiuminfo.nl/concert/454064/Arthur-Verocai-with-Nu-Civilisation-Orchestra/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "484681",
-          "title": "Rabo Open Stage: Blue Bird Collective",
-          "start": "2026-08-20T22:00:00+02:00",
-          "end": "2026-08-20T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Op de Rabo Open Stage presenteert het Blue Bird Collective een breed repertoire van jazzmuziek. Ze spelen zowel bekende als minder bekende nummers uit het American songbook, voorzien van een eigen twist. Daarnaast durven ze ook popsongs te verjazzen en voeren ze eigen werk uit. Dit event biedt een…",
-          "url": "https://www.podiuminfo.nl/concert/484681/Rabo-Open-Stage-Blue-Bird-Collective/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "486489",
           "title": "Salsa on Friday",
@@ -1971,6 +2001,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "De Amerikaanse indiefolk-/americanaband Birdtalker, die in 2012 begon als duo en nu een vierkoppige band is, brengt hun moderne americana met warme samenzang naar TivoliVredenburg. Hun debuutalbum 'One' bevatte de verrassende hit 'Heavy', die bijna 100 miljoen Spotify-streams heeft bereikt. In 2024…",
           "url": "https://www.podiuminfo.nl/concert/478002/Birdtalker/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "483447",
+          "title": "MOTIV: Olive Anguz, BURNR & more",
+          "start": "2026-09-05T23:55:00+02:00",
+          "end": "2026-09-06T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "MOTIV, een collectief dat al ruim twee jaar de graadmeter is voor de hard house scene, keert terug. Dit evenement belooft een avond vol pure feel-good dansvloerenergie, gekenmerkt door een scherpe blik op de nieuwste ontwikkelingen binnen het genre. De line-up voor deze zomerse september editie…",
+          "url": "https://www.podiuminfo.nl/concert/483447/MOTIV-Olive-Anguz-BURNR-more/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2428,6 +2468,34 @@
             "Workshop",
             "Vechtclub XL"
           ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-13",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-08-24T00:00:00+02:00",
+          "end": "2026-08-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-13/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-cafe-pause-ai-2",
+          "title": "Café Pause AI – Workshop: Timescaping",
+          "start": "2026-08-25T00:00:00+02:00",
+          "end": "2026-08-25T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cafe-pause-ai-2/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2780,7 +2848,8 @@
             "Schranz"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "soia-utrecht",
@@ -2860,16 +2929,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "78077",
-          "title": "Hollywood Love Stories",
-          "start": "2026-08-20T20:00:00.000Z",
-          "end": "2026-08-20T23:00:00.000Z",
-          "location": "Den Haag (The Hague), Scheveningen, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78077",
-          "description": "Chamber Orchestra<BR>Conrad Pope, conductor<BR>Michiel de Boer, conductor<BR>Sara Andon, flute<BR>Simone Pedroni, piano<BR>Robert Townson, host<BR><BR>This concert is a celebration of love – all kinds of love. Young love and old love&hellip; timeless tales of romance from the movies that help",
-          "tags": []
-        },
         {
           "id": "73735",
           "title": "The Most Dangerous Game in concert",
@@ -5197,17 +5256,6 @@
           "tags": []
         },
         {
-          "id": "bi-tavola-rotonda-2026",
-          "title": "Tavola Rotonda 2026",
-          "start": "2026-09-26T00:00:00+02:00",
-          "end": "2026-09-26T23:00:00+02:00",
-          "location": "Italy",
-          "country": "Italy",
-          "description": "Buhurt-toernooi in Italy.",
-          "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
-          "tags": []
-        },
-        {
           "id": "bi-sudovo-cup",
           "title": "Sudovo Cup 2026",
           "start": "2026-08-29T00:00:00+02:00",
@@ -5261,19 +5309,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-452",
-          "title": "Bromfietstocht bij Zomerfeest Garderen",
-          "start": "2026-08-20T12:30:00+02:00",
-          "end": "2026-08-20T16:30:00+02:00",
-          "location": "Speulderbosweg 28 Garderen, Garderen (Gelderland)",
-          "description": "Spring op je brommer en beleef een onvergetelijk avontuur door de adembenemende Veluwe! Op donderdag 20 augustus organiseert brommerclub De Vale Ouwe vanuit Garderen een prachtige rit van zo&#8217;n 70 km over de mooiste wegen van de Veluwe. als onderdeel van het jaarlijkse Zomerfeest. En vergeet…",
-          "url": "https://brommerritten.nl/ritten/koningsrit-op-de-brommer-garderen/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-3260",
           "title": "MeerPeut toertocht Tzum",

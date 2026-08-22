@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T05:36:40.714Z",
+  "updatedAt": "2026-08-22T05:31:32.866Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -15,7 +15,7 @@
           "start": "2026-08-22T13:00:00+02:00",
           "end": "2026-08-22T23:00:00+02:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "BACHT’N DE VULLE MOANE\nHidden Since the Foundation of the World\nSvjetlost\nINVUNCHE\nOnhou\nIskandr\nModder\nSun Worship\nAlkerdeel\nBombstrap\nMathlovsky\n\nDagtickets gaan binnenkort in de verkoop.",
+          "description": "BACHT’N DE VULLE MOANE\nHidden Since the Foundation of the World\nSvjetlost\nINVUNCHE\nOnhou\nIskandr\nModder\nSun Worship\nVRLCHT\nBombstrap\nMathlovsky\n\nDagtickets gaan binnenkort in de verkoop.",
           "url": "https://dbstudio.nl/event/duister-collectief/",
           "tags": [
             "Concert",
@@ -1774,26 +1774,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "486489",
-          "title": "Salsa on Friday",
-          "start": "2026-08-21T20:15:00+02:00",
-          "end": "2026-08-21T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Salsa on Friday biedt een avond vol salsamuziek en dans voor zowel beginners als gevorderden in de Vrije Ruimte van TivoliVredenburg. De dj's draaien een mix van klassieke en hedendaagse salsa hits. Bezoekers zijn welkom om te dansen, te leren of nieuwe mensen te ontmoeten in een gastvrije sfeer.…",
-          "url": "https://www.podiuminfo.nl/concert/486489/Salsa-on-Friday/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "477369",
-          "title": "After Sun: Hitjesgolf",
-          "start": "2026-08-21T22:00:00+02:00",
-          "end": "2026-08-21T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "After Sun presenteert 'Hitjesgolf', een nieuwe zomernacht in de Ronda van TivoliVredenburg. Bezoekers kunnen afkoelen en genieten van een golf van de beste muziek, variërend van festivalhits tot zwoele R&B-tracks en de heetste hits van dit moment. De deuren gaan open om 22:00 uur. Deze avond staat…",
-          "url": "https://www.podiuminfo.nl/concert/477369/After-Sun-Hitjesgolf/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "483031",
           "title": "Het Danspaleis",
           "start": "2026-08-22T14:00:00+02:00",
@@ -2012,6 +1992,16 @@
           "description": "MOTIV, een collectief dat al ruim twee jaar de graadmeter is voor de hard house scene, keert terug. Dit evenement belooft een avond vol pure feel-good dansvloerenergie, gekenmerkt door een scherpe blik op de nieuwste ontwikkelingen binnen het genre. De line-up voor deze zomerse september editie…",
           "url": "https://www.podiuminfo.nl/concert/483447/MOTIV-Olive-Anguz-BURNR-more/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "486720",
+          "title": "Mama Africa",
+          "start": "2026-09-05T23:55:00+02:00",
+          "end": "2026-09-06T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Mama Africa keert op zaterdag 5 september 2026 terug naar TivoliVredenburg in Utrecht voor een nieuwe editie vol Afrikaanse klanken en ritmes. Na de zomerstop belooft deze clubavond een energieke ervaring te worden met een breed scala aan muziekstijlen, waaronder Afro Beats, Azonto, Kuduro, Coupé…",
+          "url": "https://www.podiuminfo.nl/concert/486720/Mama-Africa/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2053,6 +2043,16 @@
           "tags": []
         },
         {
+          "id": "606383",
+          "title": "Fatherfog - Fairytale horror [beginner friendly]",
+          "start": "2026-08-26T19:00:00+02:00",
+          "end": "2026-08-26T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Fatherfog - Fairytale horror [beginner friendly] Wed 26/8 7-10pm at Subcultures @De Bierkantine English, Indie RPG Character level 0 Location: Bierkantine, Utrecht | Walk-in: 18:30 | Participation fee: €5 | No need to bring or know anything about RPGs | Age rating: 18+ | Content warning: Horror,…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "605039",
           "title": "Mothership 1e Year of the Rat",
           "start": "2026-08-26T19:00:00+02:00",
@@ -2069,6 +2069,16 @@
           "end": "2026-08-26T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "🗻PF2 Bounty 12: Somewhere Below [Beginner-friendly]🎨 Wed 26/8 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character level 1 Written by Kim Frandsen While sheltering in a cave from a storm, the PCs discover…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "606341",
+          "title": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🦜",
+          "start": "2026-08-26T19:00:00+02:00",
+          "end": "2026-08-26T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Pirate Borg - Beginner Friendly TTRPG @ Bierkantine 🦜 Wed 26/8 7-10pm at Subcultures @De Bierkantine English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp; flintlock…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2111,7 +2121,8 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": []
+      "events": [],
+      "broken": true
     },
     {
       "id": "casual-carnage",
@@ -2181,7 +2192,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2359,19 +2371,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-bring-your-own-beeldmateriaal-2",
-          "title": "Bring Your Own Beeldmateriaal",
-          "start": "2026-08-22T00:00:00+02:00",
-          "end": "2026-08-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/bring-your-own-beeldmateriaal-2/",
-          "tags": [
-            "Film",
-            "Kunst"
-          ]
-        },
-        {
           "id": "beton-de-betonnerie-tweedekansmarkt-14",
           "title": "De Betonnerie – tweedekansmarkt",
           "start": "2026-08-23T00:00:00+02:00",
@@ -2496,6 +2495,35 @@
             "Workshop",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-50",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-08-26T00:00:00+02:00",
+          "end": "2026-08-26T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-50/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-canal-do-samba-3",
+          "title": "Canal Do Samba",
+          "start": "2026-08-27T00:00:00+02:00",
+          "end": "2026-08-27T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/canal-do-samba-3/",
+          "tags": [
+            "Dans",
+            "Gratis",
+            "Muziek",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2515,16 +2543,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "August 26th. A place to meet other bi+ people. Bi+ Café Utrecht 26-08-2026, 19:15-22:00 A place to meet other bi+ people Join our monthly bi+ café in Utrecht! The bi+ café offers a place for bi+ people to meet, get together, share experiences and, above all, have a fun evening. We believe it is…",
           "url": "https://acu.nl/events/20260826/bi-cafe-utrecht-2",
-          "tags": []
-        },
-        {
-          "id": "acu-20260822-bar-night-73",
-          "title": "Bar Night",
-          "start": "2026-08-22T00:00:00+02:00",
-          "end": "2026-08-22T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "August 22nd. We are open!. Enjoy a peaceful Bar Night Saturday in ACU. Bring your friends, have a date, bring a board game, strike a conversation with a stranger, or planning for the revolution while have a drink in our bar.",
-          "url": "https://acu.nl/events/20260822/bar-night-73",
           "tags": []
         },
         {
@@ -2607,20 +2625,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001494-1787356740-1787378400",
-          "title": "BASIS Talent Night/ DNBK/ KEVN/ Rich/ Supra",
-          "start": "2026-08-21T23:59:00+02:00",
-          "end": "2026-08-22T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-talent-night-dnbk-kevn-rich-supra/",
-          "tags": [
-            "Hardtechno",
-            "Industrial",
-            "Schranz"
-          ]
-        },
         {
           "id": "basis-utrecht-10001502-1787443140-1787464800",
           "title": "BASIS/ DYNAMI/ Nyctonian/ Stugats/ XRTN",
@@ -2824,6 +2828,18 @@
           "tags": []
         },
         {
+          "id": "basis-utrecht-10001511-1793401200-1793426400",
+          "title": "BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser",
+          "start": "2026-10-30T23:00:00+01:00",
+          "end": "2026-10-31T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-house-special-cici-daze-djora-prunk-stefan-meser/",
+          "tags": [
+            "House"
+          ]
+        },
+        {
           "id": "basis-utrecht-10001507-1795215600-1795240800",
           "title": "BASIS/ Tassery All Night Long",
           "start": "2026-11-20T23:00:00+01:00",
@@ -2848,8 +2864,7 @@
             "Schranz"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "soia-utrecht",
@@ -2897,6 +2912,16 @@
           "location": "Haarrijnseplas, Utrecht",
           "description": "Festival Strand vindt plaats op 28 & 29 augustus 2026. Bekijk hier de line-up, ticketinfo en sfeer van Strand.",
           "url": "https://festivalfans.nl/event/festival-strand/",
+          "tags": []
+        },
+        {
+          "id": "lief-festival",
+          "title": "Lief Festival",
+          "start": "2026-09-05T12:00:00+00:00",
+          "end": "2026-09-05T12:00:00+00:00",
+          "location": "Grasweide Strijkviertel, Utrecht",
+          "description": "Lees hier alles wat je moet weten over Lief Festival 2026 op 5 september. Check hier info over tickets, de line-up en sfeer van het festival.",
+          "url": "https://festivalfans.nl/event/lief-festival/",
           "tags": []
         },
         {
@@ -5253,6 +5278,17 @@
           "country": "Austria",
           "description": "Buhurt-toernooi in Austria.",
           "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
+          "tags": []
+        },
+        {
+          "id": "bi-tavola-rotonda-2026",
+          "title": "Tavola Rotonda 2026",
+          "start": "2026-09-26T00:00:00+02:00",
+          "end": "2026-09-26T23:00:00+02:00",
+          "location": "Italy",
+          "country": "Italy",
+          "description": "Buhurt-toernooi in Italy.",
+          "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
           "tags": []
         },
         {

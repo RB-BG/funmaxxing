@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:31:32.866Z",
+  "updatedAt": "2026-08-23T05:33:08.796Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10000951",
-          "title": "DUISTER COLLECTIEF Part I",
-          "start": "2026-08-22T13:00:00+02:00",
-          "end": "2026-08-22T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "BACHT’N DE VULLE MOANE\nHidden Since the Foundation of the World\nSvjetlost\nINVUNCHE\nOnhou\nIskandr\nModder\nSun Worship\nVRLCHT\nBombstrap\nMathlovsky\n\nDagtickets gaan binnenkort in de verkoop.",
-          "url": "https://dbstudio.nl/event/duister-collectief/",
-          "tags": [
-            "Concert",
-            "Duister Collectief Outdoor Fest"
-          ]
-        },
         {
           "id": "10000952",
           "title": "DUISTER COLLECTIEF Part II",
@@ -225,6 +212,21 @@
           "tags": [
             "Blues",
             "Psychedelic"
+          ]
+        },
+        {
+          "id": "10001125",
+          "title": "REGGAE BOMB + Jerk Chicken BBQ",
+          "start": "2026-09-19T16:00:00+02:00",
+          "end": "2026-09-19T21:00:00+02:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Blij om op het laatste moment nog een Reggae Bomb te kunnen inplannen. Bij uitzondering op een zaterdag dus na de weekend booschappen op naar dB’s voor een onvervalste portie roots & reggae geserveerd door DJ’s Sista Souljah, Martial Ard, Skank Around System en Don Arco. Buiten bereidt  Fritz zijn…",
+          "url": "https://dbstudio.nl/event/reggae-bomb-jerk-chicken-bbq/",
+          "tags": [
+            "Concert",
+            "DJ's in cafe",
+            "Reggae",
+            "REGGAE BOMB"
           ]
         },
         {
@@ -441,16 +443,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Destroyer is het eigenzinnige project van Dan Bejar, een indievedette uit Vancouver die sinds de jaren ’90 een uniek oeuvre opbouwt. Als voormalig lid van The New Pornographers ontwikkelde hij met Destroyer een uitgesproken signatuur, waarin hij genres als glam, yacht rock en indie vrijelijk naar…",
           "url": "https://ekko.nl/event/destroyer/",
-          "tags": []
-        },
-        {
-          "id": "30412",
-          "title": "Musical Rave",
-          "start": "2026-08-22T22:30:00+02:00",
-          "end": "2026-08-23T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De start van het theaterseizoen vieren we niet in rode pluche stoelen, maar op de dansvloer. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg:…",
-          "url": "https://ekko.nl/event/musicalrave/",
           "tags": []
         },
         {
@@ -1774,16 +1766,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "483031",
-          "title": "Het Danspaleis",
-          "start": "2026-08-22T14:00:00+02:00",
-          "end": "2026-08-22T15:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Danspaleis presenteert een ouderwets gezellige dansmiddag, speciaal voor ouderen en iedereen die graag danst. De toegang is gratis. Het initiatief heeft als doel ouderen in Nederland vitaal en betrokken te houden, waarbij muziek dient als krachtig middel om mensen samen te brengen en in…",
-          "url": "https://www.podiuminfo.nl/concert/483031/Het-Danspaleis/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "456972",
           "title": "Lavinia Meijer & Reyer Zwart",
           "start": "2026-08-23T11:00:00+02:00",
@@ -2002,6 +1984,16 @@
           "description": "Mama Africa keert op zaterdag 5 september 2026 terug naar TivoliVredenburg in Utrecht voor een nieuwe editie vol Afrikaanse klanken en ritmes. Na de zomerstop belooft deze clubavond een energieke ervaring te worden met een breed scala aan muziekstijlen, waaronder Afro Beats, Azonto, Kuduro, Coupé…",
           "url": "https://www.podiuminfo.nl/concert/486720/Mama-Africa/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "468646",
+          "title": "The Dresden Dolls - Yes, Virginia (Tailor’s Version) 20th Anniversa...",
+          "start": "2026-09-07T19:00:00+02:00",
+          "end": "2026-09-07T20:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het theatrale Amerikaanse duo Dresden Dolls, bestaande uit Amanda Palmer en Brian Viglione, staat bekend om hun eigenzinnige mix van alternatieve rock, vaudeville en punk, door Palmer omschreven als ‘Brechtian punk cabaret’. Na een pauze sinds hun tweede album Yes, Virginia... (2006), keert het duo…",
+          "url": "https://www.podiuminfo.nl/concert/468646/The-Dresden-Dolls-Yes-Virginia-Tailor-s-Version-20th-Anniversa-/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2121,8 +2113,7 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": [],
-      "broken": true
+      "events": []
     },
     {
       "id": "casual-carnage",
@@ -2192,8 +2183,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -2263,16 +2253,6 @@
       "scene": "games",
       "feedUrl": "https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/",
       "events": [
-        {
-          "id": "weighted-dice-event_315733616",
-          "title": "August Board Games Meetup",
-          "start": "2026-08-22T13:00:00+02:00",
-          "end": "2026-08-22T22:30:00+02:00",
-          "location": "Weighted Dice Utrecht, Utrecht",
-          "description": "P\n\nYou can bring your own games and/or play those brought by others.\nAlso, plenty of games to be chosen from Het Lab to be played.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for…",
-          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/315733616/",
-          "tags": []
-        },
         {
           "id": "weighted-dice-event_316063574",
           "title": "September Board Gaming Meetup",
@@ -2370,49 +2350,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-de-betonnerie-tweedekansmarkt-14",
-          "title": "De Betonnerie – tweedekansmarkt",
-          "start": "2026-08-23T00:00:00+02:00",
-          "end": "2026-08-23T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/de-betonnerie-tweedekansmarkt-14/",
-          "tags": [
-            "Eten / Drinken",
-            "Gratis",
-            "Markt",
-            "Muziek",
-            "Studio-T",
-            "Terras"
-          ]
-        },
-        {
-          "id": "beton-workshop-topje-naaien-en-verven-met-natuurlijke-pigmenten",
-          "title": "Betonnerie Workshop: Topje naaien, en verven met natuurlijke pigmenten",
-          "start": "2026-08-23T00:00:00+02:00",
-          "end": "2026-08-23T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/workshop-topje-naaien-en-verven-met-natuurlijke-pigmenten/",
-          "tags": [
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-indie-label-market-bij-kromme-haring",
-          "title": "Indie Label Market Bij Kromme Haring",
-          "start": "2026-08-23T00:00:00+02:00",
-          "end": "2026-08-23T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/indie-label-market-bij-kromme-haring/",
-          "tags": [
-            "Live muziek",
-            "Markt",
-            "Vechtclub XL"
-          ]
-        },
         {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-13",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
@@ -2625,18 +2562,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001502-1787443140-1787464800",
-          "title": "BASIS/ DYNAMI/ Nyctonian/ Stugats/ XRTN",
-          "start": "2026-08-22T23:59:00+02:00",
-          "end": "2026-08-23T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-dynami-nyctonian-stugats-xrtn/",
-          "tags": [
-            "Hardtechno"
-          ]
-        },
         {
           "id": "basis-utrecht-10001495-1787961540-1787983200",
           "title": "BASIS Talent Night/ Flexusz/ KROM/ LIRIOS/ N9S",
@@ -4722,16 +4647,6 @@
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
         {
-          "id": "muiderslot-pruimenweekend-2026",
-          "title": "Pruimenweekend 22 &amp; 23 aug 2026",
-          "start": "2026-08-22T10:00:00+02:00",
-          "end": "2026-08-22T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/pruimenweekend/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-presentatie-tropische-planten-2027",
           "title": "Presentatie: Tropische planten",
           "start": "2027-06-08T10:00:00+02:00",
@@ -4942,23 +4857,13 @@
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
         {
-          "id": "loevestein-sluit-je-aan-bij-de-ridderschool-2-2026-08",
-          "title": "Sluit je aan bij de ridderschool",
-          "start": "2026-08-22T10:00:00+02:00",
-          "end": "2026-08-22T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/sluit-je-aan-bij-de-ridderschool-2/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-klanken-in-het-kasteelgras-2026-08",
-          "title": "Klanken in het kasteelgras",
+          "id": "loevestein-rondleiding-2026-08",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Klanken in het kasteelgras",
           "start": "2026-08-23T10:00:00+02:00",
           "end": "2026-08-23T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/klanken-in-het-kasteelgras/",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
@@ -5303,17 +5208,6 @@
           "tags": []
         },
         {
-          "id": "bi-pálóci-boarnament",
-          "title": "Pálóci Boarnament 2026",
-          "start": "2026-09-19T00:00:00+02:00",
-          "end": "2026-09-19T23:00:00+02:00",
-          "location": "Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary.",
-          "url": "https://www.buhurtinternational.com/tournament/pálóci-boarnament",
-          "tags": []
-        },
-        {
           "id": "bi-st.-georgen-cup",
           "title": "St. Georgen Cup 2026",
           "start": "2026-09-05T00:00:00+02:00",
@@ -5345,32 +5239,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-3260",
-          "title": "MeerPeut toertocht Tzum",
-          "start": "2026-08-22T10:00:00+02:00",
-          "end": "2026-08-22T17:00:00+02:00",
-          "location": "Sportlaan 12 Tzum, Tzum (Friesland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/meerpeut-toertocht-tzum/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1801",
-          "title": "Haverkort BBQ Brommertoertocht Slagharen",
-          "start": "2026-08-22T13:00:00+02:00",
-          "end": "2026-08-22T17:00:00+02:00",
-          "location": "Geert Migchelsweg 5 Slagharen, Slagharen (Overijssel)",
-          "description": "Zaterdag 22 augustus 2026 gaan de brommers van BC the Old Kulls uit Slagharen onder het kleed vandaan. Deze Brommerclub zal bij Haverkort Eten &amp; Drinken aan de Geert Michelsweg 5 te Slagharen gaan starten met hun tocht om 11.00 uur. Bij terugkomst is het natuurlijk tijd voor een dikke BBQ. Heb…",
-          "url": "https://brommerritten.nl/ritten/brommertoertocht-slagharen-en-omstreken/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-855",
           "title": "1e ZVC Bramenrit Eerbeek",

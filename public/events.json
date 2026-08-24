@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T05:33:08.796Z",
+  "updatedAt": "2026-08-24T05:41:46.526Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10000952",
-          "title": "DUISTER COLLECTIEF Part II",
-          "start": "2026-08-23T13:00:00+02:00",
-          "end": "2026-08-23T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Angles Mort\nRuona Neida\nDoodseskader\nIneptitude\nNista\nGrey Aura\n30,000 Monkies\nBloed\nMorvigor\nTERZIJ DE HORDE",
-          "url": "https://dbstudio.nl/event/duister-collectief-2/",
-          "tags": [
-            "Concert",
-            "Duister Collectief Outdoor Fest"
-          ]
-        },
         {
           "id": "10001077",
           "title": "NEW CANDYS (IT) + Laura Palmer + DJ Steve",
@@ -413,6 +400,20 @@
           "tags": [
             "70'S",
             "Americana"
+          ]
+        },
+        {
+          "id": "10001119",
+          "title": "ZAKMES - 'We Are SO Back' EP Release Party!",
+          "start": "2026-10-09T19:30:00+01:00",
+          "end": "2026-10-09T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Zakmes is SO back!\nOnze Utrechtse emo en poppunk band Zakmes brengt hun nieuwe EP ‘We Are SO Back‘ uit, met 7 gloednieuwe nummers, en dat moet natuurlijk gevierd worden! \nEerder brachten zij al hun EP’s Big Things Coming Soon en Make Emo Great Again uit, waarin Zakmes emo combineert met koppige…",
+          "url": "https://dbstudio.nl/event/zakmes-zakmes-is-so-back-release-party/",
+          "tags": [
+            "Emo",
+            "Hardcore",
+            "Pop Punk"
           ]
         }
       ]
@@ -1766,26 +1767,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "456972",
-          "title": "Lavinia Meijer & Reyer Zwart",
-          "start": "2026-08-23T11:00:00+02:00",
-          "end": "2026-08-23T12:00:00.000Z",
-          "location": "Slottuintheater, Zinzendorflaan 1, Zeist",
-          "description": "Dit ochtendconcert presenteert een spannende samenwerking tussen twee vooraanstaande Nederlandse muzikanten. Harpiste Lavinia Meijer, bekend van haar werk met Philip Glass en Ludovico Einaudi, behoort tot de internationale top van gestreamde klassieke artiesten. Reyer Zwart is een veelzijdige…",
-          "url": "https://www.podiuminfo.nl/concert/456972/Lavinia-Meijer-Reyer-Zwart/Slottuintheater/",
-          "tags": []
-        },
-        {
-          "id": "455732",
-          "title": "Paco Peña",
-          "start": "2026-08-23T20:30:00+02:00",
-          "end": "2026-08-23T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Flamencogitarist Paco Peña behoort tot de grote namen die deze traditie al meer dan vijftig jaar uitdragen. Hij trad wereldwijd op en was ook regelmatig in Nederland te horen, zowel met solorecitals als met zijn eigen flamencogezelschap en met een groep bijzondere flamenco-vrienden. ",
-          "url": "https://www.podiuminfo.nl/concert/455732/Paco-Pena/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "490947",
           "title": "Salsa on Tuesday",
           "start": "2026-08-25T20:15:00+02:00",
@@ -1994,6 +1975,26 @@
           "description": "Het theatrale Amerikaanse duo Dresden Dolls, bestaande uit Amanda Palmer en Brian Viglione, staat bekend om hun eigenzinnige mix van alternatieve rock, vaudeville en punk, door Palmer omschreven als ‘Brechtian punk cabaret’. Na een pauze sinds hun tweede album Yes, Virginia... (2006), keert het duo…",
           "url": "https://www.podiuminfo.nl/concert/468646/The-Dresden-Dolls-Yes-Virginia-Tailor-s-Version-20th-Anniversa-/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "456973",
+          "title": "Allah-Las",
+          "start": "2026-09-07T20:00:00+02:00",
+          "end": "2026-09-07T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Californische band Allah-Las brengt een zonovergoten mix van psychedelische rock, garagerock en surfmuziek, doordrenkt met een vette jarenzestigsaus. Sinds hun titelloze debuutalbum in 2012 heeft de band een flinke catalogus opgebouwd. Hun vijfde plaat, 'Zuma 85' uit 2023, verrijkte hun 'jangly…",
+          "url": "https://www.podiuminfo.nl/concert/456973/Allah-Las/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "456934",
+          "title": "Filmconcert: Star Wars VI: Return Of The Jedi",
+          "start": "2026-09-07T20:15:00+02:00",
+          "end": "2026-09-07T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Grote Zaal van TivoliVredenburg verandert in een luxe bioscoop voor de vertoning van 'Return of the Jedi'. Het Brussels Philharmonic orkest, bekend om zijn filmmuziekvertolkingen, zal live de integrale soundtrack van de zesde Star Wars-film spelen. Gastdirigent Dirk Brossé, die eerder de…",
+          "url": "https://www.podiuminfo.nl/concert/456934/Filmconcert-Star-Wars-VI-Return-Of-The-Jedi/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2113,7 +2114,32 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": []
+      "events": [
+        {
+          "id": "lab-monkey-23214",
+          "title": "Commander Tuesday",
+          "start": "2026-08-25T18:00:00+02:00",
+          "end": "2026-08-25T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-240/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
+          "id": "lab-monkey-23216",
+          "title": "Weekly Draft",
+          "start": "2026-08-27T19:00:00+02:00",
+          "end": "2026-08-27T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-124/",
+          "tags": [
+            "Draft"
+          ]
+        }
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2351,75 +2377,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-13",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-08-24T00:00:00+02:00",
-          "end": "2026-08-24T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-13/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-36",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-08-24T00:00:00+02:00",
-          "end": "2026-08-24T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-36/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-18",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-08-24T00:00:00+02:00",
-          "end": "2026-08-24T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-18/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-35",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-08-24T00:00:00+02:00",
-          "end": "2026-08-24T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-35/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-13",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-08-24T00:00:00+02:00",
-          "end": "2026-08-24T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-13/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-cafe-pause-ai-2",
           "title": "Café Pause AI – Workshop: Timescaping",
           "start": "2026-08-25T00:00:00+02:00",
@@ -2461,6 +2418,20 @@
             "Muziek",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-the-lyrebirds-collective",
+          "title": "The Lyrebirds (live)",
+          "start": "2026-08-28T00:00:00+02:00",
+          "end": "2026-08-28T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/the-lyrebirds-collective/",
+          "tags": [
+            "Live muziek",
+            "Muziek",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2472,6 +2443,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260911-shows-afterparty-djs-yssie-rattekop",
+          "title": "Show’s Afterparty: DJ’s Yssie & Rattekop",
+          "start": "2026-09-11T00:00:00+02:00",
+          "end": "2026-09-11T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 11th. punk / ska / metal / you name it. DJ’s Yssie & Rattekop Yeeh! We are going back to the ACU to DJ. When we started playing together over 10 years ago it was in ACU and we played many friday nights for Vitamine ACU. It has been a few years now and...",
+          "url": "https://acu.nl/events/20260911/shows-afterparty-djs-yssie-rattekop",
+          "tags": []
+        },
         {
           "id": "acu-20260826-bi-cafe-utrecht-2",
           "title": "Bi+ Café Utrecht",
@@ -2540,16 +2521,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "December 15th. For all your EECtronic experiments. Buildup starts at 19:00. The bar is open at: 19:00 We start playing around 20:00 – 20:30. We do generally not use the stage. Half a circle of tables is set up on the floor. If you arrive at 19:00 you can claim a spot and have roughly...",
           "url": "https://acu.nl/events/20261215/eectronic-open-stage-23",
-          "tags": []
-        },
-        {
-          "id": "acu-20260912-anarchist-dinner-utrecht-info-talk",
-          "title": "Anarchist Dinner Utrecht + Info Talk",
-          "start": "2026-09-12T00:00:00+02:00",
-          "end": "2026-09-12T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 12th. Sex Work & Local Current Situation.",
-          "url": "https://acu.nl/events/20260912/anarchist-dinner-utrecht-info-talk",
           "tags": []
         }
       ]
@@ -4540,16 +4511,6 @@
       "feedUrl": "https://dis.drachenwald.sca.org/data/calendar.json",
       "events": [
         {
-          "id": "sca-polderslot/23-aug-2026/polderslot-shire-gathering",
-          "title": "Polderslot Shire Gathering ",
-          "start": "2026-08-23T12:00:00+02:00",
-          "end": "2026-08-23T23:00:00+02:00",
-          "location": "Utrecht (Lunetten railway station), Oude Liesbosweg 76, 3524 SB Utrecht",
-          "description": "Polderslot’s Shire Gathering is an informal social event with heavy fighting, archery and arts&sciences activities. The event is mainly in garb but modern dress is also accepted. There is a potluck feast and contributions to the feast are welcome.",
-          "url": "https://polderslot.info/agenda/#/polderslot/23-aug-2026/polderslot-shire-gathering",
-          "tags": []
-        },
-        {
           "id": "sca-polderslot/11-sept-2026/drowning-arrow",
           "title": "Drowning arrow",
           "start": "2026-09-11T12:00:00+02:00",
@@ -4697,16 +4658,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
-          "title": "Maand van de Geschiedenis op het Muiderslot",
-          "start": "2026-10-01T10:00:00+01:00",
-          "end": "2026-10-31T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-mindful-wandeling-muiderslot-2026",
           "title": "Mindful wandeling Muiderslot",
           "start": "2026-10-01T10:00:00+01:00",
@@ -4714,6 +4665,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
+          "title": "Maand van de Geschiedenis op het Muiderslot",
+          "start": "2026-10-01T10:00:00+01:00",
+          "end": "2026-10-31T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
           "tags": []
         },
         {
@@ -4857,23 +4818,13 @@
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
         {
-          "id": "loevestein-rondleiding-2026-08",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Klanken in het kasteelgras",
-          "start": "2026-08-23T10:00:00+02:00",
-          "end": "2026-08-23T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-filmavonden-2026-09",
-          "title": "Filmavonden op Loevestein",
+          "id": "loevestein-rondleiding-2026-09",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Filmavonden op Loevestein",
           "start": "2026-09-03T10:00:00+02:00",
           "end": "2026-09-05T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/filmavonden/",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
@@ -5208,14 +5159,14 @@
           "tags": []
         },
         {
-          "id": "bi-st.-georgen-cup",
-          "title": "St. Georgen Cup 2026",
-          "start": "2026-09-05T00:00:00+02:00",
-          "end": "2026-09-05T23:00:00+02:00",
-          "location": "Germany",
-          "country": "Germany",
-          "description": "Buhurt-toernooi in Germany.",
-          "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup",
+          "id": "bi-pálóci-boarnament",
+          "title": "Pálóci Boarnament 2026",
+          "start": "2026-09-19T00:00:00+02:00",
+          "end": "2026-09-19T23:00:00+02:00",
+          "location": "Hungary",
+          "country": "Hungary",
+          "description": "Buhurt-toernooi in Hungary.",
+          "url": "https://www.buhurtinternational.com/tournament/pálóci-boarnament",
           "tags": []
         },
         {
@@ -5240,87 +5191,6 @@
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "brommerritten-nl-855",
-          "title": "1e ZVC Bramenrit Eerbeek",
-          "start": "2026-08-23T09:30:00+02:00",
-          "end": "2026-08-23T17:00:00+02:00",
-          "location": "Kanaalweg 3 Eerbeek, Eerbeek (Gelderland)",
-          "description": "De Bramenrit wordt vervolgd op de Veluwe. In 2025 vond de 10e en laatste Bramenrit van de Zündapp Veteranen Club plaats in Nijmegen. Maar de Bramenrit gaat door! Op zondag 23 augustus 2026 wordt gestart voor de 1e Eerbeekse Bramenrit in.. Eerbeek op de Veluwe. Deze regio nodigt uit voor sfeervolle…",
-          "url": "https://brommerritten.nl/ritten/9e-zvc-bramenrit-nijmegen/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2034",
-          "title": "Sjooke bij Straatschorem Tilburg",
-          "start": "2026-08-23T09:30:00+02:00",
-          "end": "2026-08-23T17:00:00+02:00",
-          "location": "IJsselstraat 11a Tilburg, Tilburg (Noord-Brabant)",
-          "description": "Na de swingende, zonnige en onovertroffen eerste editie van ‘Sjooke’ bij Straatschorem vorig jaar kon het natuurlijk niet uitblijven, dus ook in 2026 gaan we weer ‘Sjooke’. Op zondag 23 augustus is het oude brommers, tweetakt, rock ‘n roll, goede sfeer en toffe mensen wat de klok slaat,…",
-          "url": "https://brommerritten.nl/ritten/sjooke-by-straatschorem/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3151",
-          "title": "Oldtimerrit Buurse",
-          "start": "2026-08-23T09:30:00+02:00",
-          "end": "2026-08-23T17:00:00+02:00",
-          "location": "Haaksbergseweg Buurse, Buurse (Overijssel)",
-          "description": "Gratis deelname met tourrit voor brommers, auto’s, motoren en tractoren. Incl. lunchpakket en koffie. Locatie: Terrein Volksfeest Buurse aan de Haaksbergseweg. Inschrijven v.a. half 10. Tourrit voor de brommers, vertrek 11:45 uur. Info: Thomas Beumer: 06-2224 4327",
-          "url": "https://brommerritten.nl/ritten/oldtimerrit-buurse/",
-          "tags": [
-            "Auto",
-            "Bromfiets",
-            "Motor",
-            "Tractor"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2999",
-          "title": "BOLUZ Zomerrit – Wemeldinge",
-          "start": "2026-08-23T10:00:00+02:00",
-          "end": "2026-08-23T17:00:00+02:00",
-          "location": "Chezeeweg 37 Wemeldinge, Wemeldinge (Zeeland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/boluz-zomerrit-wemeldinge/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3603",
-          "title": "Brommerrit Velden",
-          "start": "2026-08-23T10:00:00+02:00",
-          "end": "2026-08-23T17:00:00+02:00",
-          "location": "Schandeloseweg 1a Velden, Velden (Limburg)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/brommerrit-velden/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3434",
-          "title": "Brommertocht de Wilp 2026",
-          "start": "2026-08-23T13:00:00+02:00",
-          "end": "2026-08-23T17:00:00+02:00",
-          "location": "Schoolstraat 17 de Wilp, de Wilp (Groningen)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/brommertocht-de-wilp-2026/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
           "id": "brommerritten-nl-897",
           "title": "Beleef de JMPB BromfieTTs 2026",
           "start": "2026-08-29T08:00:00+02:00",
@@ -5334,6 +5204,20 @@
           "country": "Nederland"
         },
         {
+          "id": "brommerritten-nl-3650",
+          "title": "Oldtimerrit voor motoren en bromfietsen Oudleusen",
+          "start": "2026-08-29T10:30:00+02:00",
+          "end": "2026-08-29T17:00:00+02:00",
+          "location": "Haverland Oudleusen, Dalfsen (Oudleusen) (Overijssel)",
+          "description": "TOERTOCHT Dit jaar zowel een route voor motoren als voor brommers! Inschrijven is niet nodig! We zien jullie graag zaterdag 29 augustus, vanaf 10:30 staat de koffie klaar!",
+          "url": "https://brommerritten.nl/ritten/oldtimerrit-voor-motoren-en-bromfietsen-oudleusen/",
+          "tags": [
+            "Bromfiets",
+            "Motor"
+          ],
+          "country": "Nederland"
+        },
+        {
           "id": "brommerritten-nl-1649",
           "title": "de brommerrspeurrit Krimpen aan den IJssel",
           "start": "2026-08-29T12:30:00+02:00",
@@ -5341,6 +5225,19 @@
           "location": "van Utrechtweg 112 Krimpen aan den IJssel, Krimpen aan den IJssel (Zuid-Holland)",
           "description": "Brommerrit door de Krimpenerwaard met foto opdrachten. Starten kan vanaf 13:00 tot 15:30, alleen of met een groepje. Route en opdrachten worden bij de start (Loods 41 in Krimpen aan den IJssel) in een enveloppe verstrekt. De meest creatieve deelnemers maken kans op leuke prijzen! &nbsp; vragen:…",
           "url": "https://brommerritten.nl/ritten/de-brommerrspeurrit-krimpen-aan-den-ijssel/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-3636",
+          "title": "Brommertoertocht Kollumerzwaag",
+          "start": "2026-08-29T12:30:00+02:00",
+          "end": "2026-08-29T17:00:00+02:00",
+          "location": "Foarwei 123 Kollumerzwaag, Kollumerzwaag (Friesland)",
+          "description": "Brommertoertocht Tijd: 12.30 uur De geur van benzine, knetterende uitlaten en een dosis oergezellige nostalgie. Wegens succes opnieuw op het programma: de brommertoertocht van ’t Lekke Bandsie. Deelnemers verzamelen zich om 12.30 uur voor de tent. Om 13.00 uur vertrekken de brommers voor een mooie…",
+          "url": "https://brommerritten.nl/ritten/brommertoertocht-kollumerzwaag/",
           "tags": [
             "Bromfiets"
           ],
@@ -5497,6 +5394,20 @@
           "url": "https://brommerritten.nl/ritten/open-toerrit-bleiswijk/",
           "tags": [
             "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-3643",
+          "title": "Toertocht Oldtimerclub SPLO Holten",
+          "start": "2026-09-06T09:30:00+02:00",
+          "end": "2026-09-06T17:00:00+02:00",
+          "location": "Valeweg 3 Holten, Holten (Overijssel)",
+          "description": "Zondag 6 september is het weer zover! Onze 2 jaarlijkse toertocht voor brommers en tractoren. LET OP! Startpunt is bij Melkveebedrijf ten Dam, Valeweg 3 in Holten ( iets verder dan ons gebruikelijke startpunt)",
+          "url": "https://brommerritten.nl/ritten/toertocht-oldtimerclub-splo-holten/",
+          "tags": [
+            "Bromfiets",
+            "Tractor"
           ],
           "country": "Nederland"
         },
@@ -5953,20 +5864,6 @@
           "tags": [
             "Toertocht",
             "Hulpmotor"
-          ]
-        },
-        {
-          "id": "serskampse-oldtimer-tour-2026",
-          "title": "Serskampse Oldtimer Tour",
-          "start": "2026-08-23T09:00:00+02:00",
-          "end": "2026-08-23T17:00:00+02:00",
-          "location": "Terreinen Esveeka, Nieuwstraat 48D, Serskamp (Oost-Vlaanderen)",
-          "country": "België",
-          "description": "11de editie ('Dress 'n Ride'), open voor alle oldtimers incl. bromfietsen en scooters. Live muziek, kinderanimatie en marktkramen.",
-          "url": "http://serskampseoldtimertour.be/",
-          "tags": [
-            "Toertocht",
-            "Beurs"
           ]
         },
         {

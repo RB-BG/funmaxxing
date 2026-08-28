@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T16:15:36.344Z",
+  "updatedAt": "2026-08-28T17:13:37.278Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -1847,26 +1847,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "480152",
-          "title": "Brother Wallace",
-          "start": "2026-08-27T20:15:00+02:00",
-          "end": "2026-08-27T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse soulzanger Brother Wallace is recent begonnen aan zijn solocarrière, na jarenlang als achtergrondzanger getourd te hebben met de Engelse soul-rockband The Heavy. Zijn samenwerking met The Heavy-gitarist Dan Taylor resulteerde in het debuutalbum Electric Love (2026). Op dit album…",
-          "url": "https://www.podiuminfo.nl/concert/480152/Brother-Wallace/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "461003",
-          "title": "Hannah Juanita",
-          "start": "2026-08-27T20:30:00+02:00",
-          "end": "2026-08-27T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "‘I’m a honky tonkin’ baby, with a hardliner blues’ is de eerste regel van het nieuwe, tweede album Tennessee Songbird (2025) van de Amerikaanse countryzangeres Hannah Juanita. Dit liedje omschrijft haar levensstijl en muzikale stijl. Juanita's muziek neemt luisteraars mee naar broeierige…",
-          "url": "https://www.podiuminfo.nl/concert/461003/Hannah-Juanita/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "487586",
           "title": "YIP in de Lutherse Kerk",
           "start": "2026-08-28T13:30:00+02:00",
@@ -2075,6 +2055,26 @@
           "description": "De Japans-Amerikaanse zanger en multi-instrumentalist Kishi Bashi, alias Kaoru Ishibashi, viert het tienjarig jubileum van zijn album \"Sonderlust\" (2016). Kishi Bashi begon zijn carrière in 2010 als violist bij Of Montreal, maar bouwde al snel een solo-carrière op met vijf albums. Hij staat bekend…",
           "url": "https://www.podiuminfo.nl/concert/460245/Kishi-Bashi-Sonderlust-10th-Anniversary-tour-/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "452735",
+          "title": "Foy Vance",
+          "start": "2026-09-08T19:15:00+02:00",
+          "end": "2026-09-08T20:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De fraai besnorde Noord-Ierse singer-songwriter Foy Vance brengt een kenmerkende mix van rock, folk en blues, gezongen met zijn rauwe en soulvolle stem. Hij wordt vaak vergeleken met artiesten als Van Morrison, Ray LaMontagne of Glen Hansard. Vance heeft zijn laatste vier albums uitgebracht bij het…",
+          "url": "https://www.podiuminfo.nl/concert/452735/Foy-Vance/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "490950",
+          "title": "Salsa on Tuesday",
+          "start": "2026-09-08T20:15:00+02:00",
+          "end": "2026-09-08T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Salsa on Tuesday verwelkomt iedereen, van beginners tot gevorderden, voor een avond vol dans in de Vrije Ruimte van TivoliVredenburg. Dj’s draaien een mix van klassieke en hedendaagse salsa hits, waardoor een levendige en gastvrije sfeer ontstaat. De avond begint met een workshop, ideaal om de…",
+          "url": "https://www.podiuminfo.nl/concert/490950/Salsa-on-Tuesday/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2111,7 +2111,17 @@
           "start": "2026-09-02T19:00:00+02:00",
           "end": "2026-09-02T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Fatherfog - Fairytale Horror [Beginner friendly] Wed 2/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Character level 0 Location: Silver Heron Studios, Utrecht ᛭ Time: Walk in at 18.30, Starting at 19:00 ᛭ Participation fee: €5 ᛭ No need to bring or know anything about RPGs (if…",
+          "description": "Fatherfog - Fairytale Horror [Beginner friendly] Wed 2/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Alan Gerding \"Once upon a time, the land was full of hope and the people told tales of happily ever after. Then the Fog spilled forth, wrapping its nebulous tendrils…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "607102",
+          "title": "i'm sorry did you say street magic (beginner friendly!)",
+          "start": "2026-09-02T19:00:00+02:00",
+          "end": "2026-09-02T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "i'm sorry did you say street magic (beginner friendly!) Wed 2/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Caro Asercion i'm sorry did you say street magic is a GMless city-building story game for two to six players, that runs three or more hours. Discover and imagine…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2215,18 +2225,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-23216",
-          "title": "Weekly Draft",
-          "start": "2026-08-27T19:00:00+02:00",
-          "end": "2026-08-27T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-124/",
-          "tags": [
-            "Draft"
-          ]
-        },
         {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
@@ -2477,45 +2475,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-the-lyrebirds-collective",
-          "title": "The Lyrebirds (live)",
-          "start": "2026-08-28T00:00:00+02:00",
-          "end": "2026-08-28T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/the-lyrebirds-collective/",
-          "tags": [
-            "Live muziek",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-utrecht-welcome-week",
-          "title": "Besloten Event: the Utrecht Welcome Week",
-          "start": "2026-08-28T00:00:00+02:00",
-          "end": "2026-08-28T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/utrecht-welcome-week/",
-          "tags": []
-        },
-        {
-          "id": "beton-wanna-hang-out",
-          "title": "Wanna hang out?",
-          "start": "2026-08-28T00:00:00+02:00",
-          "end": "2026-08-28T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/wanna-hang-out/",
-          "tags": [
-            "Dans",
-            "Eten / Drinken",
-            "Live muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-epoca",
           "title": "La Época – The Nueva York Salsa Block Party | Live Band & 100% Vinyl",
           "start": "2026-08-29T00:00:00+02:00",
@@ -2622,6 +2581,20 @@
             "Muziek",
             "Workshop"
           ]
+        },
+        {
+          "id": "beton-buitenspeelavond-voor-volwassenen-11",
+          "title": "Buitenspeelavond voor volwassenen – ‘Best of’ editie",
+          "start": "2026-09-03T00:00:00+02:00",
+          "end": "2026-09-03T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/buitenspeelavond-voor-volwassenen-11/",
+          "tags": [
+            "Eten / Drinken",
+            "Sport",
+            "Terras"
+          ]
         }
       ]
     },
@@ -2633,6 +2606,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260926-return-to-the-batcave",
+          "title": "Return to the Batcave",
+          "start": "2026-09-26T00:00:00+02:00",
+          "end": "2026-09-26T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 26th. Lifeless Past & Fangs on Fur. RETURN TO THE BATCAVE! Fangs on Fur and Lifeless Past Be there",
+          "url": "https://acu.nl/events/20260926/return-to-the-batcave",
+          "tags": []
+        },
         {
           "id": "acu-20261018-foul-film-festival",
           "title": "Foul Film Festival",
@@ -2681,26 +2664,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "October 16th. Silent Call Collective presents. Silent Call Collective presents: Nothing Works (DE) Nothing Works, formed in late 2022, has quickly established itself as one of the most exciting new bands to emerge from Berlin’s underground. Drawing on ’90s indie and alternative while embracing the…",
           "url": "https://acu.nl/events/20261016/nothing-works-static-vision-tba",
-          "tags": []
-        },
-        {
-          "id": "acu-20260828-bankra-bike-sounds",
-          "title": "Bankra Bike Sounds",
-          "start": "2026-08-28T00:00:00+02:00",
-          "end": "2026-08-28T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "August 28th. Global bass, Electro, DnB, Baile/UK Funk. Bankra Bangers, to celebrate the europe tour of the Bankra Bike Sound System of this year we do an ‘allstar’ session. We’ve played Couleur Cafe (BE), Les Nuits de Secrets (FR) and Zwarte Cross (NL) and now we can hit our home town to close off…",
-          "url": "https://acu.nl/events/20260828/bankra-bike-sounds",
-          "tags": []
-        },
-        {
-          "id": "acu-20260828-heavy-jam-2",
-          "title": "Heavy Jam",
-          "start": "2026-08-28T00:00:00+02:00",
-          "end": "2026-08-28T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "August 28th. With Cream Cheese. Crank the amps, grab your instrument and come make some noise. We’re hosting a heavy jam session at ACU for anyone into metal, hardcore, punk, grunge, stoner, doom or anything loud and heavy. Whether you’ve been playing for years or just want to jump in and see what…",
-          "url": "https://acu.nl/events/20260828/heavy-jam-2",
           "tags": []
         }
       ]
@@ -3056,26 +3019,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "76763",
-          "title": "Candlelight: A tribute to Hans Zimmer",
-          "start": "2026-08-27T20:00:00.000Z",
-          "end": "2026-08-27T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76763",
-          "description": "Hans Zimmer - Time from Inception<BR>Hans Zimmer / Elton John - This Land from The Lion King<BR>Hans Zimmer - Zooster’s Breakout from Madagascar<BR>Hans Zimmer - Supermarine from Dunkirk<BR>Hans Zimmer - Honor from The Pacific<BR>Hans Zimmer / James Newton Howard - A Dark Knight from The Dark",
-          "tags": []
-        },
-        {
-          "id": "77666",
-          "title": "Groningens Ontzet",
-          "start": "2026-08-27T20:00:00.000Z",
-          "end": "2026-08-27T23:00:00.000Z",
-          "location": "Groningen, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77666",
-          "description": "The North Netherlands Symphony Orchestra is back at the Ossenmarkt! <BR><BR>On August 27, we will celebrate the Relief of Groningen together with a festive open-air concert led by conductor Joost Geevers.<BR><BR>With presenter Olaf Vos, it promises to be an evening full of recognizable music, great",
-          "tags": []
-        },
         {
           "id": "77139",
           "title": "Candlelight Concerts: A tribute to Hans Zimmer",

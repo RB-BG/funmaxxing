@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T17:13:37.278Z",
+  "updatedAt": "2026-08-29T11:32:02.183Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,16 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001077",
-          "title": "NEW CANDYS (IT) + Laura Palmer + DJ Steve",
-          "start": "2026-08-28T20:00:00+02:00",
-          "end": "2026-08-28T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Iets minder dan een jaar geleden lieten the New Candys al bij ons op het podium zien en horen waarom zij tot een van de meest intrigerende namen uit de internationale alternatieve rockscene behoren. Goed nieuws, New Candys komen deze vrijdag weer terug! \n𝗡𝗘𝗪 𝗖𝗔𝗡𝗗𝗬𝗦 – gevormd rond frontman…",
-          "url": "https://dbstudio.nl/event/new-candys-it/",
-          "tags": []
-        },
         {
           "id": "10001054",
           "title": "Ballroom Blitz",
@@ -415,6 +405,20 @@
             "Hardcore",
             "Pop Punk"
           ]
+        },
+        {
+          "id": "10001086",
+          "title": "JOHN COFFEY",
+          "start": "2026-10-10T20:00:00+01:00",
+          "end": "2026-10-10T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "** Tickets gaan vrijdag 19 juni 11 AM in de verkoop ** \nOver John Coffey kan je intussen wel een jongensboek schrijven. De opkomst, het gevangen biertje van Pinkpop, het afscheid en de terugkeer maar feit is dat deze jongens uit Utrecht bij hun herintrede op de podia in 2023 de draad harder dan…",
+          "url": "https://dbstudio.nl/event/john-coffey/",
+          "tags": [
+            "Hardcore",
+            "Metal",
+            "Screamo"
+          ]
         }
       ]
     },
@@ -464,16 +468,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Onvervalste trans girl power, verpakt in een explosieve mix van hyperpop, rave en futuristisch clubgeluid. Nederlands queer popfenomeen Alice Olsthoorn is van alle markten thuis. Als muzikant, producer, dj en YouTuber beweegt ze moeiteloos tussen verschillende werelden. Met haar hyperpopsingle…",
           "url": "https://ekko.nl/event/alice-olsthoorn-1/",
-          "tags": []
-        },
-        {
-          "id": "29074",
-          "title": "Prostitute",
-          "start": "2026-08-28T20:00:00+02:00",
-          "end": "2026-08-28T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Prostitute is een experimentele postpunk- en noiserockband uit Michigan, bekend om hun compromisloze sound en intense liveshows. Met invloeden uit Arabische muziek, industrial en noise creëren ze een rauw en hypnotiserend geluid dat zowel chaotisch als doordacht is. Tijdens de laatste editie van Le…",
-          "url": "https://ekko.nl/event/prostitute/",
           "tags": []
         },
         {
@@ -684,16 +678,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Carson McHone is een singer-songwriter en beeldend kunstenaar uit Austin, Texas, die inmiddels haar thuis heeft gevonden in het Canadese Ontario. Haar muziek beweegt zich op het snijvlak van gitaarrock, pastorale folk en poëzie, en put uit uiteenlopende bronnen als veldopnames, haar herinneringen…",
           "url": "https://ekko.nl/event/carson-mchone/",
-          "tags": []
-        },
-        {
-          "id": "30080",
-          "title": "Diep In De Groef",
-          "start": "2026-08-28T23:30:00+02:00",
-          "end": "2026-08-29T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak kunt spotten op festivals…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-221/",
           "tags": []
         },
         {
@@ -1126,16 +1110,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-cyberia-reunion-rotersand-28-08-2026",
-          "title": "Cyberia Reunion + Rotersand",
-          "start": "2026-08-28T20:00:00+02:00",
-          "end": "2026-08-29T02:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Dansen tussen de schaduwen op de beste new wave, electro en goth",
-          "url": "https://dehelling.nl/agenda/cyberia-reunion-rotersand-28-08-2026/",
-          "tags": []
-        },
         {
           "id": "helling-breakdown-29-08-2026",
           "title": "Breakdown",
@@ -1847,36 +1821,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "487586",
-          "title": "YIP in de Lutherse Kerk",
-          "start": "2026-08-28T13:30:00+02:00",
-          "end": "2026-08-28T14:30:00.000Z",
-          "location": "Lutherse Kerk, Hamburgerstraat 9, Utrecht",
-          "description": "YIP treedt op in de Lutherse Kerk als onderdeel van de serie 'Kerken Luisteren', een reeks gratis middagconcerten georganiseerd door ZIMIHC en Kerken Kijken Utrecht. Deze concerten vinden plaats van 26 juni tot en met 3 september in zeven kerken in de Utrechtse binnenstad en bieden diverse…",
-          "url": "https://www.podiuminfo.nl/concert/487586/YIP-in-de-Lutherse-Kerk/Lutherse-Kerk/",
-          "tags": []
-        },
-        {
-          "id": "460689",
-          "title": "Missio",
-          "start": "2026-08-28T20:00:00+02:00",
-          "end": "2026-08-28T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Amerikaanse duo MISSIO mengt alternatieve rock, synthpop en andere elektronica tot nummers die tegelijkertijd donker en meezingbaar zijn. Door de koele synths en harde beats doet MISSIO soms denken aan de new wave en industrial uit de jaren tachtig en negentig, al klinkt hun werk door de…",
-          "url": "https://www.podiuminfo.nl/concert/460689/Missio/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "474376",
-          "title": "Fiesta Macumba - Summer of Macumba",
-          "start": "2026-08-28T23:55:00+02:00",
-          "end": "2026-08-29T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Fiesta Macumba keert op 28 augustus terug naar TivoliVredenburg in Utrecht voor een onvergetelijke Summer of Macumba night. Bezoekers kunnen een avond verwachten vol dansen, flirten en genieten van de lekkerste Música Latina, zowel van toen als nu. Het evenement staat bekend om zijn molotovcocktail…",
-          "url": "https://www.podiuminfo.nl/concert/474376/Fiesta-Macumba-Summer-of-Macumba/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "453594",
           "title": "The Living Tombstone",
           "start": "2026-08-29T20:00:00+02:00",
@@ -2075,6 +2019,26 @@
           "description": "Salsa on Tuesday verwelkomt iedereen, van beginners tot gevorderden, voor een avond vol dans in de Vrije Ruimte van TivoliVredenburg. Dj’s draaien een mix van klassieke en hedendaagse salsa hits, waardoor een levendige en gastvrije sfeer ontstaat. De avond begint met een workshop, ideaal om de…",
           "url": "https://www.podiuminfo.nl/concert/490950/Salsa-on-Tuesday/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "457339",
+          "title": "Lucinda Williams & Band",
+          "start": "2026-09-09T20:00:00+02:00",
+          "end": "2026-09-09T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse singer-songwriter Lucinda Williams behoort tot de Hele Groten van de countryrock, zeker sinds haar doorbraak met Car Wheels On A Gravel Road (1998), een ronduit perfect roots-album. Inmiddels heeft de zangeres drie Grammy's en is ze alweer vele platen verder, met hoogtepunten als…",
+          "url": "https://www.podiuminfo.nl/concert/457339/Lucinda-Williams-Band/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "486664",
+          "title": "Rabo Open Stage: The Intimate Sessions",
+          "start": "2026-09-09T20:00:00+02:00",
+          "end": "2026-09-09T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Rabo Open Stage presenteert 'The Intimate Sessions', een tweemaandelijkse singer-songwriteravond waar aanstormend talent een podium krijgt. In de intieme setting van de centrale hal bij Café Het Gegeven Paard schijnen drie singer-songwriters hun licht op de wereld. De avond is gratis toegankelijk…",
+          "url": "https://www.podiuminfo.nl/concert/486664/Rabo-Open-Stage-The-Intimate-Sessions/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2172,6 +2136,16 @@
           "end": "2026-09-09T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Wanderhome - cicada season (beginner friendly!) Wed 9/9 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "607122",
+          "title": "The Devil’s Dandy Dogs (Beginner Friendly)",
+          "start": "2026-09-16T19:00:00+02:00",
+          "end": "2026-09-16T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "The Devil’s Dandy Dogs (Beginner Friendly) Wed 16/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Character level 0 -- Info box ------------------------------- Where: Silver Heron When: Walk-in from 18:30, start at 19:00 Participation fee: €5 Prep: no need to bring or know anything…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2475,19 +2449,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-epoca",
-          "title": "La Época – The Nueva York Salsa Block Party | Live Band & 100% Vinyl",
-          "start": "2026-08-29T00:00:00+02:00",
-          "end": "2026-08-29T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/epoca/",
-          "tags": [
-            "Dans",
-            "Muziek"
-          ]
-        },
-        {
           "id": "beton-technoyoga",
           "title": "Yotecha – Techno Yoga",
           "start": "2026-08-30T00:00:00+02:00",
@@ -2595,6 +2556,49 @@
             "Sport",
             "Terras"
           ]
+        },
+        {
+          "id": "beton-gratis-disco-festival-gehost-door-leroy-rey",
+          "title": "Gratis DISCO Festival | Gehost door Leroy Rey",
+          "start": "2026-09-04T00:00:00+02:00",
+          "end": "2026-09-04T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/gratis-disco-festival-gehost-door-leroy-rey/",
+          "tags": [
+            "Dans",
+            "Festival",
+            "Gratis",
+            "Muziek"
+          ]
+        },
+        {
+          "id": "beton-de-witte-kunst-live",
+          "title": "De Witte Kunst (live)",
+          "start": "2026-09-04T00:00:00+02:00",
+          "end": "2026-09-04T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/de-witte-kunst-live/",
+          "tags": [
+            "Gratis",
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-witte-was-festival",
+          "title": "Witte Was Festival",
+          "start": "2026-09-05T00:00:00+02:00",
+          "end": "2026-09-05T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/witte-was-festival/",
+          "tags": [
+            "Festival",
+            "Muziek",
+            "Verhoogd geluidslimiet"
+          ]
         }
       ]
     },
@@ -2676,19 +2680,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001495-1787961540-1787983200",
-          "title": "BASIS Talent Night/ Flexusz/ KROM/ LIRIOS/ N9S",
-          "start": "2026-08-28T23:59:00+02:00",
-          "end": "2026-08-29T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-talent-night-flexusz-krom-lirios-n9s/",
-          "tags": [
-            "Bass",
-            "UK Garage"
-          ]
-        },
         {
           "id": "basis-utrecht-10001498-1788047940-1788069600",
           "title": "BASIS/ FØSS/ Paralich/ RSCL/ Tell Moore",
@@ -2969,16 +2960,6 @@
       "scene": "utrecht",
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
-        {
-          "id": "festival-strand",
-          "title": "Festival Strand",
-          "start": "2026-08-28T13:00:00+00:00",
-          "end": "2026-08-29T23:00:00+00:00",
-          "location": "Haarrijnseplas, Utrecht",
-          "description": "Festival Strand vindt plaats op 28 & 29 augustus 2026. Bekijk hier de line-up, ticketinfo en sfeer van Strand.",
-          "url": "https://festivalfans.nl/event/festival-strand/",
-          "tags": []
-        },
         {
           "id": "lief-festival",
           "title": "Lief Festival",
@@ -5156,20 +5137,7 @@
       "icon": "🛡️",
       "scene": "middeleeuwen",
       "feedUrl": "https://www.kasteelhoensbroek.nl/wat-is-er-te-doen/",
-      "events": [
-        {
-          "id": "hoensbroek-ridderfestijn-2026",
-          "title": "Spectaculair Ridderfestijn Kasteel Hoensbroek 2026",
-          "start": "2026-10-17T10:00:00+01:00",
-          "end": "2026-10-18T17:00:00+01:00",
-          "location": "Kasteel Hoensbroek, Hoensbroek",
-          "description": "Spectaculaire strijd om de Heerlijkheid Hoensbroeck. Ridders te paard op het toernooiveld.",
-          "url": "https://www.kasteelhoensbroek.nl/wat-is-er-te-doen/spectaculair-ridderfestijn/",
-          "tags": [
-            "Riddertoernooi"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "montfort",
@@ -5284,17 +5252,6 @@
           "country": "Italy",
           "description": "Buhurt-toernooi in Italy.",
           "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
-          "tags": []
-        },
-        {
-          "id": "bi-sudovo-cup",
-          "title": "Sudovo Cup 2026",
-          "start": "2026-08-29T00:00:00+02:00",
-          "end": "2026-08-29T23:00:00+02:00",
-          "location": "Czech Republic",
-          "country": "Czech Republic",
-          "description": "Buhurt-toernooi in Czech Republic.",
-          "url": "https://www.buhurtinternational.com/tournament/sudovo-cup",
           "tags": []
         },
         {

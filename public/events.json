@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T11:32:02.183Z",
+  "updatedAt": "2026-08-30T10:22:39.702Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001054",
-          "title": "Ballroom Blitz",
-          "start": "2026-08-29T23:00:00+02:00",
-          "end": "2026-08-30T03:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Wars van trends maar niet vies van vette hits… elke laatste zaterdag van de maand turns in a Ballroom Blitz. Een feestje voor de zoekenden, de losgelatenen en de wonderkinderen.  It is like lightning and the music is grooving. \nHeb je een onbedwingbare drang tot dansen maar zijn er veel te veel…",
-          "url": "https://dbstudio.nl/event/ballroom-blitz-8-6/",
-          "tags": [
-            "Ballroom Blitz"
-          ]
-        },
         {
           "id": "10001096",
           "title": "Gratis terrasconcert > JESUS EVIL HIGHWAY",
@@ -419,6 +407,19 @@
             "Metal",
             "Screamo"
           ]
+        },
+        {
+          "id": "10001098",
+          "title": "DEATHCHANT (USA)",
+          "start": "2026-10-14T20:00:00+01:00",
+          "end": "2026-10-14T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "𝐃𝐄𝐀𝐓𝐇𝐂𝐇𝐀𝐍𝐓 uit Los Angeles is typisch zo’n band die je live moet ondergaan. Heavy rock zoals het bedoeld is met referenties aan Thin Lizzy, Motorhead en uiteraard Black Sabbath. Full on Rock met de twee gitaristen  T.J. Lemieux (Psychedelic Speed Freaks, Child, Babylon) & Doug Stuckey…",
+          "url": "https://dbstudio.nl/event/deathchant-usa/",
+          "tags": [
+            "Hard Rock",
+            "Metal"
+          ]
         }
       ]
     },
@@ -658,16 +659,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
           "url": "https://ekko.nl/event/club-ekko-35/",
-          "tags": []
-        },
-        {
-          "id": "30490",
-          "title": "Housewarming",
-          "start": "2026-08-29T23:30:00+02:00",
-          "end": "2026-08-30T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Stap binnen bij Housewarming, de nacht waar de dansvloer voelt als thuiskomen. Waar house de fundering is, de muren zijn beklad met disco en funk de ruimte vult. Samen bouwen we aan een (t)huis waar het grote licht uit staat, de stoelen en banken aan de kant zijn geschoven en je de videobanden niet…",
-          "url": "https://ekko.nl/event/housewarming-6/",
           "tags": []
         },
         {
@@ -1110,16 +1101,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-breakdown-29-08-2026",
-          "title": "Breakdown",
-          "start": "2026-08-29T22:00:00+02:00",
-          "end": "2026-08-30T04:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Een crossover van metalcore en drum & bass",
-          "url": "https://dehelling.nl/agenda/breakdown-29-08-2026/",
-          "tags": []
-        },
         {
           "id": "helling-summer-of-pride-kiki-iii-30-08-2026",
           "title": "Summer of Pride Kiki III",
@@ -1821,26 +1802,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "453594",
-          "title": "The Living Tombstone",
-          "start": "2026-08-29T20:00:00+02:00",
-          "end": "2026-08-29T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "The internet's biggest gaming band - De Israëlisch-Amerikaanse band The Living Tombstone wordt ook wel ‘the internet's biggest gaming band’ genoemd. De twee kernleden, Yoav Landau en Sam Haft, vergaarden vanaf 2011 hun eerste online successen met nummers geïnspireerd door games als Five Nights at…",
-          "url": "https://www.podiuminfo.nl/concert/453594/The-Living-Tombstone/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "462912",
-          "title": "Hush: AAT, Easttown e.a.",
-          "start": "2026-08-29T23:55:00+02:00",
-          "end": "2026-08-30T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Hush is een evenement waar housemuziek centraal staat, gericht op zowel doorgewinterde liefhebbers als nieuwkomers. De avond belooft onvergetelijke house vibes te leveren. AAT, een snel opkomende house-DJ uit Den Haag, bekend van festivals als Loveland en Awakenings, brengt haar groovy sound en…",
-          "url": "https://www.podiuminfo.nl/concert/462912/Hush-AAT-Easttown-e-a-/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "453917",
           "title": "The Living Tombstone",
           "start": "2026-08-30T20:00:00+02:00",
@@ -2038,6 +1999,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Rabo Open Stage presenteert 'The Intimate Sessions', een tweemaandelijkse singer-songwriteravond waar aanstormend talent een podium krijgt. In de intieme setting van de centrale hal bij Café Het Gegeven Paard schijnen drie singer-songwriters hun licht op de wereld. De avond is gratis toegankelijk…",
           "url": "https://www.podiuminfo.nl/concert/486664/Rabo-Open-Stage-The-Intimate-Sessions/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "440408",
+          "title": "Colin Edwin and John Wesley’s Voyage 35",
+          "start": "2026-09-10T20:00:00+02:00",
+          "end": "2026-09-10T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het oudere, psychedelische werk van de Engelse progrockband Porcupine Tree komt weer tot leven in Voyage 35, het nieuwe liveproject van voormalig Porcupine Tree-bassist Colin Edwin. Samen met Porcupine Tree’s voormalige livegitarist John Wesley (en andere muzikanten) brengt hij materiaal vanaf het…",
+          "url": "https://www.podiuminfo.nl/concert/440408/Colin-Edwin-and-John-Wesley-s-Voyage-35/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2449,18 +2420,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-technoyoga",
-          "title": "Yotecha – Techno Yoga",
-          "start": "2026-08-30T00:00:00+02:00",
-          "end": "2026-08-30T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/technoyoga/",
-          "tags": [
-            "Workshop"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-14",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-08-31T00:00:00+02:00",
@@ -2599,6 +2558,20 @@
             "Muziek",
             "Verhoogd geluidslimiet"
           ]
+        },
+        {
+          "id": "beton-lees-dit-boekenclub-2",
+          "title": "LEES DIT! Boekenclub",
+          "start": "2026-09-06T00:00:00+02:00",
+          "end": "2026-09-06T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lees-dit-boekenclub-2/",
+          "tags": [
+            "Kunst",
+            "Panelgesprek",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2610,6 +2583,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260919-out-of-sight-21",
+          "title": "Out of sight",
+          "start": "2026-09-19T00:00:00+02:00",
+          "end": "2026-09-19T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 19th. Out of Sight returns from the Summer. Expect the very best in all things 1960s. From Northern Soul to Garage, from Rockn’Roll to Ska. With Jason and Helen the Souldrippin DJ team and The Shake! supplying the tunes. We have a storming night in store. Starting at 23:00 until 2:00…",
+          "url": "https://acu.nl/events/20260919/out-of-sight-21",
+          "tags": []
+        },
         {
           "id": "acu-20260926-return-to-the-batcave",
           "title": "Return to the Batcave",
@@ -2659,16 +2642,6 @@
           "description": "September 4th. Roots/Dub/Jungle soundsystem party!. Acu’s very own dub party! Newly founded soundsystem by aspiring soundpeople coming to Acu for their inaugural session. Expect real roots reggae, live dub mixes and musicians, filthy steppers and even some deep dubstep and jungle in the mix. The…",
           "url": "https://acu.nl/events/20260904/dubtrecht",
           "tags": []
-        },
-        {
-          "id": "acu-20261016-nothing-works-static-vision-tba",
-          "title": "Nothing Works + Static Vision + Undertone",
-          "start": "2026-10-16T00:00:00+01:00",
-          "end": "2026-10-16T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 16th. Silent Call Collective presents. Silent Call Collective presents: Nothing Works (DE) Nothing Works, formed in late 2022, has quickly established itself as one of the most exciting new bands to emerge from Berlin’s underground. Drawing on ’90s indie and alternative while embracing the…",
-          "url": "https://acu.nl/events/20261016/nothing-works-static-vision-tba",
-          "tags": []
         }
       ]
     },
@@ -2680,19 +2653,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001498-1788047940-1788069600",
-          "title": "BASIS/ FØSS/ Paralich/ RSCL/ Tell Moore",
-          "start": "2026-08-29T23:59:00+02:00",
-          "end": "2026-08-30T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-foss-paralich-rscl-tell-moore/",
-          "tags": [
-            "Bounce",
-            "Hard house"
-          ]
-        },
         {
           "id": "basis-utrecht-10001488-1788562800-1788588000",
           "title": "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90",
@@ -4748,16 +4708,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-prikkelarme-openstelling-3-2026",
-          "title": "Prikkelarme openstelling",
-          "start": "2026-08-29T10:00:00+02:00",
-          "end": "2026-08-29T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-3/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-mindful-muiderslot-yoga-5-2026",
           "title": "Mindful Muiderslot: yoga &#8211; 5 sep 2026",
           "start": "2026-09-05T10:00:00+02:00",
@@ -4788,16 +4738,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-mindful-wandeling-muiderslot-2026",
-          "title": "Mindful wandeling Muiderslot",
-          "start": "2026-10-01T10:00:00+01:00",
-          "end": "2026-10-31T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
           "title": "Maand van de Geschiedenis op het Muiderslot",
           "start": "2026-10-01T10:00:00+01:00",
@@ -4805,6 +4745,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-mindful-wandeling-muiderslot-2026",
+          "title": "Mindful wandeling Muiderslot",
+          "start": "2026-10-01T10:00:00+01:00",
+          "end": "2026-10-31T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
           "tags": []
         },
         {
@@ -5297,59 +5247,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-897",
-          "title": "Beleef de JMPB BromfieTTs 2026",
-          "start": "2026-08-29T08:00:00+02:00",
-          "end": "2026-08-29T17:00:00+02:00",
-          "location": "de Haar 9 Assen, Assen (Drenthe)",
-          "description": "Kom gezellig &#8216;Brommen op de TT-baan&#8217; tijdens het grootste bromfietsevenement van Nederland Duik in de zomer van 2026 samen met vele andere bromfietsers weer voor één dag terug in de brommertijd? Beleef op zaterdag 29 augustus de JMPB BromfieTTs, de TT voor bromfietsen. Rijd met jouw…",
-          "url": "https://brommerritten.nl/ritten/beleef-de-jmpb-bromfietts-2024/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3650",
-          "title": "Oldtimerrit voor motoren en bromfietsen Oudleusen",
-          "start": "2026-08-29T10:30:00+02:00",
-          "end": "2026-08-29T17:00:00+02:00",
-          "location": "Haverland Oudleusen, Dalfsen (Oudleusen) (Overijssel)",
-          "description": "TOERTOCHT Dit jaar zowel een route voor motoren als voor brommers! Inschrijven is niet nodig! We zien jullie graag zaterdag 29 augustus, vanaf 10:30 staat de koffie klaar!",
-          "url": "https://brommerritten.nl/ritten/oldtimerrit-voor-motoren-en-bromfietsen-oudleusen/",
-          "tags": [
-            "Bromfiets",
-            "Motor"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1649",
-          "title": "de brommerrspeurrit Krimpen aan den IJssel",
-          "start": "2026-08-29T12:30:00+02:00",
-          "end": "2026-08-29T17:00:00+02:00",
-          "location": "van Utrechtweg 112 Krimpen aan den IJssel, Krimpen aan den IJssel (Zuid-Holland)",
-          "description": "Brommerrit door de Krimpenerwaard met foto opdrachten. Starten kan vanaf 13:00 tot 15:30, alleen of met een groepje. Route en opdrachten worden bij de start (Loods 41 in Krimpen aan den IJssel) in een enveloppe verstrekt. De meest creatieve deelnemers maken kans op leuke prijzen! &nbsp; vragen:…",
-          "url": "https://brommerritten.nl/ritten/de-brommerrspeurrit-krimpen-aan-den-ijssel/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3636",
-          "title": "Brommertoertocht Kollumerzwaag",
-          "start": "2026-08-29T12:30:00+02:00",
-          "end": "2026-08-29T17:00:00+02:00",
-          "location": "Foarwei 123 Kollumerzwaag, Kollumerzwaag (Friesland)",
-          "description": "Brommertoertocht Tijd: 12.30 uur De geur van benzine, knetterende uitlaten en een dosis oergezellige nostalgie. Wegens succes opnieuw op het programma: de brommertoertocht van ’t Lekke Bandsie. Deelnemers verzamelen zich om 12.30 uur voor de tent. Om 13.00 uur vertrekken de brommers voor een mooie…",
-          "url": "https://brommerritten.nl/ritten/brommertoertocht-kollumerzwaag/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-1934",
           "title": "Smoks Hannerit Zelhem",

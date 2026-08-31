@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T10:22:39.702Z",
+  "updatedAt": "2026-08-31T11:28:18.610Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,20 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001096",
-          "title": "Gratis terrasconcert > JESUS EVIL HIGHWAY",
-          "start": "2026-08-30T16:00:00+02:00",
-          "end": "2026-08-30T19:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Met hun donkere cocktail van Outlaw- and Hillbilly Country, Oldtime Mountain Music en Bluegrass afgetopt met een dosis rauwe Rockabilly maakt Jesus Evil Highway al enige jaren podia onveilig. Jesus Evil Highway speelt ouderwetse, ranzige country, recht uit het hart met een gitzwart randje. Lonesome…",
-          "url": "https://dbstudio.nl/event/gratis-terrasconcert-jesus-evil-highway/",
-          "tags": [
-            "Bluegrass",
-            "Concert",
-            "Country & Western"
-          ]
-        },
         {
           "id": "10001025",
           "title": "WYATT E. (BE) + Thistle Sifter",
@@ -420,6 +406,16 @@
             "Hard Rock",
             "Metal"
           ]
+        },
+        {
+          "id": "10001089",
+          "title": "MONDO DRAG (USA) + Early Moods (USA)",
+          "start": "2026-10-15T20:00:00+01:00",
+          "end": "2026-10-15T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "De Amerikaanse rockband 𝗠𝗢𝗡𝗗𝗢 𝗗𝗥𝗔𝗚 leunt zwaar op de psychedelische rock uit de sixties en seventies, maar heeft in de twintig jaar van zijn bestaan ook krautrock en vroege heavy metal aan hun sound toegevoegd. Op hun meest recente (vierde) album Through The Hourglass (2023) slaat de band…",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-mondo-drag-usa-early-moods/",
+          "tags": []
         }
       ]
     },
@@ -659,16 +655,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
           "url": "https://ekko.nl/event/club-ekko-35/",
-          "tags": []
-        },
-        {
-          "id": "29531",
-          "title": "Carson McHone",
-          "start": "2026-08-30T20:30:00+02:00",
-          "end": "2026-08-30T23:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Carson McHone is een singer-songwriter en beeldend kunstenaar uit Austin, Texas, die inmiddels haar thuis heeft gevonden in het Canadese Ontario. Haar muziek beweegt zich op het snijvlak van gitaarrock, pastorale folk en poëzie, en put uit uiteenlopende bronnen als veldopnames, haar herinneringen…",
-          "url": "https://ekko.nl/event/carson-mchone/",
           "tags": []
         },
         {
@@ -1101,16 +1087,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-summer-of-pride-kiki-iii-30-08-2026",
-          "title": "Summer of Pride Kiki III",
-          "start": "2026-08-30T17:00:00+02:00",
-          "end": "2026-08-30T23:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Andrea 007 presents: the return of the Summer of Pride Kiki part THREE!",
-          "url": "https://dehelling.nl/agenda/summer-of-pride-kiki-iii-30-08-2026/",
-          "tags": []
-        },
         {
           "id": "helling-90s-alternative-04-09-2026",
           "title": "90’s Alternative",
@@ -1732,6 +1708,16 @@
           "tags": []
         },
         {
+          "id": "helling-yong-yello-23-01-2027",
+          "title": "Yong Yello",
+          "start": "2027-01-23T20:00:00+01:00",
+          "end": "2027-01-23T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Veelzijdige Antwerpse rapper neemt je mee op een reis door het volledige spectrum van menselijke emoties",
+          "url": "https://dehelling.nl/agenda/yong-yello-23-01-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-international-burlesque-circus-13-02-2027",
           "title": "International Burlesque Circus",
           "start": "2027-02-13T21:00:00+01:00",
@@ -1801,16 +1787,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "453917",
-          "title": "The Living Tombstone",
-          "start": "2026-08-30T20:00:00+02:00",
-          "end": "2026-08-30T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Israëlisch-Amerikaanse band The Living Tombstone wordt ook wel ‘the internet's biggest gaming band’ genoemd. De twee kernleden, Yoav Landau en Sam Haft, vergaarden vanaf 2011 hun eerste online successen met nummers geïnspireerd door games als Five Nights at Freddy’s, Overwatch en My Little Pony",
-          "url": "https://www.podiuminfo.nl/concert/453917/The-Living-Tombstone/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "469108",
           "title": "Chuck Ragan",
@@ -2171,6 +2147,18 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
+          "id": "lab-monkey-23273",
+          "title": "Commander Tuesday",
+          "start": "2026-09-01T18:00:00+02:00",
+          "end": "2026-09-01T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-241/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
           "start": "2026-09-01T19:00:00+02:00",
@@ -2180,6 +2168,18 @@
           "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
           "tags": [
             "Ladies'(K)night"
+          ]
+        },
+        {
+          "id": "lab-monkey-23271",
+          "title": "Weekly Draft",
+          "start": "2026-09-03T19:00:00+02:00",
+          "end": "2026-09-03T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-125/",
+          "tags": [
+            "Draft"
           ]
         }
       ]
@@ -2420,75 +2420,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-14",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-08-31T00:00:00+02:00",
-          "end": "2026-08-31T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-14/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-37",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-08-31T00:00:00+02:00",
-          "end": "2026-08-31T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-37/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-19",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-08-31T00:00:00+02:00",
-          "end": "2026-08-31T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-19/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-36",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-08-31T00:00:00+02:00",
-          "end": "2026-08-31T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-36/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-14",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-08-31T00:00:00+02:00",
-          "end": "2026-08-31T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-14/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-51",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-09-02T00:00:00+02:00",
@@ -2570,6 +2501,20 @@
           "tags": [
             "Kunst",
             "Panelgesprek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-gentle-yoga-3",
+          "title": "Gentle Yoga",
+          "start": "2026-09-06T00:00:00+02:00",
+          "end": "2026-09-06T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/gentle-yoga-3/",
+          "tags": [
+            "Gratis",
+            "Workshop",
             "Kantine"
           ]
         }
@@ -4580,7 +4525,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -4698,16 +4644,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-presentatie-tropische-planten-2027",
-          "title": "Presentatie: Tropische planten",
-          "start": "2027-06-08T10:00:00+02:00",
-          "end": "2027-08-30T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/presentatie-tropische-planten/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-mindful-muiderslot-yoga-5-2026",
           "title": "Mindful Muiderslot: yoga &#8211; 5 sep 2026",
           "start": "2026-09-05T10:00:00+02:00",
@@ -4738,13 +4674,13 @@
           "tags": []
         },
         {
-          "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
-          "title": "Maand van de Geschiedenis op het Muiderslot",
-          "start": "2026-10-01T10:00:00+01:00",
-          "end": "2026-10-31T18:00:00+01:00",
+          "id": "muiderslot-kasteelclubs-2026",
+          "title": "Kasteelclubs Muiderslot",
+          "start": "2026-09-21T10:00:00+02:00",
+          "end": "2027-01-25T18:00:00+02:00",
           "location": "Muiderslot, Muiden",
           "description": "",
-          "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
+          "url": "https://muiderslot.nl/activiteit/kasteelclubs/",
           "tags": []
         },
         {
@@ -4755,6 +4691,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-maand-van-de-geschiedenis-op-het-muiderslot-2026",
+          "title": "Maand van de Geschiedenis op het Muiderslot",
+          "start": "2026-10-01T10:00:00+01:00",
+          "end": "2026-10-31T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
           "tags": []
         },
         {
@@ -4958,16 +4904,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2027-01",
-          "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
-          "start": "2027-01-03T10:00:00+01:00",
-          "end": "2027-01-03T18:00:00+01:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
-          "tags": []
-        },
-        {
           "id": "loevestein-oorlogsrecht-handboekbinden-2027-01",
           "title": "OORLOGSRECHT Handboekbinden. Te zien t/m",
           "start": "2027-01-03T10:00:00+01:00",
@@ -4975,6 +4911,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-handboekbinden/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2027-01",
+          "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
+          "start": "2027-01-03T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
           "tags": []
         }
       ]
@@ -5248,50 +5194,6 @@
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "brommerritten-nl-1934",
-          "title": "Smoks Hannerit Zelhem",
-          "start": "2026-08-30T09:00:00+02:00",
-          "end": "2026-08-30T17:00:00+02:00",
-          "location": "Burgemeester Langmanweg Zelhem, Zelhem (Gelderland)",
-          "description": "Een prachtige rit door de Achterhoek, met na afloop een geweldig gezellig feest op het marktplein van Zelhem. Er staan drie geweldige bands op ons koepelpodium.",
-          "url": "https://brommerritten.nl/ritten/smoks-hannerit-zelhem/",
-          "tags": [
-            "Auto",
-            "Bromfiets",
-            "Motor",
-            "Tractor",
-            "Truck"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-530",
-          "title": "Etten Leurse Bromfiets Vrienden Zomerrit 2026",
-          "start": "2026-08-30T09:30:00+02:00",
-          "end": "2026-08-30T17:00:00+02:00",
-          "location": "Hoevenseweg 48 Etten Leur, Etten Leur (Noord-Brabant)",
-          "description": "Op de laatste zondag van augustus organiseert de ELBV de Zomerrit. Bepijlde rit van circa 90 kilometer door het mooie West Brabantse landschap. Inschrijven vanaf 9.30 uur bij Café het Strooienhuis, Hoevenseweg 48 Etten Leur. Vertrek is om 11.00 uur. Bij inschrijving ontvangt u bonnen voor een…",
-          "url": "https://brommerritten.nl/ritten/etten-leurse-bromfiets-vrienden-zomerrit-2026/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3518",
-          "title": "Heusdense Heerenrit",
-          "start": "2026-08-30T12:30:00+02:00",
-          "end": "2026-08-30T17:00:00+02:00",
-          "location": "Raadhuisplein 11 Drunen, Drunen (Noord-Brabant)",
-          "description": "WIJ RIJDEN VOOR GIJSJE EIGENWIJSJE Met trots maken wij bekend dat de volledige opbrengst van De Heusdense Heerenrit 2026 ten goede komt aan Gijsje Eigenwijsje. Deze stichting zet zich in voor gezinnen met een ernstig ziek kind. Door bijzondere activiteiten en waardevolle herinneringen mogelijk te…",
-          "url": "https://brommerritten.nl/ritten/heusdense-heerenrit/",
-          "tags": [
-            "Bromfiets",
-            "Motor"
-          ],
-          "country": "Nederland"
-        },
-        {
           "id": "brommerritten-nl-1611",
           "title": "Authentieke dag Vreeswijk Nieuwegein",
           "start": "2026-09-05T08:00:00+02:00",
@@ -5346,6 +5248,19 @@
           "tags": [
             "Bromfiets",
             "Tractor"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-3667",
+          "title": "Poeldijkse Oldtimer Bromfietsmeeting met rit – Poeldijk",
+          "start": "2026-09-05T13:00:00+02:00",
+          "end": "2026-09-05T18:00:00+02:00",
+          "location": "Jupiter 56 Poeldijk, Poeldijk (Zuid-Holland)",
+          "description": "",
+          "url": "https://brommerritten.nl/ritten/poeldijkse-oldtimer-bromfietsmeeting-met-rit-poeldijk/",
+          "tags": [
+            "Bromfiets"
           ],
           "country": "Nederland"
         },
@@ -5449,19 +5364,6 @@
           "location": "Viaduct 3 Zurich, Zurich (Friesland)",
           "description": "Afgelopen jaar zijn we naar Texel geweest met de Buikschuivers. Het was waarschijnlijk één van de mooiste ritten van het afgelopen jaar. En daarom ook dit jaar op maandag 7 september weer de Texeltocht op de planning gezet. info later op: https://www.facebook.com/groups/2453063631435719",
           "url": "https://brommerritten.nl/ritten/texel-toertocht-buikschuivers/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3456",
-          "title": "8 Dorpen puzzeltocht voor oldtimer bromfietsen Buren",
-          "start": "2026-09-08T10:00:00+02:00",
-          "end": "2026-09-08T17:00:00+02:00",
-          "location": "Plantsoen 5 Buren (Gld.), Buren (Gelderland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/8-dorpen-puzzeltocht-voor-oldtimer-bromfietsen-buren/",
           "tags": [
             "Bromfiets"
           ],

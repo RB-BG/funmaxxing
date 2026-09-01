@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T11:28:18.610Z",
+  "updatedAt": "2026-09-01T09:51:45.631Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -67,7 +67,7 @@
           "start": "2026-09-06T12:30:00+02:00",
           "end": "2026-09-06T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "– 𝗦𝗣𝗜𝗡𝗩𝗜𝗦 \n– 𝗕𝗟𝗨𝗘 𝗚𝗥𝗔𝗦𝗦 𝗕𝗢𝗢𝗚𝗜𝗘𝗠𝗘𝗡 \n– 𝗛𝗔𝗟𝗟𝗢 𝗩𝗘𝗡𝗥𝗔𝗬 \n– 𝗝𝗘𝗦𝗖𝗢 \n– 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 𝗝𝗔𝗕𝗕𝗔𝗛 \nEr komt snel meer aan! We zien je graag zondag 6 september!",
+          "description": "– 𝗦𝗣𝗜𝗡𝗩𝗜𝗦 \n– 𝗕𝗟𝗨𝗘 𝗚𝗥𝗔𝗦𝗦 𝗕𝗢𝗢𝗚𝗜𝗘𝗠𝗘𝗡 \n– 𝗛𝗔𝗟𝗟𝗢 𝗩𝗘𝗡𝗥𝗔𝗬 \n– 𝗝𝗘𝗦𝗖𝗢 \n– 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 𝗝𝗔𝗕𝗕𝗔𝗛 \n– HEUG \n– IMETLAA \n– CLITTEBAND \n-DEGURUTIENI \n-BRUNO FERRO XAVIER DA SILVA \n– NOISE CART \n-PACESHIFTERS powered by THE VILLAGE  \n We zien je graag zondag 6 september!",
           "url": "https://dbstudio.nl/event/dbs-buiten-binnen-festival/",
           "tags": [
             "dB's Buiten",
@@ -1188,13 +1188,13 @@
           "tags": []
         },
         {
-          "id": "helling-earthdance-with-psychedelic-grateful-punks-19-09-2026",
-          "title": "Earthdance with Psychedelic Grateful Punks",
+          "id": "helling-psychedelic-grateful-punks-earthdance-19-09-2026",
+          "title": "Psychedelic Grateful Punks Earthdance",
           "start": "2026-09-19T23:59:00+02:00",
           "end": "2026-09-20T06:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Wereldwijde dans voor vrede met psychedelic trance",
-          "url": "https://dehelling.nl/agenda/earthdance-with-psychedelic-grateful-punks-19-09-2026/",
+          "url": "https://dehelling.nl/agenda/psychedelic-grateful-punks-earthdance-19-09-2026/",
           "tags": []
         },
         {
@@ -1445,6 +1445,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Gemaskerde rapper tilt Haagse trapsound naar een nieuw level",
           "url": "https://dehelling.nl/agenda/bartofso-31-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-tentacles-halloween-edition-31-10-2026",
+          "title": "Tentacles Halloween Edition",
+          "start": "2026-10-31T23:00:00+01:00",
+          "end": "2026-11-01T05:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Multigenre Rave - Halloween edition",
+          "url": "https://dehelling.nl/agenda/tentacles-halloween-edition-31-10-2026/",
           "tags": []
         },
         {
@@ -1713,7 +1723,7 @@
           "start": "2027-01-23T20:00:00+01:00",
           "end": "2027-01-23T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Veelzijdige Antwerpse rapper neemt je mee op een reis door het volledige spectrum van menselijke emoties",
+          "description": "Antwerpse rapper neemt je mee door het spectrum van menselijke emoties",
           "url": "https://dehelling.nl/agenda/yong-yello-23-01-2027/",
           "tags": []
         },
@@ -2078,11 +2088,11 @@
         },
         {
           "id": "607007",
-          "title": "Wanderhome - cicada season (beginner friendly!)",
+          "title": "Wanderhome - cicada season (beginner friendly!) ***2 TABLES***",
           "start": "2026-09-09T19:00:00+02:00",
           "end": "2026-09-09T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - cicada season (beginner friendly!) Wed 9/9 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled…",
+          "description": "Wanderhome - cicada season (beginner friendly!) ***2 TABLES*** Wed 9/9 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2386,7 +2396,8 @@
       "icon": "🌸",
       "scene": "games",
       "feedUrl": "https://abunaicon.nl/",
-      "events": []
+      "events": [],
+      "broken": true
     },
     {
       "id": "animecon",
@@ -2517,6 +2528,71 @@
             "Workshop",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-besloten-event-3",
+          "title": "Out With A Bang –",
+          "start": "2026-09-06T00:00:00+02:00",
+          "end": "2026-09-06T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/besloten-event-3/",
+          "tags": []
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-16",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-09-07T00:00:00+02:00",
+          "end": "2026-09-07T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-16/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-38",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-09-07T00:00:00+02:00",
+          "end": "2026-09-07T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-38/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-20",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-09-07T00:00:00+02:00",
+          "end": "2026-09-07T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-20/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-37",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-09-07T00:00:00+02:00",
+          "end": "2026-09-07T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-37/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
         }
       ]
     },
@@ -2528,6 +2604,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261029-inherited-white-knuckle-grip-cold-grip",
+          "title": "Inherited + White Knuckle Grip + Cold Grip",
+          "start": "2026-10-29T00:00:00+01:00",
+          "end": "2026-10-29T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 29th. Hardcore band night . SOIL PROMOTIONS X DUTCH ANGLE COLLECTIVE PRESENTS: COLD GRIP Emerging from the hardcore underground of Weert, Cold Grip has been delivering raw, unfiltered metallic hardcore since 2022. Blending crushing riffs, aggressive breakdowns, and emotionally charged…",
+          "url": "https://acu.nl/events/20261029/inherited-white-knuckle-grip-cold-grip",
+          "tags": []
+        },
         {
           "id": "acu-20260919-out-of-sight-21",
           "title": "Out of sight",
@@ -2576,16 +2662,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "November 21st. When It Hurts ⚔️ Rotten Tooth Punk. Save the date – November 21 @whenithurts.shows ⚔️ @rotten.tooth.punk It’s gonna hurt More details soon – keep your eyes peeled 👀",
           "url": "https://acu.nl/events/20261121/screamo-fest-tba",
-          "tags": []
-        },
-        {
-          "id": "acu-20260904-dubtrecht",
-          "title": "Dubtrecht by Translator Soundsystem",
-          "start": "2026-09-04T00:00:00+02:00",
-          "end": "2026-09-04T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 4th. Roots/Dub/Jungle soundsystem party!. Acu’s very own dub party! Newly founded soundsystem by aspiring soundpeople coming to Acu for their inaugural session. Expect real roots reggae, live dub mixes and musicians, filthy steppers and even some deep dubstep and jungle in the mix. The…",
-          "url": "https://acu.nl/events/20260904/dubtrecht",
           "tags": []
         }
       ]
@@ -4525,8 +4601,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4675,7 +4750,7 @@
         },
         {
           "id": "muiderslot-kasteelclubs-2026",
-          "title": "Kasteelclubs Muiderslot",
+          "title": "Kasteel Kunstclub Muiderslot",
           "start": "2026-09-21T10:00:00+02:00",
           "end": "2027-01-25T18:00:00+02:00",
           "location": "Muiderslot, Muiden",
@@ -4734,6 +4809,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-kasteel-kookclub-muiderslot-2026",
+          "title": "Kasteel Kookclub Muiderslot Thema Herfst",
+          "start": "2026-10-09T10:00:00+01:00",
+          "end": "2026-12-11T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/kasteel-kookclub-muiderslot/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-historische-proeverij-10-okt-2026-2026",
           "title": "Historische proeverij 10 okt 2026",
           "start": "2026-10-10T10:00:00+01:00",
@@ -4774,16 +4859,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-historische-proeverij-24-okt-2026-2026",
-          "title": "Historische proeverij 24 okt 2026",
-          "start": "2026-10-24T10:00:00+01:00",
-          "end": "2026-10-24T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-24-okt-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-prikkelarme-openstelling-4-2026",
           "title": "Prikkelarme openstelling",
           "start": "2026-10-24T10:00:00+01:00",
@@ -4791,6 +4866,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-4/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-24-okt-2026-2026",
+          "title": "Historische proeverij 24 okt 2026",
+          "start": "2026-10-24T10:00:00+01:00",
+          "end": "2026-10-24T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-24-okt-2026/",
           "tags": []
         },
         {
@@ -4822,6 +4907,36 @@
           "description": "",
           "url": "https://muiderslot.nl/activiteit/historische-proeverij-12-dec-2026/",
           "tags": []
+        },
+        {
+          "id": "muiderslot-kasteel-kookclub-muiderslot-thema-winter-2026",
+          "title": "Kasteel Kookclub Muiderslot Thema Winter",
+          "start": "2026-12-18T10:00:00+01:00",
+          "end": "2027-02-19T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/kasteel-kookclub-muiderslot-thema-winter/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-kasteel-kookclub-muiderslot-thema-lente-2027",
+          "title": "Kasteel Kookclub Muiderslot Thema Lente",
+          "start": "2027-03-05T10:00:00+01:00",
+          "end": "2027-04-23T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/kasteel-kookclub-muiderslot-thema-lente/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-kasteel-kookclub-muiderslot-thema-zomer-2027",
+          "title": "Kasteel Kookclub Muiderslot Thema Zomer",
+          "start": "2027-05-14T10:00:00+02:00",
+          "end": "2027-07-02T18:00:00+02:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/kasteel-kookclub-muiderslot-thema-zomer/",
+          "tags": []
         }
       ]
     },
@@ -4844,16 +4959,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-rondleiding-2026-09",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Muzikale Monumenten Kwartettendag",
-          "start": "2026-09-12T10:00:00+02:00",
-          "end": "2026-09-12T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
-          "tags": []
-        },
-        {
           "id": "loevestein-smaakmuseum-zomerlunch-2026-09",
           "title": "Smaakmuseum Zomerlunch",
           "start": "2026-09-13T10:00:00+02:00",
@@ -4861,6 +4966,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/smaakmuseum-zomerlunch/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-rondleiding-2026-09",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Muzikale Monumenten Kwartettendag",
+          "start": "2026-09-12T10:00:00+02:00",
+          "end": "2026-09-12T18:00:00+02:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
@@ -4904,16 +5019,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-oorlogsrecht-handboekbinden-2027-01",
-          "title": "OORLOGSRECHT Handboekbinden. Te zien t/m",
-          "start": "2027-01-03T10:00:00+01:00",
-          "end": "2027-01-03T18:00:00+01:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-handboekbinden/",
-          "tags": []
-        },
-        {
           "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2027-01",
           "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
           "start": "2027-01-03T10:00:00+01:00",
@@ -4921,6 +5026,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-oorlogsrecht-handboekbinden-2027-01",
+          "title": "OORLOGSRECHT Handboekbinden. Te zien t/m",
+          "start": "2027-01-03T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-handboekbinden/",
           "tags": []
         }
       ]
@@ -5748,7 +5863,8 @@
           ],
           "country": "Nederland"
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "brommer-manual",

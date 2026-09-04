@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T09:32:50.238Z",
+  "updatedAt": "2026-09-04T09:24:44.038Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,30 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001025",
-          "title": "WYATT E. (BE) + Thistle Sifter",
-          "start": "2026-09-03T20:00:00+02:00",
-          "end": "2026-09-03T22:30:00+02:00",
-          "location": "ACU, Netherlands",
-          "description": "𝗱𝗲𝘇𝗲 𝘀𝗵𝗼𝘄 𝘃𝗶𝗻𝗱𝘁 𝗽𝗹𝗮𝗮𝘁𝘀 𝗶𝗻 𝗔𝗖𝗨 𝗲𝗻 𝗻𝗶𝗲𝘁 𝗼𝗽 𝗱𝗲 𝗩𝗟𝗣.",
-          "url": "https://dbstudio.nl/event/dbs-in-acu-presents-wyatt-e-be/",
-          "tags": [
-            "Doom"
-          ]
-        },
-        {
-          "id": "10001000",
-          "title": "Blueprint",
-          "start": "2026-09-03T20:00:00+02:00",
-          "end": "2026-09-03T23:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "ze zetten je aan het denken over onszelf en de wereld om ons heen. Van intieme momenten tot grootse rockpassages, je weet nooit precies wat je kunt verwachten – maar je blijft geboeid bij elke stap.\n\nSpeciaal voor deze avond presenteert Paravision een show met arrangementen die tot in de puntjes…",
-          "url": "https://dbstudio.nl/event/paravision/",
-          "tags": [
-            "Concert"
-          ]
-        },
         {
           "id": "10001064",
           "title": "KILLER KIN (USA) + JC Thomaz & the Missing Slippers",
@@ -416,6 +392,34 @@
           "description": "De Amerikaanse rockband 𝗠𝗢𝗡𝗗𝗢 𝗗𝗥𝗔𝗚 leunt zwaar op de psychedelische rock uit de sixties en seventies, maar heeft in de twintig jaar van zijn bestaan ook krautrock en vroege heavy metal aan hun sound toegevoegd. Op hun meest recente (vierde) album Through The Hourglass (2023) slaat de band…",
           "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-mondo-drag-usa-early-moods/",
           "tags": []
+        },
+        {
+          "id": "10001076",
+          "title": "SONS OF THE CULTURE CLASH ( RUDEBOY + DJ DNA )",
+          "start": "2026-10-16T20:00:00+01:00",
+          "end": "2026-10-16T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "𝐓𝐢𝐜𝐤𝐞𝐭𝐬 𝐠𝐚𝐚𝐧 𝐨𝐩 𝐰𝐨𝐞𝐧𝐬𝐝𝐚𝐠 𝟏𝟎 𝐣𝐮𝐧𝐢 𝐢𝐧 𝐝𝐞 𝐯𝐞𝐫𝐤𝐨𝐨𝐩 \nIngewijden waren erbij toen Patick Tillon aka 𝗥𝗨𝗗𝗘𝗕𝗢𝗬 en Arjen de Vreede aka 𝗗𝗝 𝗗𝗡𝗔 in februari 2022 op een zondagavond in dB’s onder het motto DJ DNA liveset voor de eerste keer het repertoire van de…",
+          "url": "https://dbstudio.nl/event/17379/",
+          "tags": [
+            "Electronics",
+            "Hiphop",
+            "Rap"
+          ]
+        },
+        {
+          "id": "10001046",
+          "title": "SALLY FAMILY FESTIVAL met This Beautiful Mess + Cape Sleep + Ponoka + Mensenkinderen",
+          "start": "2026-10-17T18:00:00+01:00",
+          "end": "2026-10-17T23:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Cape Sleep, Mensenkinderen en Rick de Gier/ Ponoka. DJ Bartcore zal de avond aan elkaar draaien.",
+          "url": "https://dbstudio.nl/event/sally-family-festival-met-this-beautiful-mess-cape-sleep-ponoka-mensenkinderen/",
+          "tags": [
+            "Concert",
+            "Pop",
+            "Postrock"
+          ]
         }
       ]
     },
@@ -427,6 +431,56 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30902",
+          "title": "Antony Szmierek",
+          "start": "2026-11-01T20:00:00+01:00",
+          "end": "2026-11-01T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De uiterst charmante Brit Antony Szmierek wint overal waar hij gaat zieltjes. Met zijn aanstekelijke mix van spoken word, house, indie en rave zorgt hij voor euforische hoogtepunten op festivals en podia wereldwijd. Op zijn debuutalbum ‘Service Station at the End of the Universe’ liet Antony horen…",
+          "url": "https://ekko.nl/event/antony-szmierek-1/",
+          "tags": []
+        },
+        {
+          "id": "30984",
+          "title": "Is This It? De Popquiz",
+          "start": "2026-10-18T15:30:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Terug in EKKO: ‘Is This It?’ de popquiz, gehost door DJ’s Mr &amp; Mevr Koot. Na een reeks succesvolle edities in De Nieuwe Anita in Amsterdam strijkt deze originele quiz nu voor de derde keer neer in Utrecht. Verwacht verrassende rondes in beeld én geluid. Altijd met een goede dosis humor en op…",
+          "url": "https://ekko.nl/event/is-this-it-de-popquiz-18okt-middag/",
+          "tags": []
+        },
+        {
+          "id": "30991",
+          "title": "Is This It? De Popquiz",
+          "start": "2026-10-18T19:30:00+01:00",
+          "end": "2026-10-18T22:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Terug in EKKO: ‘Is This It?’ de popquiz, gehost door DJ’s Mr &amp; Mevr Koot. Na een reeks succesvolle edities in De Nieuwe Anita in Amsterdam strijkt deze originele quiz nu voor de derde keer neer in Utrecht. Verwacht verrassende rondes in beeld én geluid. Altijd met een goede dosis humor en op…",
+          "url": "https://ekko.nl/event/is-this-it-de-popquiz-18okt-avond/",
+          "tags": []
+        },
+        {
+          "id": "31008",
+          "title": "BUS 12",
+          "start": "2026-10-08T23:00:00+01:00",
+          "end": "2026-10-09T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-208/",
+          "tags": []
+        },
+        {
+          "id": "30999",
+          "title": "BUS 12",
+          "start": "2026-10-01T23:00:00+01:00",
+          "end": "2026-10-02T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-206/",
+          "tags": []
+        },
         {
           "id": "30934",
           "title": "Charlie Cunningham",
@@ -535,26 +589,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Chicago-based songwriter Gia Margaret beweegt zich tussen ambient en folk, met minimalistische en experimentele invloeden. Ze debuteerde in 2019 met &#8216;There’s Always A Glimmer&#8217;, maar kreeg daarna te maken met stemproblemen. In die periode ontwikkelde ze andere muzikale talen en maakte…",
           "url": "https://ekko.nl/event/gia-margaret/",
-          "tags": []
-        },
-        {
-          "id": "30902",
-          "title": "Antony Szmierek",
-          "start": "2026-11-01T20:00:00+01:00",
-          "end": "2026-11-01T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De uiterst charmante Brit Antony Szmierek wint overal waar hij gaat zieltjes. Met zijn aanstekelijke mix van spoken word, house, indie en rave zorgt hij voor euforische hoogtepunten op festivals en podia wereldwijd. Op zijn debuutalbum ‘Service Station at the End of the Universe’ liet Antony horen…",
-          "url": "https://ekko.nl/event/antony-szmierek-1/",
-          "tags": []
-        },
-        {
-          "id": "30647",
-          "title": "BUS 12",
-          "start": "2026-09-03T23:00:00+02:00",
-          "end": "2026-09-04T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
-          "url": "https://ekko.nl/event/bus-12-200/",
           "tags": []
         },
         {
@@ -745,16 +779,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Bubbel is jarig! Na alle succesvol opgeblazen sociale bubbels tijdens voorgaande feesten, volgt nu het langverwachte eenjarige Bubbel-jubileum. De zomer is warm, maar gaat nog wat heter worden op het zomerfeest van Bubbel: we zorgen dat je uit je sociale Bubbel kruipt in de zengende hitte. We…",
           "url": "https://ekko.nl/event/bubbel-3/",
-          "tags": []
-        },
-        {
-          "id": "29351",
-          "title": "Bedouine",
-          "start": "2026-09-03T20:00:00+02:00",
-          "end": "2026-09-03T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Bedouine is het muzikale project van Azniv Korkejian. Ze maakt verstilde folkpop vol warme melodieën en intieme verhalen. Met haar kenmerkende fingerpicked gitaarspel en tijdloze songwriting maakt ze songs die klein beginnen maar langzaam uitgroeien tot emotionele landschappen. Op haar nieuwe album…",
-          "url": "https://ekko.nl/event/bedouine/",
           "tags": []
         },
         {
@@ -1708,6 +1732,16 @@
           "tags": []
         },
         {
+          "id": "helling-honk-02-01-2027",
+          "title": "HONK",
+          "start": "2027-01-02T21:00:00+01:00",
+          "end": "2027-01-03T03:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "HONK – Jouw nieuwe ‘thuis’ voor house",
+          "url": "https://dehelling.nl/agenda/honk-02-01-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-de-kift-speelt-de-eenzame-08-01-2027",
           "title": "De Kift Speelt ‘De Eenzame’",
           "start": "2027-01-08T20:15:00+01:00",
@@ -1817,36 +1851,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "483033",
-          "title": "Saxuo in de Nicolaikerk",
-          "start": "2026-09-03T13:30:00+02:00",
-          "end": "2026-09-03T14:30:00.000Z",
-          "location": "Nicolaikerk, Nicolaaskerkhof 8, Utrecht",
-          "description": "Beleef een gratis concert van Saxuo, een saxofoonduo dat sfeervolle melodieën ten gehore brengt in de Nicolaikerk. Met slechts twee saxofoons weten zij twee melodielijnen kunstig in elkaar te vlechten, waardoor de suggestie van meer instrumenten wordt gewekt en de muziek spannend blijft. Dit…",
-          "url": "https://www.podiuminfo.nl/concert/483033/Saxuo-in-de-Nicolaikerk/Nicolaikerk/",
-          "tags": []
-        },
-        {
-          "id": "489227",
-          "title": "Gone Country",
-          "start": "2026-09-03T19:30:00+02:00",
-          "end": "2026-09-03T20:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Gone Country neemt bezoekers een avond lang mee naar een authentieke honky-tonk in Nashville. Wat begon als een eenmalig evenement in Amsterdam, is uitgegroeid tot een maandelijks terugkerende linedance party die door heel Nederland reist. Het evenement is toegankelijk voor zowel beginnende dansers…",
-          "url": "https://www.podiuminfo.nl/concert/489227/Gone-Country/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "480495",
-          "title": "Burning Spear",
-          "start": "2026-09-03T21:00:00+02:00",
-          "end": "2026-09-03T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Jamaicaanse reggaezanger Burning Spear, ook bekend als Winston Rodney, viert zijn vijftigjarige carrière en staat bekend als een van de meest invloedrijke artiesten binnen de rootsreggae. Zijn doorbraak kwam in 1973 met het album 'Marcus Garvey', uitgebracht op het legendarische Island Records.…",
-          "url": "https://www.podiuminfo.nl/concert/480495/Burning-Spear/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "480603",
           "title": "De Microclub",
@@ -2016,6 +2020,26 @@
           "description": "De Rabo Open Stage, gehost onder de vlag van ULTRAJAZZ en georganiseerd door Kika Sprangers en Bob Roos, presenteert om de week een bruisende jazz jamsessie. Elke avond opent met een krachtige set van een uur, waarbij de host diverse musici uitnodigt voor een eerbetoon aan de jazztraditie. Daarna…",
           "url": "https://www.podiuminfo.nl/concert/484759/Rabo-Open-Stage-ULTRAJAZZ-x-TivoliVredenburg/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "481253",
+          "title": "Kreukelzone: High Horse",
+          "start": "2026-09-11T15:00:00+02:00",
+          "end": "2026-09-11T16:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Twee keer per maand presenteert TivoliVredenburg op de Vredenburg Open Stage semi-akoestische popmuziek met levenservaring. Het belooft een gezellige vrijdagmiddag te worden met bekende en nieuwe melodieën. Het Utrechtse duo High Horse neemt het publiek mee in een melancholische wereld van…",
+          "url": "https://www.podiuminfo.nl/concert/481253/Kreukelzone-High-Horse/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "447780",
+          "title": "The Scene",
+          "start": "2026-09-11T20:00:00+02:00",
+          "end": "2026-09-11T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Sinds het afscheid van frontman Thé Lau in 2014 en zijn overlijden in 2015 leek het boek gesloten voor de legendarische Nederlandstalige rockband The Scene, makers van nederpopklassiekers als Open, Blauw, Rigoureus en Iedereen Is Van De Wereld. Maar na ruim tien jaar stilte gaat de band in 2026…",
+          "url": "https://www.podiuminfo.nl/concert/447780/The-Scene/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2037,6 +2061,16 @@
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
+          "id": "607857",
+          "title": "D&D 5e: Grax's Guys for Cheap",
+          "start": "2026-09-09T19:00:00+02:00",
+          "end": "2026-09-09T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5e: Grax's Guys for Cheap Wed 9/9 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter campaign which…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "607008",
           "title": "👁💀PFS2 Quest (Series 2) #27: Within the Glacier (beginner friendly)",
           "start": "2026-09-09T19:00:00+02:00",
@@ -2053,6 +2087,16 @@
           "end": "2026-09-09T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Golven in Oevervoorde Wed 9/9 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "607878",
+          "title": "FRONTIER SCUM - Acid Western Roleplaying",
+          "start": "2026-09-09T19:00:00+02:00",
+          "end": "2026-09-09T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "FRONTIER SCUM - Acid Western Roleplaying Wed 9/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Location: Silver Heron Studios, Utrecht ᛭ Time: Walk in at 18.30, Starting at 19:00 ᛭ Participation fee: €5 ᛭ No need to bring or know anything about RPGs (if you'd like, you can bring a…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2125,20 +2169,7 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": [
-        {
-          "id": "lab-monkey-23271",
-          "title": "Weekly Draft",
-          "start": "2026-09-03T19:00:00+02:00",
-          "end": "2026-09-03T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-125/",
-          "tags": [
-            "Draft"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "casual-carnage",
@@ -2376,35 +2407,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-gratis-disco-festival-gehost-door-leroy-rey",
-          "title": "Gratis DISCO Festival | Gehost door Leroy Rey",
-          "start": "2026-09-04T00:00:00+02:00",
-          "end": "2026-09-04T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/gratis-disco-festival-gehost-door-leroy-rey/",
-          "tags": [
-            "Dans",
-            "Festival",
-            "Gratis",
-            "Muziek"
-          ]
-        },
-        {
-          "id": "beton-de-witte-kunst-live",
-          "title": "De Witte Kunst (live)",
-          "start": "2026-09-04T00:00:00+02:00",
-          "end": "2026-09-04T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/de-witte-kunst-live/",
-          "tags": [
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-witte-was-festival",
           "title": "Witte Was Festival",
           "start": "2026-09-05T00:00:00+02:00",
@@ -2524,6 +2526,18 @@
             "Workshop",
             "Vechtclub Keiland"
           ]
+        },
+        {
+          "id": "beton-utrecht-101-leer-utrecht-kennen",
+          "title": "Utrecht 101 – Utrecht voor Dummies!",
+          "start": "2026-09-08T00:00:00+02:00",
+          "end": "2026-09-08T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/utrecht-101-leer-utrecht-kennen/",
+          "tags": [
+            "Terras"
+          ]
         }
       ]
     },
@@ -2535,6 +2549,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261120-sean-pratt-live-at-acu",
+          "title": "Sean Pratt Live at ACU",
+          "start": "2026-11-20T00:00:00+01:00",
+          "end": "2026-11-20T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 20th. Catch Sean Pratt live on 20/11 at ACU Sean Pratt is an American folk guitar player and singer-songwriter from Nebraska by way of the Dakotas. Pratt played in Omaha punk and noise acts for the better part of a decade before developing a fascination with the songcraft of the likes of…",
+          "url": "https://acu.nl/events/20261120/sean-pratt-live-at-acu",
+          "tags": []
+        },
         {
           "id": "acu-20260924-food-and-funk-with-utrecht-housing-co-op-hommeldorp",
           "title": "Food&funk with Housing Co-op Hommeldorp",
@@ -2613,16 +2637,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "October 18th. Bring your films, whatever they are. Submissions are officially open for the Foul Film Festival! We’re looking for films made without fear of getting it wrong. No experience needed, just a phone and an idea. On October 18th, we’re bringing it all to life at ACU, celebrating film in…",
           "url": "https://acu.nl/events/20261018/foul-film-festival",
-          "tags": []
-        },
-        {
-          "id": "acu-20260911-shows-afterparty-djs-yssie-rattekop",
-          "title": "Show’s Afterparty: DJ’s Yssie & Rattekop",
-          "start": "2026-09-11T00:00:00+02:00",
-          "end": "2026-09-11T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 11th. punk / ska / metal / you name it. DJ’s Yssie & Rattekop Yeeh! We are going back to the ACU to DJ. When we started playing together over 10 years ago it was in ACU and we played many friday nights for Vitamine ACU. It has been a few years now and...",
-          "url": "https://acu.nl/events/20260911/shows-afterparty-djs-yssie-rattekop",
           "tags": []
         }
       ]
@@ -2799,6 +2813,19 @@
           "url": "https://clubbasis.nl/event/basis-vinyl-special-36framez-line-o-b2b-roboith-narciss-extended-set/",
           "tags": [
             "House",
+            "Trance"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001514-1792191600-1792216800",
+          "title": "BASIS/ AREA ØNE/ BIIANCO/ Hurts/ Nick Selter",
+          "start": "2026-10-16T23:00:00+01:00",
+          "end": "2026-10-17T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/area-one-biianco-hurts-nick-selter/",
+          "tags": [
+            "Bounce",
             "Trance"
           ]
         },
@@ -4923,16 +4950,6 @@
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
         {
-          "id": "loevestein-filmavonden-2026-09",
-          "title": "Filmavonden op Loevestein",
-          "start": "2026-09-03T10:00:00+02:00",
-          "end": "2026-09-05T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/filmavonden/",
-          "tags": []
-        },
-        {
           "id": "loevestein-smaakmuseum-zomerlunch-2026-09",
           "title": "Smaakmuseum Zomerlunch",
           "start": "2026-09-13T10:00:00+02:00",
@@ -4983,6 +5000,16 @@
           "tags": []
         },
         {
+          "id": "loevestein-herfstvakantie-2026-10",
+          "title": "Herfstvakantie",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-25T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/herfstvakantie/",
+          "tags": []
+        },
+        {
           "id": "loevestein-riddertoernooi-2026-10",
           "title": "Hét grote riddertoernooi van het jaar",
           "start": "2026-10-17T10:00:00+01:00",
@@ -4990,6 +5017,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/riddertoernooi/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-sintfestijn-2026-11",
+          "title": "Sintfestijn op Loevestein",
+          "start": "2026-11-15T10:00:00+01:00",
+          "end": "2026-12-04T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/sintfestijn/",
           "tags": []
         },
         {
@@ -5372,6 +5409,19 @@
           "location": "Jupiter 56 Poeldijk, Poeldijk (Zuid-Holland)",
           "description": "",
           "url": "https://brommerritten.nl/ritten/poeldijkse-oldtimer-bromfietsmeeting-met-rit-poeldijk/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-1864",
+          "title": "Toertocht Groessen",
+          "start": "2026-09-06T08:30:00+02:00",
+          "end": "2026-09-06T17:00:00+02:00",
+          "location": "den Oldenhoek 6a Groessen, Groessen (Gelderland)",
+          "description": "De 9e editie ‘Brommers Kieken’ in de Liemers op zondag 6 september 2026. Startadres (tevens finish) Den Oldenhoek 6a te Groessen. Vorig jaar was de belangstelling groot (80 deelnemers), daarom verzoeken we u zo spoedig mogelijk aan te melden. We kunnen dan tijdig besluiten om een maximum aantal…",
+          "url": "https://brommerritten.nl/ritten/toertocht-groessen/",
           "tags": [
             "Bromfiets"
           ],

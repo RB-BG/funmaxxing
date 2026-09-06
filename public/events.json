@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:54:39.857Z",
+  "updatedAt": "2026-09-06T09:13:59.221Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001045",
-          "title": "LOOSE ENDS FESTIVAL 2026",
-          "start": "2026-09-05T13:30:00+02:00",
-          "end": "2026-09-06T02:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "STONE, Lime Garden, Mên an Tol, Soapbox, The Null Club, Marathon, C’est Qui? en Maha staan op de binnen- en buitenpodia van dB’s. More to come! \nLoose Ends is een samenwerking tussen TivoliVredenburg, Friendly Fire en dB’s.",
-          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-loose-ends-festival-2026/",
-          "tags": [
-            "Loose Ends Festival",
-            "Post Punk"
-          ]
-        },
         {
           "id": "10001087",
           "title": "dB'S BUITEN (& BINNEN) FESTIVAL",
@@ -416,6 +403,20 @@
           "url": "https://dbstudio.nl/event/i-promised-the-world-usa/",
           "tags": [
             "Metalcore"
+          ]
+        },
+        {
+          "id": "10001082",
+          "title": "WOLVENNEST (BE) + BEDSORE (IT)",
+          "start": "2026-10-20T20:00:00+01:00",
+          "end": "2026-10-20T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "De Belgische band 𝗪𝗢𝗟𝗩𝗘𝗡𝗡𝗘𝗦𝗧 maakt al sinds 2013 een onheilige mix van black metal, psychedelica, doom, krautrock en ambient. Een concert van Wolvennest is geen concert maar een ceremonie, met zangeres (en theremin-bespeelster) Shazzula als mysterieuze meesteres. Hun jongste album…",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-wolvennest-be-bedsore-it/",
+          "tags": [
+            "Black Metal",
+            "Death Metal",
+            "Doom"
           ]
         }
       ]
@@ -939,16 +940,6 @@
           "tags": []
         },
         {
-          "id": "29651",
-          "title": "EINDBAAS",
-          "start": "2026-09-05T23:30:00+02:00",
-          "end": "2026-09-06T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ter gelegenheid van het 40-jarig bestaan van EKKO keert EINDBAAS terug met een nieuwe editie. EINDBAAS is een clubnacht waar artiesten live optreden met muziek die gemaakt is op — of geïnspireerd door — oude spelcomputers zoals de Nintendo Game Boy en Commodore 64, in combinatie met moderne…",
-          "url": "https://ekko.nl/event/eindbaas/",
-          "tags": []
-        },
-        {
           "id": "29825",
           "title": "Le Guess Who? 2026",
           "start": "2026-11-06T18:00:00+01:00",
@@ -1108,26 +1099,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-vanaheim-album-release-show-05-09-2026",
-          "title": "Vanaheim album release show",
-          "start": "2026-09-05T19:30:00+02:00",
-          "end": "2026-09-05T23:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Tilburgs Nederfolkmetalkwartet presenteert langverwacht debuutalbum",
-          "url": "https://dehelling.nl/agenda/vanaheim-album-release-show-05-09-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-tropenrooster-05-09-2026",
-          "title": "Tropenrooster",
-          "start": "2026-09-05T23:00:00+02:00",
-          "end": "2026-09-06T04:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "De heetste latin, dancehall en afro ",
-          "url": "https://dehelling.nl/agenda/tropenrooster-05-09-2026/",
-          "tags": []
-        },
         {
           "id": "helling-ora-cogan-10-09-2026",
           "title": "Ora Cogan",
@@ -1839,26 +1810,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "483447",
-          "title": "MOTIV: Olive Anguz, BURNR & more",
-          "start": "2026-09-05T23:55:00+02:00",
-          "end": "2026-09-06T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "MOTIV, een collectief dat al ruim twee jaar de graadmeter is voor de hard house scene, keert terug. Dit evenement belooft een avond vol pure feel-good dansvloerenergie, gekenmerkt door een scherpe blik op de nieuwste ontwikkelingen binnen het genre. De line-up voor deze zomerse september editie…",
-          "url": "https://www.podiuminfo.nl/concert/483447/MOTIV-Olive-Anguz-BURNR-more/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "486720",
-          "title": "Mama Africa",
-          "start": "2026-09-05T23:55:00+02:00",
-          "end": "2026-09-06T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Mama Africa keert op zaterdag 5 september 2026 terug naar TivoliVredenburg in Utrecht voor een nieuwe editie vol Afrikaanse klanken en ritmes. Na de zomerstop belooft deze clubavond een energieke ervaring te worden met een breed scala aan muziekstijlen, waaronder Afro Beats, Azonto, Kuduro, Coupé…",
-          "url": "https://www.podiuminfo.nl/concert/486720/Mama-Africa/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "468646",
           "title": "The Dresden Dolls - Yes, Virginia (Tailor’s Version) 20th Anniversa...",
           "start": "2026-09-07T19:00:00+02:00",
@@ -2016,6 +1967,36 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "De Nederlandse popzangeres Davina Michelle brak in 2018 door met Duurt Te Lang, een nummer 1-hit die vele Top 40-records verpulverde. Drie jaar later maakte ze als intervalact op het Eurovisie Songfestival meer indruk dan de deelnemers. Inmiddels heeft Davina Michelle zeventien Top 40-hits op haar…",
           "url": "https://www.podiuminfo.nl/concert/452904/Davina-Michelle/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "452648",
+          "title": "Hiromi / Metropole Orkest",
+          "start": "2026-09-12T20:15:00+02:00",
+          "end": "2026-09-12T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Japanse pianiste en componist Hiromi is een waar fenomeen. Met ogenschijnlijk grenzeloze energie laveert ze tussen jazz, fusion, rock, klassiek en funk. Daarbij heeft ze altijd een aanstekelijk virtuoos spelplezier. Op zeventienjarige leeftijd stond ze al op het podium met Chick Corea. En…",
+          "url": "https://www.podiuminfo.nl/concert/452648/Hiromi-Metropole-Orkest/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "484763",
+          "title": "Rabo Open Stage: Lisa Marlene",
+          "start": "2026-09-12T22:30:00+02:00",
+          "end": "2026-09-12T23:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Lisa Marlene brengt op de Rabo Open Stage kwetsbare popmuziek, doordrenkt met rock- en soul-invloeden. Haar vocaal gedreven liedjes navigeren tussen melancholie en kracht, variërend van pianoballads tot uptempo popsongs. Ze omarmt emoties die vaak onuitgesproken blijven en creëert met haar intieme…",
+          "url": "https://www.podiuminfo.nl/concert/484763/Rabo-Open-Stage-Lisa-Marlene/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "486918",
+          "title": "Only 10s",
+          "start": "2026-09-12T23:55:00+02:00",
+          "end": "2026-09-13T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Reis op zaterdag 12 september terug naar de zorgeloze jaren 2010-2019, een tijdperk vol vroege Instagram-posts, Vine en Snapchat-filters. Dans de nacht in op hits als Gangnam Style, King Kunta, Shake it Off, Starships, Last Friday Night (T.G.I.F.), Whistle en Wrecking Ball. Herbeleef de muziek van…",
+          "url": "https://www.podiuminfo.nl/concert/486918/Only-10s/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2384,44 +2365,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-lees-dit-boekenclub-2",
-          "title": "LEES DIT! Boekenclub",
-          "start": "2026-09-06T00:00:00+02:00",
-          "end": "2026-09-06T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/lees-dit-boekenclub-2/",
-          "tags": [
-            "Kunst",
-            "Panelgesprek",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-gentle-yoga-3",
-          "title": "Gentle Yoga",
-          "start": "2026-09-06T00:00:00+02:00",
-          "end": "2026-09-06T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/gentle-yoga-3/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-besloten-event-3",
-          "title": "Out With A Bang –",
-          "start": "2026-09-06T00:00:00+02:00",
-          "end": "2026-09-06T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/besloten-event-3/",
-          "tags": []
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-16",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-09-07T00:00:00+02:00",
@@ -2501,6 +2444,44 @@
           "tags": [
             "Terras"
           ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-52",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-09-09T00:00:00+02:00",
+          "end": "2026-09-09T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-52/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-besloten-event-4",
+          "title": "Besloten event",
+          "start": "2026-09-10T00:00:00+02:00",
+          "end": "2026-09-10T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/besloten-event-4/",
+          "tags": []
+        },
+        {
+          "id": "beton-de-rollerdisco-2",
+          "title": "De Rollerdisco – gehost door 36framez",
+          "start": "2026-09-11T00:00:00+02:00",
+          "end": "2026-09-11T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/de-rollerdisco-2/",
+          "tags": [
+            "Muziek",
+            "Skaten",
+            "Sport"
+          ]
         }
       ]
     },
@@ -2512,6 +2493,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20260920-online-activism-fundraiser",
+          "title": "Online Activism Fundraiser",
+          "start": "2026-09-20T00:00:00+02:00",
+          "end": "2026-09-20T00:00:00+02:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "September 20th. with infotalk + LAN party. This September 20 we will be hosting an infotalk & fundraiser in support of several international online activism groups currently facing challenges. This is for all IT creatives and everyone interested in the online struggle for internet freedom. A…",
+          "url": "https://acu.nl/events/20260920/online-activism-fundraiser",
+          "tags": []
+        },
         {
           "id": "acu-20261002-acoustic-bands-night-skin-prisoner-all-dogs-go-to-heaven",
           "title": "Acoustic Bands Night: Skin Prisoner + All Dogs Go To Heaven + TBA",
@@ -2528,7 +2519,7 @@
           "start": "2026-10-30T00:00:00+01:00",
           "end": "2026-10-30T00:00:00+01:00",
           "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 30th. Industrial, Noise, Dark Ambient.. Suggested donation 12 euro. But pay what you can. If you can pay more great, if you can’t afford it we would rather have you enjoy the acts.Control (Santa Cruz, California) https://control-exsanguinate.bandcamp.com/ THE [LAW-RAH] COLLECTIVE is an…",
+          "description": "October 30th. Industrial, Noise, Dark Ambient.. Suggested donation 12 euro. But pay what you can. If you can pay more great, if you can’t afford it we would rather have you enjoy the acts. Control (Santa Cruz, California) Since the 1990s, CONTROL (Thomas Garrison) has stood for uncompromising US…",
           "url": "https://acu.nl/events/20261030/control-the-law-rah-collective-kry-death-mask",
           "tags": []
         },
@@ -2601,16 +2592,6 @@
           "description": "October 29th. Hardcore band night . SOIL PROMOTIONS X DUTCH ANGLE COLLECTIVE PRESENTS: COLD GRIP Emerging from the hardcore underground of Weert, Cold Grip has been delivering raw, unfiltered metallic hardcore since 2022. Blending crushing riffs, aggressive breakdowns, and emotionally charged…",
           "url": "https://acu.nl/events/20261029/inherited-white-knuckle-grip-cold-grip",
           "tags": []
-        },
-        {
-          "id": "acu-20260919-out-of-sight-21",
-          "title": "Out of sight",
-          "start": "2026-09-19T00:00:00+02:00",
-          "end": "2026-09-19T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 19th. Out of Sight returns from the Summer. Expect the very best in all things 1960s. From Northern Soul to Garage, from Rockn’Roll to Ska. With Jason and Helen the Souldrippin DJ team and The Shake! supplying the tunes. We have a storming night in store. Starting at 23:00 until 2:00…",
-          "url": "https://acu.nl/events/20260919/out-of-sight-21",
-          "tags": []
         }
       ]
     },
@@ -2622,18 +2603,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001489-1788649200-1788674400",
-          "title": "BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH",
-          "start": "2026-09-05T23:00:00+02:00",
-          "end": "2026-09-06T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-anouque-cybersex-dj-horde-dj-sportschuh/",
-          "tags": [
-            "Speed House"
-          ]
-        },
         {
           "id": "basis-utrecht-10001500-1789167600-1789192800",
           "title": "BASIS x HARDLINE/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah",
@@ -2902,16 +2871,6 @@
       "scene": "utrecht",
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
-        {
-          "id": "lief-festival",
-          "title": "Lief Festival",
-          "start": "2026-09-05T12:00:00+00:00",
-          "end": "2026-09-05T12:00:00+00:00",
-          "location": "Grasweide Strijkviertel, Utrecht",
-          "description": "Lees hier alles wat je moet weten over Lief Festival 2026 op 5 september. Check hier info over tickets, de line-up en sfeer van het festival.",
-          "url": "https://festivalfans.nl/event/lief-festival/",
-          "tags": []
-        },
         {
           "id": "smeerboel-festival",
           "title": "Smeerboel Festival",
@@ -4691,26 +4650,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-mindful-muiderslot-yoga-5-2026",
-          "title": "Mindful Muiderslot: yoga &#8211; 5 sep 2026",
-          "start": "2026-09-05T10:00:00+02:00",
-          "end": "2026-09-05T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-muiderslot-yoga-5/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-historische-proeverij-5-sep-2026-2026",
-          "title": "Historische proeverij 5 sep 2026",
-          "start": "2026-09-05T10:00:00+02:00",
-          "end": "2026-09-05T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-5-sep-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-familietheater-hakim-op-zn-best-6-sep-2026-2026",
           "title": "Familietheater: Hakim op z&#8217;n best",
           "start": "2026-09-06T10:00:00+02:00",
@@ -4941,16 +4880,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-museumweek-2026-09",
-          "title": "Museumweek",
-          "start": "2026-09-26T10:00:00+02:00",
-          "end": "2026-10-04T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/museumweek/",
-          "tags": []
-        },
-        {
           "id": "loevestein-gelderse-dag-2026-09",
           "title": "Gelderse dag",
           "start": "2026-09-26T10:00:00+02:00",
@@ -4958,6 +4887,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/gelderse-dag/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-museumweek-2026-09",
+          "title": "Museumweek",
+          "start": "2026-09-26T10:00:00+02:00",
+          "end": "2026-10-04T18:00:00+02:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/museumweek/",
           "tags": []
         },
         {
@@ -5289,91 +5228,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-1611",
-          "title": "Authentieke dag Vreeswijk Nieuwegein",
-          "start": "2026-09-05T08:00:00+02:00",
-          "end": "2026-09-05T16:30:00+02:00",
-          "location": "Koninginnenlaan Nieuwegein, Nieuwegein (Utrecht)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/authentieke-dag-vreeswijk-nieuwegein/",
-          "tags": [
-            "Auto",
-            "Bromfiets",
-            "Motor",
-            "Tractor",
-            "Truck"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3422",
-          "title": "Oldtimerdag BC de Stofwolk met toerrit",
-          "start": "2026-09-05T09:00:00+02:00",
-          "end": "2026-09-05T17:00:00+02:00",
-          "location": "Bernhardlaan Nieuwkoop, Nieuwkoop (Zuid-Holland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/oldtimerdag-bc-de-stofwolk-met-toerrit/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3313",
-          "title": "Brammers en Bierkes Hoornsterzwaag",
-          "start": "2026-09-05T10:30:00+02:00",
-          "end": "2026-09-05T17:00:00+02:00",
-          "location": "Schoterlandseweg 36a Hoornsterzwaag, Hoornsterzwaag (Friesland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/motortreffen-hoornsterzwaag/",
-          "tags": [
-            "Bromfiets",
-            "Motor"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1791",
-          "title": "Brommertocht Drogeham",
-          "start": "2026-09-05T11:30:00+02:00",
-          "end": "2026-09-05T17:00:00+02:00",
-          "location": "De Buorren 2 Drogeham, Drogeham (Friesland)",
-          "description": "Op zaterdag 5 september organiseren wij een goed verzorgde rit vanuit Drogeham.",
-          "url": "https://brommerritten.nl/ritten/brommertocht-drogeham/",
-          "tags": [
-            "Auto",
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2943",
-          "title": "Deurzetters toerrit voor bromfietsen en tractoren – Kerkenveld",
-          "start": "2026-09-05T13:00:00+02:00",
-          "end": "2026-09-05T18:00:00+02:00",
-          "location": "Burgemeester Jansstraat 14 Kerkenveld, Kerkenveld (Drenthe)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/deurzetters-koningsdagrit-alteveer-drenthe/",
-          "tags": [
-            "Bromfiets",
-            "Tractor"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3667",
-          "title": "Poeldijkse Oldtimer Bromfietsmeeting met rit – Poeldijk",
-          "start": "2026-09-05T13:00:00+02:00",
-          "end": "2026-09-05T18:00:00+02:00",
-          "location": "Jupiter 56 Poeldijk, Poeldijk (Zuid-Holland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/poeldijkse-oldtimer-bromfietsmeeting-met-rit-poeldijk/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-1864",
           "title": "Toertocht Groessen",

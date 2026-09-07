@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:13:59.221Z",
+  "updatedAt": "2026-09-07T10:01:33.156Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001087",
-          "title": "dB'S BUITEN (& BINNEN) FESTIVAL",
-          "start": "2026-09-06T13:30:00+02:00",
-          "end": "2026-09-06T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Vorig jaar dB’s Open, nu dB’s Buiten volgens hetzelfde recept. Een aantal oude bekendere bands uit de canon van de Nederlandse popmuziek plus een dwarsdoorsnede van bands uit de oefenruimtes.\nVoor de prijs van 1 band krijg je zoals gebruikelijk een hele rits aan bands en acts, om over de bekende en…",
-          "url": "https://dbstudio.nl/event/dbs-buiten-binnen-festival/",
-          "tags": [
-            "dB's Buiten",
-            "dB's Buiten Festival"
-          ]
-        },
         {
           "id": "10001075",
           "title": "Snook Bookings presents Funebrarum (USA) + Morbific (FI)",
@@ -418,6 +405,21 @@
             "Death Metal",
             "Doom"
           ]
+        },
+        {
+          "id": "10001123",
+          "title": "KANAAN (Norway)",
+          "start": "2026-10-21T20:00:00+01:00",
+          "end": "2026-10-21T22:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Het Noorse powertrio van 𝗞𝗔𝗡𝗔𝗔𝗡 blinkt uit in psychedelische instrumentale rock zoals alleen Scandinaviërs dat beheersen. \nIn hun tienjarig bestaan is Kanaan in oktober van dit jaar ook toe aan hun tiende album dat simpelweg ‘Kanaan‘ heet. En naast deze output in de studio hebben de drie…",
+          "url": "https://dbstudio.nl/event/kanaan-norway/",
+          "tags": [
+            "Jazz",
+            "Krautrock",
+            "Psychedelic",
+            "spacerock"
+          ]
         }
       ]
     },
@@ -429,6 +431,46 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30180",
+          "title": "Alex Cameron",
+          "start": "2026-10-12T20:00:00+01:00",
+          "end": "2026-10-12T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Australische cultfiguur Alex Cameron brengt scherpe observaties, zwarte humor en glanzende synthpop samen in een eigenzinnig universum vol buitenbeentjes en zelfdestructieve antihelden. Met albums als ‘Forced Witness’, ‘Miami Memory’ en ‘Oxy Music’ groeide hij uit tot een van de meest…",
+          "url": "https://ekko.nl/event/alex-cameron/",
+          "tags": []
+        },
+        {
+          "id": "30523",
+          "title": "LUCKY DONE GONE & KINETIKS",
+          "start": "2026-09-12T23:30:00+02:00",
+          "end": "2026-09-13T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
+          "url": "https://ekko.nl/event/club-ekko-35/",
+          "tags": []
+        },
+        {
+          "id": "31062",
+          "title": "Flawed Mangoes",
+          "start": "2026-11-02T20:00:00+01:00",
+          "end": "2026-11-02T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Flawed Mangoes is het project van de in Boston gevestigde producer, songwriter en multi-instrumentalist Evan Lo. Hij brengt een hypnotiserende mix van ambient gitaar, lo-fi, shoegaze en elektronische productie. Nadat hij zijn carrière begon met het delen van mixes op SoundCloud en samenwerkingen…",
+          "url": "https://ekko.nl/event/flawed-mangoes/",
+          "tags": []
+        },
+        {
+          "id": "30718",
+          "title": "Diep In De Groef",
+          "start": "2026-09-25T23:30:00+02:00",
+          "end": "2026-09-26T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-226/",
+          "tags": []
+        },
         {
           "id": "30902",
           "title": "Antony Szmierek",
@@ -720,16 +762,6 @@
           "tags": []
         },
         {
-          "id": "30718",
-          "title": "Diep In De Groef",
-          "start": "2026-09-25T23:30:00+02:00",
-          "end": "2026-09-26T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-226/",
-          "tags": []
-        },
-        {
           "id": "30666",
           "title": "BUS 12",
           "start": "2026-09-17T23:00:00+02:00",
@@ -767,16 +799,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Bubbel is jarig! Na alle succesvol opgeblazen sociale bubbels tijdens voorgaande feesten, volgt nu het langverwachte eenjarige Bubbel-jubileum. De zomer is warm, maar gaat nog wat heter worden op het zomerfeest van Bubbel: we zorgen dat je uit je sociale Bubbel kruipt in de zengende hitte. We…",
           "url": "https://ekko.nl/event/bubbel-3/",
-          "tags": []
-        },
-        {
-          "id": "30523",
-          "title": "Club EKKO",
-          "start": "2026-09-12T23:30:00+02:00",
-          "end": "2026-09-13T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
-          "url": "https://ekko.nl/event/club-ekko-35/",
           "tags": []
         },
         {
@@ -877,16 +899,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Dutch Criminal Record Dutch Criminal Record maakt zonnige indiesurf vol sprankelende gitaren, meerstemmige harmonieën en aanstekelijke melodieën. Het drietal uit het Britse Chichester combineert de popgevoeligheid van de jaren zestig met een moderne indie- en psychedelische twist, wat resulteert in…",
           "url": "https://ekko.nl/event/dutch-criminal-record-hotel-mira/",
-          "tags": []
-        },
-        {
-          "id": "30180",
-          "title": "Alex Cameron",
-          "start": "2026-10-12T20:00:00+01:00",
-          "end": "2026-10-12T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De Australische cultfiguur Alex Cameron brengt scherpe observaties, zwarte humor en glanzende synthpop samen in een eigenzinnig universum vol buitenbeentjes en zelfdestructieve antihelden. Met albums als ‘Forced Witness’, ‘Miami Memory’ en ‘Oxy Music’ groeide hij uit tot een van de meest…",
-          "url": "https://ekko.nl/event/alex-cameron/",
           "tags": []
         },
         {
@@ -1133,7 +1145,7 @@
           "id": "helling-the-sun-12-09-2026",
           "title": "The Sun",
           "start": "2026-09-12T23:55:00+02:00",
-          "end": "2026-09-13T04:00:00+02:00",
+          "end": "2026-09-13T05:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "More than a reggaeton event, a fusion of music, energy, and culture.",
           "url": "https://dehelling.nl/agenda/the-sun-12-09-2026/",
@@ -1233,7 +1245,7 @@
           "id": "helling-state-power-release-show-26-09-2026",
           "title": "State Power release show",
           "start": "2026-09-26T18:30:00+02:00",
-          "end": "2026-09-26T23:00:00+02:00",
+          "end": "2026-09-27T01:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Utrechts nieuwe hardcore-revelatie lanceert debuutalbum met mini-festival",
           "url": "https://dehelling.nl/agenda/state-power-release-show-26-09-2026/",
@@ -2029,6 +2041,16 @@
           "tags": []
         },
         {
+          "id": "607878",
+          "title": "FRONTIER SCUM - Acid Western Roleplaying",
+          "start": "2026-09-09T19:00:00+02:00",
+          "end": "2026-09-09T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "FRONTIER SCUM - Acid Western Roleplaying Wed 9/9 7-10pm at Subcultures @Silver Heron Studios English, Frontier Scum Written by Karl Druid FRONTIER SCUM is a rules-lite Acid Western roleplaying game. A self-destructive, violent and LSD-infused take on Spaghetti Westerns, about wanted outlaws making…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "607008",
           "title": "👁💀PFS2 Quest (Series 2) #27: Within the Glacier (beginner friendly)",
           "start": "2026-09-09T19:00:00+02:00",
@@ -2039,22 +2061,22 @@
           "tags": []
         },
         {
+          "id": "608031",
+          "title": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜",
+          "start": "2026-09-09T19:00:00+02:00",
+          "end": "2026-09-09T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 Wed 9/9 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your cutlass &amp;…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "607022",
           "title": "Campagne: Golven in Oevervoorde",
           "start": "2026-09-09T19:00:00+02:00",
           "end": "2026-09-09T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Golven in Oevervoorde Wed 9/9 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "607878",
-          "title": "FRONTIER SCUM - Acid Western Roleplaying",
-          "start": "2026-09-09T19:00:00+02:00",
-          "end": "2026-09-09T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "FRONTIER SCUM - Acid Western Roleplaying Wed 9/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Location: Silver Heron Studios, Utrecht ᛭ Time: Walk in at 18.30, Starting at 19:00 ᛭ Participation fee: €5 ᛭ No need to bring or know anything about RPGs (if you'd like, you can bring a…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2127,7 +2149,32 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": []
+      "events": [
+        {
+          "id": "lab-monkey-23320",
+          "title": "Commander Tuesday",
+          "start": "2026-09-08T18:00:00+02:00",
+          "end": "2026-09-08T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-242/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
+          "id": "lab-monkey-23322",
+          "title": "Weekly Draft",
+          "start": "2026-09-10T19:00:00+02:00",
+          "end": "2026-09-10T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-126/",
+          "tags": [
+            "Draft"
+          ]
+        }
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2365,75 +2412,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-16",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-09-07T00:00:00+02:00",
-          "end": "2026-09-07T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-16/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-38",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-09-07T00:00:00+02:00",
-          "end": "2026-09-07T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-38/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-20",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-09-07T00:00:00+02:00",
-          "end": "2026-09-07T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-20/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-37",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-09-07T00:00:00+02:00",
-          "end": "2026-09-07T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-37/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-15",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-09-07T00:00:00+02:00",
-          "end": "2026-09-07T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-15/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
           "id": "beton-utrecht-101-leer-utrecht-kennen",
           "title": "Utrecht 101 – Utrecht voor Dummies!",
           "start": "2026-09-08T00:00:00+02:00",
@@ -2482,6 +2460,50 @@
             "Skaten",
             "Sport"
           ]
+        },
+        {
+          "id": "beton-luisteravond-4",
+          "title": "Luisteravond",
+          "start": "2026-09-11T00:00:00+02:00",
+          "end": "2026-09-11T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/luisteravond-4/",
+          "tags": [
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-proef-de-liefde-festival",
+          "title": "Proef de Liefde Festival",
+          "start": "2026-09-12T00:00:00+02:00",
+          "end": "2026-09-12T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/proef-de-liefde-festival/",
+          "tags": [
+            "Festival",
+            "Markt",
+            "Muziek",
+            "Poezië",
+            "Theater",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-charlie-reads-the-work-of",
+          "title": "Charlie reads the work of…",
+          "start": "2026-09-13T00:00:00+02:00",
+          "end": "2026-09-13T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/charlie-reads-the-work-of/",
+          "tags": [
+            "Gratis",
+            "Kunst",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2519,7 +2541,7 @@
           "start": "2026-10-30T00:00:00+01:00",
           "end": "2026-10-30T00:00:00+01:00",
           "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 30th. Industrial, Noise, Dark Ambient.. Suggested donation 12 euro. But pay what you can. If you can pay more great, if you can’t afford it we would rather have you enjoy the acts. Control (Santa Cruz, California) Since the 1990s, CONTROL (Thomas Garrison) has stood for uncompromising US…",
+          "description": "October 30th. Industrial, Noise, Dark Ambient.. Suggested donation 12 euro. But pay what you can. If you can pay more great, if you can’t afford it we would rather have you enjoy the acts. Control (Santa Cruz, California) Since the late 1990s, the name CONTROL has stood as one of the most intense,…",
           "url": "https://acu.nl/events/20261030/control-the-law-rah-collective-kry-death-mask",
           "tags": []
         },
@@ -2911,16 +2933,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "77139",
-          "title": "Candlelight Concerts: A tribute to Hans Zimmer",
-          "start": "2026-09-06T20:00:00.000Z",
-          "end": "2026-09-06T23:00:00.000Z",
-          "location": "Eindhoven, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77139",
-          "description": "Candlelight Concerts bring the magic of live music by candlelight to Muziekgebouw Eindhoven! String quartet Magic Strings will pay tribute to Hans Zimmer this evening. Enjoy well-known film music from films such as 'Pirates of the Caribbean', 'Wonder Women', &",
-          "tags": []
-        },
         {
           "id": "74216",
           "title": "Star Wars: Return of the Jedi in Concert",
@@ -4650,16 +4662,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-familietheater-hakim-op-zn-best-6-sep-2026-2026",
-          "title": "Familietheater: Hakim op z&#8217;n best",
-          "start": "2026-09-06T10:00:00+02:00",
-          "end": "2026-09-06T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/familietheater-hakim-op-zn-best-6-sep-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-kasteelclubs-2026",
           "title": "Kasteel Kunstclub Muiderslot",
           "start": "2026-09-21T10:00:00+02:00",
@@ -4870,6 +4872,16 @@
           "tags": []
         },
         {
+          "id": "loevestein-herfstvakantie-2026-10",
+          "title": "Herfstvakantie",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-25T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/herfstvakantie/",
+          "tags": []
+        },
+        {
           "id": "loevestein-rondleiding-2026-09",
           "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Muzikale Monumenten Kwartettendag",
           "start": "2026-09-12T10:00:00+02:00",
@@ -4907,16 +4919,6 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/maand-van-de-geschiedenis/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-herfstvakantie-2026-10",
-          "title": "Herfstvakantie",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-25T18:00:00+01:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/herfstvakantie/",
           "tags": []
         },
         {
@@ -5229,111 +5231,6 @@
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "brommerritten-nl-1864",
-          "title": "Toertocht Groessen",
-          "start": "2026-09-06T08:30:00+02:00",
-          "end": "2026-09-06T17:00:00+02:00",
-          "location": "den Oldenhoek 6a Groessen, Groessen (Gelderland)",
-          "description": "De 9e editie ‘Brommers Kieken’ in de Liemers op zondag 6 september 2026. Startadres (tevens finish) Den Oldenhoek 6a te Groessen. Vorig jaar was de belangstelling groot (80 deelnemers), daarom verzoeken we u zo spoedig mogelijk aan te melden. We kunnen dan tijdig besluiten om een maximum aantal…",
-          "url": "https://brommerritten.nl/ritten/toertocht-groessen/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-722",
-          "title": "BOLUZ Walcherenrit Middelburg",
-          "start": "2026-09-06T09:30:00+02:00",
-          "end": "2026-09-06T17:00:00+02:00",
-          "location": "de Kruitmolen, Middelburg (Zeeland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/walcherenrit/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1489",
-          "title": "de 8 van Bergeijk",
-          "start": "2026-09-06T09:30:00+02:00",
-          "end": "2026-09-06T17:00:00+02:00",
-          "location": "Hof 18c Bergeijk, Bergeijk (Noord-Brabant)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/zomer-zinder-toertocht-bergeijk/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1826",
-          "title": "Sallandtours Bromfietstocht 2026 Wijhe",
-          "start": "2026-09-06T09:30:00+02:00",
-          "end": "2026-09-06T17:00:00+02:00",
-          "location": "Torenstraat Wijhe, Wijhe (Overijssel)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/brommertoertocht-diekdaegen-wijhe/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2761",
-          "title": "Open Toerrit Bleiswijk",
-          "start": "2026-09-06T09:30:00+02:00",
-          "end": "2026-09-06T17:00:00+02:00",
-          "location": "Lange Vaart 17a Bleiswijk, Bleiswijk (Zuid-Holland)",
-          "description": "Voor vragen bel: 0651 532274 &nbsp; Clubhuis de Sneeuwbal",
-          "url": "https://brommerritten.nl/ritten/open-toerrit-bleiswijk/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3643",
-          "title": "Toertocht Oldtimerclub SPLO Holten",
-          "start": "2026-09-06T09:30:00+02:00",
-          "end": "2026-09-06T17:00:00+02:00",
-          "location": "Valeweg 3 Holten, Holten (Overijssel)",
-          "description": "Zondag 6 september is het weer zover! Onze 2 jaarlijkse toertocht voor brommers en tractoren. LET OP! Startpunt is bij Melkveebedrijf ten Dam, Valeweg 3 in Holten ( iets verder dan ons gebruikelijke startpunt)",
-          "url": "https://brommerritten.nl/ritten/toertocht-oldtimerclub-splo-holten/",
-          "tags": [
-            "Bromfiets",
-            "Tractor"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1454",
-          "title": "Twents Oldtimerfestival Tilligte",
-          "start": "2026-09-06T10:00:00+02:00",
-          "end": "2026-09-06T17:00:00+02:00",
-          "location": "Westenveldweg 8 Tilligte, Tilligte (Overijssel)",
-          "description": "ZONDAG PROGRAMMA 🕙 Vanaf 10.00 uur barst het Twents Oldtimer Festival echt los! 📅 Dagindeling: 9.45 uur – Start van de bromfietsronde (Deelname via bromfietsclub Denekamp of melden bij secretariaat om 9:30) 10.00 uur – Officiële opening van het Twents Oldtimer Festival 11.00 uur – Optreden…",
-          "url": "https://brommerritten.nl/ritten/twents-oldtimerfestival-tilligte/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-866",
-          "title": "Toerrit door de Achterhoek Aalten",
-          "start": "2026-09-06T10:30:00+02:00",
-          "end": "2026-09-06T17:00:00+02:00",
-          "location": "Loohuisweg 5 Aalten, Aalten (Gelderland)",
-          "description": "Geert Vreeman uit Aalten, organiseert weer een prachtige tourrit die rond om Winterswijk en Aalten gereden zal worden. Verzamelen 10:30 uur voor een kop koffie, vertrek 11:00 uur. Adres: Suzie’s Farm Loohuisweg 5 7121 JL Aalten. Info: Geert Vreeman 06-1268 1016",
-          "url": "https://brommerritten.nl/ritten/toerrit-door-de-achterhoek-aalten/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
           "id": "brommerritten-nl-3013",
           "title": "Texel Toertocht Buikschuivers",
           "start": "2026-09-07T08:00:00+02:00",
@@ -5465,6 +5362,22 @@
           "country": "Nederland"
         },
         {
+          "id": "brommerritten-nl-2688",
+          "title": "Vechtdal Classic Toerrit Oudleusen",
+          "start": "2026-09-13T11:00:00+02:00",
+          "end": "2026-09-13T17:00:00+02:00",
+          "location": "Parallelstraat 2 Oudleusen, Oudleusen (Overijssel)",
+          "description": "",
+          "url": "https://brommerritten.nl/ritten/vechtdal-classic-toerrit-oudleusen/",
+          "tags": [
+            "Auto",
+            "Bromfiets",
+            "Motor",
+            "Tractor"
+          ],
+          "country": "Nederland"
+        },
+        {
           "id": "brommerritten-nl-1292",
           "title": "2e zondag in de maandrit September – Hulst",
           "start": "2026-09-13T13:30:00+02:00",
@@ -5582,6 +5495,19 @@
           "location": "Beckumerstraat 2 Boekelo, Boekelo (Overijssel)",
           "description": "De Boekelo Tour word georganiseerd door Hennie Abbink. Het zal een prachtige rit door het Twentse landschap worden van ca 90 km lang. Verzamelen 10:30 koffie, 11:00 uur vertrek. Adres: Café de Buren Beckumerstraat 2 7548 BG Boekelo. Info: Hennie Abbink: 06-2042 3558",
           "url": "https://brommerritten.nl/ritten/kcon-boekelo-tour/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-2854",
+          "title": "Toertocht oude brommers St. Michielsgestel",
+          "start": "2026-09-28T10:30:00+02:00",
+          "end": "2026-09-28T14:30:00+02:00",
+          "location": "Meanderplein 1 St. Michielsgestel, St. Michielsgestel (Noord-Brabant)",
+          "description": "Een gezellige toertocht voor brommers (40 km.) en Solexen (25 km.). Startpunt is de Spiegeltent, die in Sint-Michielsgestel op het Meanderplein staat. Dit jaar is er ook aandacht voor de inwendige mens: ons gemeenschapshuis die naast de tent staat zorgt dat er gegeten kan worden, in de spiegeltent…",
+          "url": "https://brommerritten.nl/ritten/toertocht-oude-brommers-st-michielsgestel/",
           "tags": [
             "Bromfiets"
           ],
@@ -5747,20 +5673,6 @@
           "tags": [
             "Toertocht",
             "Hulpmotor"
-          ]
-        },
-        {
-          "id": "bromfietstreffen-wellen-2026",
-          "title": "Bromfietstreffen Wellen",
-          "start": "2026-09-06T08:00:00+02:00",
-          "end": "2026-09-06T17:00:00+02:00",
-          "location": "Wellen (Limburg)",
-          "country": "België",
-          "description": "Bromfietstreffen voor brommers van vóór 1995, met 2 georganiseerde ritten en een doorlopende onderdelenbeurs.",
-          "url": "https://www.brommer.nl/evenementen/int-bromfietstreffen-wellen/",
-          "tags": [
-            "Treffen",
-            "Onderdelenbeurs"
           ]
         }
       ]

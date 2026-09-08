@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T10:01:33.156Z",
+  "updatedAt": "2026-09-08T09:26:59.376Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,20 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001075",
-          "title": "Snook Bookings presents Funebrarum (USA) + Morbific (FI)",
-          "start": "2026-09-07T19:30:00+02:00",
-          "end": "2026-09-07T22:30:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "7 September… Save the date! Een van de bruutste underground death metal packages van het jaar komt naar Utrecht!\nFunebrarum (USA/New Jersey) is na jaren afwezigheid terug op Europese bodem met hun langverwachte (7 jaar) nieuwe album, ‘Beckoning the Void of Eternal Silence’, 29 mei uitgebracht bij…",
-          "url": "https://dbstudio.nl/event/snook-bookings-presents-funebrarum-usa-morbific-fr/",
-          "tags": [
-            "Concert",
-            "Death Metal",
-            "Metal"
-          ]
-        },
         {
           "id": "10001103",
           "title": "SKAMPIDA (Colombia) + I'm With Stupid",
@@ -164,6 +150,18 @@
             "Concert",
             "Improvisatie",
             "Jazz"
+          ]
+        },
+        {
+          "id": "10001129",
+          "title": "Club 3voor12 Utrecht w/ HESTER + CIRCLE CIRCLE + 1",
+          "start": "2026-09-24T19:30:00+02:00",
+          "end": "2026-09-24T23:00:00+02:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "We mogen weer! Een nieuw seizoen voor de 3voor12 showcases! \nTBA",
+          "url": "https://dbstudio.nl/event/club-3voor12-utrecht-2/",
+          "tags": [
+            "Club 3voor 12 / Utrecht"
           ]
         },
         {
@@ -432,6 +430,76 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "30233",
+          "title": "Ratboys",
+          "start": "2026-09-12T20:30:00+02:00",
+          "end": "2026-09-12T23:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Ratboys maakt warme, gitaargedreven indierock waarin invloeden van powerpop, americana en alt-country moeiteloos samenvloeien. Op hun zesde album ‘Singin’ to an Empty Chair’ presenteert het viertal uit Chicago elf nummers over vervreemding, therapie en de wens om een onmogelijk gesprek toch te…",
+          "url": "https://ekko.nl/event/ratboys-1/",
+          "tags": []
+        },
+        {
+          "id": "31084",
+          "title": "Wildgroei",
+          "start": "2026-10-16T23:00:00+01:00",
+          "end": "2026-10-17T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Wildgroei was jarenlang dé plek waar het rauwe EKKO, een eigenzinnig publiek en onconventionele muziek samenkwamen. Een avond waarop de armen de lucht in gingen en de rest van de wereld even naar de achtergrond verdween. Ter ere van ons 40-jarig jubileum keert Wildgroei éénmalig terug naar EKKO.…",
+          "url": "https://ekko.nl/event/wildgroei/",
+          "tags": []
+        },
+        {
+          "id": "29270",
+          "title": "Francis of Delirium",
+          "start": "2026-09-11T20:30:00+02:00",
+          "end": "2026-09-11T23:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Francis of Delirium is het project van Jana Bahrich, de in Luxemburg gevestigde indierockartiest die razendsnel naam maakt. Met een sound waarin grunge, folk en powerpop samenkomen, schrijft ze emotioneel geladen songs vol rauwe gitaren en kwetsbare, directe teksten. Na haar veelgeprezen…",
+          "url": "https://ekko.nl/event/francis-of-delirium/",
+          "tags": []
+        },
+        {
+          "id": "27797",
+          "title": "Gia Margaret",
+          "start": "2026-09-11T20:30:00+02:00",
+          "end": "2026-09-11T22:45:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Chicago-based songwriter Gia Margaret beweegt zich tussen ambient en folk, met minimalistische en experimentele invloeden. Ze debuteerde in 2019 met &#8216;There’s Always A Glimmer&#8217;, maar kreeg daarna te maken met stemproblemen. In die periode ontwikkelde ze andere muzikale talen en maakte…",
+          "url": "https://ekko.nl/event/gia-margaret/",
+          "tags": []
+        },
+        {
+          "id": "29536",
+          "title": "Apeshit",
+          "start": "2026-09-10T19:30:00+02:00",
+          "end": "2026-09-10T22:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Met razende riffjes, snauwende vocals en melodieuze hooks zorgt het Utrechtse Apeshit voor een dynamische jangle-punk-mengelmoes. De nummers, die ironische ondertonen combineren met serieuze onderwerpen, resulteren live in een mix van rauwe energie, aanstekelijke melodieën en een goede dosis humor.…",
+          "url": "https://ekko.nl/event/apeshit/",
+          "tags": []
+        },
+        {
+          "id": "30523",
+          "title": "LUCKY DONE GONE",
+          "start": "2026-09-12T23:30:00+02:00",
+          "end": "2026-09-13T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
+          "url": "https://ekko.nl/event/club-ekko-35/",
+          "tags": []
+        },
+        {
+          "id": "29802",
+          "title": "R.M.F.C.",
+          "start": "2026-09-23T19:30:00+02:00",
+          "end": "2026-09-23T22:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "R.M.F.C. is het project van multi-instrumentalist Buz Clatworthy. Wat begon als een thuisstudio-project, is uitgegroeid tot een volwaardige liveband en een belangrijke speler binnen de wereldwijde DIY-punk-underground. Met het album ‘Club Hits’ (2023) groeide hij uit tot een van de vaandeldragers…",
+          "url": "https://ekko.nl/event/rmfc/",
+          "tags": []
+        },
+        {
           "id": "30180",
           "title": "Alex Cameron",
           "start": "2026-10-12T20:00:00+01:00",
@@ -439,16 +507,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Australische cultfiguur Alex Cameron brengt scherpe observaties, zwarte humor en glanzende synthpop samen in een eigenzinnig universum vol buitenbeentjes en zelfdestructieve antihelden. Met albums als ‘Forced Witness’, ‘Miami Memory’ en ‘Oxy Music’ groeide hij uit tot een van de meest…",
           "url": "https://ekko.nl/event/alex-cameron/",
-          "tags": []
-        },
-        {
-          "id": "30523",
-          "title": "LUCKY DONE GONE & KINETIKS",
-          "start": "2026-09-12T23:30:00+02:00",
-          "end": "2026-09-13T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
-          "url": "https://ekko.nl/event/club-ekko-35/",
           "tags": []
         },
         {
@@ -622,16 +680,6 @@
           "tags": []
         },
         {
-          "id": "27797",
-          "title": "Gia Margaret",
-          "start": "2026-09-11T20:30:00+02:00",
-          "end": "2026-09-11T22:45:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De Chicago-based songwriter Gia Margaret beweegt zich tussen ambient en folk, met minimalistische en experimentele invloeden. Ze debuteerde in 2019 met &#8216;There’s Always A Glimmer&#8217;, maar kreeg daarna te maken met stemproblemen. In die periode ontwikkelde ze andere muzikale talen en maakte…",
-          "url": "https://ekko.nl/event/gia-margaret/",
-          "tags": []
-        },
-        {
           "id": "30295",
           "title": "My First Time",
           "start": "2026-10-30T20:30:00+01:00",
@@ -672,16 +720,6 @@
           "tags": []
         },
         {
-          "id": "29270",
-          "title": "Francis of Delirium",
-          "start": "2026-09-11T20:30:00+02:00",
-          "end": "2026-09-11T23:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Francis of Delirium is het project van Jana Bahrich, de in Luxemburg gevestigde indierockartiest die razendsnel naam maakt. Met een sound waarin grunge, folk en powerpop samenkomen, schrijft ze emotioneel geladen songs vol rauwe gitaren en kwetsbare, directe teksten. Na haar veelgeprezen…",
-          "url": "https://ekko.nl/event/francis-of-delirium/",
-          "tags": []
-        },
-        {
           "id": "30766",
           "title": "DON’T MIND THE GAP x Keep Hush",
           "start": "2026-10-03T23:30:00+01:00",
@@ -712,16 +750,6 @@
           "tags": []
         },
         {
-          "id": "29802",
-          "title": "R.M.F.C.",
-          "start": "2026-09-23T19:30:00+02:00",
-          "end": "2026-09-23T22:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "R.M.F.C. is het project van multi-instrumentalist Buz Clatworthy. Wat begon als een thuisstudio-project, is uitgegroeid tot een volwaardige liveband en een belangrijke speler binnen de wereldwijde DIY-punk-underground. Met het album ‘Club Hits’ (2023) groeide hij uit tot een van de vaandeldragers…",
-          "url": "https://ekko.nl/event/rmfc/",
-          "tags": []
-        },
-        {
           "id": "30151",
           "title": "De Gestampte Meisjes: STROT",
           "start": "2026-10-16T20:00:00+01:00",
@@ -739,26 +767,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Daryll-Ann is een van de belangrijkste indiebands die Nederland ooit voortbracht. De band bouwde in de jaren negentig een indrukwekkend oeuvre op, met ‘Daryll-Ann Weeps’ uit 1996 als hoogtepunt. Het is een album waar alles in zit: woede, verdriet, schoonheid en troost, samengebracht in zestien…",
           "url": "https://ekko.nl/event/daryll-ann/",
-          "tags": []
-        },
-        {
-          "id": "29536",
-          "title": "Apeshit",
-          "start": "2026-09-10T19:30:00+02:00",
-          "end": "2026-09-10T22:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Met razende riffjes, snauwende vocals en melodieuze hooks zorgt het Utrechtse Apeshit voor een dynamische jangle-punk-mengelmoes. De nummers, die ironische ondertonen combineren met serieuze onderwerpen, resulteren live in een mix van rauwe energie, aanstekelijke melodieën en een goede dosis humor.…",
-          "url": "https://ekko.nl/event/apeshit/",
-          "tags": []
-        },
-        {
-          "id": "30233",
-          "title": "Ratboys",
-          "start": "2026-09-12T20:30:00+02:00",
-          "end": "2026-09-12T23:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ratboys maakt warme, gitaargedreven indierock waarin invloeden van powerpop, americana en alt-country moeiteloos samenvloeien. Op hun zesde album ‘Singin’ to an Empty Chair’ presenteert het viertal uit Chicago elf nummers over vervreemding, therapie en de wens om een onmogelijk gesprek toch te…",
-          "url": "https://ekko.nl/event/ratboys-1/",
           "tags": []
         },
         {
@@ -1822,46 +1830,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "468646",
-          "title": "The Dresden Dolls - Yes, Virginia (Tailor’s Version) 20th Anniversa...",
-          "start": "2026-09-07T19:00:00+02:00",
-          "end": "2026-09-07T20:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het theatrale Amerikaanse duo Dresden Dolls, bestaande uit Amanda Palmer en Brian Viglione, staat bekend om hun eigenzinnige mix van alternatieve rock, vaudeville en punk, door Palmer omschreven als ‘Brechtian punk cabaret’. Na een pauze sinds hun tweede album Yes, Virginia... (2006), keert het duo…",
-          "url": "https://www.podiuminfo.nl/concert/468646/The-Dresden-Dolls-Yes-Virginia-Tailor-s-Version-20th-Anniversa-/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "456973",
-          "title": "Allah-Las",
-          "start": "2026-09-07T20:00:00+02:00",
-          "end": "2026-09-07T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Californische band Allah-Las brengt een zonovergoten mix van psychedelische rock, garagerock en surfmuziek, doordrenkt met een vette jarenzestigsaus. Sinds hun titelloze debuutalbum in 2012 heeft de band een flinke catalogus opgebouwd. Hun vijfde plaat, 'Zuma 85' uit 2023, verrijkte hun 'jangly…",
-          "url": "https://www.podiuminfo.nl/concert/456973/Allah-Las/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "456934",
-          "title": "Filmconcert: Star Wars VI: Return Of The Jedi",
-          "start": "2026-09-07T20:15:00+02:00",
-          "end": "2026-09-07T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Grote Zaal van TivoliVredenburg verandert in een luxe bioscoop voor de vertoning van 'Return of the Jedi'. Het Brussels Philharmonic orkest, bekend om zijn filmmuziekvertolkingen, zal live de integrale soundtrack van de zesde Star Wars-film spelen. Gastdirigent Dirk Brossé, die eerder de…",
-          "url": "https://www.podiuminfo.nl/concert/456934/Filmconcert-Star-Wars-VI-Return-Of-The-Jedi/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "460245",
-          "title": "Kishi Bashi - Sonderlust (10th Anniversary tour)",
-          "start": "2026-09-07T20:15:00+02:00",
-          "end": "2026-09-07T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Japans-Amerikaanse zanger en multi-instrumentalist Kishi Bashi, alias Kaoru Ishibashi, viert het tienjarig jubileum van zijn album \"Sonderlust\" (2016). Kishi Bashi begon zijn carrière in 2010 als violist bij Of Montreal, maar bouwde al snel een solo-carrière op met vijf albums. Hij staat bekend…",
-          "url": "https://www.podiuminfo.nl/concert/460245/Kishi-Bashi-Sonderlust-10th-Anniversary-tour-/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "452735",
           "title": "Foy Vance",
           "start": "2026-09-08T19:15:00+02:00",
@@ -2010,6 +1978,46 @@
           "description": "Reis op zaterdag 12 september terug naar de zorgeloze jaren 2010-2019, een tijdperk vol vroege Instagram-posts, Vine en Snapchat-filters. Dans de nacht in op hits als Gangnam Style, King Kunta, Shake it Off, Starships, Last Friday Night (T.G.I.F.), Whistle en Wrecking Ball. Herbeleef de muziek van…",
           "url": "https://www.podiuminfo.nl/concert/486918/Only-10s/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "471115",
+          "title": "Nieloefaar",
+          "start": "2027-03-27T20:15:00+01:00",
+          "end": "2027-03-27T22:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Nederlandse zangeres Nieloefaar, met Perzische roots, ontroerde het publiek tijdens haar Blind Audition in het recente seizoen van The Voice of Holland. Ze vertolkte het nummer Sorry (André Hazes/Karsu) in zowel het Nederlands als het Farsi. Haar coach, Willie Wartaal, herkende direct haar…",
+          "url": "https://www.podiuminfo.nl/concert/471115/Nieloefaar/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "478328",
+          "title": "Hawkwind",
+          "start": "2026-09-13T20:15:00+02:00",
+          "end": "2026-09-13T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De legendarische Engelse band Hawkwind staat bekend als pioniers van de spacerock, met een hypnotiserende mix van psychedelica, hardrock en elektronica. De band heeft sinds de oprichting in 1969 diverse bezettingswisselingen gekend, maar wordt nog steeds geleid door zanger/gitarist Dave Brock.…",
+          "url": "https://www.podiuminfo.nl/concert/478328/Hawkwind/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "453417",
+          "title": "Drake Milligan",
+          "start": "2026-09-15T20:00:00+02:00",
+          "end": "2026-09-15T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Een avond in het teken van country, americana en rootsmuziek met Drake Milligan als headliner. De Texaanse zanger brengt moderne country met een traditionele basis en is onder meer bekend van zijn finaleplaats in America's Got Talent. Daarnaast stond hij eerder op podia als de Grand Ole Opry en het…",
+          "url": "https://www.podiuminfo.nl/concert/453417/Drake-Milligan/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "484684",
+          "title": "Rabo Open Stage: Julie Lena",
+          "start": "2026-09-15T22:30:00+02:00",
+          "end": "2026-09-15T23:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Op de Rabo Open Stage presenteert countryzangeres Julie Lena haar eigentijdse countrymuziek. Met haar herkenbare stem en een voorliefde voor diepzinnige liedjes, creëert ze een persoonlijke en vertrouwde sfeer. Haar muziek, geworteld in de country, klinkt tegelijkertijd fris en toegankelijk, en…",
+          "url": "https://www.podiuminfo.nl/concert/484684/Rabo-Open-Stage-Julie-Lena/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2107,6 +2115,16 @@
           "end": "2026-09-16T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Koning van de Krotten Wed 16/9 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "608090",
+          "title": "Jukebox: The Musical Roleplaying Game. Warning: INVOLVES SINGING AND HOMEWORK!",
+          "start": "2026-09-23T19:00:00+02:00",
+          "end": "2026-09-23T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Jukebox: The Musical Roleplaying Game. Warning: INVOLVES SINGING AND HOMEWORK! Wed 23/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Character level 0 This game involves singing in front of people you might not know, karaoke style. If that sounds like a bad time or otherwise like…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2378,7 +2396,8 @@
       "icon": "🌸",
       "scene": "games",
       "feedUrl": "https://abunaicon.nl/",
-      "events": []
+      "events": [],
+      "broken": true
     },
     {
       "id": "animecon",
@@ -2411,18 +2430,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-utrecht-101-leer-utrecht-kennen",
-          "title": "Utrecht 101 – Utrecht voor Dummies!",
-          "start": "2026-09-08T00:00:00+02:00",
-          "end": "2026-09-08T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/utrecht-101-leer-utrecht-kennen/",
-          "tags": [
-            "Terras"
-          ]
-        },
         {
           "id": "beton-salsa-nights-elke-woensdag-52",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
@@ -2504,6 +2511,75 @@
             "Kunst",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-15",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-09-14T00:00:00+02:00",
+          "end": "2026-09-14T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-15/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-39",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-09-14T00:00:00+02:00",
+          "end": "2026-09-14T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-39/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-21",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-09-14T00:00:00+02:00",
+          "end": "2026-09-14T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-21/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-38",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-09-14T00:00:00+02:00",
+          "end": "2026-09-14T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-38/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-16",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-09-14T00:00:00+02:00",
+          "end": "2026-09-14T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-16/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
         }
       ]
     },
@@ -2515,6 +2591,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261031-the-rocky-horror-picture-show",
+          "title": "The Rocky Horror Picture Show",
+          "start": "2026-10-31T00:00:00+01:00",
+          "end": "2026-10-31T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 31st. Sing-along Party. Bring out your horrifyingly queer outfits, no lifestyle is too extreme, because we are getting a visit from Transylvania! Ready your vocal cords and join us this Halloween for an homage to Tim Curry at ACU’s very first Rocky Horror Picture Show screening! Ticket…",
+          "url": "https://acu.nl/events/20261031/the-rocky-horror-picture-show",
+          "tags": []
+        },
         {
           "id": "acu-20260920-online-activism-fundraiser",
           "title": "Online Activism Fundraiser",
@@ -2547,7 +2633,7 @@
         },
         {
           "id": "acu-20261017-nekrotsoulithra-gr",
-          "title": "Nekrotsoulithra (GR)",
+          "title": "Mutiny Presents: Nekrotsoulithra (GR)",
           "start": "2026-10-17T00:00:00+01:00",
           "end": "2026-10-17T00:00:00+01:00",
           "location": "ACU, Voorstraat 71, Utrecht",
@@ -2557,7 +2643,7 @@
         },
         {
           "id": "acu-20261120-sean-pratt-live-at-acu",
-          "title": "Sean Pratt Live at ACU",
+          "title": "Mutiny Presents: Sean Pratt (US) Live at ACU",
           "start": "2026-11-20T00:00:00+01:00",
           "end": "2026-11-20T00:00:00+01:00",
           "location": "ACU, Voorstraat 71, Utrecht",
@@ -2603,16 +2689,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "September 19th. Physical Theatre Workshop. Wanna step into a creative space where movement speaks louder than words? Inspired by the visionary practices of Grotowski and Lecoq, this workshop blends Physical Theatre and Contemporary Performance to awaken authentic expression through the body.…",
           "url": "https://acu.nl/events/20260919/dionysus-8",
-          "tags": []
-        },
-        {
-          "id": "acu-20261029-inherited-white-knuckle-grip-cold-grip",
-          "title": "Inherited + White Knuckle Grip + Cold Grip",
-          "start": "2026-10-29T00:00:00+01:00",
-          "end": "2026-10-29T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 29th. Hardcore band night . SOIL PROMOTIONS X DUTCH ANGLE COLLECTIVE PRESENTS: COLD GRIP Emerging from the hardcore underground of Weert, Cold Grip has been delivering raw, unfiltered metallic hardcore since 2022. Blending crushing riffs, aggressive breakdowns, and emotionally charged…",
-          "url": "https://acu.nl/events/20261029/inherited-white-knuckle-grip-cold-grip",
           "tags": []
         }
       ]
@@ -2791,6 +2867,20 @@
           "tags": []
         },
         {
+          "id": "basis-utrecht-10001516-1792882800-1792908000",
+          "title": "BASIS/ Ben Techy/ Brtinzz/ Nikki/ Remon Verhoeve",
+          "start": "2026-10-24T23:00:00+01:00",
+          "end": "2026-10-25T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-ben-techy-brtinzz-nikki-remon-verhoeve/",
+          "tags": [
+            "Hardgroove",
+            "Hardtechno",
+            "Schranz"
+          ]
+        },
+        {
           "id": "basis-utrecht-10001511-1793401200-1793426400",
           "title": "BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser",
           "start": "2026-10-30T23:00:00+01:00",
@@ -2922,6 +3012,16 @@
           "description": "Zaterdag 3 oktober 2026 staat alweer de zesde editie van het HRFST Festival op het programma. Check hier meer info over de tickets & line-up!",
           "url": "https://festivalfans.nl/event/hrfst-festival/",
           "tags": []
+        },
+        {
+          "id": "soenda-indoor",
+          "title": "Soenda Indoor November",
+          "start": "2026-11-21T14:00:00+00:00",
+          "end": "2026-11-21T14:00:00+00:00",
+          "location": "Werkspoorkathedraal, Utrecht",
+          "description": "Alles lezen over de indoor versie van Soenda Festival 2026? Check de speciale pagina hier met info over tickets, line-up en sfeer.",
+          "url": "https://festivalfans.nl/event/soenda-indoor/",
+          "tags": []
         }
       ]
     },
@@ -2933,16 +3033,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "74216",
-          "title": "Star Wars: Return of the Jedi in Concert",
-          "start": "2026-09-07T20:00:00.000Z",
-          "end": "2026-09-07T23:00:00.000Z",
-          "location": "Utrecht, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74216",
-          "description": "John Williams - Star Wars: Return of the Jedi<BR><BR>The Main Hall transforms into a luxury cinema when Return of the Jedi hits the big screen. The blockbuster will be screened in its entirety while the Brussels Philharmonic plays the legendary soundtrack of the sixth Star Wars film live. Guest cond",
-          "tags": []
-        },
         {
           "id": "73779",
           "title": "Proms: John Williams’ Greatest Hits",
@@ -2981,6 +3071,16 @@
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74007",
           "description": "With the famous Philharmonia Orchestra and conductor Kerem Hasan, de Doelen opens the new classical season in a big way! Saint-Sa&euml;ns's masterful organ symphony is always an experience to experience, especially when Anna Lapwood takes care of the organ part.  Together with the Laurens S",
+          "tags": []
+        },
+        {
+          "id": "78755",
+          "title": "Interstellar: Tribute to Hans Zimmer",
+          "start": "2026-09-19T20:00:00.000Z",
+          "end": "2026-09-19T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78755",
+          "description": "Beyond the stars, across the vast silence of space, one force endures &mdash; love. La Chapelle Sauvage ensemble brings to life the extraordinary music of Interstellar, alongside other iconic works by Hans Zimmer and Ludovico Einaudi.<BR><BR>Christopher Nolan's modern classic is a story of",
           "tags": []
         },
         {
@@ -3544,6 +3644,16 @@
           "tags": []
         },
         {
+          "id": "78756",
+          "title": "Interstellar: Tribute to Hans Zimmer",
+          "start": "2026-11-20T20:00:00.000Z",
+          "end": "2026-11-20T23:00:00.000Z",
+          "location": "Groningen, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78756",
+          "description": "Beyond the stars, across the vast silence of space, one force endures &mdash; love. La Chapelle Sauvage ensemble brings to life the extraordinary music of Interstellar, alongside other iconic works by Hans Zimmer and Ludovico Einaudi.<BR><BR>Christopher Nolan's modern classic is a story of",
+          "tags": []
+        },
+        {
           "id": "71695",
           "title": "Harry Potter and the Chamber of Secrets in Concert",
           "start": "2026-11-21T20:00:00.000Z",
@@ -3671,6 +3781,16 @@
           "location": "Groningen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71807",
           "description": "The Witcher in Concert is coming to celebrate the 10th anniversary of the critically acclaimed The Witcher 3: Wild Hunt! What better way to commemorate all these years of adventures and monster slaying than through part of the game itself - its music!<BR><BR>The Witcher in Concert will be an innovat",
+          "tags": []
+        },
+        {
+          "id": "78702",
+          "title": "The Music of Hans Zimmer, Alan Silvestri, John Williams",
+          "start": "2026-11-29T20:00:00.000Z",
+          "end": "2026-11-29T23:00:00.000Z",
+          "location": "Haarlem, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78702",
+          "description": "Following the success of Hans Zimmer vs John Williams, the “Grand Symphonique” and its 50 musicians, choir singers, and soloists return for a new exceptional concert!<BR><BR>More than a concert, a real show where modern sounds and powerful orchestrations immerse you in intense worlds...",
           "tags": []
         },
         {
@@ -4194,6 +4314,16 @@
           "tags": []
         },
         {
+          "id": "78665",
+          "title": "Blade Runner Live",
+          "start": "2027-02-25T20:00:00.000Z",
+          "end": "2027-02-25T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78665",
+          "description": "Vangelis - Blade Runner<BR><BR>Experience Ridley Scott’s multi-Academy Award&reg;-nominated cult classic, Blade Runner (2007 Final Cut), on a vast HD screen while Vangelis' synthesiser-led score is performed by The Avex Ensemble for the first time in-sync with the 1982 motion picture.",
+          "tags": []
+        },
+        {
           "id": "76177",
           "title": "20 Live Movies in Concert",
           "start": "2027-02-27T20:00:00.000Z",
@@ -4211,6 +4341,16 @@
           "location": "Haarlem, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76741",
           "description": "The Nordwestdeutsche Philharmonie presents an evening full of iconic film music by John Williams and Hans Zimmer, with recognisable themes.<BR><BR>The Nordwestdeutsche Philharmonie presents a program with music by two of the most influential film composers: John Williams and Hans Zimmer. Williams be",
+          "tags": []
+        },
+        {
+          "id": "78666",
+          "title": "Blade Runner Live",
+          "start": "2027-02-27T20:00:00.000Z",
+          "end": "2027-02-27T23:00:00.000Z",
+          "location": "Antwerpen/Anvers (Antwerp), Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78666",
+          "description": "Vangelis - Blade Runner<BR><BR>Experience Ridley Scott’s multi-Academy Award&reg;-nominated cult classic, Blade Runner (2007 Final Cut), on a vast HD screen while Vangelis' synthesiser-led score is performed by The Avex Ensemble for the first time in-sync with the 1982 motion picture.",
           "tags": []
         },
         {
@@ -4444,6 +4584,16 @@
           "tags": []
         },
         {
+          "id": "78734",
+          "title": "Echoes of Hyrule  Music from the Zelda Saga",
+          "start": "2027-04-23T20:00:00.000Z",
+          "end": "2027-04-23T23:00:00.000Z",
+          "location": "Utrecht, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78734",
+          "description": "The 20-piece French orchestra Neko Light Orchestra presents a special concert centred on the music from the video game series The Legend of Zelda. The Neko Light Orchestra is a melodic rock orchestra dedicated to reinterpreting soundtracks from imaginary worlds.<BR><BR>They have previously performed",
+          "tags": []
+        },
+        {
           "id": "74697",
           "title": "The Planets",
           "start": "2027-04-24T20:00:00.000Z",
@@ -4543,8 +4693,7 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -5230,19 +5379,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-3013",
-          "title": "Texel Toertocht Buikschuivers",
-          "start": "2026-09-07T08:00:00+02:00",
-          "end": "2026-09-07T17:00:00+02:00",
-          "location": "Viaduct 3 Zurich, Zurich (Friesland)",
-          "description": "Afgelopen jaar zijn we naar Texel geweest met de Buikschuivers. Het was waarschijnlijk één van de mooiste ritten van het afgelopen jaar. En daarom ook dit jaar op maandag 7 september weer de Texeltocht op de planning gezet. info later op: https://www.facebook.com/groups/2453063631435719",
-          "url": "https://brommerritten.nl/ritten/texel-toertocht-buikschuivers/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-2993",
           "title": "Opella Nederlandse bromfietsenrit Bennekom",

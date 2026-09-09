@@ -3,6 +3,7 @@ import { resolve, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { MANUAL_BUHURT } from './manual-buhurt.mjs'
 import { MANUAL_BROMMER } from './manual-brommer.mjs'
+import { MANUAL_LARP } from './manual-larp.mjs'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_PATH = resolve(__dirname, '../public/events.json')
@@ -48,6 +49,8 @@ const VENUES = [
   { id: 'ruine-brederode',      name: 'Ruïne van Brederode',    color: '#713f12', icon: '🏚️', scene: 'middeleeuwen', type: 'ruine-brederode',      feedUrl: 'https://ruinevanbrederode.nl/activiteiten/' },
   { id: 'hoensbroek',           name: 'Kasteel Hoensbroek',     color: '#7c2d12', icon: '🛡️', scene: 'middeleeuwen', type: 'hoensbroek',           feedUrl: 'https://www.kasteelhoensbroek.nl/wat-is-er-te-doen/' },
   { id: 'montfort',             name: 'Middeleeuws Montfort',   color: '#14532d', icon: '⚔️',  scene: 'middeleeuwen', type: 'montfort',             feedUrl: 'https://middeleeuwsmontfort.nl/' },
+  { id: 'larp-platform',        name: 'LARP weekenden',         color: '#7e22ce', icon: '🧙', scene: 'middeleeuwen', type: 'larp-platform',        feedUrl: 'https://www.larp-platform.nl/evenementenoverzicht/' },
+  { id: 'larp-mega',            name: 'LARP mega-events (EU)',  color: '#be185d', icon: '🐉', scene: 'middeleeuwen', type: 'larp-manual',          feedUrl: '' },
 
   // Buhurt scene (medieval armored combat), Europe only.
   { id: 'buhurt-eu',         name: 'Buhurt toernooien (EU)', color: '#b61e1e', icon: '⚔️', scene: 'buhurt', type: 'buhurt-wob',    feedUrl: 'https://www.worldofbuhurt.com/tournaments' },
@@ -1484,6 +1487,121 @@ async function scrapeMontfort(venue) {
   }]
 }
 
+/**
+ * Parse a larp-platform date string (Dutch, always with year) into
+ * { startStr, endStr } as YYYY-MM-DD, or null.
+ * Handles: "11 t/m 13 september 2026", "30 oktober t/m 1 november 2026",
+ * "30 december 2026 t/m 2 januari 2027", "3 oktober 2026".
+ */
+function parseLarpPlatformDate(str) {
+  const pad = n => String(n).padStart(2, '0')
+  const MONTH = 'januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|november|december'
+  const s = str.trim().toLowerCase()
+
+  // Range: left side may omit month and/or year ("11 t/m 13 september 2026").
+  const range = s.match(new RegExp(
+    `^(\\d{1,2})(?:\\s+(${MONTH}))?(?:\\s+(\\d{4}))?\\s+t/m\\s+(\\d{1,2})\\s+(${MONTH})\\s+(\\d{4})$`,
+  ))
+  if (range) {
+    const endMonth = nlMonth(range[5])
+    const endYear = +range[6]
+    const startMonth = range[2] ? nlMonth(range[2]) : endMonth
+    if (!startMonth || !endMonth) return null
+    // Year is only spelled out on the left when the range crosses new year.
+    const startYear = range[3] ? +range[3] : (startMonth > endMonth ? endYear - 1 : endYear)
+    return {
+      startStr: `${startYear}-${pad(startMonth)}-${pad(+range[1])}`,
+      endStr:   `${endYear}-${pad(endMonth)}-${pad(+range[4])}`,
+    }
+  }
+
+  // Single day: "3 oktober 2026"
+  const single = s.match(new RegExp(`^(\\d{1,2})\\s+(${MONTH})\\s+(\\d{4})$`))
+  if (single) {
+    const month = nlMonth(single[2])
+    if (!month) return null
+    const day = `${single[3]}-${pad(month)}-${pad(+single[1])}`
+    return { startStr: day, endStr: day }
+  }
+
+  return null
+}
+
+/**
+ * LARP Platform (larp-platform.nl): the shared agenda for NL/BE larp. The whole
+ * agenda (100+ events, years ahead) renders in one HTML page as `.event-card`
+ * blocks — no feed, the WP REST `evenement` type exposes post dates only, not
+ * event dates (see docs/CONTENT.md).
+ *
+ * Filtered to multi-day events: those are the large weekend larps, which keeps
+ * out the single-evening parlour sessions (Vampire Utrecht, short larps).
+ */
+async function scrapeLarpPlatform(venue) {
+  const res = await fetch(venue.feedUrl, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; funmaxxing-scraper/1.0)' },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const html = await res.text()
+
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const todayStr = today.toISOString().slice(0, 10)
+  const events = []
+  const seen = new Set()
+
+  // Text that follows a font-awesome icon, up to the end of its <div>.
+  const afterIcon = (card, icon) => {
+    const i = card.indexOf(icon)
+    if (i === -1) return ''
+    const rest = card.slice(i)
+    const gt = rest.indexOf('>', rest.indexOf('</i'))
+    return gt === -1 ? '' : stripHtml(rest.slice(gt + 1).split('</div>')[0])
+  }
+
+  for (const card of html.split('<div class="event-card">').slice(1)) {
+    const url = card.match(/href="(https:\/\/www\.larp-platform\.nl\/evenement\/[^"]+)"/)?.[1]
+    if (!url || seen.has(url)) continue
+
+    const title = decodeXml(stripHtml(card.match(/<h2[^>]*>([\s\S]*?)<\/h2>/)?.[1] ?? ''))
+      .replace(/&#8211;/g, '–').replace(/&#8217;/g, '’').trim()
+    if (!title) continue
+
+    const parsed = parseLarpPlatformDate(afterIcon(card, 'fa-calendar-alt'))
+    if (!parsed) continue
+
+    const { startStr, endStr } = parsed
+    if (endStr < todayStr) continue
+    if (endStr === startStr) continue // single-evening session, not a weekend larp
+
+    const genres = [...card.matchAll(/href="\/genre\/[^"]*"\s+title="([^"]*)"/g)].map(m => m[1])
+    // Sleeping arrangement and age limit sit in bare <small> tags below the location.
+    const practical = [...card.matchAll(/<small>([\s\S]*?)<\/small>/g)]
+      .map(m => stripHtml(m[1]))
+      .filter(Boolean)
+
+    const location = afterIcon(card, 'fa-map-marker-alt') || 'Locatie t.b.a.'
+    const country = /belgi[eë]/i.test(location) ? 'België' : 'Nederland'
+    const tz = +startStr.slice(5, 7) >= 4 && +startStr.slice(5, 7) <= 9 ? '+02:00' : '+01:00'
+
+    seen.add(url)
+    events.push({
+      id:          `larp-${url.replace(/.*\/evenement\//, '').replace(/\/$/, '')}`,
+      title,
+      // The agenda lists days, never times. T00:00:00 is the project's date-only
+      // marker (EventCard hides the time row for it); the end covers the last day.
+      start:       `${startStr}T00:00:00${tz}`,
+      end:         `${endStr}T23:59:00${tz}`,
+      location,
+      country,
+      description: [genres.join(', '), practical.join(' · ')].filter(Boolean).join(' — '),
+      url,
+      tags:        genres,
+    })
+  }
+
+  return events
+}
+
 /** Manually curated buhurt club nights (not in any tournament feed). */
 async function scrapeManualBuhurt() {
   return MANUAL_BUHURT.map((e) => ({ ...e }))
@@ -1492,6 +1610,11 @@ async function scrapeManualBuhurt() {
 /** Manually curated brommer toertochten (NL & BE clubs without a shared feed). */
 async function scrapeManualBrommer() {
   return MANUAL_BROMMER.map((e) => ({ ...e }))
+}
+
+/** Manually curated European LARP mega-events (ConQuest, DrachenFest, Empire). */
+async function scrapeManualLarp() {
+  return MANUAL_LARP.map((e) => ({ ...e }))
 }
 
 async function scrapeVenue(venue, fallback) {
@@ -1526,6 +1649,8 @@ async function scrapeVenue(venue, fallback) {
     else if (venue.type === 'ruine-brederode')       events = await scrapeRuineBrederode(venue)
     else if (venue.type === 'hoensbroek')            events = await scrapeHoensbroek(venue)
     else if (venue.type === 'montfort')              events = await scrapeMontfort(venue)
+    else if (venue.type === 'larp-platform')         events = await scrapeLarpPlatform(venue)
+    else if (venue.type === 'larp-manual')           events = await scrapeManualLarp(venue)
     else if (venue.type === 'festivalfans')          events = await scrapeFestivalfans(venue)
     else if (venue.type === 'mic')                   events = await scrapeMoviesInConcert(venue)
     else if (venue.type === 'brommer-manual')        events = await scrapeManualBrommer(venue)

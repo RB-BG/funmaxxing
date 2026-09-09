@@ -67,7 +67,7 @@ export const SCENES: SceneDef[] = [
     id: "middeleeuwen",
     name: "Middeleeuwen",
     titleLines: ["FANTASY", "& RIDDERS"],
-    tagline: "Fantasy fairs, riddertoernooien en middeleeuwse festivals in Nederland.",
+    tagline: "Fantasy fairs, riddertoernooien en middeleeuwse festivals in Nederland, plus larp-weekenden en de mega-larps van Europa.",
     skin: { accent: "#92400e", accent2: "#166534" },
     facetsOf: (e) => [e.source.name],
     facetLabel: (f) => f,

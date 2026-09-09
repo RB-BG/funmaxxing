@@ -41,6 +41,49 @@ commit. Gebruikt alleen de automatische `GITHUB_TOKEN` — geen externe API-keys
    `buhurt-wob`, …) of schrijf een nieuwe `scrapeX(venue)`-functie en sluit 'm aan in `scrapeVenue()`.
 3. `npm run scrape` om te testen, daarna committen — de cron houdt het daarna bij.
 
+## LARP-weekenden (scene middeleeuwen)
+- Bron `larp-platform` (`type: 'larp-platform'`) scrapet
+  [larp-platform.nl/evenementenoverzicht](https://www.larp-platform.nl/evenementenoverzicht/),
+  de gedeelde agenda voor larp in Nederland en België. De hele agenda (100+ events, tot en met
+  2029) staat op één pagina als `.event-card`-blokken — geen paginering, dus één fetch is genoeg.
+- **Geen feed beschikbaar.** De site draait op WordPress met een `evenement` custom post type dat
+  wél via `wp-json/wp/v2/evenement` te bereiken is, maar dat endpoint geeft alleen de *post*-datums
+  (`date`, `modified`, `absolute_dates`); de eigenlijke evenementdatum zit niet in de REST-output
+  en `acf` is leeg. The Events Calendar (`wp-json/tribe/...`) is niet geïnstalleerd. Daarom HTML.
+- **Filter: alleen meerdaagse events.** Dat zijn precies de grootschalige weekend-larps; het houdt
+  de losse avondsessies buiten de deur (Vampire Utrecht, Stormvloed en andere short larps).
+  Wil je die er wél bij, haal dan de `endStr === startStr`-check uit `scrapeLarpPlatform` weg.
+- De kaartjes leveren ook genre (`High-fantasy`, `Post-Apo`, `Steampunk`, …), slaapvorm en
+  leeftijdsgrens; die gaan als `tags` en `description` mee. `country` wordt uit de locatie
+  afgeleid (België of Nederland), maar de middeleeuwen-scene facet op bronnaam, niet op land.
+- De agenda geeft alleen dagen, geen tijden. De scraper zet daarom `T00:00:00` als start — het
+  date-only-signaal dat `EventCard` gebruikt om de tijdregel te verbergen (zoals Beton-T) — en
+  `T23:59:00` op de laatste dag, zodat de .ics/Google-Agenda-export het hele weekend dekt.
+
+### Mega-larps (bron `larp-mega`)
+De larps op festivalschaal (duizenden spelers) staan met de hand in
+[`scripts/manual-larp.mjs`](../scripts/manual-larp.mjs), als aparte bron zodat ze hun eigen
+filterchip krijgen naast de weekend-larps. Handmatig en niet gescrapet, om twee redenen:
+"mega" is een redactionele keuze die in geen enkele feed staat, en elke organisator heeft een
+eigen single-event site zonder agenda-feed. Verleden edities mogen blijven staan tot de volgende
+datum bekend is — `main()` filtert ze eruit.
+
+| Evenement | Land | Schaal | Bron voor de datum |
+|---|---|---|---|
+| ConQuest of Mythodea | Duitsland | ~7000 spelers + 2000 NPC's | [realmsofmythodea.com](https://realmsofmythodea.com/en/conquest-of-mythodea/) |
+| DrachenFest | Duitsland | ~7000 spelers | [drachenfest-ticketshop.info](https://www.drachenfest-ticketshop.info/termine-df-und-zdl) |
+| Empire (Profound Decisions) | Verenigd Koninkrijk | 4 events/jaar, 2000+ per event | [profounddecisions.co.uk](https://www.profounddecisions.co.uk/empire-wiki/Events) |
+
+**Onderzocht maar niet toegevoegd (geen bevestigde datum):**
+
+| Evenement | Land | Reden |
+|---|---|---|
+| Epic Empires | Duitsland | Editie 2026 (19–23 aug, Bexbach) is geweest; op `epic-empires.de` staat nog geen datum voor 2027 |
+| Lorien Trust — The Gathering | Verenigd Koninkrijk | Vaste plek (augustus bank holiday) maar geen gepubliceerde datum; `lrptickets.co.uk` toont alleen de kleinere factie-events |
+| College of Wizardry | Polen | Laatste editie (CoW 27) was dec 2025; Dziobak/Witchards heeft nog geen volgende datum aangekondigd |
+
+Kom je een bevestigde datum tegen? Voeg 'm toe aan `manual-larp.mjs`.
+
 ## Buhurt (scene buhurt)
 - **Toernooien** komen automatisch van [worldofbuhurt.com/tournaments](https://www.worldofbuhurt.com/tournaments)
   (`type: 'buhurt-wob'`), gefilterd op Europese landen via `EUROPEAN_COUNTRIES` in `scrape.mjs`.

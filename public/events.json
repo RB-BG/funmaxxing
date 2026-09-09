@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T09:26:59.376Z",
+  "updatedAt": "2026-09-09T09:28:19.140Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -430,6 +430,116 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "31147",
+          "title": "Good Health Good Wealth",
+          "start": "2026-11-05T20:00:00+01:00",
+          "end": "2026-11-05T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het Londense duo Good Health Good Wealth begon ooit als punkband, maar heeft inmiddels een geheel eigen mix gevonden van spoken word, indie-hiphop en elektronica. Hun muziek is rauw, energiek en onvoorspelbaar, met scherpe teksten en stuwende elektronische klanken die alle kanten op kunnen gaan.…",
+          "url": "https://ekko.nl/event/good-health-good-wealth/",
+          "tags": []
+        },
+        {
+          "id": "31140",
+          "title": "True Mountain Laurel",
+          "start": "2027-02-02T20:00:00+01:00",
+          "end": "2027-02-02T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Canadese folkartiesten Haley Blais en Sam Lynch slaan de handen ineen als True Mountain Laurel. Verwacht warme samenzang, akoestische folk en country-invloeden, met een flinke dosis indie en melancholie. Dit is ook te horen op hun debuutalbum &#8216;Angel So Bad&#8217;, dat in september 2026…",
+          "url": "https://ekko.nl/event/true-mountain-laurel/",
+          "tags": []
+        },
+        {
+          "id": "31062",
+          "title": "Flawed Mangoes",
+          "start": "2026-11-02T20:00:00+01:00",
+          "end": "2026-11-02T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Flawed Mangoes is het project van de in Boston gevestigde producer, songwriter en multi-instrumentalist Evan Lo. Hij brengt een hypnotiserende mix van ambient gitaar, lo-fi, shoegaze en elektronische productie. Nadat hij zijn carrière begon met het delen van mixes op SoundCloud en samenwerkingen…",
+          "url": "https://ekko.nl/event/flawed-mangoes/",
+          "tags": []
+        },
+        {
+          "id": "30834",
+          "title": "karaEKKO",
+          "start": "2026-09-24T23:00:00+02:00",
+          "end": "2026-09-25T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "U vraagt, wij draaien. Op 24 september brengt karaEKKO karaoke naar EKKO. Of ADÈLA nou helemaal jouw ding is of toch meer je inner Adela wil channelen met een prachtige Jan Smit cover, wij bieden het podium. Deze editie wordt gehost door niemand minder van Victor Crepsley, terwijl dj tanja je voor…",
+          "url": "https://ekko.nl/event/karaekko/",
+          "tags": []
+        },
+        {
+          "id": "30666",
+          "title": "BUS 12",
+          "start": "2026-09-17T23:00:00+02:00",
+          "end": "2026-09-18T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-204/",
+          "tags": []
+        },
+        {
+          "id": "30660",
+          "title": "BUS 12",
+          "start": "2026-09-10T23:00:00+02:00",
+          "end": "2026-09-11T03:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-202/",
+          "tags": []
+        },
+        {
+          "id": "30718",
+          "title": "Diep In De Groef",
+          "start": "2026-09-25T23:30:00+02:00",
+          "end": "2026-09-26T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-226/",
+          "tags": []
+        },
+        {
+          "id": "30713",
+          "title": "Diep In De Groef",
+          "start": "2026-09-11T23:30:00+02:00",
+          "end": "2026-09-12T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-224/",
+          "tags": []
+        },
+        {
+          "id": "30523",
+          "title": "LUCKY DONE GONE",
+          "start": "2026-09-12T23:30:00+02:00",
+          "end": "2026-09-13T04:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
+          "url": "https://ekko.nl/event/club-ekko-35/",
+          "tags": []
+        },
+        {
+          "id": "29536",
+          "title": "Apeshit",
+          "start": "2026-09-10T19:30:00+02:00",
+          "end": "2026-09-10T22:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Met razende riffjes, snauwende vocals en melodieuze hooks zorgt het Utrechtse Apeshit voor een dynamische jangle-punk-mengelmoes. De nummers, die ironische ondertonen combineren met serieuze onderwerpen, resulteren live in een mix van rauwe energie, aanstekelijke melodieën en een goede dosis humor.…",
+          "url": "https://ekko.nl/event/apeshit/",
+          "tags": []
+        },
+        {
+          "id": "30263",
+          "title": "Madra Salach",
+          "start": "2026-09-19T20:00:00+02:00",
+          "end": "2026-09-19T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Madra Salach draagt de Ierse folktraditie stevig in het hart, maar laat die nooit de overhand nemen. Het zestal uit Dublin is voortgekomen uit de indiescene van de Northside, waar de bandleden elkaar vonden tijdens spontane sessies in Dublinse kroegen. Vanuit een gedeelde liefde voor oude ballades…",
+          "url": "https://ekko.nl/event/madra-salach/",
+          "tags": []
+        },
+        {
           "id": "30233",
           "title": "Ratboys",
           "start": "2026-09-12T20:30:00+02:00",
@@ -470,26 +580,6 @@
           "tags": []
         },
         {
-          "id": "29536",
-          "title": "Apeshit",
-          "start": "2026-09-10T19:30:00+02:00",
-          "end": "2026-09-10T22:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Met razende riffjes, snauwende vocals en melodieuze hooks zorgt het Utrechtse Apeshit voor een dynamische jangle-punk-mengelmoes. De nummers, die ironische ondertonen combineren met serieuze onderwerpen, resulteren live in een mix van rauwe energie, aanstekelijke melodieën en een goede dosis humor.…",
-          "url": "https://ekko.nl/event/apeshit/",
-          "tags": []
-        },
-        {
-          "id": "30523",
-          "title": "LUCKY DONE GONE",
-          "start": "2026-09-12T23:30:00+02:00",
-          "end": "2026-09-13T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
-          "url": "https://ekko.nl/event/club-ekko-35/",
-          "tags": []
-        },
-        {
           "id": "29802",
           "title": "R.M.F.C.",
           "start": "2026-09-23T19:30:00+02:00",
@@ -507,26 +597,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Australische cultfiguur Alex Cameron brengt scherpe observaties, zwarte humor en glanzende synthpop samen in een eigenzinnig universum vol buitenbeentjes en zelfdestructieve antihelden. Met albums als ‘Forced Witness’, ‘Miami Memory’ en ‘Oxy Music’ groeide hij uit tot een van de meest…",
           "url": "https://ekko.nl/event/alex-cameron/",
-          "tags": []
-        },
-        {
-          "id": "31062",
-          "title": "Flawed Mangoes",
-          "start": "2026-11-02T20:00:00+01:00",
-          "end": "2026-11-02T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Flawed Mangoes is het project van de in Boston gevestigde producer, songwriter en multi-instrumentalist Evan Lo. Hij brengt een hypnotiserende mix van ambient gitaar, lo-fi, shoegaze en elektronische productie. Nadat hij zijn carrière begon met het delen van mixes op SoundCloud en samenwerkingen…",
-          "url": "https://ekko.nl/event/flawed-mangoes/",
-          "tags": []
-        },
-        {
-          "id": "30718",
-          "title": "Diep In De Groef",
-          "start": "2026-09-25T23:30:00+02:00",
-          "end": "2026-09-26T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-226/",
           "tags": []
         },
         {
@@ -690,26 +760,6 @@
           "tags": []
         },
         {
-          "id": "30713",
-          "title": "Diep In De Groef",
-          "start": "2026-09-11T23:30:00+02:00",
-          "end": "2026-09-12T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-224/",
-          "tags": []
-        },
-        {
-          "id": "30834",
-          "title": "karaEKKO",
-          "start": "2026-09-24T23:00:00+02:00",
-          "end": "2026-09-25T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "U vraagt, wij draaien. Op 24 september brengt karaEKKO karaoke naar EKKO. Of ADÈLA nou helemaal jouw ding is of toch meer je inner Adela wil channelen met een prachtige Jan Smit cover, wij bieden het podium. Deze editie wordt gehost door niemand minder van Victor Crepsley, terwijl dj tanja je voor…",
-          "url": "https://ekko.nl/event/karaekko/",
-          "tags": []
-        },
-        {
           "id": "30854",
           "title": "ZORA 2 YEAR ANNIVERSARY",
           "start": "2026-10-17T23:30:00+01:00",
@@ -767,26 +817,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Daryll-Ann is een van de belangrijkste indiebands die Nederland ooit voortbracht. De band bouwde in de jaren negentig een indrukwekkend oeuvre op, met ‘Daryll-Ann Weeps’ uit 1996 als hoogtepunt. Het is een album waar alles in zit: woede, verdriet, schoonheid en troost, samengebracht in zestien…",
           "url": "https://ekko.nl/event/daryll-ann/",
-          "tags": []
-        },
-        {
-          "id": "30666",
-          "title": "BUS 12",
-          "start": "2026-09-17T23:00:00+02:00",
-          "end": "2026-09-18T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet staakt staat niets een voorspoedige rit in de weg. Reis mee langs nieuwe muzikale haltes en een dienstregeling vol throwbacks uit de ‘00s…",
-          "url": "https://ekko.nl/event/bus-12-204/",
-          "tags": []
-        },
-        {
-          "id": "30660",
-          "title": "BUS 12",
-          "start": "2026-09-10T23:00:00+02:00",
-          "end": "2026-09-11T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet staakt staat niets een voorspoedige rit in de weg. Reis mee langs nieuwe muzikale haltes en een dienstregeling vol throwbacks uit de ‘00s…",
-          "url": "https://ekko.nl/event/bus-12-202/",
           "tags": []
         },
         {
@@ -867,16 +897,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Grace Cummings maakt als singer-songwriter muziek die even rauw als meeslepend klinkt. De Australische zangeres staat bekend om haar diepe, onmiskenbare stem en intense nummers waarin kwetsbaarheid en kracht samenkomen. Op haar nieuwe album ‘Bloodhorse!’ verruilt ze de kampvuurintimiteit van…",
           "url": "https://ekko.nl/event/grace-cummings/",
-          "tags": []
-        },
-        {
-          "id": "30263",
-          "title": "Madra Salach",
-          "start": "2026-09-19T20:00:00+02:00",
-          "end": "2026-09-19T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Madra Salach draagt de Ierse folktraditie stevig in het hart, maar laat die nooit de overhand nemen. Het zestal uit Dublin is voortgekomen uit de indiescene van de Northside, waar de bandleden elkaar vonden tijdens spontane sessies in Dublinse kroegen. Vanuit een gedeelde liefde voor oude ballades…",
-          "url": "https://ekko.nl/event/madra-salach/",
           "tags": []
         },
         {
@@ -1262,8 +1282,8 @@
         {
           "id": "helling-nff-x-030-29-09-2026",
           "title": "NFF x 030",
-          "start": "2026-09-29T20:00:00+02:00",
-          "end": "2026-09-29T23:00:00+02:00",
+          "start": "2026-09-29T19:00:00+02:00",
+          "end": "2026-09-29T21:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Nederlands film festival vertoningen ",
           "url": "https://dehelling.nl/agenda/nff-x-030-29-09-2026/",
@@ -1790,6 +1810,16 @@
           "tags": []
         },
         {
+          "id": "helling-politie-warnsveld-02-04-2027",
+          "title": "Politie Warnsveld",
+          "start": "2027-04-02T20:00:00+02:00",
+          "end": "2027-04-02T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Skapunkers nemen feesten bloedserieus",
+          "url": "https://dehelling.nl/agenda/politie-warnsveld-02-04-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-buntspecht-17-04-2027",
           "title": "Buntspecht",
           "start": "2027-04-17T20:00:00+02:00",
@@ -1829,26 +1859,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "452735",
-          "title": "Foy Vance",
-          "start": "2026-09-08T19:15:00+02:00",
-          "end": "2026-09-08T20:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De fraai besnorde Noord-Ierse singer-songwriter Foy Vance brengt een kenmerkende mix van rock, folk en blues, gezongen met zijn rauwe en soulvolle stem. Hij wordt vaak vergeleken met artiesten als Van Morrison, Ray LaMontagne of Glen Hansard. Vance heeft zijn laatste vier albums uitgebracht bij het…",
-          "url": "https://www.podiuminfo.nl/concert/452735/Foy-Vance/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490950",
-          "title": "Salsa on Tuesday",
-          "start": "2026-09-08T20:15:00+02:00",
-          "end": "2026-09-08T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Salsa on Tuesday verwelkomt iedereen, van beginners tot gevorderden, voor een avond vol dans in de Vrije Ruimte van TivoliVredenburg. Dj’s draaien een mix van klassieke en hedendaagse salsa hits, waardoor een levendige en gastvrije sfeer ontstaat. De avond begint met een workshop, ideaal om de…",
-          "url": "https://www.podiuminfo.nl/concert/490950/Salsa-on-Tuesday/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "457339",
           "title": "Lucinda Williams & Band",
@@ -2018,6 +2028,26 @@
           "description": "Op de Rabo Open Stage presenteert countryzangeres Julie Lena haar eigentijdse countrymuziek. Met haar herkenbare stem en een voorliefde voor diepzinnige liedjes, creëert ze een persoonlijke en vertrouwde sfeer. Haar muziek, geworteld in de country, klinkt tegelijkertijd fris en toegankelijk, en…",
           "url": "https://www.podiuminfo.nl/concert/484684/Rabo-Open-Stage-Julie-Lena/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "459930",
+          "title": "Scott Hamilton & Rein de Graaff Trio ft. Philip Catherine",
+          "start": "2026-09-16T20:00:00+02:00",
+          "end": "2026-09-16T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse tenorsaxofonist Scott Hamilton en het Rein de Graaff Trio zijn vaste muzikale reisgenoten, wiens samenwerking eerder resulteerde in de liveregistratie \"Live At The Jazzroom\". Deze avond schuift de Belgische gitaarlegende Philip Catherine aan als speciale gast in Hertz. Hamilton,…",
+          "url": "https://www.podiuminfo.nl/concert/459930/Scott-Hamilton-Rein-de-Graaff-Trio-ft-Philip-Catherine/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "455717",
+          "title": "Metric, Broken Social Scene, Stars",
+          "start": "2026-09-17T19:00:00+02:00",
+          "end": "2026-09-17T20:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Metric, Broken Social Scene en Stars, drie bands met een lange geschiedenis van vriendschap en gedeelde leden, gaan samen op de 'All The Feelings Tour'. Deze tour viert hun decennia van verbinding en iconische muziek. Metric, bekend om hun synth-rock geluid en hits als 'Help I'm Alive', zal in…",
+          "url": "https://www.podiuminfo.nl/concert/455717/Metric-Broken-Social-Scene-Stars/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2169,18 +2199,6 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-23320",
-          "title": "Commander Tuesday",
-          "start": "2026-09-08T18:00:00+02:00",
-          "end": "2026-09-08T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-242/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
           "id": "lab-monkey-23322",
           "title": "Weekly Draft",
           "start": "2026-09-10T19:00:00+02:00",
@@ -2190,6 +2208,18 @@
           "url": "https://www.lab-monkey.nl/event_new/weekly-draft-126/",
           "tags": [
             "Draft"
+          ]
+        },
+        {
+          "id": "lab-monkey-11402",
+          "title": "Ladies Knight",
+          "start": "2026-09-15T19:00:00+02:00",
+          "end": "2026-09-15T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het…",
+          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
+          "tags": [
+            "Ladies'(K)night"
           ]
         }
       ]
@@ -2396,8 +2426,7 @@
       "icon": "🌸",
       "scene": "games",
       "feedUrl": "https://abunaicon.nl/",
-      "events": [],
-      "broken": true
+      "events": []
     },
     {
       "id": "animecon",
@@ -2430,20 +2459,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-salsa-nights-elke-woensdag-52",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-09-09T00:00:00+02:00",
-          "end": "2026-09-09T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-52/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
         {
           "id": "beton-besloten-event-4",
           "title": "Besloten event",
@@ -2496,6 +2511,20 @@
             "Poezië",
             "Theater",
             "Workshop"
+          ]
+        },
+        {
+          "id": "beton-thomas-zn-woonkamer",
+          "title": "Thomàs z’n Woonkamer",
+          "start": "2026-09-12T00:00:00+02:00",
+          "end": "2026-09-12T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/thomas-zn-woonkamer/",
+          "tags": [
+            "Gratis",
+            "Muziek",
+            "Kantine"
           ]
         },
         {
@@ -2566,20 +2595,6 @@
             "Workshop",
             "Vechtclub XL"
           ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-16",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-09-14T00:00:00+02:00",
-          "end": "2026-09-14T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-16/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
         }
       ]
     },
@@ -2591,6 +2606,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261215-eectronic-open-stage-24",
+          "title": "EECtronic open stage",
+          "start": "2026-12-15T00:00:00+01:00",
+          "end": "2026-12-15T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "December 15th. For all your EECtronic experiments. Buildup starts at 19:00. The bar is open at: 19:00 We start playing around 20:00 – 20:30. We do generally not use the stage. Half a circle of tables is set up on the floor. If you arrive at 19:00 you can claim a spot and have roughly...",
+          "url": "https://acu.nl/events/20261215/eectronic-open-stage-24",
+          "tags": []
+        },
         {
           "id": "acu-20261031-the-rocky-horror-picture-show",
           "title": "The Rocky Horror Picture Show",
@@ -2679,16 +2704,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "October 17th. Physical Theatre Workshop. Wanna step into a creative space where movement speaks louder than words? Inspired by the visionary practices of Grotowski and Lecoq, this workshop blends Physical Theatre and Contemporary Performance to awaken authentic expression through the body. Whether…",
           "url": "https://acu.nl/events/20261017/dionysus-9",
-          "tags": []
-        },
-        {
-          "id": "acu-20260919-dionysus-8",
-          "title": "Dionysus",
-          "start": "2026-09-19T00:00:00+02:00",
-          "end": "2026-09-19T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 19th. Physical Theatre Workshop. Wanna step into a creative space where movement speaks louder than words? Inspired by the visionary practices of Grotowski and Lecoq, this workshop blends Physical Theatre and Contemporary Performance to awaken authentic expression through the body.…",
-          "url": "https://acu.nl/events/20260919/dionysus-8",
           "tags": []
         }
       ]
@@ -3001,6 +3016,16 @@
           "location": "Openluchttheater, Amersfoort",
           "description": "Into the Woods is een van de beste manieren om het festivalseizoen af te sluiten. Lees hier alles over tickets, line-up van ITTW 2026.",
           "url": "https://festivalfans.nl/event/into-the-woods/",
+          "tags": []
+        },
+        {
+          "id": "titanium-festival",
+          "title": "Titanium Festival",
+          "start": "2026-09-19T11:00:00+00:00",
+          "end": "2026-09-19T11:00:00+00:00",
+          "location": "Recreatieterrein Middelwaard, Vianen",
+          "description": "Het is tijd voor Titanium Festival 2026. Het zal weer een groot feest worden met nog hardere muziek dan eerst! Check hier alle info.",
+          "url": "https://festivalfans.nl/event/titanium-festival/",
           "tags": []
         },
         {
@@ -4693,7 +4718,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -5101,16 +5127,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2027-01",
-          "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
-          "start": "2027-01-03T10:00:00+01:00",
-          "end": "2027-01-03T18:00:00+01:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
-          "tags": []
-        },
-        {
           "id": "loevestein-oorlogsrecht-handboekbinden-2027-01",
           "title": "OORLOGSRECHT Handboekbinden. Te zien t/m",
           "start": "2027-01-03T10:00:00+01:00",
@@ -5118,6 +5134,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-handboekbinden/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2027-01",
+          "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
+          "start": "2027-01-03T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
           "tags": []
         }
       ]

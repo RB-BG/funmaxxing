@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T09:26:08.854Z",
+  "updatedAt": "2026-09-12T09:06:58.826Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -10,31 +10,12 @@
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
         {
-          "id": "10001103",
-          "title": "SKAMPIDA (Colombia) + I'm With Stupid",
-          "start": "2026-09-11T20:00:00+02:00",
-          "end": "2026-09-11T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "FIESTA maken! En dat lukt, zoals we in Utrecht zo onderhand wel weten. De band was al een aantal keer te gast in een uitverkochte ACU, buiten op het terras bij de Nijverheid en vorig jaar ook bij ons, en telkens weer onderdondert Skampida heb publiek met spetterende liveoptredens. Geen wonder dat…",
-          "url": "https://dbstudio.nl/event/skampida-colombia/",
-          "tags": [
-            "Balkan",
-            "Concert",
-            "Folk",
-            "Hiphop",
-            "Punk",
-            "Reggae",
-            "Rock",
-            "Ska"
-          ]
-        },
-        {
           "id": "10001048",
           "title": "SIGH (JAPAN) + DEVIL MASTER (USA)",
           "start": "2026-09-14T20:00:00+02:00",
           "end": "2026-09-14T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "𝐓𝐢𝐜𝐤𝐞𝐭𝐬 𝐠𝐚𝐚𝐧 𝐨𝐩 𝐯𝐫𝐢𝐣𝐝𝐚𝐠 𝟖 𝐦𝐞𝐢 𝟏𝟏 𝐀𝐌  𝐢𝐧 𝐝𝐞 𝐯𝐞𝐫𝐤𝐨𝐨𝐩! \nDe experimentele black metalband 𝐒𝐈𝐆𝐇 uit Japan zag het levenslicht in april 1989 en trok daarmee meteen de aandacht van onder andere black metal legende Euronymous. Gedurende de jaren en door de vele…",
+          "description": "20.15 uur DEVIL MASTER\n21.30 uur SIGH \nDe experimentele black metalband 𝐒𝐈𝐆𝐇 uit Japan zag het levenslicht in april 1989 en trok daarmee meteen de aandacht van onder andere black metal legende Euronymous. Gedurende de jaren en door de vele albums heen blijft de band zich echter ontwikkelen met…",
           "url": "https://dbstudio.nl/event/sigh-japan-devil-master-usa/",
           "tags": [
             "Black Metal",
@@ -154,11 +135,11 @@
         },
         {
           "id": "10001129",
-          "title": "Club 3voor12 Utrecht w/ HESTER + CIRCLE CIRCLE + 1",
+          "title": "Club 3voor12 Utrecht w/ HESTER + (CIRCLE CIRCLE) + ROMMY GABAY",
           "start": "2026-09-24T19:30:00+02:00",
           "end": "2026-09-24T23:00:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "We mogen weer! Een nieuw seizoen voor de 3voor12 showcases! \nTBA",
+          "description": "We mogen weer! Een nieuw seizoen voor de 3voor12 showcases! \nHester is een vierkoppige band die alternatieve indierockballads transformeert tot wonderlijke schilderijen. Hun filmische muziek getuigt ervan dat zachtheid en kracht hand in hand gaan. Met door de natuur geïnspireerd, stevige grooves en…",
           "url": "https://dbstudio.nl/event/club-3voor12-utrecht-2/",
           "tags": [
             "Club 3voor 12 / Utrecht"
@@ -418,6 +399,19 @@
             "Psychedelic",
             "spacerock"
           ]
+        },
+        {
+          "id": "10001107",
+          "title": "MAQUINA. (PORT)",
+          "start": "2026-10-23T20:00:00+01:00",
+          "end": "2026-10-23T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "snelle, minimalistische rock die gemaakt is om mensen in beweging te brengen. De opvolger, PRATA (2024), uitgebracht via Fuzz Club Records, verdiept die ritmische benadering nog verder en daagt uit wat een gitaar-bas-drumtrio live kan bereiken. \nMAQUINA. omarmt de structuur en het…",
+          "url": "https://dbstudio.nl/event/maquina-port/",
+          "tags": [
+            "Krautrock",
+            "Techno"
+          ]
         }
       ]
     },
@@ -429,6 +423,36 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "28785",
+          "title": "Jesse Hoefnagels",
+          "start": "2026-09-26T20:30:00+02:00",
+          "end": "2026-09-26T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Jesse Hoefnagels maakt elektronische muziek op het snijvlak van alternatieve pop en melancholische clubmuziek, waarin persoonlijke Nederlandstalige teksten centraal staan. Zijn tweeluik ‘Wakker in het donker’ en ‘Dichter bij de dag’ draait om thema’s als liefdesverdriet en zelfreflectie. Live…",
+          "url": "https://ekko.nl/event/jesse-hoefnagels/",
+          "tags": []
+        },
+        {
+          "id": "31322",
+          "title": "Nervous Breakdown Volume 2",
+          "start": "2026-10-30T19:30:00+01:00",
+          "end": "2026-10-30T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Heel veel hardcore punk in EKKO! Het genre heeft een frisse heropleving gekregen en er zijn genoeg Nederlandse acts die deze rauwe, energieke sound als geen ander weten te vangen. Nervous Breakdown is terug voor Volume 2, met opnieuw een avond vol felle riffs, razende drums en oprechte chaos. Dus…",
+          "url": "https://ekko.nl/event/nervous-breakdown-2/",
+          "tags": []
+        },
+        {
+          "id": "30934",
+          "title": "Charlie Cunningham",
+          "start": "2027-02-13T20:00:00+01:00",
+          "end": "2027-02-13T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Britse singer-songwriter Charlie Cunningham maakt subtiele, meeslepende folkpop waarin melancholie en ritme moeiteloos samenkomen. Zijn verfijnde gitaarspel, warme pianoklanken en kwetsbare melodieën brachten hem van bars in Oxford naar uitverkochte zalen door heel Europa. In 2027 viert…",
+          "url": "https://ekko.nl/event/charlie-cunningham/",
+          "tags": []
+        },
         {
           "id": "31140",
           "title": "True Mountain Laurel",
@@ -560,16 +584,6 @@
           "tags": []
         },
         {
-          "id": "30713",
-          "title": "Diep In De Groef",
-          "start": "2026-09-11T23:30:00+02:00",
-          "end": "2026-09-12T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-224/",
-          "tags": []
-        },
-        {
           "id": "29789",
           "title": "Gilla Band",
           "start": "2027-01-25T20:00:00+01:00",
@@ -650,26 +664,6 @@
           "tags": []
         },
         {
-          "id": "29270",
-          "title": "Francis of Delirium",
-          "start": "2026-09-11T20:30:00+02:00",
-          "end": "2026-09-11T23:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Francis of Delirium is het project van Jana Bahrich, de in Luxemburg gevestigde indierockartiest die razendsnel naam maakt. Met een sound waarin grunge, folk en powerpop samenkomen, schrijft ze emotioneel geladen songs vol rauwe gitaren en kwetsbare, directe teksten. Na haar veelgeprezen…",
-          "url": "https://ekko.nl/event/francis-of-delirium/",
-          "tags": []
-        },
-        {
-          "id": "27797",
-          "title": "Gia Margaret",
-          "start": "2026-09-11T20:30:00+02:00",
-          "end": "2026-09-11T22:45:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De Chicago-based songwriter Gia Margaret beweegt zich tussen ambient en folk, met minimalistische en experimentele invloeden. Ze debuteerde in 2019 met &#8216;There’s Always A Glimmer&#8217;, maar kreeg daarna te maken met stemproblemen. In die periode ontwikkelde ze andere muzikale talen en maakte…",
-          "url": "https://ekko.nl/event/gia-margaret/",
-          "tags": []
-        },
-        {
           "id": "29802",
           "title": "R.M.F.C.",
           "start": "2026-09-23T19:30:00+02:00",
@@ -737,16 +731,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
           "url": "https://ekko.nl/event/bus-12-206/",
-          "tags": []
-        },
-        {
-          "id": "30934",
-          "title": "Charlie Cunningham",
-          "start": "2027-02-13T20:00:00+01:00",
-          "end": "2027-02-13T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De Britse singer-songwriter Charlie Cunningham maakt subtiele, meeslepende folkpop waarin melancholie en ritme moeiteloos samenkomen. Zijn verfijnde gitaarspel, warme pianoklanken en kwetsbare melodieën brachten hem van bars in Oxford naar uitverkochte zalen door heel Europa. In 2027 viert…",
-          "url": "https://ekko.nl/event/charlie-cunningham/",
           "tags": []
         },
         {
@@ -1150,16 +1134,6 @@
           "tags": []
         },
         {
-          "id": "28785",
-          "title": "Jesse Hoefnagels",
-          "start": "2026-09-26T21:00:00+02:00",
-          "end": "2026-09-26T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Jesse Hoefnagels maakt elektronische muziek op het snijvlak van alternatieve pop en melancholische clubmuziek, waarin persoonlijke Nederlandstalige teksten centraal staan. Zijn tweeluik ‘Wakker in het donker’ en ‘Dichter bij de dag’ draait om thema’s als liefdesverdriet en zelfreflectie. Live…",
-          "url": "https://ekko.nl/event/jesse-hoefnagels/",
-          "tags": []
-        },
-        {
           "id": "28790",
           "title": "FENNE",
           "start": "2026-10-17T20:00:00+01:00",
@@ -1199,16 +1173,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-pann-25-11-09-2026",
-          "title": "PANN 25+",
-          "start": "2026-09-11T22:00:00+02:00",
-          "end": "2026-09-12T04:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Het leukste LHBTQIA+ event van Nederland",
-          "url": "https://dehelling.nl/agenda/pann-25-11-09-2026/",
-          "tags": []
-        },
         {
           "id": "helling-the-kulture-of-hype-and-hope-wind-edition-12-09-2026",
           "title": "The Kulture of Hype and Hope – Wind Edition",
@@ -1950,36 +1914,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "481253",
-          "title": "Kreukelzone: High Horse",
-          "start": "2026-09-11T15:00:00+02:00",
-          "end": "2026-09-11T16:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Twee keer per maand presenteert TivoliVredenburg op de Vredenburg Open Stage semi-akoestische popmuziek met levenservaring. Het belooft een gezellige vrijdagmiddag te worden met bekende en nieuwe melodieën. Het Utrechtse duo High Horse neemt het publiek mee in een melancholische wereld van…",
-          "url": "https://www.podiuminfo.nl/concert/481253/Kreukelzone-High-Horse/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "447780",
-          "title": "The Scene",
-          "start": "2026-09-11T20:00:00+02:00",
-          "end": "2026-09-11T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Sinds het afscheid van frontman Thé Lau in 2014 en zijn overlijden in 2015 leek het boek gesloten voor de legendarische Nederlandstalige rockband The Scene, makers van nederpopklassiekers als Open, Blauw, Rigoureus en Iedereen Is Van De Wereld. Maar na ruim tien jaar stilte gaat de band in 2026…",
-          "url": "https://www.podiuminfo.nl/concert/447780/The-Scene/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "476542",
-          "title": "De Lesbische Liga Live Afterparty",
-          "start": "2026-09-11T23:30:00+02:00",
-          "end": "2026-09-12T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Lesbische Liga organiseert een energieke clubavond, bekend als het grootste en gezelligste queer clubhuis van de Benelux. Bezoekers kunnen de hele nacht dansen op hun favoriete queer pop bangers en zich laten verrassen door diverse, onverwachte optredens. Dit jaarlijkse evenement biedt een…",
-          "url": "https://www.podiuminfo.nl/concert/476542/De-Lesbische-Liga-Live-Afterparty/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "491566",
           "title": "Utrechtse Meezingerij",
           "start": "2026-09-12T13:30:00+02:00",
@@ -2168,6 +2102,36 @@
           "description": "De Australische pianist en componist Nat Bartsch creëert verstilde muziek die zich bevindt op het snijvlak van neoklassiek, jazz en ambient. Met negen albums op haar naam en samenwerkingen met artiesten zoals Luke Howard en de Grigoryan Brothers, heeft ze zich gevestigd als een prominente figuur.…",
           "url": "https://www.podiuminfo.nl/concert/460576/Nat-Bartsch/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "486752",
+          "title": "90’s NOW",
+          "start": "2026-09-18T21:00:00+02:00",
+          "end": "2026-09-18T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "90’S NOW komt naar TivoliVredenburg Utrecht. Het evenement nodigt bezoekers uit om zich onder te dompelen in een jaren '90 walhalla, vol nostalgische verwijzingen naar flippo’s en My First Sony’s. De avond staat in het teken van de grootste hits en onvergetelijke klassiekers uit de jaren '90, met…",
+          "url": "https://www.podiuminfo.nl/concert/486752/90-s-NOW/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "486475",
+          "title": "Iris Jenster Group",
+          "start": "2026-09-18T22:30:00+02:00",
+          "end": "2026-09-18T23:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Frisse jazz | klinkt als Ella Fritzgerald & Billie Holiday - Geboren en getogen in Californië kwam Iris Jenster al op jonge leeftijd in aanraking met jazz, mede dankzij haar ouders, die beiden succesvolle jazzmuzikanten zijn. Toen ze op haar twaalfde naar Nederland verhuisde, bleef ze haar muzikale…",
+          "url": "https://www.podiuminfo.nl/concert/486475/Iris-Jenster-Group/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "491339",
+          "title": "Fiesta Macumba's B-Day Bash",
+          "start": "2026-09-18T23:55:00+02:00",
+          "end": "2026-09-19T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "TivoliVredenburg nodigt uit voor Fiesta Macumba's B-DAY BASH, een Latijns-Amerikaans feest. Dit jubileum wordt gevierd met twee verschillende ruimtes: in de Ronda zorgt het Fiesta Macumba Soundsystem de hele nacht voor een mix van Reggaeton, Salsa, Bachata, Merengue en andere exotische geluiden.…",
+          "url": "https://www.podiuminfo.nl/concert/491339/Fiesta-Macumbas-B-Day-Bash/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2215,6 +2179,16 @@
           "end": "2026-09-16T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Koning van de Krotten Wed 16/9 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "608357",
+          "title": "D&D 5e: Grax's Guys for Cheap session 1",
+          "start": "2026-09-23T19:00:00+02:00",
+          "end": "2026-09-23T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5e: Grax's Guys for Cheap session 1 Wed 23/9 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2548,37 +2522,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-proef-de-liefde-festival",
-          "title": "Proef de Liefde Festival",
-          "start": "2026-09-12T00:00:00+02:00",
-          "end": "2026-09-12T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/proef-de-liefde-festival/",
-          "tags": [
-            "Festival",
-            "Markt",
-            "Muziek",
-            "Poezië",
-            "Theater",
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-thomas-zn-woonkamer",
-          "title": "Thomàs z’n Woonkamer",
-          "start": "2026-09-12T00:00:00+02:00",
-          "end": "2026-09-12T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/thomas-zn-woonkamer/",
-          "tags": [
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-charlie-reads-the-work-of",
           "title": "Charlie reads the work of…",
           "start": "2026-09-13T00:00:00+02:00",
@@ -2671,6 +2614,20 @@
           "url": "https://www.vechtclub.nl/agenda/kahoot/",
           "tags": [
             "Terras"
+          ]
+        },
+        {
+          "id": "beton-annes-werkplaats-1",
+          "title": "Annes Werkplaats: Workshop Bloemstrijken",
+          "start": "2026-09-15T00:00:00+02:00",
+          "end": "2026-09-15T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/annes-werkplaats-1/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
           ]
         }
       ]
@@ -2783,18 +2740,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001500-1789167600-1789192800",
-          "title": "BASIS x HARDLINE/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah",
-          "start": "2026-09-11T23:00:00+02:00",
-          "end": "2026-09-12T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-x-hardline-alarico-pres-kenji-hina-dj-cosworth-b2b-oldboy-hannah-hannah/",
-          "tags": [
-            "UK Garage"
-          ]
-        },
         {
           "id": "basis-utrecht-10001462-1789214400-1789254000",
           "title": "Smeerboel 2026",
@@ -3125,16 +3070,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "73780",
-          "title": "Proms: John Williams’ Greatest Hits",
-          "start": "2026-09-11T20:00:00.000Z",
-          "end": "2026-09-11T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73780",
-          "description": "From Jaws to Star Wars: John Williams' most iconic film score.<BR><BR>How much music does a composer have to write to become immortal? Beethoven – tatata-t&aacute;&aacute;&aacute; – managed to do it in four notes. Even more accurate was John Williams: he only needed two in his i",
-          "tags": []
-        },
         {
           "id": "73781",
           "title": "Enigma-Variations",
@@ -4956,16 +4891,6 @@
       "feedUrl": "https://dis.drachenwald.sca.org/data/calendar.json",
       "events": [
         {
-          "id": "sca-polderslot/11-sept-2026/drowning-arrow",
-          "title": "Drowning arrow",
-          "start": "2026-09-11T12:00:00+02:00",
-          "end": "2026-09-13T23:00:00+02:00",
-          "location": "Rotterdam, Scoutcentrum Rotterdam,   ‘s-Gravenweg 101,   2902 LE Capelle aan den IJssel",
-          "description": "A weekend of archery, though there will be plenty on space for fighting and A&S. There will be camping space, as well as regular dorms.",
-          "url": "http://drowning-arrow.polderslot.info/",
-          "tags": []
-        },
-        {
           "id": "sca-polderslot/3-oct-2026/the-grand-tour",
           "title": "The Grand Tour",
           "start": "2026-10-03T12:00:00+01:00",
@@ -5252,7 +5177,8 @@
           "url": "https://muiderslot.nl/activiteit/kasteel-kookclub-muiderslot-thema-zomer/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "slot-loevestein",
@@ -6725,17 +6651,6 @@
       "scene": "buhurt",
       "feedUrl": "https://www.buhurtinternational.com/tournaments",
       "events": [
-        {
-          "id": "bi-king-kazimierz-cup-v",
-          "title": "King Kazimierz Cup V 2026",
-          "start": "2026-09-12T00:00:00+02:00",
-          "end": "2026-09-12T23:00:00+02:00",
-          "location": "Poland",
-          "country": "Poland",
-          "description": "Buhurt-toernooi in Poland.",
-          "url": "https://www.buhurtinternational.com/tournament/king-kazimierz-cup-v",
-          "tags": []
-        },
         {
           "id": "bi-1.-eisencup-2026",
           "title": "1. Eisencup 2026",

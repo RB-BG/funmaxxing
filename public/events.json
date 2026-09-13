@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:06:58.826Z",
+  "updatedAt": "2026-09-13T10:04:56.995Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -624,16 +624,6 @@
           "tags": []
         },
         {
-          "id": "30523",
-          "title": "LUCKY DONE GONE",
-          "start": "2026-09-12T23:30:00+02:00",
-          "end": "2026-09-13T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Een nieuwe Club EKKO, met liefde geselecteerd door ons voor jullie (en ons eigen) dansgenot. Dit keer in het kader van EKKO’s veertigjarig jubileum met Lucky Done Gone en KINETIKS. Met een eclectische mix van house, &#8217;90s techno, &#8217;00s trance en onverwachte parels bouwt Lucky Done Gone…",
-          "url": "https://ekko.nl/event/club-ekko-35/",
-          "tags": []
-        },
-        {
           "id": "30263",
           "title": "Madra Salach",
           "start": "2026-09-19T20:00:00+02:00",
@@ -641,16 +631,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Madra Salach draagt de Ierse folktraditie stevig in het hart, maar laat die nooit de overhand nemen. Het zestal uit Dublin is voortgekomen uit de indiescene van de Northside, waar de bandleden elkaar vonden tijdens spontane sessies in Dublinse kroegen. Vanuit een gedeelde liefde voor oude ballades…",
           "url": "https://ekko.nl/event/madra-salach/",
-          "tags": []
-        },
-        {
-          "id": "30233",
-          "title": "Ratboys",
-          "start": "2026-09-12T20:30:00+02:00",
-          "end": "2026-09-12T23:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ratboys maakt warme, gitaargedreven indierock waarin invloeden van powerpop, americana en alt-country moeiteloos samenvloeien. Op hun zesde album ‘Singin’ to an Empty Chair’ presenteert het viertal uit Chicago elf nummers over vervreemding, therapie en de wens om een onmogelijk gesprek toch te…",
-          "url": "https://ekko.nl/event/ratboys-1/",
           "tags": []
         },
         {
@@ -1173,26 +1153,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-the-kulture-of-hype-and-hope-wind-edition-12-09-2026",
-          "title": "The Kulture of Hype and Hope – Wind Edition",
-          "start": "2026-09-12T12:00:00+02:00",
-          "end": "2026-09-12T22:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "HipHop & Openstyle 1vs1 Battle | Powered by DOX ",
-          "url": "https://dehelling.nl/agenda/the-kulture-of-hype-and-hope-wind-edition-12-09-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-the-sun-12-09-2026",
-          "title": "The Sun",
-          "start": "2026-09-12T23:55:00+02:00",
-          "end": "2026-09-13T05:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "More than a reggaeton event, a fusion of music, energy, and culture.",
-          "url": "https://dehelling.nl/agenda/the-sun-12-09-2026/",
-          "tags": []
-        },
         {
           "id": "helling-king-shilohs-skanking-sunday-13-09-2026",
           "title": "King Shiloh’s Skanking Sunday",
@@ -1914,66 +1874,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "491566",
-          "title": "Utrechtse Meezingerij",
-          "start": "2026-09-12T13:30:00+02:00",
-          "end": "2026-09-12T14:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Utrechtse Meezingerij nodigt iedereen uit die van zingen en gezelligheid houdt. Dit initiatief van Charles Chamboné brengt mensen samen om vol enthousiasme Nederlandstalige liederen te zingen, variërend van bekende klassiekers tot minder ontdekte pareltjes. Iedereen is welkom om deel te nemen,…",
-          "url": "https://www.podiuminfo.nl/concert/491566/Utrechtse-Meezingerij/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "481254",
-          "title": "Gaudeamus Saturday Night",
-          "start": "2026-09-12T18:00:00+02:00",
-          "end": "2026-09-12T19:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Gaudeamus Saturday Night verkent de grenzen van gecomponeerde muziek. Het festival presenteert een breed scala aan klanken, van vroege elektronische experimenten door componisten Ton de Leeuw en Luctor Ponse in de jaren '50, tot de hedendaagse, grensverleggende elektronica van de Iraanse artiest…",
-          "url": "https://www.podiuminfo.nl/concert/481254/Gaudeamus-Saturday-Night/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452904",
-          "title": "Davina Michelle",
-          "start": "2026-09-12T20:00:00+02:00",
-          "end": "2026-09-12T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Nederlandse popzangeres Davina Michelle brak in 2018 door met Duurt Te Lang, een nummer 1-hit die vele Top 40-records verpulverde. Drie jaar later maakte ze als intervalact op het Eurovisie Songfestival meer indruk dan de deelnemers. Inmiddels heeft Davina Michelle zeventien Top 40-hits op haar…",
-          "url": "https://www.podiuminfo.nl/concert/452904/Davina-Michelle/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452648",
-          "title": "Hiromi / Metropole Orkest",
-          "start": "2026-09-12T20:15:00+02:00",
-          "end": "2026-09-12T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Japanse pianiste en componist Hiromi is een waar fenomeen. Met ogenschijnlijk grenzeloze energie laveert ze tussen jazz, fusion, rock, klassiek en funk. Daarbij heeft ze altijd een aanstekelijk virtuoos spelplezier. Op zeventienjarige leeftijd stond ze al op het podium met Chick Corea. En…",
-          "url": "https://www.podiuminfo.nl/concert/452648/Hiromi-Metropole-Orkest/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "484763",
-          "title": "Rabo Open Stage: Lisa Marlene",
-          "start": "2026-09-12T22:30:00+02:00",
-          "end": "2026-09-12T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Lisa Marlene brengt op de Rabo Open Stage kwetsbare popmuziek, doordrenkt met rock- en soul-invloeden. Haar vocaal gedreven liedjes navigeren tussen melancholie en kracht, variërend van pianoballads tot uptempo popsongs. Ze omarmt emoties die vaak onuitgesproken blijven en creëert met haar intieme…",
-          "url": "https://www.podiuminfo.nl/concert/484763/Rabo-Open-Stage-Lisa-Marlene/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "486918",
-          "title": "Only 10s",
-          "start": "2026-09-12T23:55:00+02:00",
-          "end": "2026-09-13T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Reis op zaterdag 12 september terug naar de zorgeloze jaren 2010-2019, een tijdperk vol vroege Instagram-posts, Vine en Snapchat-filters. Dans de nacht in op hits als Gangnam Style, King Kunta, Shake it Off, Starships, Last Friday Night (T.G.I.F.), Whistle en Wrecking Ball. Herbeleef de muziek van…",
-          "url": "https://www.podiuminfo.nl/concert/486918/Only-10s/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "471115",
           "title": "Nieloefaar",
           "start": "2027-03-27T20:15:00+01:00",
@@ -2132,6 +2032,76 @@
           "description": "TivoliVredenburg nodigt uit voor Fiesta Macumba's B-DAY BASH, een Latijns-Amerikaans feest. Dit jubileum wordt gevierd met twee verschillende ruimtes: in de Ronda zorgt het Fiesta Macumba Soundsystem de hele nacht voor een mix van Reggaeton, Salsa, Bachata, Merengue en andere exotische geluiden.…",
           "url": "https://www.podiuminfo.nl/concert/491339/Fiesta-Macumbas-B-Day-Bash/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "493269",
+          "title": "Nothing But Thieves",
+          "start": "2026-09-19T11:30:00+02:00",
+          "end": "2026-09-19T12:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Britse alternatieve rockband Nothing But Thieves presenteert hun nieuwe album Stray Dogs in de Cloud Nine van TivoliVredenburg. Tickets zijn alleen te koop voor fans die een pre-order hebben geplaatst voor het album Stray Dogs.",
+          "url": "https://www.podiuminfo.nl/concert/493269/Nothing-But-Thieves/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "456773",
+          "title": "Selah Sue & The Gallands",
+          "start": "2026-09-19T20:00:00+02:00",
+          "end": "2026-09-19T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Vlaamse zangeres Selah Sue, bekend van haar debuutalbum in 2011, presenteert samen met het vader-zoonduo Stéphane & Elvin Galland hun jazzy nieuwe album 'Movin''. Het project staat centraal rond drums en verbindt genres als jazz, soul, hiphop, dub, triphop, parlando en r&b. Selah Sue brak door…",
+          "url": "https://www.podiuminfo.nl/concert/456773/Selah-Sue-The-Gallands/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "458780",
+          "title": "Jesca Hoop",
+          "start": "2026-09-19T20:30:00+02:00",
+          "end": "2026-09-19T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse singer-songwriter Jesca Hoop staat bekend om haar eclectische muzikale stijl, waarin ze moeiteloos laveert tussen folk, indie, elektronica en experimentele pop. Haar lenige, mystieke stem past perfect bij elk genre, wat haar lof heeft opgeleverd van fans als Tom Waits. Met de…",
+          "url": "https://www.podiuminfo.nl/concert/458780/Jesca-Hoop/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "472256",
+          "title": "De Troubadours - 8 Miljard Verhalen",
+          "start": "2026-09-19T20:30:00+02:00",
+          "end": "2026-09-19T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Nederlandstalige band De Troubadours presenteert op deze avond hun debuutalbum '8 Miljard Verhalen'. De band is voortgekomen uit het gelijknamige NPO 2-programma, waarin de Nederlandse songschrijver/producer Christon, bekend uit Nashville, centraal stond. Waar de tv-serie zich richtte op liedjes…",
+          "url": "https://www.podiuminfo.nl/concert/472256/De-Troubadours-8-Miljard-Verhalen/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "486476",
+          "title": "Rabo Open Stage: Kiik",
+          "start": "2026-09-19T22:00:00+02:00",
+          "end": "2026-09-19T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Eerlijke melancholische indiepop die schuurt | klinkt als Billie Eilish en London Grammar - Utrechtse KIIK maakt eerlijke, melancholische indiepop die niet wegkijkt van wat schuurt. Met haar muziek zoekt ze lichtheid in zware onderwerpen en ruimte voor verbinding. Haar geluid is dromerig en…",
+          "url": "https://www.podiuminfo.nl/concert/486476/Rabo-Open-Stage-Kiik/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "486722",
+          "title": "PANN",
+          "start": "2026-09-19T23:30:00+02:00",
+          "end": "2026-09-20T00:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "PANN, het tweemaandelijkse LHBTQIA+ evenement van Nederland, keert op zaterdag 19 september 2026 terug naar TivoliVredenburg in Utrecht. Elke editie staat garant voor een transformatie van de locatie tot een bruisende, kleurrijke en veilige inclusieve plek waar iedereen zichzelf volledig kan uiten.…",
+          "url": "https://www.podiuminfo.nl/concert/486722/PANN/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "489895",
+          "title": "Midnight Melodies",
+          "start": "2026-09-19T23:30:00+02:00",
+          "end": "2026-09-20T00:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Midnight Melodies keert terug naar Pandora voor een avond vol R&B-muziek. Bezoekers kunnen meezingen met bekende R&B-lovesongs en dansen op geliefde anthems. Het evenement belooft een onvergetelijke R&B-ervaring die het volledige spectrum van het genre viert. De playlist omvat zowel tijdloze…",
+          "url": "https://www.podiuminfo.nl/concert/489895/Midnight-Melodies/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2263,6 +2233,18 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
+          "id": "lab-monkey-23376",
+          "title": "Commander Tuesday",
+          "start": "2026-09-15T18:00:00+02:00",
+          "end": "2026-09-15T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-243/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
           "start": "2026-09-15T19:00:00+02:00",
@@ -2272,6 +2254,18 @@
           "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
           "tags": [
             "Ladies'(K)night"
+          ]
+        },
+        {
+          "id": "lab-monkey-23378",
+          "title": "Weekly Draft",
+          "start": "2026-09-17T19:00:00+02:00",
+          "end": "2026-09-17T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-127/",
+          "tags": [
+            "Draft"
           ]
         }
       ]
@@ -2415,16 +2409,6 @@
       "feedUrl": "https://www.meetup.com/weighted-dice-board-gaming-community/events/ical/",
       "events": [
         {
-          "id": "weighted-dice-event_316063574",
-          "title": "September Board Gaming Meetup",
-          "start": "2026-09-12T13:00:00+02:00",
-          "end": "2026-09-12T22:00:00+02:00",
-          "location": "Weighted Dice Utrecht, Utrecht",
-          "description": "P\n\nYou can bring your own games or play those brought by others. There are also dozens of games available for us at Het Lab.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for players…",
-          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/316063574/",
-          "tags": []
-        },
-        {
           "id": "weighted-dice-event_316488567",
           "title": "October Board Games Meetup",
           "start": "2026-10-17T13:00:00+01:00",
@@ -2488,7 +2472,8 @@
       "icon": "🌸",
       "scene": "games",
       "feedUrl": "https://abunaicon.nl/",
-      "events": []
+      "events": [],
+      "broken": true
     },
     {
       "id": "animecon",
@@ -2521,20 +2506,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-charlie-reads-the-work-of",
-          "title": "Charlie reads the work of…",
-          "start": "2026-09-13T00:00:00+02:00",
-          "end": "2026-09-13T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/charlie-reads-the-work-of/",
-          "tags": [
-            "Gratis",
-            "Kunst",
-            "Kantine"
-          ]
-        },
         {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-15",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
@@ -2628,6 +2599,36 @@
             "Gratis",
             "Workshop",
             "Kantine"
+          ]
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-53",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-09-16T00:00:00+02:00",
+          "end": "2026-09-16T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-53/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
+        },
+        {
+          "id": "beton-actie-actie-feest-van-activisme-2",
+          "title": "Actie Actie – Feest van Activisme",
+          "start": "2026-09-18T00:00:00+02:00",
+          "end": "2026-09-18T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/actie-actie-feest-van-activisme-2/",
+          "tags": [
+            "Eten / Drinken",
+            "Festival",
+            "Kunst",
+            "Markt",
+            "Workshop"
           ]
         }
       ]
@@ -2740,32 +2741,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001462-1789214400-1789254000",
-          "title": "Smeerboel 2026",
-          "start": "2026-09-12T12:00:00+02:00",
-          "end": "2026-09-12T23:00:00+02:00",
-          "location": "Laagravenseplas Noord, Houtenseweg, Nieuwegein, Utrecht, 3439LP",
-          "description": "Al jarenlang dé plek waar we samen met de meest uiteenlopende artiesten, een knettergekke randprogrammering en flitsend feestgedruis heel Utrecht uit zijn plaat laten gaan. \nDus slinger je partymood aan, maak een driedubbele flikflak in een plas danswater en kom het festivalseizoen waardig…",
-          "url": "https://clubbasis.nl/event/smeerboel-2026/",
-          "tags": [
-            "Hard house",
-            "Hardtechno",
-            "House",
-            "Techno",
-            "Trance"
-          ]
-        },
-        {
-          "id": "basis-utrecht-10001510-1789255800-1789279200",
-          "title": "BASIS x Smeerboel After/ Anne Nymphaea/ DART b2b Kyle Starkey/ Jessie Dols",
-          "start": "2026-09-12T23:30:00+02:00",
-          "end": "2026-09-13T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-x-smeerboel-after-anne-nymphaea-dart-b2b-kyle-starkey-jessie-dols/",
-          "tags": []
-        },
         {
           "id": "basis-utrecht-10001491-1789772400-1789797600",
           "title": "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error",
@@ -3010,16 +2985,6 @@
       "scene": "utrecht",
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
-        {
-          "id": "smeerboel-festival",
-          "title": "Smeerboel Festival",
-          "start": "2026-09-12T12:00:00+00:00",
-          "end": "2026-09-12T12:00:00+00:00",
-          "location": "Plas Laagraven, Houten",
-          "description": "Check hier voor meer info over het festival en de laatste tickets voor Smeerboel 2026 op zaterdag 12 september.",
-          "url": "https://festivalfans.nl/event/smeerboel-festival/",
-          "tags": []
-        },
         {
           "id": "into-the-woods",
           "title": "Into the Woods",
@@ -5177,8 +5142,7 @@
           "url": "https://muiderslot.nl/activiteit/kasteel-kookclub-muiderslot-thema-zomer/",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "slot-loevestein",
@@ -5206,16 +5170,6 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/herfstvakantie/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-rondleiding-2026-09",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Muzikale Monumenten Kwartettendag",
-          "start": "2026-09-12T10:00:00+02:00",
-          "end": "2026-09-12T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
@@ -5319,6 +5273,16 @@
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
         {
+          "id": "brederode-moestuinmiddag-tijdens-ru-ne-bewoond-2026-09-20",
+          "title": "Moestuinmiddag tijdens Ruïne Bewoond",
+          "start": "2026-09-20T11:00:00+02:00",
+          "end": "2026-09-20T17:00:00+02:00",
+          "location": "Ruïne van Brederode, Santpoort-Zuid",
+          "description": "",
+          "url": "https://ruinevanbrederode.nl/moestuinmiddag-20september/",
+          "tags": []
+        },
+        {
           "id": "brederode-ru-ne-bewoond-2026-09-20",
           "title": "Ruïne Bewoond",
           "start": "2026-09-20T11:00:00+02:00",
@@ -5337,79 +5301,8 @@
           "description": "",
           "url": "https://ruinevanbrederode.nl/ruine-bewoond-25-oktober/",
           "tags": []
-        },
-        {
-          "id": "brederode-ru-ne-bewoond-2027-06-14",
-          "title": "Ruïne Bewoond",
-          "start": "2027-06-14T11:00:00+02:00",
-          "end": "2027-06-14T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/ruine-bewoond-14-juni/",
-          "tags": []
-        },
-        {
-          "id": "brederode-valkenier-met-roofvogels-2027-05-01",
-          "title": "Valkenier met roofvogels",
-          "start": "2027-05-01T11:00:00+02:00",
-          "end": "2027-05-01T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/valkenier-1-mei/",
-          "tags": []
-        },
-        {
-          "id": "brederode-ru-ne-bewoond-2027-05-24",
-          "title": "Ruïne Bewoond",
-          "start": "2027-05-24T11:00:00+02:00",
-          "end": "2027-05-25T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/ruine-bewoond-24-25-mei/",
-          "tags": []
-        },
-        {
-          "id": "brederode-ru-ne-bewoond-2027-03-07",
-          "title": "Ruïne Bewoond",
-          "start": "2027-03-07T11:00:00+01:00",
-          "end": "2027-03-08T17:00:00+01:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/ruine-bewoond-7-8-maart/",
-          "tags": []
-        },
-        {
-          "id": "brederode-ru-ne-bewoond-2027-04-12",
-          "title": "Ruïne Bewoond",
-          "start": "2027-04-12T11:00:00+02:00",
-          "end": "2027-04-12T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/ruine-bewoond-12-april/",
-          "tags": []
-        },
-        {
-          "id": "brederode-ru-ne-bewoond-beleef-de-middeleeuwen-2027-06-08",
-          "title": "Ruïne Bewoond – Beleef de middeleeuwen",
-          "start": "2027-06-08T11:00:00+02:00",
-          "end": "2027-06-09T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/ruine-bewoond/",
-          "tags": []
-        },
-        {
-          "id": "brederode-zelf-handboogschieten-met-de-kasteelschutter-2026-09-13",
-          "title": "Zelf handboogschieten met de Kasteelschutter",
-          "start": "2026-09-13T11:00:00+02:00",
-          "end": "2026-09-13T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/handboogschieten/",
-          "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "hoensbroek",
@@ -6739,57 +6632,6 @@
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "brommerritten-nl-2993",
-          "title": "Opella Nederlandse bromfietsenrit Bennekom",
-          "start": "2026-09-12T09:00:00+02:00",
-          "end": "2026-09-12T17:00:00+02:00",
-          "location": "Oost Breukelderweg 1 Bennekom, Bennekom (Gelderland)",
-          "description": "Zaterdag 12 september 2026 Toertocht voor alleen Nederlandse bromfietsen. Start bij Opella locatie Walraven, Bennekom. Afstand: 85 km. Kosten: €15 p.p. incl. koffie/thee, lunch en consumptie na afloop. Aanmelden verplicht i.v.m. catering. Zie flyer!",
-          "url": "https://brommerritten.nl/ritten/opella-nederlandse-bromfietsenrit-bennekom/",
-          "tags": [],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1968",
-          "title": "4e Editie Brommertocht Boelenslaan",
-          "start": "2026-09-12T09:30:00+02:00",
-          "end": "2026-09-12T15:30:00+02:00",
-          "location": "Piter Jellesstrjitte 11 Boelenslaan, Boelenslaan (Friesland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/3e-editie-brommertocht-boelenslaan/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2799",
-          "title": "Harkiesbarrit 2026",
-          "start": "2026-09-12T10:00:00+02:00",
-          "end": "2026-09-12T18:00:00+02:00",
-          "location": "Geerligsland 3 Staphorst, Staphorst (Overijssel)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/harkiesbarrit-2026/",
-          "tags": [
-            "Bromfiets",
-            "Motor"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2813",
-          "title": "Sparta Oldtimer bromfietstocht Vriezenveen",
-          "start": "2026-09-12T10:00:00+02:00",
-          "end": "2026-09-12T17:00:00+02:00",
-          "location": "Manitobaplein Vriezenveen, Vriezenveen (Overijssel)",
-          "description": "12 september 2026 Deelname is alleen voor Nederlandse Bromfietsen. Bezemwagen aanwezig. Start en Finish Vriezenveen",
-          "url": "https://brommerritten.nl/ritten/sparta-oldtimer-bromfietstocht-vriezenveen/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
           "id": "brommerritten-nl-2164",
           "title": "Oldtimertreffen Stein",
           "start": "2026-09-13T09:00:00+02:00",
@@ -7168,22 +7010,7 @@
       "icon": "🛵",
       "scene": "brommer",
       "feedUrl": "",
-      "events": [
-        {
-          "id": "rhc-stramproy-2026",
-          "title": "RHC Toertocht & Hulpmotoren Treffen",
-          "start": "2026-09-12T09:00:00+02:00",
-          "end": "2026-09-13T17:00:00+02:00",
-          "location": "Stramproy (Limburg)",
-          "country": "Nederland",
-          "description": "Weekend voor rijwielen met hulpmotor en bromfietsen tot bouwjaar 1959. Zaterdag alleen authentieke hulpmotorfietsen, zondag toertocht (deels over Belgisch grondgebied). Gezamenlijk ontbijt en BBQ voor overnachters.",
-          "url": "https://www.brommer.nl/evenementen/rhc-hulpmotoren-treffen-stramproy/",
-          "tags": [
-            "Toertocht",
-            "Hulpmotor"
-          ]
-        }
-      ]
+      "events": []
     }
   ]
 }

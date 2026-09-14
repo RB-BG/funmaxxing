@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T10:04:56.995Z",
+  "updatedAt": "2026-09-14T10:25:00.081Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -423,6 +423,26 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31295",
+          "title": "Club Fataal",
+          "start": "2026-10-24T23:30:00+01:00",
+          "end": "2026-10-25T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Na meerdere uitverkochte edities van hun pop-up bar concept is Café Fataal klaar om de nacht over te nemen. Het terugkerende initiatief biedt lesbische queer personen in Utrecht een inclusieve, laagdrempelige en veilige(re) plek om elkaar te ontmoeten. Van een praatje aan de bar tot nieuwe…",
+          "url": "https://ekko.nl/event/club-fataal/",
+          "tags": []
+        },
+        {
+          "id": "28790",
+          "title": "FENNE",
+          "start": "2026-10-17T20:00:00+01:00",
+          "end": "2026-10-17T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Utrechtse muzikant FENNE schakelt moeiteloos tussen neo-soul, jazz en pop, met invloeden uit folk en elektronische muziek. Haar songs voelen als dagboekfragmenten vol verlangens, twijfels en dromerige verwachtingen. Dit verpakt ze allemaal in catchy melodieën en rijke harmonieën. Na haar laatste…",
+          "url": "https://ekko.nl/event/fenne/",
+          "tags": []
+        },
         {
           "id": "28785",
           "title": "Jesse Hoefnagels",
@@ -1114,16 +1134,6 @@
           "tags": []
         },
         {
-          "id": "28790",
-          "title": "FENNE",
-          "start": "2026-10-17T20:00:00+01:00",
-          "end": "2026-10-17T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De Utrechtse muzikant FENNE schakelt moeiteloos tussen neo-soul, jazz en pop, met invloeden uit folk en elektronische muziek. Haar songs voelen als dagboekfragmenten vol verlangens, twijfels en dromerige verwachtingen. Dit verpakt ze allemaal in catchy melodieën en rijke harmonieën. Na haar laatste…",
-          "url": "https://ekko.nl/event/fenne/",
-          "tags": []
-        },
-        {
           "id": "28654",
           "title": "Klezmagic",
           "start": "2026-12-04T20:00:00+01:00",
@@ -1153,16 +1163,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-king-shilohs-skanking-sunday-13-09-2026",
-          "title": "King Shiloh’s Skanking Sunday",
-          "start": "2026-09-13T17:00:00+02:00",
-          "end": "2026-09-13T23:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Skanking Sunday",
-          "url": "https://dehelling.nl/agenda/king-shilohs-skanking-sunday-13-09-2026/",
-          "tags": []
-        },
         {
           "id": "helling-white-denim-15-09-2026",
           "title": "White Denim",
@@ -1874,26 +1874,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "471115",
-          "title": "Nieloefaar",
-          "start": "2027-03-27T20:15:00+01:00",
-          "end": "2027-03-27T22:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Nederlandse zangeres Nieloefaar, met Perzische roots, ontroerde het publiek tijdens haar Blind Audition in het recente seizoen van The Voice of Holland. Ze vertolkte het nummer Sorry (André Hazes/Karsu) in zowel het Nederlands als het Farsi. Haar coach, Willie Wartaal, herkende direct haar…",
-          "url": "https://www.podiuminfo.nl/concert/471115/Nieloefaar/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "478328",
-          "title": "Hawkwind",
-          "start": "2026-09-13T20:15:00+02:00",
-          "end": "2026-09-13T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De legendarische Engelse band Hawkwind staat bekend als pioniers van de spacerock, met een hypnotiserende mix van psychedelica, hardrock en elektronica. De band heeft sinds de oprichting in 1969 diverse bezettingswisselingen gekend, maar wordt nog steeds geleid door zanger/gitarist Dave Brock.…",
-          "url": "https://www.podiuminfo.nl/concert/478328/Hawkwind/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "453417",
           "title": "Drake Milligan",
           "start": "2026-09-15T20:00:00+02:00",
@@ -2101,6 +2081,36 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Midnight Melodies keert terug naar Pandora voor een avond vol R&B-muziek. Bezoekers kunnen meezingen met bekende R&B-lovesongs en dansen op geliefde anthems. Het evenement belooft een onvergetelijke R&B-ervaring die het volledige spectrum van het genre viert. De playlist omvat zowel tijdloze…",
           "url": "https://www.podiuminfo.nl/concert/489895/Midnight-Melodies/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "457697",
+          "title": "Dick de Graaf Quartet - Con Alma",
+          "start": "2026-09-20T15:00:00+02:00",
+          "end": "2026-09-20T16:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Dick de Graaf Quartet presenteert het album ‘Con Alma – in memory of Rob van Kreeveld’, gebaseerd op opnamen van een legendarisch concert uit 2002. Het kwartet bestaat uit Dick de Graaf (saxofoon), Mike Boddé (piano), John Engels (drums) en Jos Machtel (bas). Rob van Kreeveld, bekend als…",
+          "url": "https://www.podiuminfo.nl/concert/457697/Dick-de-Graaf-Quartet-Con-Alma/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "450858",
+          "title": "The Bluesbones + Eddy Smith & The 507",
+          "start": "2026-09-20T20:00:00+02:00",
+          "end": "2026-09-20T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Belgische band The Bluesbones behoort tot de top van de Europese blues – hun album Live On Stage (2020) deed zelfs tot in de Verenigde Staten stof opwaaien. De heren zijn overigens geen puristen: ze verrijken hun blues graag met dampende soul, funk en rock.\r\n\r\nZanger/toetsenist Eddy Smith is een…",
+          "url": "https://www.podiuminfo.nl/concert/450858/The-Bluesbones-Eddy-Smith-The-507/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "454770",
+          "title": "Chinese American Bear",
+          "start": "2026-09-20T20:15:00+02:00",
+          "end": "2026-09-20T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "indiepopduo met mix van peelse mix van lo-fi, bedroompop en synthpop - Chinese American Bear is een vrolijk en ietwat quirky Amerikaans indiepopduo, bestaande uit het echtpaar Anne Tong en Bryce Barsten. ",
+          "url": "https://www.podiuminfo.nl/concert/454770/Chinese-American-Bear/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2398,7 +2408,8 @@
           "url": "https://www.ducosim.nl/agenda/ducosim-spellenbeurs-2027-3/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "weighted-dice",
@@ -2472,8 +2483,7 @@
       "icon": "🌸",
       "scene": "games",
       "feedUrl": "https://abunaicon.nl/",
-      "events": [],
-      "broken": true
+      "events": []
     },
     {
       "id": "animecon",
@@ -2506,75 +2516,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-15",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-09-14T00:00:00+02:00",
-          "end": "2026-09-14T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-15/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-39",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-09-14T00:00:00+02:00",
-          "end": "2026-09-14T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-39/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-21",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-09-14T00:00:00+02:00",
-          "end": "2026-09-14T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-21/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-38",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-09-14T00:00:00+02:00",
-          "end": "2026-09-14T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-38/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-16",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-09-14T00:00:00+02:00",
-          "end": "2026-09-14T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-16/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
         {
           "id": "beton-kahoot",
           "title": "De Kahoot Club – mega snelle pubquiz",
@@ -2629,6 +2570,47 @@
             "Kunst",
             "Markt",
             "Workshop"
+          ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-17",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-09-21T00:00:00+02:00",
+          "end": "2026-09-21T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-17/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-40",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-09-21T00:00:00+02:00",
+          "end": "2026-09-21T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-40/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-22",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-09-21T00:00:00+02:00",
+          "end": "2026-09-21T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-22/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
           ]
         }
       ]
@@ -3035,16 +3017,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "73781",
-          "title": "Enigma-Variations",
-          "start": "2026-09-13T20:00:00.000Z",
-          "end": "2026-09-13T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=73781",
-          "description": "In the Enigma Variations , Edward Elgar painted his dearest friends. Each of the fourteen parts – one lovingly teasing, the other intimate and glowing – is a portrait in itself; together they form a wonderful ode to friendship. Film composers such as John Williams have been happy to be i",
-          "tags": []
-        },
         {
           "id": "74007",
           "title": "Anna Lapwood with the Philharmonia Orchestra and Laurens Symphonic Women's Choir",
@@ -3573,6 +3545,16 @@
           "location": "Assen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76280",
           "description": "Lovers of iconic film and musical music can indulge themselves during this symphonic concert with just that little bit more!<BR><BR>The audience is taken along legendary soundtracks by grandmasters such as John Williams, Hans Zimmer, Howard Shore, John Powell, Yann Tiersen, Klaus Badelt and yes: Ric",
+          "tags": []
+        },
+        {
+          "id": "78991",
+          "title": "Coda",
+          "start": "2026-11-02T20:00:00.000Z",
+          "end": "2026-11-02T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78991",
+          "description": "Cello Octet Amsterdam<BR>Sophie van Winden, text and performance<BR>Titus Tiel Groenestege, final direction<BR>Paul Jeukendrup, sound<BR>Dieuweke van Reij, costume<BR><BR>With music by Ryuichi Sakamoto , arrangements by Ren&eacute; van Munster<BR><BR>no further details available",
           "tags": []
         },
         {
@@ -5153,16 +5135,6 @@
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
         {
-          "id": "loevestein-smaakmuseum-zomerlunch-2026-09",
-          "title": "Smaakmuseum Zomerlunch",
-          "start": "2026-09-13T10:00:00+02:00",
-          "end": "2026-09-13T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/smaakmuseum-zomerlunch/",
-          "tags": []
-        },
-        {
           "id": "loevestein-herfstvakantie-2026-10",
           "title": "Herfstvakantie",
           "start": "2026-10-10T10:00:00+01:00",
@@ -5173,6 +5145,16 @@
           "tags": []
         },
         {
+          "id": "loevestein-rondleiding-2026-09",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Gelderse dag",
+          "start": "2026-09-26T10:00:00+02:00",
+          "end": "2026-09-26T18:00:00+02:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
+          "tags": []
+        },
+        {
           "id": "loevestein-museumweek-2026-09",
           "title": "Museumweek",
           "start": "2026-09-26T10:00:00+02:00",
@@ -5180,16 +5162,6 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/museumweek/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-gelderse-dag-2026-09",
-          "title": "Gelderse dag",
-          "start": "2026-09-26T10:00:00+02:00",
-          "end": "2026-09-26T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/gelderse-dag/",
           "tags": []
         },
         {
@@ -6631,102 +6603,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-2164",
-          "title": "Oldtimertreffen Stein",
-          "start": "2026-09-13T09:00:00+02:00",
-          "end": "2026-09-13T17:00:00+02:00",
-          "location": "Veldschuurweg 100 Stein, Stein (Limburg)",
-          "description": "Oldtimertreffen 2026 Op zaterdag 12 en zondag 13 september 2026 organiseert schutterij St. Joseph Stein een oldtimertreffen. Ten voordele van nieuwe uniformen voor de schutterij. Het oldtimertreffen vindt plaats bij ons clubgebouw aan de Veldschuurweg 100 in Stein. vind ons op Google Maps Bekijk…",
-          "url": "https://brommerritten.nl/ritten/oldtimertreffen-stein/",
-          "tags": [
-            "Auto",
-            "Bromfiets",
-            "Tractor"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1230",
-          "title": "10e ABC Brommerrit Achtmaal",
-          "start": "2026-09-13T09:30:00+02:00",
-          "end": "2026-09-13T17:00:00+02:00",
-          "location": "van den Berghstraat 2 Achtmaal, Achtmaal (Noord-Brabant)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/8e-abc-brommerrit-achtmaal/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3575",
-          "title": "Brommertoertocht Nieuw-Heeten",
-          "start": "2026-09-13T09:30:00+02:00",
-          "end": "2026-09-13T17:00:00+02:00",
-          "location": "Zwarteweg 24 Nieuw-Heeten, Nieuw-Heeten (Overijssel)",
-          "description": "Na jaren is het eindelijk weer zover! De 7e editie van onze gezellige oldtimer brommertocht staat gepland op zondag 13 september. De laatste tocht was in 2019 en nu pakken we de draad weer op. Dit keer vanaf een nieuwe locatie: De Belte in Nieuw Heeten. Heb jij een oldtimer brommer? Haal hem uit de…",
-          "url": "https://brommerritten.nl/ritten/brommertoertocht-nieuw-heeten/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1321",
-          "title": "19e Bromfiets Oldtimerrit Diessen",
-          "start": "2026-09-13T10:00:00+02:00",
-          "end": "2026-09-13T17:00:00+02:00",
-          "location": "Kerkstraat 10 Diessen, Diessen (Noord-Brabant)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/16e-bromfiets-oldtimerrit-diessen/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3392",
-          "title": "BCT tocht Tijnje",
-          "start": "2026-09-13T10:00:00+02:00",
-          "end": "2026-09-13T17:00:00+02:00",
-          "location": "Heawei 9 Tijnje, Tijnje (Friesland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/bct-tocht-tijnje/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2688",
-          "title": "Vechtdal Classic Toerrit Oudleusen",
-          "start": "2026-09-13T11:00:00+02:00",
-          "end": "2026-09-13T17:00:00+02:00",
-          "location": "Parallelstraat 2 Oudleusen, Oudleusen (Overijssel)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/vechtdal-classic-toerrit-oudleusen/",
-          "tags": [
-            "Auto",
-            "Bromfiets",
-            "Motor",
-            "Tractor"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1292",
-          "title": "2e zondag in de maandrit September – Hulst",
-          "start": "2026-09-13T13:30:00+02:00",
-          "end": "2026-09-13T18:00:00+02:00",
-          "location": "Tolweg 109 Hulst, Hulst (Zeeland)",
-          "description": "2e Zondagrit van de maand. Georganiseerd door Brommerclub &#8220;De Grensrijders&#8221;. Deze ritten zijn van Maart t/m November. Deelname aan een van deze ritten, is geheel op eigen risico. Samen komst: De Bourgondiër (Kaart) Waar: Tolweg 109, 4561RL Hulst. (Absdale) Verzamelen: ± 13:00 uur.…",
-          "url": "https://brommerritten.nl/ritten/zondagrit-de-grensrijders-4/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-2715",
           "title": "Houtse oldtimer bromfietsrit den Hout",

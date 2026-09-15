@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T10:25:00.081Z",
+  "updatedAt": "2026-09-15T09:51:05.480Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "10001048",
-          "title": "SIGH (JAPAN) + DEVIL MASTER (USA)",
-          "start": "2026-09-14T20:00:00+02:00",
-          "end": "2026-09-14T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "20.15 uur DEVIL MASTER\n21.30 uur SIGH \nDe experimentele black metalband 𝐒𝐈𝐆𝐇 uit Japan zag het levenslicht in april 1989 en trok daarmee meteen de aandacht van onder andere black metal legende Euronymous. Gedurende de jaren en door de vele albums heen blijft de band zich echter ontwikkelen met…",
-          "url": "https://dbstudio.nl/event/sigh-japan-devil-master-usa/",
-          "tags": [
-            "Black Metal",
-            "Hardcore"
-          ]
-        },
         {
           "id": "10001078",
           "title": "Chordifest met live bands en muzikanten",
@@ -412,6 +399,20 @@
             "Krautrock",
             "Techno"
           ]
+        },
+        {
+          "id": "10001113",
+          "title": "Pim van de Werken & de Tijdgeest release party + Vampire Boyfriend + Rinze",
+          "start": "2026-10-25T16:00:00+01:00",
+          "end": "2026-10-25T20:30:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Nieuw werk van de Utrechtse muzikant en producer Pim van de Werken. Dat vraagt om een feestelijke presentatie waarbij ook het verstrijken der jaren gevierd mag worden. \n\n\n\n\n\n\n\nPim van de Werken en de Tijdgeest presenteren hun album 'Val maar kapot (we hebben elkaar)'. Een zo optimistisch mogelijke…",
+          "url": "https://dbstudio.nl/event/pim-van-de-werken-de-tijdgeest-release-party-vampire-boyfriend-rinze/",
+          "tags": [
+            "Concert",
+            "Pop",
+            "Rock"
+          ]
         }
       ]
     },
@@ -431,6 +432,56 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Na meerdere uitverkochte edities van hun pop-up bar concept is Café Fataal klaar om de nacht over te nemen. Het terugkerende initiatief biedt lesbische queer personen in Utrecht een inclusieve, laagdrempelige en veilige(re) plek om elkaar te ontmoeten. Van een praatje aan de bar tot nieuwe…",
           "url": "https://ekko.nl/event/club-fataal/",
+          "tags": []
+        },
+        {
+          "id": "31290",
+          "title": "EKKO Hoorcollege",
+          "start": "2026-09-30T20:00:00+02:00",
+          "end": "2026-09-30T22:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Rekordbox: can&#8217;t live with it, can&#8217;t live without it. In dit EKKO Hoorcollege duikt dj en Rekordbox-nerd Dennis Rochat in de wazige wereld van deze dj-software. Hoe haal je het maximale uit hot cues, loops en slimme playlists? Welke instellingen bestaan er allemaal en wat heb je er…",
+          "url": "https://ekko.nl/event/ekko-hoorcollege-rekordbox/",
+          "tags": []
+        },
+        {
+          "id": "29771",
+          "title": "Daryll-Ann",
+          "start": "2026-09-20T20:00:00+02:00",
+          "end": "2026-09-20T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Daryll-Ann is een van de belangrijkste indiebands die Nederland ooit voortbracht. De band bouwde in de jaren negentig een indrukwekkend oeuvre op, met ‘Daryll-Ann Weeps’ uit 1996 als hoogtepunt. Het is een album waar alles in zit: woede, verdriet, schoonheid en troost, samengebracht in zestien…",
+          "url": "https://ekko.nl/event/daryll-ann/",
+          "tags": []
+        },
+        {
+          "id": "30263",
+          "title": "Madra Salach",
+          "start": "2026-09-19T20:00:00+02:00",
+          "end": "2026-09-19T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Madra Salach draagt de Ierse folktraditie stevig in het hart, maar laat die nooit de overhand nemen. Het zestal uit Dublin is voortgekomen uit de indiescene van de Northside, waar de bandleden elkaar vonden tijdens spontane sessies in Dublinse kroegen. Vanuit een gedeelde liefde voor oude ballades…",
+          "url": "https://ekko.nl/event/madra-salach/",
+          "tags": []
+        },
+        {
+          "id": "29258",
+          "title": "Destroyer (solo)",
+          "start": "2026-09-18T20:00:00+02:00",
+          "end": "2026-09-18T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Destroyer is het eigenzinnige project van Dan Bejar, een indievedette uit Vancouver die sinds de jaren ’90 een uniek oeuvre opbouwt. Als voormalig lid van The New Pornographers ontwikkelde hij met Destroyer een uitgesproken signatuur, waarin hij genres als glam, yacht rock en indie vrijelijk naar…",
+          "url": "https://ekko.nl/event/destroyer/",
+          "tags": []
+        },
+        {
+          "id": "30244",
+          "title": "Mensen Zeggen Dingen",
+          "start": "2026-09-16T20:30:00+02:00",
+          "end": "2026-09-16T22:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Mensen Zeggen Dingen reist het land door met avonden vol hoogwaardige schrijvers, performers, spoken word-artiesten en andere podiumbeesten. Voor het EKKO-jubileum komen ze met een primo selectie van deze artiesten die de spreekwoordelijke slingers komen ophangen. Kom luisteren en proosten! Host:…",
+          "url": "https://ekko.nl/event/mensen-zeggen-dingen-2026/",
           "tags": []
         },
         {
@@ -644,16 +695,6 @@
           "tags": []
         },
         {
-          "id": "30263",
-          "title": "Madra Salach",
-          "start": "2026-09-19T20:00:00+02:00",
-          "end": "2026-09-19T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Madra Salach draagt de Ierse folktraditie stevig in het hart, maar laat die nooit de overhand nemen. Het zestal uit Dublin is voortgekomen uit de indiescene van de Northside, waar de bandleden elkaar vonden tijdens spontane sessies in Dublinse kroegen. Vanuit een gedeelde liefde voor oude ballades…",
-          "url": "https://ekko.nl/event/madra-salach/",
-          "tags": []
-        },
-        {
           "id": "31084",
           "title": "Wildgroei",
           "start": "2026-10-16T23:00:00+01:00",
@@ -844,16 +885,6 @@
           "tags": []
         },
         {
-          "id": "29258",
-          "title": "Destroyer (solo)",
-          "start": "2026-09-18T20:00:00+02:00",
-          "end": "2026-09-18T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Destroyer is het eigenzinnige project van Dan Bejar, een indievedette uit Vancouver die sinds de jaren ’90 een uniek oeuvre opbouwt. Als voormalig lid van The New Pornographers ontwikkelde hij met Destroyer een uitgesproken signatuur, waarin hij genres als glam, yacht rock en indie vrijelijk naar…",
-          "url": "https://ekko.nl/event/destroyer/",
-          "tags": []
-        },
-        {
           "id": "30680",
           "title": "Weval Presents: CLUB CHOROPHOBIA",
           "start": "2026-10-10T23:30:00+01:00",
@@ -874,16 +905,6 @@
           "tags": []
         },
         {
-          "id": "29771",
-          "title": "Daryll-Ann",
-          "start": "2026-09-20T20:00:00+02:00",
-          "end": "2026-09-20T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Daryll-Ann is een van de belangrijkste indiebands die Nederland ooit voortbracht. De band bouwde in de jaren negentig een indrukwekkend oeuvre op, met ‘Daryll-Ann Weeps’ uit 1996 als hoogtepunt. Het is een album waar alles in zit: woede, verdriet, schoonheid en troost, samengebracht in zestien…",
-          "url": "https://ekko.nl/event/daryll-ann/",
-          "tags": []
-        },
-        {
           "id": "30625",
           "title": "Perfect Indie Disco",
           "start": "2026-09-18T22:30:00+02:00",
@@ -901,16 +922,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Van &#8216;Chaise Longue&#8217; tot &#8216;Take Me Out&#8217; en van &#8216;Space Song&#8217; tot &#8216;Seventeen Going Under&#8217;, met 40 jaar EKKO-geschiedenis kun je een flinke stapel Hitzones vullen. Het is natuurlijk hartstikke leuk dat we tijdens ons jubileum een aantal vedetten opnieuw…",
           "url": "https://ekko.nl/event/vrienden-van-ekko-live/",
-          "tags": []
-        },
-        {
-          "id": "30244",
-          "title": "Mensen Zeggen Dingen",
-          "start": "2026-09-16T20:30:00+02:00",
-          "end": "2026-09-16T22:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Mensen Zeggen Dingen reist het land door met avonden vol hoogwaardige schrijvers, performers, spoken word-artiesten en andere podiumbeesten. Voor het EKKO-jubileum komen ze met een primo selectie van deze artiesten die de spreekwoordelijke slingers komen ophangen. Kom luisteren en proosten! Host:…",
-          "url": "https://ekko.nl/event/mensen-zeggen-dingen-2026/",
           "tags": []
         },
         {
@@ -2133,12 +2144,22 @@
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
-          "id": "607122",
-          "title": "The Devil’s Dandy Dogs (Beginner Friendly)",
+          "id": "608533",
+          "title": "EIDOLON: Become Your Best Self \"Follow Your Ghost\"",
           "start": "2026-09-16T19:00:00+02:00",
           "end": "2026-09-16T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "The Devil’s Dandy Dogs (Beginner Friendly) Wed 16/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Character level 0 -- Info box ------------------------------- Where: Silver Heron When: Walk-in from 18:30, start at 19:00 Participation fee: €5 Prep: no need to bring or know anything…",
+          "description": "EIDOLON: Become Your Best Self \"Follow Your Ghost\" Wed 16/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Molly Rhinebeck and Luke Varner EIDOLON: Become Your Best Self is a tabletop RPG where you look deep inside yourself to find the power lying dormant within, nourish…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "608537",
+          "title": "Gravity RIP",
+          "start": "2026-09-16T19:00:00+02:00",
+          "end": "2026-09-16T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Gravity RIP Wed 16/9 7-10pm at Subcultures @De Bierkantine English, Gravity RIP Written by Luke Westaway PRO-RACING. ANTI-GRAVITY. Gravity RIP is a co-operative tabletop RPG built to tell the rad-as-hell stories of pilots competing in the RIP Racing League. A theatre-of-the-mind tabletop system for…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2163,12 +2184,22 @@
           "tags": []
         },
         {
+          "id": "607122",
+          "title": "The Devil’s Dandy Dogs (Beginner Friendly)",
+          "start": "2026-09-16T19:00:00+02:00",
+          "end": "2026-09-16T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "The Devil’s Dandy Dogs (Beginner Friendly) Wed 16/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Shanna Germain You are one of the Devil’s Dandy Dogs, a creature made of the Devil’s shadow, and as such you are tasked with one thing: collecting souls. You’ll face myriad…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "608357",
-          "title": "D&D 5e: Grax's Guys for Cheap session 1",
+          "title": "D&D 5e: Grax's Guys for Cheap session 2",
           "start": "2026-09-23T19:00:00+02:00",
           "end": "2026-09-23T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "D&amp;D 5e: Grax's Guys for Cheap session 1 Wed 23/9 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter…",
+          "description": "D&amp;D 5e: Grax's Guys for Cheap session 2 Wed 23/9 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Written by Coen van Loo Ever wanted to play a sci-fi campaign but don't feel like learning a complicated new system. Come become a spacer in this Dark Matter…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2276,6 +2307,30 @@
           "url": "https://www.lab-monkey.nl/event_new/weekly-draft-127/",
           "tags": [
             "Draft"
+          ]
+        },
+        {
+          "id": "lab-monkey-23413",
+          "title": "Prerelease Ticket – Zaterdag 11:00 – 1v1 – Reality Fracture",
+          "start": "2026-09-26T11:00:00+02:00",
+          "end": "2026-09-26T17:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "Een nieuwe set betekend een prerelease! Let op wij beginnen om 11:00! Je krijgt 6 boosters, een random foil en natuurlijk de befaamde spindown dobbelsteen. Deelnamekosten: €45,-. We spelen 4 rondes Swiss (je kunt elke ronde spelen). Per speler gaat er 1.5 Play Booster in de prijzenpot. Bestel hier…",
+          "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zaterdag-1100-1v1-reality-fracture/",
+          "tags": [
+            "Pre-release"
+          ]
+        },
+        {
+          "id": "lab-monkey-23416",
+          "title": "Prerelease Ticket – Zondag 11:00 – 1v1 – Reality Fracture",
+          "start": "2026-09-27T18:00:00+02:00",
+          "end": "2026-09-27T18:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "Een nieuwe set betekend een prerelease! Let op wij beginnen om 11:00! Je krijgt 6 boosters, een random foil en natuurlijk de befaamde spindown dobbelsteen. Deelnamekosten: €45,-. We spelen 4 rondes Swiss (je kunt elke ronde spelen). Per speler gaat er 1.5 Play Booster in de prijzenpot. Bestel hier…",
+          "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zondag-1100-1v1-the-hobbit-2/",
+          "tags": [
+            "Pre-release"
           ]
         }
       ]
@@ -2408,8 +2463,7 @@
           "url": "https://www.ducosim.nl/agenda/ducosim-spellenbeurs-2027-3/",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "weighted-dice",
@@ -2517,32 +2571,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-kahoot",
-          "title": "De Kahoot Club – mega snelle pubquiz",
-          "start": "2026-09-15T00:00:00+02:00",
-          "end": "2026-09-15T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/kahoot/",
-          "tags": [
-            "Terras"
-          ]
-        },
-        {
-          "id": "beton-annes-werkplaats-1",
-          "title": "Annes Werkplaats: Workshop Bloemstrijken",
-          "start": "2026-09-15T00:00:00+02:00",
-          "end": "2026-09-15T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/annes-werkplaats-1/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-53",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-09-16T00:00:00+02:00",
@@ -2554,6 +2582,19 @@
             "Dans",
             "Muziek",
             "Workshop"
+          ]
+        },
+        {
+          "id": "beton-radio-2b-1",
+          "title": "Radio 2b",
+          "start": "2026-09-17T00:00:00+02:00",
+          "end": "2026-09-17T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/radio-2b-1/",
+          "tags": [
+            "Muziek",
+            "Kantine"
           ]
         },
         {
@@ -2570,6 +2611,19 @@
             "Kunst",
             "Markt",
             "Workshop"
+          ]
+        },
+        {
+          "id": "beton-radio-2b",
+          "title": "Radio 2b",
+          "start": "2026-09-18T00:00:00+02:00",
+          "end": "2026-09-18T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/radio-2b/",
+          "tags": [
+            "Muziek",
+            "Kantine"
           ]
         },
         {
@@ -2612,6 +2666,44 @@
             "Workshop",
             "Vechtclub XL"
           ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-39",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-09-21T00:00:00+02:00",
+          "end": "2026-09-21T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-39/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-17",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-09-21T00:00:00+02:00",
+          "end": "2026-09-21T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-17/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-besloten-event-5",
+          "title": "Besloten event",
+          "start": "2026-09-21T00:00:00+02:00",
+          "end": "2026-09-21T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/besloten-event-5/",
+          "tags": []
         }
       ]
     },
@@ -2623,6 +2715,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261115-cornered-insurgent-visceral-contempt",
+          "title": "Cornered + Insurgent + Visceral Contempt",
+          "start": "2026-11-15T00:00:00+01:00",
+          "end": "2026-11-15T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 15th. Posse Productions and Silent Call Collective present. Posse Productions and Silent Call Collective present: Cornered Cornered started out in 2008 when many hardcore bands were drifting away from the sound they loved the most. Within a period of four years they toured Europe several…",
+          "url": "https://acu.nl/events/20261115/cornered-insurgent-visceral-contempt",
+          "tags": []
+        },
         {
           "id": "acu-20261009-transparent-man-nefala",
           "title": "Mutiny Presents: Transparent Man+ Nefala",
@@ -2701,16 +2803,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "November 20th. Catch Sean Pratt live on 20/11 at ACU Sean Pratt is an American folk guitar player and singer-songwriter from Nebraska by way of the Dakotas. Pratt played in Omaha punk and noise acts for the better part of a decade before developing a fascination with the songcraft of the likes of…",
           "url": "https://acu.nl/events/20261120/sean-pratt-live-at-acu",
-          "tags": []
-        },
-        {
-          "id": "acu-20260924-food-and-funk-with-utrecht-housing-co-op-hommeldorp",
-          "title": "Food&funk with Housing Co-op Hommeldorp",
-          "start": "2026-09-24T00:00:00+02:00",
-          "end": "2026-09-24T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 24th. Woody Grooves + Idem_Dito (disco&funk DJ night) + drag performances. Wish you didn’t have a landlord? Want to live in community? Housing co-op Hommeldorp is building that future! Last year, we won a plot to build our dream community: 37 non-profit apartments in Utrecht Leidsche…",
-          "url": "https://acu.nl/events/20260924/food-and-funk-with-utrecht-housing-co-op-hommeldorp",
           "tags": []
         }
       ]
@@ -3734,7 +3826,7 @@
           "end": "2026-11-20T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72032",
-          "description": "Philzuid<BR>Ben Palmer - Conductor<BR>Roger Sayer - Organ<BR><BR>Hans Zimmer - Interstellar<BR><BR>Interstellar Live brings Christopher Nolan\\'s Oscar-winning science fiction epic back to the big screen, featuring Hans Zimmer\\'s revelatory score performed live by the Philzuid Orchestra, co",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Philzuid<BR>Ben Palmer - Conductor<BR>Roger Sayer - Organ<BR><BR>Hans Zimmer - Interstellar<BR><BR>Interstellar Live brings Christopher Nolan's Oscar-winning science fiction epic back to the big screen, featuring Hans Zimmer's revelatory score performed live by the…",
           "tags": []
         },
         {
@@ -3794,7 +3886,7 @@
           "end": "2026-11-21T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75450",
-          "description": "Philzuid<BR>Ben Palmer - Conductor<BR>Roger Sayer - Organ<BR><BR>Hans Zimmer - Interstellar<BR><BR>Interstellar Live brings Christopher Nolan's Oscar-winning science fiction epic back to the big screen, featuring Hans Zimmer's revelatory score performed live by the Philzuid Orchest",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Philzuid<BR>Ben Palmer - Conductor<BR>Roger Sayer - Organ<BR><BR>Hans Zimmer - Interstellar<BR><BR>Interstellar Live brings Christopher Nolan's Oscar-winning science fiction epic back to the big screen, featuring Hans Zimmer's revelatory score performed live by the…",
           "tags": []
         },
         {
@@ -4936,22 +5028,12 @@
         },
         {
           "id": "muiderslot-kasteelclubs-2026",
-          "title": "Kasteel Kunstclub Muiderslot",
+          "title": "Kasteel Atelierlessen Muiderslot",
           "start": "2026-09-21T10:00:00+02:00",
           "end": "2027-02-01T18:00:00+02:00",
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/kasteelclubs/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-mindful-wandeling-muiderslot-2026",
-          "title": "Mindful wandeling Muiderslot",
-          "start": "2026-10-01T10:00:00+01:00",
-          "end": "2026-10-31T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
           "tags": []
         },
         {
@@ -4962,6 +5044,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/maand-van-de-geschiedenis-op-het-muiderslot/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-mindful-wandeling-muiderslot-2026",
+          "title": "Mindful wandeling Muiderslot",
+          "start": "2026-10-01T10:00:00+01:00",
+          "end": "2026-10-31T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/mindful-wandeling-muiderslot/",
           "tags": []
         },
         {
@@ -5005,13 +5097,13 @@
           "tags": []
         },
         {
-          "id": "muiderslot-historische-proeverij-10-okt-2026-2026",
-          "title": "Historische proeverij 10 okt 2026",
+          "id": "muiderslot-toegankelijkheidsadviseurs-in-het-kasteel-2026",
+          "title": "Toegankelijkheidsadviseurs in het kasteel",
           "start": "2026-10-10T10:00:00+01:00",
           "end": "2026-10-10T18:00:00+01:00",
           "location": "Muiderslot, Muiden",
           "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-10-okt-2026/",
+          "url": "https://muiderslot.nl/activiteit/toegankelijkheidsadviseurs-in-het-kasteel/",
           "tags": []
         },
         {
@@ -5035,6 +5127,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-historische-proeverij-10-okt-2026-2026",
+          "title": "Historische proeverij 10 okt 2026",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-10T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-10-okt-2026/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-ridderweekend-oktober-2026-2026",
           "title": "Ridder- en Ambachtenweekend 2026",
           "start": "2026-10-17T10:00:00+01:00",
@@ -5045,16 +5147,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-prikkelarme-openstelling-4-2026",
-          "title": "Prikkelarme openstelling",
-          "start": "2026-10-24T10:00:00+01:00",
-          "end": "2026-10-24T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-4/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-historische-proeverij-24-okt-2026-2026",
           "title": "Historische proeverij 24 okt 2026",
           "start": "2026-10-24T10:00:00+01:00",
@@ -5062,6 +5154,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/historische-proeverij-24-okt-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-prikkelarme-openstelling-4-2026",
+          "title": "Prikkelarme openstelling",
+          "start": "2026-10-24T10:00:00+01:00",
+          "end": "2026-10-24T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-4/",
           "tags": []
         },
         {
@@ -5145,6 +5247,16 @@
           "tags": []
         },
         {
+          "id": "loevestein-riddertoernooi-2026-10",
+          "title": "Hét grote riddertoernooi van het jaar",
+          "start": "2026-10-17T10:00:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/riddertoernooi/",
+          "tags": []
+        },
+        {
           "id": "loevestein-rondleiding-2026-09",
           "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Gelderse dag",
           "start": "2026-09-26T10:00:00+02:00",
@@ -5172,16 +5284,6 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/maand-van-de-geschiedenis/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-riddertoernooi-2026-10",
-          "title": "Hét grote riddertoernooi van het jaar",
-          "start": "2026-10-17T10:00:00+01:00",
-          "end": "2026-10-18T18:00:00+01:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/riddertoernooi/",
           "tags": []
         },
         {
@@ -6667,6 +6769,19 @@
           "location": "Spoordijk 2 Staphorst, Staphorst (Overijssel)",
           "description": "De afsluiter van het 2026 toerseizoen van de AMBC vanaf de kantine.",
           "url": "https://brommerritten.nl/ritten/ambc-staphorst-herfstrit/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-1983",
+          "title": "10e Editie Olster brommertoertocht Olst",
+          "start": "2026-09-20T00:00:00+02:00",
+          "end": "2026-09-20T23:59:00+02:00",
+          "location": "Kornet van Limburg Stirumstraat 22 Olst, Olst (Overijssel)",
+          "description": "Brommertoertocht Heb jij jouw brommer eigenlijk al te lang in de schuur staan en zoek jij een goede reden om deze weer tevoorschijn te toveren? Of neem jij vaker deel aan georganiseerde toertochten? Dan is er ook dit jaar weer de mogelijkheid om mee te doen aan de brommertoertocht tijdens het…",
+          "url": "https://brommerritten.nl/ritten/8e-editie-olster-brommertoertocht-olst/",
           "tags": [
             "Bromfiets"
           ],

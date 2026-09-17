@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T09:46:23.045Z",
+  "updatedAt": "2026-09-17T09:53:53.363Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -10,25 +10,7 @@
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
         {
-          "id": "10001078",
-          "title": "Chordifest met live bands en muzikanten",
-          "start": "2026-09-16T15:30:00+02:00",
-          "end": "2026-09-16T22:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Kruid\nJT Witte & Howart \nMoonloops\nJeez Louise\nMiss Starling\nCar Pets\nBaas\nEmmie Lee\nJini",
-          "url": "https://dbstudio.nl/event/chordifest/",
-          "tags": [
-            "Alternative",
-            "Concert",
-            "Jazz",
-            "Metal",
-            "Pop",
-            "Rock",
-            "Synthpop"
-          ]
-        },
-        {
-          "id": "10001112",
+          "id": "17697",
           "title": "WABI SABI release party + Nelles",
           "start": "2026-09-17T19:30:00+02:00",
           "end": "2026-09-17T23:00:00+02:00",
@@ -42,7 +24,7 @@
           ]
         },
         {
-          "id": "10001088",
+          "id": "17478",
           "title": "THE BIRD EXPERIENCE + Tales",
           "start": "2026-09-18T20:00:00+02:00",
           "end": "2026-09-18T23:30:00+02:00",
@@ -55,7 +37,7 @@
           ]
         },
         {
-          "id": "10001125",
+          "id": "17854",
           "title": "REGGAE BOMB + Jerk Chicken BBQ",
           "start": "2026-09-19T16:00:00+02:00",
           "end": "2026-09-19T21:00:00+02:00",
@@ -70,7 +52,7 @@
           ]
         },
         {
-          "id": "10000871",
+          "id": "14335",
           "title": "DreB'S STAFF ON STAGE IV Postponed for now!",
           "start": "2026-09-19T19:00:00+02:00",
           "end": "2026-09-20T04:00:00+02:00",
@@ -80,7 +62,7 @@
           "tags": []
         },
         {
-          "id": "10001047",
+          "id": "17163",
           "title": "ARANKAI (USA) + Artificial",
           "start": "2026-09-20T20:00:00+02:00",
           "end": "2026-09-20T23:30:00+02:00",
@@ -94,7 +76,7 @@
           ]
         },
         {
-          "id": "10001035",
+          "id": "17014",
           "title": "THE FLAMIN' GROOVIES (USA) + The Hook",
           "start": "2026-09-22T20:00:00+02:00",
           "end": "2026-09-22T23:30:00+02:00",
@@ -107,7 +89,7 @@
           ]
         },
         {
-          "id": "10001043",
+          "id": "17102",
           "title": "Møster! (No - Jazz Super Group) + Danibal",
           "start": "2026-09-23T20:00:00+02:00",
           "end": "2026-09-23T23:00:00+02:00",
@@ -121,7 +103,7 @@
           ]
         },
         {
-          "id": "10001129",
+          "id": "17909",
           "title": "Club 3voor12 Utrecht w/ HESTER + (CIRCLE CIRCLE) + ROMMY GABAY",
           "start": "2026-09-24T19:30:00+02:00",
           "end": "2026-09-24T23:00:00+02:00",
@@ -133,7 +115,7 @@
           ]
         },
         {
-          "id": "10001061",
+          "id": "17237",
           "title": "PLOEGENDIENST",
           "start": "2026-09-25T20:00:00+02:00",
           "end": "2026-09-25T23:30:00+02:00",
@@ -145,7 +127,7 @@
           ]
         },
         {
-          "id": "10001111",
+          "id": "17694",
           "title": "Metal Quiz & Karaoke",
           "start": "2026-09-26T19:30:00+02:00",
           "end": "2026-09-26T23:30:00+02:00",
@@ -158,19 +140,19 @@
           ]
         },
         {
-          "id": "10001055",
+          "id": "16730",
           "title": "Ballroom Blitz",
           "start": "2026-09-26T23:00:00+02:00",
           "end": "2026-09-27T03:00:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
           "description": "Wars van trends maar niet vies van vette hits… elke laatste zaterdag van de maand turns in a Ballroom Blitz. Een feestje voor de zoekenden, de losgelatenen en de wonderkinderen.  It is like lightning and the music is grooving. \nHeb je een onbedwingbare drang tot dansen maar zijn er veel te veel…",
-          "url": "https://dbstudio.nl/event/ballroom-blitz-8/2026-09-26/",
+          "url": "https://dbstudio.nl/event/ballroom-blitz-8/",
           "tags": [
             "Ballroom Blitz"
           ]
         },
         {
-          "id": "10001115",
+          "id": "17757",
           "title": "PopPubQuiz Live",
           "start": "2026-09-27T15:00:00+02:00",
           "end": "2026-09-27T19:00:00+02:00",
@@ -182,7 +164,7 @@
           ]
         },
         {
-          "id": "10001062",
+          "id": "17243",
           "title": "KATE CLOVER (USA) + Clearly Confused + De Keefmen",
           "start": "2026-09-30T20:00:00+02:00",
           "end": "2026-09-30T23:30:00+02:00",
@@ -196,7 +178,7 @@
           ]
         },
         {
-          "id": "10001057",
+          "id": "17215",
           "title": "DE BOKKERŸERS + Larrikino",
           "start": "2026-10-01T20:00:00+01:00",
           "end": "2026-10-01T23:30:00+01:00",
@@ -209,7 +191,7 @@
           ]
         },
         {
-          "id": "10001104",
+          "id": "17633",
           "title": "HARDCORE EARTHQUAKE ft. LOMA PRIETA (USA) + Hexis (DK) + Violence (DK)",
           "start": "2026-10-02T20:00:00+01:00",
           "end": "2026-10-02T23:30:00+01:00",
@@ -224,7 +206,7 @@
           ]
         },
         {
-          "id": "10000796",
+          "id": "13611",
           "title": "DUB PISTOLS (UK) > verplaatste concert van 1 november 2025",
           "start": "2026-10-03T20:00:00+01:00",
           "end": "2026-10-03T22:30:00+01:00",
@@ -241,7 +223,7 @@
           ]
         },
         {
-          "id": "10001097",
+          "id": "17577",
           "title": "Boppin' the Rock presents Marcel Riesco & The Ray Allen Band + Mischief!",
           "start": "2026-10-04T16:00:00+01:00",
           "end": "2026-10-04T20:30:00+01:00",
@@ -255,7 +237,7 @@
           ]
         },
         {
-          "id": "10001109",
+          "id": "17669",
           "title": "YELLOFOX",
           "start": "2026-10-07T20:00:00+01:00",
           "end": "2026-10-07T23:30:00+01:00",
@@ -268,7 +250,7 @@
           ]
         },
         {
-          "id": "10001119",
+          "id": "17777",
           "title": "ZAKMES - 'We Are SO Back' EP Release Party!",
           "start": "2026-10-09T19:30:00+01:00",
           "end": "2026-10-09T23:30:00+01:00",
@@ -282,7 +264,7 @@
           ]
         },
         {
-          "id": "10001086",
+          "id": "17451",
           "title": "JOHN COFFEY + Van Tastik",
           "start": "2026-10-10T20:00:00+01:00",
           "end": "2026-10-10T23:30:00+01:00",
@@ -296,7 +278,7 @@
           ]
         },
         {
-          "id": "10001098",
+          "id": "17584",
           "title": "DEATHCHANT (USA)",
           "start": "2026-10-14T20:00:00+01:00",
           "end": "2026-10-14T23:30:00+01:00",
@@ -309,7 +291,7 @@
           ]
         },
         {
-          "id": "10001089",
+          "id": "17504",
           "title": "MONDO DRAG (USA) + Early Moods (USA)",
           "start": "2026-10-15T20:00:00+01:00",
           "end": "2026-10-15T23:30:00+01:00",
@@ -319,7 +301,7 @@
           "tags": []
         },
         {
-          "id": "10001076",
+          "id": "17379",
           "title": "SONS OF THE CULTURE CLASH ( RUDEBOY + DJ DNA )",
           "start": "2026-10-16T20:00:00+01:00",
           "end": "2026-10-16T23:30:00+01:00",
@@ -333,7 +315,7 @@
           ]
         },
         {
-          "id": "10001046",
+          "id": "17143",
           "title": "SALLY FAMILY FESTIVAL met This Beautiful Mess + Cape Sleep + Ponoka + Mensenkinderen",
           "start": "2026-10-17T18:00:00+01:00",
           "end": "2026-10-17T23:00:00+01:00",
@@ -347,7 +329,7 @@
           ]
         },
         {
-          "id": "10001099",
+          "id": "17588",
           "title": "I PROMISED THE WORLD (USA)",
           "start": "2026-10-18T20:00:00+01:00",
           "end": "2026-10-18T23:30:00+01:00",
@@ -359,7 +341,7 @@
           ]
         },
         {
-          "id": "10001082",
+          "id": "17411",
           "title": "WOLVENNEST (BE) + BEDSORE (IT)",
           "start": "2026-10-20T20:00:00+01:00",
           "end": "2026-10-20T23:30:00+01:00",
@@ -373,7 +355,7 @@
           ]
         },
         {
-          "id": "10001123",
+          "id": "17839",
           "title": "KANAAN (Norway)",
           "start": "2026-10-21T20:00:00+01:00",
           "end": "2026-10-21T22:30:00+01:00",
@@ -388,7 +370,7 @@
           ]
         },
         {
-          "id": "10001107",
+          "id": "17639",
           "title": "MAQUINA. (PORT)",
           "start": "2026-10-23T20:00:00+01:00",
           "end": "2026-10-23T23:30:00+01:00",
@@ -401,7 +383,7 @@
           ]
         },
         {
-          "id": "10001113",
+          "id": "17705",
           "title": "Pim van de Werken & de Tijdgeest release party + Vampire Boyfriend + Rinze",
           "start": "2026-10-25T16:00:00+01:00",
           "end": "2026-10-25T20:30:00+01:00",
@@ -412,6 +394,18 @@
             "Concert",
             "Pop",
             "Rock"
+          ]
+        },
+        {
+          "id": "17223",
+          "title": "PRIZE COLLECT + COPARCK",
+          "start": "2026-10-28T20:00:00+01:00",
+          "end": "2026-10-28T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "vertrouwde namen, frisse energie. Een avond die je niet wilt missen. \n𝗣𝗥𝗜𝗭𝗘 𝗖𝗢𝗟𝗟𝗘𝗖𝗧 \nPrize Collect is de indie outfit van gitarist en songwriter Marzio Scholten (bekend van o.a. Opera Alaska). Het titelloze debuutalbum uit 2024 ontving lovende recensies in o.a. De Volkskrant en OOR. De…",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-prize-collect-coparck/",
+          "tags": [
+            "Indie Rock"
           ]
         }
       ]
@@ -424,6 +418,26 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31295",
+          "title": "Club Fataal",
+          "start": "2026-10-24T23:30:00+01:00",
+          "end": "2026-10-25T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Na meerdere uitverkochte edities van hun pop-up bar concept is Café Fataal klaar om de nacht over te nemen. Het terugkerende initiatief biedt lesbische queer personen in Utrecht een inclusieve, laagdrempelige en veilige(re) plek om elkaar te ontmoeten. Van een praatje aan de bar tot nieuwe…",
+          "url": "https://ekko.nl/event/club-fataal/",
+          "tags": []
+        },
+        {
+          "id": "31394",
+          "title": "Omroep EKKO: DJ GG",
+          "start": "2026-09-24T17:00:00+02:00",
+          "end": "2026-09-24T18:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Onder de noemer Omroep EKKO nemen wij eens per maand de digitale radiogolven van Stranded FM over voor een uur gevuld met door ons geselecteerd talent. Zo komen in dit plezante uurtje radio opkomende dj’s uit onze dj-course voorbij, of hoor je een uur gewijd aan een van onze clubavonden of…",
+          "url": "https://ekko.nl/event/omroep-ekko-dj-gg/",
+          "tags": []
+        },
         {
           "id": "28608",
           "title": "Kaat Van Stralen",
@@ -475,16 +489,6 @@
           "tags": []
         },
         {
-          "id": "30244",
-          "title": "Mensen Zeggen Dingen",
-          "start": "2026-09-16T20:30:00+02:00",
-          "end": "2026-09-16T22:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Mensen Zeggen Dingen reist het land door met avonden vol hoogwaardige schrijvers, performers, spoken word-artiesten en andere podiumbeesten. Voor het EKKO-jubileum komen ze met een primo selectie van deze artiesten die de spreekwoordelijke slingers komen ophangen. Kom luisteren en proosten! Host:…",
-          "url": "https://ekko.nl/event/mensen-zeggen-dingen-2026/",
-          "tags": []
-        },
-        {
           "id": "30590",
           "title": "Bubbel",
           "start": "2026-09-19T23:30:00+02:00",
@@ -522,16 +526,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Na een eerder bezoek aan de Bemuurde Weerd, alweer tien jaar geleden, keert Weval op 10 oktober terug naar EKKO voor een bijzondere editie van hun clubconcept CLUB CHOROPHOBIA. Waar het Amsterdamse duo voorheen in EKKO met een liveshow op het podium stond, nemen ze op 10 oktober plaats achter de…",
           "url": "https://ekko.nl/event/weval-presents-club-chorophobia/",
-          "tags": []
-        },
-        {
-          "id": "31295",
-          "title": "Club Fataal",
-          "start": "2026-10-24T23:30:00+01:00",
-          "end": "2026-10-25T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Na meerdere uitverkochte edities van hun pop-up bar concept is Café Fataal klaar om de nacht over te nemen. Het terugkerende initiatief biedt lesbische queer personen in Utrecht een inclusieve, laagdrempelige en veilige(re) plek om elkaar te ontmoeten. Van een praatje aan de bar tot nieuwe…",
-          "url": "https://ekko.nl/event/club-fataal/",
           "tags": []
         },
         {
@@ -1188,7 +1182,7 @@
           "id": "helling-psychedelic-grateful-punks-earthdance-19-09-2026",
           "title": "Psychedelic Grateful Punks Earthdance",
           "start": "2026-09-19T23:59:00+02:00",
-          "end": "2026-09-20T06:00:00+02:00",
+          "end": "2026-09-20T05:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Underground psytrance collectief komt naar Utrecht voor Earthdance",
           "url": "https://dehelling.nl/agenda/psychedelic-grateful-punks-earthdance-19-09-2026/",
@@ -1875,16 +1869,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "459930",
-          "title": "Scott Hamilton & Rein de Graaff Trio ft. Philip Catherine",
-          "start": "2026-09-16T20:00:00+02:00",
-          "end": "2026-09-16T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse tenorsaxofonist Scott Hamilton en het Rein de Graaff Trio zijn vaste muzikale reisgenoten, wiens samenwerking eerder resulteerde in de liveregistratie \"Live At The Jazzroom\". Deze avond schuift de Belgische gitaarlegende Philip Catherine aan als speciale gast in Hertz. Hamilton,…",
-          "url": "https://www.podiuminfo.nl/concert/459930/Scott-Hamilton-Rein-de-Graaff-Trio-ft-Philip-Catherine/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "455717",
           "title": "Metric, Broken Social Scene, Stars",
           "start": "2026-09-17T19:00:00+02:00",
@@ -2134,56 +2118,6 @@
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
-          "id": "608533",
-          "title": "EIDOLON: Become Your Best Self \"Follow Your Ghost\"",
-          "start": "2026-09-16T19:00:00+02:00",
-          "end": "2026-09-16T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "EIDOLON: Become Your Best Self \"Follow Your Ghost\" Wed 16/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Molly Rhinebeck and Luke Varner EIDOLON: Become Your Best Self is a tabletop RPG where you look deep inside yourself to find the power lying dormant within, nourish…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "608537",
-          "title": "Gravity RIP - High-Speed Hover-Car Racing",
-          "start": "2026-09-16T19:00:00+02:00",
-          "end": "2026-09-16T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Gravity RIP - High-Speed Hover-Car Racing Wed 16/9 7-10pm at Subcultures @De Bierkantine English, Gravity RIP Written by Luke Westaway PRO-RACING. ANTI-GRAVITY. Gravity RIP is a co-operative tabletop RPG built to tell the rad-as-hell stories of pilots competing in the RIP Racing League. A…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "608262",
-          "title": "Pirate Borg - Into the Maelstrom - Beginner Friendly TTRPG @ Silver Heron 🦜",
-          "start": "2026-09-16T19:00:00+02:00",
-          "end": "2026-09-16T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Pirate Borg - Into the Maelstrom - Beginner Friendly TTRPG @ Silver Heron 🦜 Wed 16/9 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum.…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "607020",
-          "title": "Campagne: Koning van de Krotten",
-          "start": "2026-09-16T19:00:00+02:00",
-          "end": "2026-09-16T22:00:00+02:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Campagne: Koning van de Krotten Wed 16/9 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "607122",
-          "title": "The Devil’s Dandy Dogs (Beginner Friendly)",
-          "start": "2026-09-16T19:00:00+02:00",
-          "end": "2026-09-16T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "The Devil’s Dandy Dogs (Beginner Friendly) Wed 16/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Shanna Germain You are one of the Devil’s Dandy Dogs, a creature made of the Devil’s shadow, and as such you are tasked with one thing: collecting souls. You’ll face myriad…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
           "id": "608357",
           "title": "D&D 5e: Grax's Guys for Cheap session 2",
           "start": "2026-09-23T19:00:00+02:00",
@@ -2240,6 +2174,26 @@
           "end": "2026-09-23T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Wanderhome - the ghosts of gateling Wed 23/9 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "608684",
+          "title": "D&D5e: Exandria (beginner friendly)",
+          "start": "2026-09-30T19:00:00+02:00",
+          "end": "2026-09-30T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "D&amp;D5e: Exandria (beginner friendly) Wed 30/9 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition Underneath a light snowfall in the Palebank Village on the shores of the Frigid Depths, a group of adventurers find themselves at the funeral of a mutual friend.…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "608759",
+          "title": "Mothership, a sci-fi RPG: Electric RAZOR",
+          "start": "2026-09-30T19:00:00+02:00",
+          "end": "2026-09-30T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Mothership, a sci-fi RPG: Electric RAZOR Wed 30/9 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2537,19 +2491,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-radio-2b-1",
-          "title": "Radio 2b",
-          "start": "2026-09-17T00:00:00+02:00",
-          "end": "2026-09-17T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/radio-2b-1/",
-          "tags": [
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-actie-actie-feest-van-activisme-2",
           "title": "Actie Actie – Feest van Activisme",
           "start": "2026-09-18T00:00:00+02:00",
@@ -2670,6 +2611,30 @@
             "Panelgesprek",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-besloten-event-6",
+          "title": "Besloten event",
+          "start": "2026-09-22T00:00:00+02:00",
+          "end": "2026-09-22T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/besloten-event-6/",
+          "tags": []
+        },
+        {
+          "id": "beton-salsa-nights-elke-woensdag-54",
+          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
+          "start": "2026-09-23T00:00:00+02:00",
+          "end": "2026-09-23T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-54/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Workshop"
+          ]
         }
       ]
     },
@@ -2681,6 +2646,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261031-prisonnier-du-temps-tba-matinee",
+          "title": "Prisonnier Du Temps + TBA (matinee)",
+          "start": "2026-10-31T00:00:00+01:00",
+          "end": "2026-10-31T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 31st. World's Appreciated Kitch and Silent Call Collective present. World’s Appreciated Kitch and Silent Call Collective present: Prisonnier Du Temps Born in Brest in 2020 at the initiative of Lionel Cadiou, Prisonnier du Temps was originally conceived as a solo project, developed alongside…",
+          "url": "https://acu.nl/events/20261031/prisonnier-du-temps-tba-matinee",
+          "tags": []
+        },
         {
           "id": "acu-20261004-uqcf-2026-broken-self",
           "title": "UQCF 2026 | Broken Self",
@@ -2759,16 +2734,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "October 30th. Industrial, Noise, Dark Ambient.. Suggested donation 12 euro. But pay what you can. If you can pay more great, if you can’t afford it we would rather have you enjoy the acts. Control (Santa Cruz, California) Since the late 1990s, the name CONTROL has stood as one of the most intense,…",
           "url": "https://acu.nl/events/20261030/control-the-law-rah-collective-kry-death-mask",
-          "tags": []
-        },
-        {
-          "id": "acu-20261017-nekrotsoulithra-gr",
-          "title": "Mutiny Presents: Nekrotsoulithra (GR)",
-          "start": "2026-10-17T00:00:00+01:00",
-          "end": "2026-10-17T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 17th. Hardcore, rave pop, reggaeton. NEKROTSOULITHRA brings the trashy eurodance energy that started in 2017 and never cleaned up. Happy hardcore, rave pop, reggaeton — all in Greek, all soaked in Athenian street life. Chaos happens 17 October",
-          "url": "https://acu.nl/events/20261017/nekrotsoulithra-gr",
           "tags": []
         }
       ]
@@ -2983,6 +2948,20 @@
           "url": "https://clubbasis.nl/event/basis-tassery-all-night-long/",
           "tags": [
             "Schranz"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001519-1795820400-1795845600",
+          "title": "BASIS/ Helena Lauwaert/ Kalou/ Mirage/ S3PPA",
+          "start": "2026-11-27T23:00:00+01:00",
+          "end": "2026-11-28T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-helena-lauwaert-kalou-mirage-s3ppa/",
+          "tags": [
+            "Hard house",
+            "Trance",
+            "UK Garage"
           ]
         },
         {
@@ -5237,22 +5216,22 @@
         },
         {
           "id": "loevestein-rondleiding-2026-09",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Museumweek",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Gelderse dag",
           "start": "2026-09-26T10:00:00+02:00",
-          "end": "2026-10-04T18:00:00+02:00",
+          "end": "2026-09-26T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
-          "id": "loevestein-gelderse-dag-2026-09",
-          "title": "Gelderse dag",
+          "id": "loevestein-museumweek-2026-09",
+          "title": "Museumweek",
           "start": "2026-09-26T10:00:00+02:00",
-          "end": "2026-09-26T18:00:00+02:00",
+          "end": "2026-10-04T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/gelderse-dag/",
+          "url": "https://www.slotloevestein.nl/agenda/museumweek/",
           "tags": []
         },
         {
@@ -5273,6 +5252,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/sintfestijn/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-kerstvakantie-2026-12",
+          "title": "Kerstvakantie",
+          "start": "2026-12-19T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/kerstvakantie/",
           "tags": []
         },
         {
@@ -6617,8 +6606,7 @@
             "Melee"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "buhurt-clubnights",

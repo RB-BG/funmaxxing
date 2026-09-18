@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T09:53:53.363Z",
+  "updatedAt": "2026-09-18T09:29:26.862Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,20 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17697",
-          "title": "WABI SABI release party + Nelles",
-          "start": "2026-09-17T19:30:00+02:00",
-          "end": "2026-09-17T23:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Feest want Wabi Sabi komt de nieuwe release presenteren. Nelles doet het voorprogramma, en na afloop van de bands verzorgt Wabi Sabi zelf nog een DJ set. \nWabi Sabi\nWabi Sabi fuseert hypnotiserende grooves, droomachtige texturen en introspectieve lyrics. Een sonische reis, waar obscuriteiten worden…",
-          "url": "https://dbstudio.nl/event/wabi-sabi-release-party-nelles/",
-          "tags": [
-            "Concert",
-            "Dream Pop",
-            "Indie Rock"
-          ]
-        },
         {
           "id": "17478",
           "title": "THE BIRD EXPERIENCE + Tales",
@@ -116,11 +102,11 @@
         },
         {
           "id": "17237",
-          "title": "PLOEGENDIENST",
+          "title": "PLOEGENDIENST + GRGY",
           "start": "2026-09-25T20:00:00+02:00",
           "end": "2026-09-25T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "𝗬𝗢𝗨𝗧𝗛 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗔𝗟𝗟𝗘𝗘𝗡 𝗢𝗡𝗟𝗜𝗡𝗘 𝗩𝗘𝗥𝗞𝗥𝗜𝗝𝗚𝗕𝗔𝗔𝗥",
+          "description": "Ploegendienst in een grote zaal is al in your face, kan je nagaan hoe sick het wordt als ze in dB’s spelen. Kom jezelf onderdompelen, Ray Fuego en zijn mannen dichterbij en dus harder dan ooit tevoren. Rest van het promopraatje laten we achterwege want je weet toch? Maar wees lief voor jezelf en…",
           "url": "https://dbstudio.nl/event/ploegendienst/",
           "tags": [
             "Punk"
@@ -169,7 +155,7 @@
           "start": "2026-09-30T20:00:00+02:00",
           "end": "2026-09-30T23:30:00+02:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "“Kate Clover’s second album proves she’s an underground rising powerpop punk star set to explode.” \nNieuwe plaat verschijnt deze zomer, en werd ingespeeld door Kate’s matties van THE HIVES, goede credentials deze dame. Nu gaan zien in dB’s, later in grotere zalen.",
+          "description": "“Kate Clover’s second album proves she’s an underground rising powerpop punk star set to explode.” \nNieuwe plaat verschijnt deze zomer, en werd ingespeeld door Kate’s matties van THE HIVES, goede credentials deze dame. Nu gaan zien in dB’s, later in grotere zalen. \nTwee toffe supports warmen de…",
           "url": "https://dbstudio.nl/event/kate-clover-usa/",
           "tags": [
             "Garage",
@@ -207,7 +193,7 @@
         },
         {
           "id": "13611",
-          "title": "DUB PISTOLS (UK) > verplaatste concert van 1 november 2025",
+          "title": "DUB PISTOLS (UK) supported by Blue Beat & Ska DJ's (verplaatste concert van 1 november 2025)",
           "start": "2026-10-03T20:00:00+01:00",
           "end": "2026-10-03T22:30:00+01:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
@@ -407,6 +393,19 @@
           "tags": [
             "Indie Rock"
           ]
+        },
+        {
+          "id": "17211",
+          "title": "TUSKY + RATS & DAGGERS",
+          "start": "2026-10-30T20:00:00+01:00",
+          "end": "2026-10-30T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "𝗧𝗨𝗦𝗞𝗬 verstaat de kunst van het doseren, tenminste als het om de frequentie van hun optredens gaat. Als het om de optredens zelf gaat, staat er namelijk geen maat op, zeker met de toevoeging van Magic Tom op gitaar krijgt  hun rauwe punkrock net dat beetje extra toverkracht.  Hun liveshows…",
+          "url": "https://dbstudio.nl/event/tusky-rats-daggers/",
+          "tags": [
+            "MAGIC TOM & YURI",
+            "Punk"
+          ]
         }
       ]
     },
@@ -418,6 +417,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31264",
+          "title": "Diep In De Groef",
+          "start": "2026-11-13T23:30:00+01:00",
+          "end": "2026-11-14T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groep/",
+          "tags": []
+        },
         {
           "id": "31295",
           "title": "Club Fataal",
@@ -629,16 +638,6 @@
           "tags": []
         },
         {
-          "id": "31264",
-          "title": "Diep In De Groep",
-          "start": "2026-11-13T23:30:00+01:00",
-          "end": "2026-11-14T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groep/",
-          "tags": []
-        },
-        {
           "id": "31260",
           "title": "Diep In De Groef",
           "start": "2026-10-23T23:30:00+01:00",
@@ -716,16 +715,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Flawed Mangoes is het project van de in Boston gevestigde producer, songwriter en multi-instrumentalist Evan Lo. Hij brengt een hypnotiserende mix van ambient gitaar, lo-fi, shoegaze en elektronische productie. Nadat hij zijn carrière begon met het delen van mixes op SoundCloud en samenwerkingen…",
           "url": "https://ekko.nl/event/flawed-mangoes/",
-          "tags": []
-        },
-        {
-          "id": "30666",
-          "title": "BUS 12",
-          "start": "2026-09-17T23:00:00+02:00",
-          "end": "2026-09-18T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
-          "url": "https://ekko.nl/event/bus-12-204/",
           "tags": []
         },
         {
@@ -1389,6 +1378,16 @@
           "tags": []
         },
         {
+          "id": "helling-set-the-bar-w-mokum-rave-massive-17-10-2026",
+          "title": "Set the Bar w/ Mokum Rave Massive",
+          "start": "2026-10-17T22:00:00+01:00",
+          "end": "2026-10-18T03:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Fresh faces and filthy basses",
+          "url": "https://dehelling.nl/agenda/set-the-bar-w-mokum-rave-massive-17-10-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-ist-ist-18-10-2026",
           "title": "IST IST",
           "start": "2026-10-18T20:15:00+01:00",
@@ -1449,6 +1448,16 @@
           "tags": []
         },
         {
+          "id": "helling-perrx-halloween-edition-30-10-2026",
+          "title": "Perrx Halloween Edition",
+          "start": "2026-10-30T23:59:00+01:00",
+          "end": "2026-10-31T05:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "PERRX: a Queer (kuir) Latinx party bringing inclusivity, safety, and revolutionary joy to Utrecht nightlife through Latin rhythms and sexy spaces. ",
+          "url": "https://dehelling.nl/agenda/perrx-halloween-edition-30-10-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-bartofso-31-10-2026",
           "title": "Bartofso",
           "start": "2026-10-31T20:00:00+01:00",
@@ -1476,16 +1485,6 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Mini new wave/postpunkfestival met o.a. Potochkine, Vioflesh en Dear Omen",
           "url": "https://dehelling.nl/agenda/momentum-iii-potochkine-vioflesh-silent-runners-01-11-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-le-guess-who-2026-05-11-2026",
-          "title": "Le Guess Who? 2026",
-          "start": "2026-11-05T10:00:00+01:00",
-          "end": "2026-11-06T00:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "20e jubileumeditie - donderdag",
-          "url": "https://dehelling.nl/agenda/le-guess-who-2026-05-11-2026/",
           "tags": []
         },
         {
@@ -1520,7 +1519,7 @@
         },
         {
           "id": "helling-freax-07-11-2026",
-          "title": "Freax",
+          "title": "FreaX",
           "start": "2026-11-07T23:00:00+01:00",
           "end": "2026-11-08T06:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
@@ -1629,6 +1628,16 @@
           "tags": []
         },
         {
+          "id": "helling-fiesta-latina-26-22-11-2026",
+          "title": "Fiesta Latina ’26",
+          "start": "2026-11-22T13:00:00+01:00",
+          "end": "2026-11-22T17:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Latin bands laten langs de Vaartsche Rijn de palmen wuiven. Vamos a gozarrr!",
+          "url": "https://dehelling.nl/agenda/fiesta-latina-26-22-11-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-the-hillbilly-moonshiners-28-11-2026",
           "title": "The Hillbilly Moonshiners",
           "start": "2026-11-28T20:45:00+01:00",
@@ -1646,6 +1655,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Moderne troubadours steken folk en bluegrass in een poppy houthakkersjasje",
           "url": "https://dehelling.nl/agenda/tophouse-30-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-spktr-03-12-2026",
+          "title": "SPKtR",
+          "start": "2026-12-03T20:15:00+01:00",
+          "end": "2026-12-03T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Absolute industrial-legende uit de 70’s en 80’s begint aan een nieuw leven",
+          "url": "https://dehelling.nl/agenda/spktr-03-12-2026/",
           "tags": []
         },
         {
@@ -1869,46 +1888,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "455717",
-          "title": "Metric, Broken Social Scene, Stars",
-          "start": "2026-09-17T19:00:00+02:00",
-          "end": "2026-09-17T20:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Metric, Broken Social Scene en Stars, drie bands met een lange geschiedenis van vriendschap en gedeelde leden, gaan samen op de 'All The Feelings Tour'. Deze tour viert hun decennia van verbinding en iconische muziek. Metric, bekend om hun synth-rock geluid en hits als 'Help I'm Alive', zal in…",
-          "url": "https://www.podiuminfo.nl/concert/455717/Metric-Broken-Social-Scene-Stars/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "481842",
-          "title": "Liana Flores",
-          "start": "2026-09-17T20:00:00+02:00",
-          "end": "2026-09-17T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Engels-Braziliaanse singer-songwriter Liana Flores creëert gevoelige nummers die folk, jazz en bossanova omvatten. Haar grootste inspiratiebron is de natuur; volgens haar Spotify-bio was Flores voorheen een boom en kreeg zij de menselijke vorm in ruil voor het maken van liedjes. Haar diverse…",
-          "url": "https://www.podiuminfo.nl/concert/481842/Liana-Flores/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "457695",
-          "title": "Fun Lovin’ Criminals + orkest",
-          "start": "2026-09-17T20:30:00+02:00",
-          "end": "2026-09-17T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het New Yorkse raprocktrio Fun Lovin’ Criminals, bekend van hits als ‘Scooby Snacks’ met samples uit Tarantino-films, treedt vanavond op met het DiFontaine Orchestra. De band, die doorgaat zonder voormalig frontman Huey Morgan, zal filmische orkestrale arrangementen van zowel fanfavorieten als…",
-          "url": "https://www.podiuminfo.nl/concert/457695/Fun-Lovin-Criminals-orkest/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "484685",
-          "title": "Rabo Open Stage: ULTRAJAZZ",
-          "start": "2026-09-17T21:00:00+02:00",
-          "end": "2026-09-17T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Rabo Open Stage bij TivoliVredenburg organiseert op donderdagavonden jazz jamsessies onder de vlag van ULTRAJAZZ. Deze sessies, georganiseerd door Kika Sprangers en Bob Roos, staan in het teken van talentontwikkeling en muzikale ontmoetingen. Elke bijeenkomst start met een krachtige openingsset…",
-          "url": "https://www.podiuminfo.nl/concert/484685/Rabo-Open-Stage-ULTRAJAZZ/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "481173",
           "title": "Kreukelzone: Uncovered",
           "start": "2026-09-18T15:00:00+02:00",
@@ -2097,6 +2076,46 @@
           "description": "De Japanse band JILUKA staat bekend om hun metalcore met invloeden uit djent, industrial en EDM, wat resulteert in een unieke sound die zij 'Electro Gothic Metal' (EGM) noemen. Frontman Ricko beheerst zowel melodieuze zang als screams. Met zes minialbums en een volledig album heeft het kwartet een…",
           "url": "https://www.podiuminfo.nl/concert/476543/JILUKA/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "491494",
+          "title": "Salsa on Tuesday",
+          "start": "2026-09-22T20:15:00+02:00",
+          "end": "2026-09-22T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Salsa on Tuesday nodigt iedereen uit voor een levendige salsa-avond in zaal Danel, zowel beginners als gevorderden. De dj's draaien een mix van klassieke en nieuwe salsa hits, en de avond begint met een workshop om de basispassen te leren of op te frissen. De sfeer is warm en gastvrij, met een…",
+          "url": "https://www.podiuminfo.nl/concert/491494/Salsa-on-Tuesday/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "482698",
+          "title": "Het Danspaleis",
+          "start": "2026-09-23T14:00:00+02:00",
+          "end": "2026-09-23T15:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Danspaleis is een ouderwets gezellige dansmiddag, gericht op ouderen en iedereen die van dansen houdt. Dit gratis toegankelijke evenement heeft als missie om ouderen vitaal en betrokken te houden door middel van muziek en beweging. De PlatenDraaier draait klassieke hits van artiesten als Johnny…",
+          "url": "https://www.podiuminfo.nl/concert/482698/Het-Danspaleis/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "462874",
+          "title": "Møster!",
+          "start": "2026-09-23T20:00:00+02:00",
+          "end": "2026-09-23T21:00:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "De Noorse jazzrockband Møster! is vernoemd naar bandleider/saxofonist Kjetil Møster. De frontman is niet het bekendste bandlid, dat zijn Motorpsycho-gitarist Hans Magnus ‘Snah’ Ryan en drummer Kenneth Kapstad (ex-Motorpsycho). Møster! maakt een mix van free jazz, psychedelische rock en elektronica.…",
+          "url": "https://www.podiuminfo.nl/concert/462874/Moster!/dBs/",
+          "tags": []
+        },
+        {
+          "id": "488013",
+          "title": "Rabo Open Stage: The Intimate Sessions",
+          "start": "2026-09-23T20:00:00+02:00",
+          "end": "2026-09-23T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "TivoliVredenburg presenteert de 'Rabo Open Stage: The Intimate Sessions', een tweemaandelijkse singer-songwriteravond. Tijdens deze editie treden twee singer-songwriters op: Hadassa Bakker en Dani Raven. Hadassa Bakker brengt klassieke Nederlandstalige pop met intieme, poëtische teksten over…",
+          "url": "https://www.podiuminfo.nl/concert/488013/Rabo-Open-Stage-The-Intimate-Sessions/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2144,6 +2163,16 @@
           "end": "2026-09-23T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "🐮😈PFS2 7-20: The Strings of Hell (beginner friendly) Wed 23/9 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Metaplot Character levels 1-2 Written by Zuriel Wilburn-White Within the Cairnlands of Absalom, a group of…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "608771",
+          "title": "Pirate Borg - Into the Maelstrom - Beginner Friendly TTRPG @ Silver Heron 🦜",
+          "start": "2026-09-23T19:00:00+02:00",
+          "end": "2026-09-23T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Pirate Borg - Into the Maelstrom - Beginner Friendly TTRPG @ Silver Heron 🦜 Wed 23/9 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum.…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2218,18 +2247,6 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-23378",
-          "title": "Weekly Draft",
-          "start": "2026-09-17T19:00:00+02:00",
-          "end": "2026-09-17T23:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-127/",
-          "tags": [
-            "Draft"
-          ]
-        },
-        {
           "id": "lab-monkey-23413",
           "title": "Prerelease Ticket – Zaterdag 11:00 – 1v1 – Reality Fracture",
           "start": "2026-09-26T11:00:00+02:00",
@@ -2253,7 +2270,8 @@
             "Pre-release"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "casual-carnage",
@@ -2323,7 +2341,8 @@
             "Warhammer"
           ]
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ducosim",
@@ -2491,35 +2510,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-actie-actie-feest-van-activisme-2",
-          "title": "Actie Actie – Feest van Activisme",
-          "start": "2026-09-18T00:00:00+02:00",
-          "end": "2026-09-18T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/actie-actie-feest-van-activisme-2/",
-          "tags": [
-            "Eten / Drinken",
-            "Festival",
-            "Kunst",
-            "Markt",
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-radio-2b",
-          "title": "Radio 2b",
-          "start": "2026-09-18T00:00:00+02:00",
-          "end": "2026-09-18T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/radio-2b/",
-          "tags": [
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-17",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-09-21T00:00:00+02:00",
@@ -2634,6 +2624,21 @@
             "Dans",
             "Muziek",
             "Workshop"
+          ]
+        },
+        {
+          "id": "beton-terra-nova",
+          "title": "Bouw samen een nieuwe wereld met Terra Nova Minimaatschappij",
+          "start": "2026-09-23T00:00:00+02:00",
+          "end": "2026-09-23T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/terra-nova/",
+          "tags": [
+            "Kinderen",
+            "Kunst",
+            "Workshop",
+            "Kantine"
           ]
         }
       ]
@@ -3067,16 +3072,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "74007",
-          "title": "Anna Lapwood with the Philharmonia Orchestra and Laurens Symphonic Women's Choir",
-          "start": "2026-09-17T20:00:00.000Z",
-          "end": "2026-09-17T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74007",
-          "description": "With the famous Philharmonia Orchestra and conductor Kerem Hasan, de Doelen opens the new classical season in a big way! Saint-Sa&euml;ns's masterful organ symphony is always an experience to experience, especially when Anna Lapwood takes care of the organ part.  Together with the Laurens S",
-          "tags": []
-        },
         {
           "id": "78755",
           "title": "Interstellar: Tribute to Hans Zimmer",
@@ -5216,7 +5211,7 @@
         },
         {
           "id": "loevestein-rondleiding-2026-09",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Gelderse dag",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Rondleiding Voor kinderen Gelderse dag",
           "start": "2026-09-26T10:00:00+02:00",
           "end": "2026-09-26T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
@@ -5372,32 +5367,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://www.larp-platform.nl/evenementenoverzicht/",
       "events": [
-        {
-          "id": "larp-1817-call-55",
-          "title": "Call 55",
-          "start": "2026-09-18T00:00:00+02:00",
-          "end": "2026-09-20T23:59:00+02:00",
-          "location": "Inkaweg te Zeeland (Brabant)",
-          "country": "Nederland",
-          "description": "High-fantasy — Buiten slapen · Vanaf 12 jaar",
-          "url": "https://www.larp-platform.nl/evenement/1817-call-55/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
-          "id": "larp-1999-seven-realms-07-2",
-          "title": "Seven Realms: 07",
-          "start": "2026-09-18T00:00:00+02:00",
-          "end": "2026-09-20T23:59:00+02:00",
-          "location": "Buitencentrum De Voshaar, Oude Boekelerdijk 40 Enschede",
-          "country": "Nederland",
-          "description": "Low-fantasy — Buiten slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/1999-seven-realms-07-2/",
-          "tags": [
-            "Low-fantasy"
-          ]
-        },
         {
           "id": "larp-1925-postapo-18-were-on-your-property",
           "title": "Postapo #18: We’re on your property",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:29:26.862Z",
+  "updatedAt": "2026-09-19T09:17:22.404Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17478",
-          "title": "THE BIRD EXPERIENCE + Tales",
-          "start": "2026-09-18T20:00:00+02:00",
-          "end": "2026-09-18T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Mees Vullings, de charismatische frontman van Heath, is een vruchtbaar man want naast Heath startte hij ook The Bird Experience als uitlaatklep van zijn liefde voor psychedelische blues. Naast de huilende harmonica en bezwerende vocalen van Vullings zelf bestaat 𝗧𝗛𝗘 𝗕𝗜𝗥𝗗 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘…",
-          "url": "https://dbstudio.nl/event/the-bird-experience-support/",
-          "tags": [
-            "Blues",
-            "Psychedelic"
-          ]
-        },
         {
           "id": "17854",
           "title": "REGGAE BOMB + Jerk Chicken BBQ",
@@ -406,6 +393,21 @@
             "MAGIC TOM & YURI",
             "Punk"
           ]
+        },
+        {
+          "id": "16989",
+          "title": "Halloween Monster Rock w/ THE MONSTERS (CH) + Money & The Man + Tankzilla + Dead Elvis + Thee Rotten Organs",
+          "start": "2026-10-31T18:00:00+01:00",
+          "end": "2026-10-31T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Een Halloween Rock Festival Party met The Monsters, Money & the Man, TankZilla, Dead Elvis en Thee Rotten Organs. \nPresented ism Wap Shoo Wap Records!! What more do you want?? \nDe aanleiding van het toevoegen van The Monsters & Thee Rotten Organs is niet leuk want het Haarlemse Slachthuis moet…",
+          "url": "https://dbstudio.nl/event/halloween-monster-rock-w-money-the-man-tankzilla-dead-elvis/",
+          "tags": [
+            "Garage",
+            "Hard Rock",
+            "One Man Band",
+            "Stoner"
+          ]
         }
       ]
     },
@@ -417,6 +419,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31434",
+          "title": "The Cat Eye Cabaret: Hex Appeal",
+          "start": "2026-10-31T20:00:00+01:00",
+          "end": "2026-10-31T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "The Cat Eye Cabaret is terug met een nieuwe Halloween burlesque-show om je te betoveren en de stuipen op het lijf te jagen! Na meerdere uitverkochte shows bij EKKO en met drie nieuwe gezichten erbij is de groep klaar om hun duistere kant weer te laten zien. The Cat Eye Cabaret presenteert…",
+          "url": "https://ekko.nl/event/the-cat-eye-cabaret-hex-appeal/",
+          "tags": []
+        },
         {
           "id": "31264",
           "title": "Diep In De Groef",
@@ -485,16 +497,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Madra Salach draagt de Ierse folktraditie stevig in het hart, maar laat die nooit de overhand nemen. Het zestal uit Dublin is voortgekomen uit de indiescene van de Northside, waar de bandleden elkaar vonden tijdens spontane sessies in Dublinse kroegen. Vanuit een gedeelde liefde voor oude ballades…",
           "url": "https://ekko.nl/event/madra-salach/",
-          "tags": []
-        },
-        {
-          "id": "29258",
-          "title": "Destroyer (solo)",
-          "start": "2026-09-18T20:00:00+02:00",
-          "end": "2026-09-18T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Destroyer is het eigenzinnige project van Dan Bejar, een indievedette uit Vancouver die sinds de jaren ’90 een uniek oeuvre opbouwt. Als voormalig lid van The New Pornographers ontwikkelde hij met Destroyer een uitgesproken signatuur, waarin hij genres als glam, yacht rock en indie vrijelijk naar…",
-          "url": "https://ekko.nl/event/destroyer/",
           "tags": []
         },
         {
@@ -908,16 +910,6 @@
           "tags": []
         },
         {
-          "id": "30625",
-          "title": "Perfect Indie Disco",
-          "start": "2026-09-18T22:30:00+02:00",
-          "end": "2026-09-19T03:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Waar schitteren Big Thief of Phoebe Bridgers in het holst van de nacht, en zijn Tame Impala en Mitski heuse godheden? Waar staan Fontaines D.C. en Little Simz flirtend in een hoekje, en treffen Wunderhorse en Clairo elkaar in de moshpit? Waar blijken The Cure en Caroline Polachek ineens een match…",
-          "url": "https://ekko.nl/event/perfect-indie-disco-18-sep-2026/",
-          "tags": []
-        },
-        {
           "id": "30056",
           "title": "Vrienden van EKKO Live",
           "start": "2026-10-03T20:30:00+01:00",
@@ -1158,16 +1150,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-hidden-secrets-indoor-boiler-room-18-09-2026",
-          "title": "Hidden Secrets: Indoor Boiler Room",
-          "start": "2026-09-18T23:59:00+02:00",
-          "end": "2026-09-19T06:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Bringing a boiler-room experience to Utrecht, with artists surrounded by the crowd.",
-          "url": "https://dehelling.nl/agenda/hidden-secrets-indoor-boiler-room-18-09-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-psychedelic-grateful-punks-earthdance-19-09-2026",
           "title": "Psychedelic Grateful Punks Earthdance",
           "start": "2026-09-19T23:59:00+02:00",
@@ -1190,8 +1172,8 @@
         {
           "id": "helling-jesse-barnett-acoustic-in-stadsklooster-utrecht-22-09-2026",
           "title": "Jesse Barnett – acoustic in Stadsklooster Utrecht",
-          "start": "2026-09-22T20:15:00+02:00",
-          "end": "2026-09-22T23:00:00+02:00",
+          "start": "2026-09-22T20:00:00+02:00",
+          "end": "2026-09-22T22:30:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Activistische frontman van Stick To Your Guns opent akoestische moshpit in Het Stadsklooster",
           "url": "https://dehelling.nl/agenda/jesse-barnett-acoustic-in-stadsklooster-utrecht-22-09-2026/",
@@ -1888,76 +1870,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "481173",
-          "title": "Kreukelzone: Uncovered",
-          "start": "2026-09-18T15:00:00+02:00",
-          "end": "2026-09-18T16:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Twee keer per maand vindt op de Vredenburg Open Stage 'Kreukelzone: Uncovered' plaats, een evenement gericht op semi-akoestische popmuziek met levenservaring. Bezoekers kunnen een mix verwachten van bekende en nieuwe muziek, gepresenteerd in een gezellige setting op de vrijdagmiddag. De…",
-          "url": "https://www.podiuminfo.nl/concert/481173/Kreukelzone-Uncovered/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "485606",
-          "title": "VroegZat",
-          "start": "2026-09-18T19:00:00+02:00",
-          "end": "2026-09-18T20:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "VroegZat brengt het bruisende nachtleven naar de avonduren, waardoor bezoekers volop kunnen feesten en toch op een schappelijke tijd naar huis kunnen om fit te zijn voor de volgende dag. Dit evenement biedt een muzikale reis van disco naar pop, reggae naar rock, en van happy tunes naar hiphop,…",
-          "url": "https://www.podiuminfo.nl/concert/485606/VroegZat/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490951",
-          "title": "Bram de Looze",
-          "start": "2026-09-18T20:00:00+02:00",
-          "end": "2026-09-18T21:00:00.000Z",
-          "location": "Muziekhuis, Loevenhoutsedijk 301, Utrecht",
-          "description": "UJazz en TivoliVredenburg presenteren elke derde vrijdag van de maand een clubconcert, waaronder een soloconcert van de Belgische jazzpianist en componist Bram de Looze. De Looze, een getalenteerde musicus met een opleiding in Leuven, Antwerpen en New York, heeft een indrukwekkende solocarrière…",
-          "url": "https://www.podiuminfo.nl/concert/490951/Bram-de-Looze/Muziekhuis/",
-          "tags": []
-        },
-        {
-          "id": "460576",
-          "title": "Nat Bartsch",
-          "start": "2026-09-18T20:15:00+02:00",
-          "end": "2026-09-18T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Australische pianist en componist Nat Bartsch creëert verstilde muziek die zich bevindt op het snijvlak van neoklassiek, jazz en ambient. Met negen albums op haar naam en samenwerkingen met artiesten zoals Luke Howard en de Grigoryan Brothers, heeft ze zich gevestigd als een prominente figuur.…",
-          "url": "https://www.podiuminfo.nl/concert/460576/Nat-Bartsch/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "486752",
-          "title": "90’s NOW",
-          "start": "2026-09-18T21:00:00+02:00",
-          "end": "2026-09-18T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "90’S NOW komt naar TivoliVredenburg Utrecht. Het evenement nodigt bezoekers uit om zich onder te dompelen in een jaren '90 walhalla, vol nostalgische verwijzingen naar flippo’s en My First Sony’s. De avond staat in het teken van de grootste hits en onvergetelijke klassiekers uit de jaren '90, met…",
-          "url": "https://www.podiuminfo.nl/concert/486752/90-s-NOW/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "486475",
-          "title": "Iris Jenster Group",
-          "start": "2026-09-18T22:30:00+02:00",
-          "end": "2026-09-18T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Frisse jazz | klinkt als Ella Fritzgerald & Billie Holiday - Geboren en getogen in Californië kwam Iris Jenster al op jonge leeftijd in aanraking met jazz, mede dankzij haar ouders, die beiden succesvolle jazzmuzikanten zijn. Toen ze op haar twaalfde naar Nederland verhuisde, bleef ze haar muzikale…",
-          "url": "https://www.podiuminfo.nl/concert/486475/Iris-Jenster-Group/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "491339",
-          "title": "Fiesta Macumba's B-Day Bash",
-          "start": "2026-09-18T23:55:00+02:00",
-          "end": "2026-09-19T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "TivoliVredenburg nodigt uit voor Fiesta Macumba's B-DAY BASH, een Latijns-Amerikaans feest. Dit jubileum wordt gevierd met twee verschillende ruimtes: in de Ronda zorgt het Fiesta Macumba Soundsystem de hele nacht voor een mix van Reggaeton, Salsa, Bachata, Merengue en andere exotische geluiden.…",
-          "url": "https://www.podiuminfo.nl/concert/491339/Fiesta-Macumbas-B-Day-Bash/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "493269",
           "title": "Nothing But Thieves",
           "start": "2026-09-19T11:30:00+02:00",
@@ -2116,6 +2028,66 @@
           "description": "TivoliVredenburg presenteert de 'Rabo Open Stage: The Intimate Sessions', een tweemaandelijkse singer-songwriteravond. Tijdens deze editie treden twee singer-songwriters op: Hadassa Bakker en Dani Raven. Hadassa Bakker brengt klassieke Nederlandstalige pop met intieme, poëtische teksten over…",
           "url": "https://www.podiuminfo.nl/concert/488013/Rabo-Open-Stage-The-Intimate-Sessions/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "494212",
+          "title": "Muziekhuis Invites: Sandro Fazio",
+          "start": "2026-09-23T20:00:00+02:00",
+          "end": "2026-09-23T21:00:00.000Z",
+          "location": "Muziekhuis, Loevenhoutsedijk 301, Utrecht",
+          "description": "Op 23 september wordt stilgestaan bij de 100e geboortedag van John Coltrane. De Italiaanse gitarist Sandro Fazio en zijn kwintet presenteren het album Dear Trane, een verzameling jazz fusion bewerkingen van iconische stukken als Naima, Resolution en Sun Ship, aangevuld met eigen werk geïnspireerd…",
+          "url": "https://www.podiuminfo.nl/concert/494212/Muziekhuis-Invites-Sandro-Fazio/Muziekhuis/",
+          "tags": []
+        },
+        {
+          "id": "453092",
+          "title": "The Chris Rea Experience",
+          "start": "2026-09-23T20:15:00+02:00",
+          "end": "2026-09-23T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Engelse zanger/gitarist Chris Rea is vorig jaar overleden, maar zijn werk wordt in leven gehouden door zijn voormalige protegé en bandlid: Paul Casey. Samen met een all-starband met onder anderen bassist Eoghan O’Neill (die meespeelde op veel hits van Rea) brengt hij geliefde nummers als…",
+          "url": "https://www.podiuminfo.nl/concert/453092/The-Chris-Rea-Experience/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "469377",
+          "title": "Thee Sinseers",
+          "start": "2026-09-23T20:15:00+02:00",
+          "end": "2026-09-23T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Thee Sinseers, een elfkoppige Amerikaanse soulband, klinkt alsof ze rechtstreeks uit de jaren zestig komt, ondanks dat de formatie pas in 2019 is opgericht. Hun debuutalbum Sinseerly Yours (2024) eert hun inspiratiebron Thee Midniters, een bekende chicano-rock act uit de sixties. Onder leiding van…",
+          "url": "https://www.podiuminfo.nl/concert/469377/Thee-Sinseers/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "464659",
+          "title": "Rhiannon Giddens",
+          "start": "2026-09-24T20:00:00+02:00",
+          "end": "2026-09-24T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse zangeres en multi-instrumentaliste Rhiannon Giddens staat op het podium. Giddens werd bekend als frontvrouw van het americana-kwartet Carolina Chocolate Drops. Later bracht ze haar soloalbum 'Tomorrow Is My Turn' (2015) uit. Ze heeft een krachtige stem en speelt virtuoos banjo en…",
+          "url": "https://www.podiuminfo.nl/concert/464659/Rhiannon-Giddens/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "453545",
+          "title": "Sean Koch",
+          "start": "2026-09-24T20:15:00+02:00",
+          "end": "2026-09-24T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Zuid-Afrikaanse singer-songwriter brengt zonnige surffolk - De Zuid-Afrikaanse singer-songwriter Sean Koch brengt muziek die ruikt naar zee, zon en vrijheid: een mix van laid‑back surffolk, persoonlijke reflectie en ontspannen grooves die je moeiteloos een paar graden warmer doen voelen. ",
+          "url": "https://www.podiuminfo.nl/concert/453545/Sean-Koch/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "452863",
+          "title": "Janne Schra",
+          "start": "2026-09-24T20:30:00+02:00",
+          "end": "2026-09-24T21:30:00.000Z",
+          "location": "Jacobikerk, Sint Jacobsstraat 171, Utrecht",
+          "description": "De veelzijdige artiest 𝐉𝐚𝐧𝐧𝐞 𝐒𝐜𝐡𝐫𝐚 gaat in het najaar op tour met nieuw album ‘Work Out’. In september en oktober gaat de clubtour langs elf Nederlandse zalen.",
+          "url": "https://www.podiuminfo.nl/concert/452863/Janne-Schra/Jacobikerk/",
+          "tags": []
         }
       ]
     },
@@ -2270,8 +2242,7 @@
             "Pre-release"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "casual-carnage",
@@ -2341,8 +2312,7 @@
             "Warhammer"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "ducosim",
@@ -2640,6 +2610,33 @@
             "Workshop",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-albumrelease",
+          "title": ".multibeat Album Release",
+          "start": "2026-09-24T00:00:00+02:00",
+          "end": "2026-09-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/albumrelease/",
+          "tags": [
+            "Gratis",
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-sustainable-fashion-workshop-de-creatiehallen",
+          "title": "Sustainable Fashion Workshop – De Creatiehallen",
+          "start": "2026-09-24T00:00:00+02:00",
+          "end": "2026-09-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/sustainable-fashion-workshop-de-creatiehallen/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
         }
       ]
     },
@@ -2651,6 +2648,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261003-bloed-zweet-braaksels-blackout",
+          "title": "Bloed, Zweet & Braaksels: BLACKOUT",
+          "start": "2026-10-03T00:00:00+01:00",
+          "end": "2026-10-03T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 3rd. With L’orne, rosa’s propaganda & BlackBeach. L’orne evokes feelings of melancholy through their blend of doomy post-rock, bluespunk, psychedelic noise-rock and anything that flirts with the unpredictable and the unhinged. L’orne has won over audiences with plenty of drama and dynamics.…",
+          "url": "https://acu.nl/events/20261003/bloed-zweet-braaksels-blackout",
+          "tags": []
+        },
         {
           "id": "acu-20261031-prisonnier-du-temps-tba-matinee",
           "title": "Prisonnier Du Temps + TBA (matinee)",
@@ -2730,16 +2737,6 @@
           "description": "October 2nd. Rotten Food Booking Presents....",
           "url": "https://acu.nl/events/20261002/acoustic-bands-night-skin-prisoner-all-dogs-go-to-heaven",
           "tags": []
-        },
-        {
-          "id": "acu-20261030-control-the-law-rah-collective-kry-death-mask",
-          "title": "Control, The [law-rah] collective, Kryptogen Rundfunk, Death Mask.",
-          "start": "2026-10-30T00:00:00+01:00",
-          "end": "2026-10-30T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 30th. Industrial, Noise, Dark Ambient.. Suggested donation 12 euro. But pay what you can. If you can pay more great, if you can’t afford it we would rather have you enjoy the acts. Control (Santa Cruz, California) Since the late 1990s, the name CONTROL has stood as one of the most intense,…",
-          "url": "https://acu.nl/events/20261030/control-the-law-rah-collective-kry-death-mask",
-          "tags": []
         }
       ]
     },
@@ -2751,20 +2748,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001491-1789772400-1789797600",
-          "title": "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error",
-          "start": "2026-09-18T23:00:00+02:00",
-          "end": "2026-09-19T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-x-bcco-fenim0re-ignez-3-hour-set-locus-error/",
-          "tags": [
-            "Groovy techno",
-            "Hypnotic Techno",
-            "Underground techno"
-          ]
-        },
         {
           "id": "basis-utrecht-10001504-1789858800-1789884000",
           "title": "BASIS/ Chuckie b2b Koperblond [4h set]/ NALA/ Yucky",
@@ -3022,16 +3005,6 @@
       "scene": "utrecht",
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
-        {
-          "id": "into-the-woods",
-          "title": "Into the Woods",
-          "start": "2026-09-18T12:00:00+00:00",
-          "end": "2026-09-19T00:00:00+00:00",
-          "location": "Openluchttheater, Amersfoort",
-          "description": "Into the Woods is een van de beste manieren om het festivalseizoen af te sluiten. Lees hier alles over tickets, line-up van ITTW 2026.",
-          "url": "https://festivalfans.nl/event/into-the-woods/",
-          "tags": []
-        },
         {
           "id": "titanium-festival",
           "title": "Titanium Festival",
@@ -6628,17 +6601,6 @@
           "tags": []
         },
         {
-          "id": "bi-desafio-belmonte-2026",
-          "title": "Desafio Belmonte 2026",
-          "start": "2026-09-19T00:00:00+02:00",
-          "end": "2026-09-19T23:00:00+02:00",
-          "location": "Spain",
-          "country": "Spain",
-          "description": "Buhurt-toernooi in Spain.",
-          "url": "https://www.buhurtinternational.com/tournament/desafio-belmonte-2026",
-          "tags": []
-        },
-        {
           "id": "bi-alpine-warrior-2027",
           "title": "Alpine Warrior 2027",
           "start": "2027-05-01T00:00:00+02:00",
@@ -6658,17 +6620,6 @@
           "country": "Italy",
           "description": "Buhurt-toernooi in Italy.",
           "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
-          "tags": []
-        },
-        {
-          "id": "bi-pálóci-boarnament",
-          "title": "Pálóci Boarnament 2026",
-          "start": "2026-09-19T00:00:00+02:00",
-          "end": "2026-09-19T23:00:00+02:00",
-          "location": "Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary.",
-          "url": "https://www.buhurtinternational.com/tournament/pálóci-boarnament",
           "tags": []
         },
         {
@@ -6836,6 +6787,19 @@
           "location": "Oude Lieshoutseweg 7 Sint-Oedenrode (Nijnsel), Nijnsel (Noord-Brabant)",
           "description": "Terug Van Weggeweest Nijnsel. Toertocht van ongeveer 80 km voor bromfietsen, solexen en snorfietsen van 20 jaar of ouder. Inschrijving van 09.30 uur tot 10.30 uur. Vertrek solexen ensnorfietsen om 10.30 uur. Bromfietsen kunnen vanaf 11.00 uur sta rten. De bezemwagen zal om 11.00 uur na het vertrek…",
           "url": "https://brommerritten.nl/ritten/terug-van-weggeweest-nijnsel/",
+          "tags": [
+            "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-2807",
+          "title": "2e Hunebed Bromfietstocht Assen",
+          "start": "2026-10-04T09:30:00+01:00",
+          "end": "2026-10-04T17:00:00+01:00",
+          "location": "Amerikaweg 72a Assen, Assen (Drenthe)",
+          "description": "Beste bromfiets liefhebbers, op zondag 4 Oktober 2026 organiseren wij de hunebed bromfietstocht vanuit Assen. ±100km Dwars door het prachtige Drenthe met een gangetje van rond de ± 45km\\h. Alle merken oldtimer bromfietsen zijn welkom. Als je wil deelnemen druk dan op gaat op facebook (die de link…",
+          "url": "https://brommerritten.nl/ritten/hunebed-bromfietstocht-assen/",
           "tags": [
             "Bromfiets"
           ],

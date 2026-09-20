@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:17:22.404Z",
+  "updatedAt": "2026-09-20T09:39:48.178Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,31 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17854",
-          "title": "REGGAE BOMB + Jerk Chicken BBQ",
-          "start": "2026-09-19T16:00:00+02:00",
-          "end": "2026-09-19T21:00:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Blij om op het laatste moment nog een Reggae Bomb te kunnen inplannen. Bij uitzondering op een zaterdag dus na de weekend booschappen op naar dB’s voor een onvervalste portie roots & reggae geserveerd door DJ’s Sista Souljah, Martial Ard, Skank Around System en Don Arco. Buiten bereidt  Fritz zijn…",
-          "url": "https://dbstudio.nl/event/reggae-bomb-jerk-chicken-bbq/",
-          "tags": [
-            "Concert",
-            "DJ's in cafe",
-            "Reggae",
-            "REGGAE BOMB"
-          ]
-        },
-        {
-          "id": "14335",
-          "title": "DreB'S STAFF ON STAGE IV Postponed for now!",
-          "start": "2026-09-19T19:00:00+02:00",
-          "end": "2026-09-20T04:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "WORD HARD, WORD IETSJE LATER",
-          "url": "https://dbstudio.nl/event/drebs-staff-on-stage-iv/",
-          "tags": []
-        },
         {
           "id": "17163",
           "title": "ARANKAI (USA) + Artificial",
@@ -408,6 +383,28 @@
             "One Man Band",
             "Stoner"
           ]
+        },
+        {
+          "id": "17232",
+          "title": "Jan Schellink 70 jaar!! in levende lijve",
+          "start": "2026-11-01T15:00:00+01:00",
+          "end": "2026-11-01T19:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Met een keur aan steengoeie & knal kleurrijke artiesten.\nDe Complete Line up zal naarmate het jaar vordert bekend worden. \nDenk aan wat je niet verwacht, met een eenmalig hoog WTF !! en HUH ??\ngehalte.\nJan’s vaste ‘handelsmerk” \n(De Straalkielen (zie foto) al zeker en vast)\nNoteren alvast ! die…",
+          "url": "https://dbstudio.nl/event/jan-schellink-70-jaar-in-levende-lijve/",
+          "tags": [
+            "Jan Schellinks circus van verbazing"
+          ]
+        },
+        {
+          "id": "17874",
+          "title": "70 jaar alweer",
+          "start": "2026-11-01T15:00:00+01:00",
+          "end": "2026-11-01T19:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Marie Maanlicht. Erik Dijkstra. Kirsten de Meijer. Raymond Elvis.\nDE CRISTALCAVE EXPERIENCE met Anthony Davis op drums en Jan op Bas PLUS verrassende gasten. \nReken op verassingen tussen al!! het verrassends hierboven door.",
+          "url": "https://dbstudio.nl/event/jan-schellink-70-jaar-alweer/",
+          "tags": []
         }
       ]
     },
@@ -487,26 +484,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Daryll-Ann is een van de belangrijkste indiebands die Nederland ooit voortbracht. De band bouwde in de jaren negentig een indrukwekkend oeuvre op, met ‘Daryll-Ann Weeps’ uit 1996 als hoogtepunt. Het is een album waar alles in zit: woede, verdriet, schoonheid en troost, samengebracht in zestien…",
           "url": "https://ekko.nl/event/daryll-ann/",
-          "tags": []
-        },
-        {
-          "id": "30263",
-          "title": "Madra Salach",
-          "start": "2026-09-19T20:00:00+02:00",
-          "end": "2026-09-19T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Madra Salach draagt de Ierse folktraditie stevig in het hart, maar laat die nooit de overhand nemen. Het zestal uit Dublin is voortgekomen uit de indiescene van de Northside, waar de bandleden elkaar vonden tijdens spontane sessies in Dublinse kroegen. Vanuit een gedeelde liefde voor oude ballades…",
-          "url": "https://ekko.nl/event/madra-salach/",
-          "tags": []
-        },
-        {
-          "id": "30590",
-          "title": "Bubbel",
-          "start": "2026-09-19T23:30:00+02:00",
-          "end": "2026-09-20T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Bubbel is jarig! Na alle succesvol opgeblazen sociale bubbels tijdens voorgaande feesten, volgt nu het langverwachte eenjarige Bubbel-jubileum. De zomer is warm, maar gaat nog wat heter worden op het zomerfeest van Bubbel: we zorgen dat je uit je sociale Bubbel kruipt in de zengende hitte. We…",
-          "url": "https://ekko.nl/event/bubbel-3/",
           "tags": []
         },
         {
@@ -1149,16 +1126,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-psychedelic-grateful-punks-earthdance-19-09-2026",
-          "title": "Psychedelic Grateful Punks Earthdance",
-          "start": "2026-09-19T23:59:00+02:00",
-          "end": "2026-09-20T05:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Underground psytrance collectief komt naar Utrecht voor Earthdance",
-          "url": "https://dehelling.nl/agenda/psychedelic-grateful-punks-earthdance-19-09-2026/",
-          "tags": []
-        },
         {
           "id": "helling-cult-uren-w-the-funky-cat-20-09-2026",
           "title": "CULT-UREN w/ The Funky Cat",
@@ -1870,76 +1837,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "493269",
-          "title": "Nothing But Thieves",
-          "start": "2026-09-19T11:30:00+02:00",
-          "end": "2026-09-19T12:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Britse alternatieve rockband Nothing But Thieves presenteert hun nieuwe album Stray Dogs in de Cloud Nine van TivoliVredenburg. Tickets zijn alleen te koop voor fans die een pre-order hebben geplaatst voor het album Stray Dogs.",
-          "url": "https://www.podiuminfo.nl/concert/493269/Nothing-But-Thieves/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "456773",
-          "title": "Selah Sue & The Gallands",
-          "start": "2026-09-19T20:00:00+02:00",
-          "end": "2026-09-19T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Vlaamse zangeres Selah Sue, bekend van haar debuutalbum in 2011, presenteert samen met het vader-zoonduo Stéphane & Elvin Galland hun jazzy nieuwe album 'Movin''. Het project staat centraal rond drums en verbindt genres als jazz, soul, hiphop, dub, triphop, parlando en r&b. Selah Sue brak door…",
-          "url": "https://www.podiuminfo.nl/concert/456773/Selah-Sue-The-Gallands/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "458780",
-          "title": "Jesca Hoop",
-          "start": "2026-09-19T20:30:00+02:00",
-          "end": "2026-09-19T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse singer-songwriter Jesca Hoop staat bekend om haar eclectische muzikale stijl, waarin ze moeiteloos laveert tussen folk, indie, elektronica en experimentele pop. Haar lenige, mystieke stem past perfect bij elk genre, wat haar lof heeft opgeleverd van fans als Tom Waits. Met de…",
-          "url": "https://www.podiuminfo.nl/concert/458780/Jesca-Hoop/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "472256",
-          "title": "De Troubadours - 8 Miljard Verhalen",
-          "start": "2026-09-19T20:30:00+02:00",
-          "end": "2026-09-19T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Nederlandstalige band De Troubadours presenteert op deze avond hun debuutalbum '8 Miljard Verhalen'. De band is voortgekomen uit het gelijknamige NPO 2-programma, waarin de Nederlandse songschrijver/producer Christon, bekend uit Nashville, centraal stond. Waar de tv-serie zich richtte op liedjes…",
-          "url": "https://www.podiuminfo.nl/concert/472256/De-Troubadours-8-Miljard-Verhalen/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "486476",
-          "title": "Rabo Open Stage: Kiik",
-          "start": "2026-09-19T22:00:00+02:00",
-          "end": "2026-09-19T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Eerlijke melancholische indiepop die schuurt | klinkt als Billie Eilish en London Grammar - Utrechtse KIIK maakt eerlijke, melancholische indiepop die niet wegkijkt van wat schuurt. Met haar muziek zoekt ze lichtheid in zware onderwerpen en ruimte voor verbinding. Haar geluid is dromerig en…",
-          "url": "https://www.podiuminfo.nl/concert/486476/Rabo-Open-Stage-Kiik/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "486722",
-          "title": "PANN",
-          "start": "2026-09-19T23:30:00+02:00",
-          "end": "2026-09-20T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "PANN, het tweemaandelijkse LHBTQIA+ evenement van Nederland, keert op zaterdag 19 september 2026 terug naar TivoliVredenburg in Utrecht. Elke editie staat garant voor een transformatie van de locatie tot een bruisende, kleurrijke en veilige inclusieve plek waar iedereen zichzelf volledig kan uiten.…",
-          "url": "https://www.podiuminfo.nl/concert/486722/PANN/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "489895",
-          "title": "Midnight Melodies",
-          "start": "2026-09-19T23:30:00+02:00",
-          "end": "2026-09-20T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Midnight Melodies keert terug naar Pandora voor een avond vol R&B-muziek. Bezoekers kunnen meezingen met bekende R&B-lovesongs en dansen op geliefde anthems. Het evenement belooft een onvergetelijke R&B-ervaring die het volledige spectrum van het genre viert. De playlist omvat zowel tijdloze…",
-          "url": "https://www.podiuminfo.nl/concert/489895/Midnight-Melodies/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "457697",
           "title": "Dick de Graaf Quartet - Con Alma",
           "start": "2026-09-20T15:00:00+02:00",
@@ -2087,6 +1984,56 @@
           "location": "Jacobikerk, Sint Jacobsstraat 171, Utrecht",
           "description": "De veelzijdige artiest 𝐉𝐚𝐧𝐧𝐞 𝐒𝐜𝐡𝐫𝐚 gaat in het najaar op tour met nieuw album ‘Work Out’. In september en oktober gaat de clubtour langs elf Nederlandse zalen.",
           "url": "https://www.podiuminfo.nl/concert/452863/Janne-Schra/Jacobikerk/",
+          "tags": []
+        },
+        {
+          "id": "486494",
+          "title": "ULTRAJAZZ x TivoliVredenburg",
+          "start": "2026-09-24T21:00:00+02:00",
+          "end": "2026-09-24T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De donderdagavonden op Rabo Open Stage staan in het teken van jazz, talentontwikkeling en muzikale ontmoetingen. Onder leiding van Kika Sprangers en Bob Roos worden om de week bruisende jamsessies georganiseerd. Elke sessie begint met een krachtige openingsset van een uur, die een ode brengt aan de…",
+          "url": "https://www.podiuminfo.nl/concert/486494/ULTRAJAZZ-x-TivoliVredenburg/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "489605",
+          "title": "Discozwemmen",
+          "start": "2026-09-24T22:00:00+02:00",
+          "end": "2026-09-24T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Dit is Discozwemmen: de maandelijkse party waar pop, dance en hiphop moeiteloos in elkaar overlopen. Ergens tussen een throwback die iedereen meeschreeuwt en een track die gisteren nog op For You stond, komen de vrienden die je kwijt was weer tegen. DJ Desibel en co draaien wat werkt, van…",
+          "url": "https://www.podiuminfo.nl/concert/489605/Discozwemmen/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "489607",
+          "title": "Hush",
+          "start": "2026-09-25T23:55:00+02:00",
+          "end": "2026-09-26T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Hush brengt housemuziek tot leven, met kwaliteit voor liefhebbers en een warm welkom voor een nieuwe generatie. Het is dé plek voor onvergetelijke house vibes. DJ Benny Rodrigues keert weer terug, bekend om zijn jarenlange aanwezigheid aan de top van de Nederlandse house scene, zijn brede muzikale…",
+          "url": "https://www.podiuminfo.nl/concert/489607/Hush/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "490807",
+          "title": "Pop-O-Matic",
+          "start": "2026-09-25T23:55:00+02:00",
+          "end": "2026-09-26T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Pop-O-Matic transformeert Pandora tot dé veelzijdige dansvloer van UUU. DJ St. Paul en VJ Switchdoctor slingeren tijdens deze dé popnacht van UUU diverse stijlen, tijden en subculturen in de smeltpan. Muzikaal gezien blijft de avond altijd scherp en bovenop de trend, met een eclectische mix van…",
+          "url": "https://www.podiuminfo.nl/concert/490807/Pop-O-Matic/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "490994",
+          "title": "Ambrosia Ecstatic Rave XXL",
+          "start": "2026-09-26T12:00:00+02:00",
+          "end": "2026-09-26T13:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Ambrosia Ecstatic Rave XXL belooft een energieke bijeenkomst van duizenden enthousiastelingen. Dit evenement is meer dan een doorsnee editie; het is een statement dat nuchter raven allesbehalve saai is. De organisatie benadrukt dat deze Ambrosia-editie de geschiedenisboeken in zal gaan, en nodigt…",
+          "url": "https://www.podiuminfo.nl/concert/490994/Ambrosia-Ecstatic-Rave-XXL/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2322,16 +2269,6 @@
       "scene": "games",
       "feedUrl": "https://www.ducosim.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "ducosim-9702",
-          "title": "Noorderspel 2026",
-          "start": "2026-09-19T10:00:00+02:00",
-          "end": "2026-09-19T18:00:00+02:00",
-          "location": "Martinikerk, Groningen, Groningen",
-          "description": "De volgende Noorderspel is op zaterdag 19 september 2026 in de schitterende Martinikerk in Groningen. Van 10.00 uur tot 18.00 uur wordt er weer gezellig gespeeld. Voor kinderen vanaf 4 jaar oud tot en met expert spelers worden er spellen gedemonstreerd. De editie van 2024 was een groot succes met…",
-          "url": "https://www.ducosim.nl/agenda/noorderspel-2026/",
-          "tags": []
-        },
         {
           "id": "ducosim-8210",
           "title": "Ducosim spellenbeurs",
@@ -2649,6 +2586,16 @@
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
         {
+          "id": "acu-20261010-neon-quatsch",
+          "title": "Neon Quatsch",
+          "start": "2026-10-10T00:00:00+01:00",
+          "end": "2026-10-10T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 10th. Queerfuif. Fuck normaal, wij willen Neon Quatsch. Quatsch en NeoN Noir gaan deze nacht samen feestbeesten. Dus reken op dubbele poespas, vele genders en een queer dansvloer die de schaamte voorbij is. Met een optreden van VIXEN. Queer feministisch rapduo VIXEN is niet op hun mondje…",
+          "url": "https://acu.nl/events/20261010/neon-quatsch",
+          "tags": []
+        },
+        {
           "id": "acu-20261003-bloed-zweet-braaksels-blackout",
           "title": "Bloed, Zweet & Braaksels: BLACKOUT",
           "start": "2026-10-03T00:00:00+01:00",
@@ -2717,26 +2664,6 @@
           "description": "October 31st. Sing-along Party. Bring out your horrifyingly queer outfits, no lifestyle is too extreme, because we are getting a visit from Transylvania! Ready your vocal cords and join us this Halloween for an homage to Tim Curry at ACU’s very first Rocky Horror Picture Show screening! Ticket…",
           "url": "https://acu.nl/events/20261031/the-rocky-horror-picture-show",
           "tags": []
-        },
-        {
-          "id": "acu-20260920-online-activism-fundraiser",
-          "title": "Online Activism Fundraiser",
-          "start": "2026-09-20T00:00:00+02:00",
-          "end": "2026-09-20T00:00:00+02:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "September 20th. with infotalk + LAN party. This September 20 we will be hosting an infotalk & fundraiser in support of several international online activism groups currently facing challenges. This is for all IT creatives and everyone interested in the online struggle for internet freedom. A…",
-          "url": "https://acu.nl/events/20260920/online-activism-fundraiser",
-          "tags": []
-        },
-        {
-          "id": "acu-20261002-acoustic-bands-night-skin-prisoner-all-dogs-go-to-heaven",
-          "title": "Acoustic Bands Night: Skin Prisoner + All Dogs Go To Heaven + TBA",
-          "start": "2026-10-02T00:00:00+01:00",
-          "end": "2026-10-02T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 2nd. Rotten Food Booking Presents....",
-          "url": "https://acu.nl/events/20261002/acoustic-bands-night-skin-prisoner-all-dogs-go-to-heaven",
-          "tags": []
         }
       ]
     },
@@ -2748,19 +2675,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001504-1789858800-1789884000",
-          "title": "BASIS/ Chuckie b2b Koperblond [4h set]/ NALA/ Yucky",
-          "start": "2026-09-19T23:00:00+02:00",
-          "end": "2026-09-20T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/32994/",
-          "tags": [
-            "Experimental",
-            "Other"
-          ]
-        },
         {
           "id": "basis-utrecht-10001501-1790380740-1790402400",
           "title": "BASIS/ Stan Christ all night long",
@@ -3006,16 +2920,6 @@
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
         {
-          "id": "titanium-festival",
-          "title": "Titanium Festival",
-          "start": "2026-09-19T11:00:00+00:00",
-          "end": "2026-09-19T11:00:00+00:00",
-          "location": "Recreatieterrein Middelwaard, Vianen",
-          "description": "Het is tijd voor Titanium Festival 2026. Het zal weer een groot feest worden met nog hardere muziek dan eerst! Check hier alle info.",
-          "url": "https://festivalfans.nl/event/titanium-festival/",
-          "tags": []
-        },
-        {
           "id": "hrfst-festival",
           "title": "HRFST Festival",
           "start": "2026-10-03T14:00:00+00:00",
@@ -3045,16 +2949,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "78755",
-          "title": "Interstellar: Tribute to Hans Zimmer",
-          "start": "2026-09-19T20:00:00.000Z",
-          "end": "2026-09-19T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78755",
-          "description": "Beyond the stars, across the vast silence of space, one force endures &mdash; love. La Chapelle Sauvage ensemble brings to life the extraordinary music of Interstellar, alongside other iconic works by Hans Zimmer and Ludovico Einaudi.<BR><BR>Christopher Nolan's modern classic is a story of",
-          "tags": []
-        },
         {
           "id": "74947",
           "title": "Undertale: The Determination Symphony",
@@ -4503,6 +4397,16 @@
           "location": "Heerlen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77700",
           "description": "The Nordwestdeutsche Philharmonie presents an evening full of iconic film music by John Williams and Hans Zimmer, with recognisable themes.<BR><BR>The Nordwestdeutsche Philharmonie presents a program with music by two of the most influential film composers: John Williams and Hans Zimmer. Williams be",
+          "tags": []
+        },
+        {
+          "id": "79172",
+          "title": "Sonic Live In Concert",
+          "start": "2027-03-01T20:00:00.000Z",
+          "end": "2027-03-01T23:00:00.000Z",
+          "location": "Rotterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=79172",
+          "description": "Celebrate 35 years of one of the most iconic video game franchises of all time: Sonic the Hedgehog.  This new in concert experience brings together, live on stage, the most iconic music and incredible moments of the beloved Sonic video games.<BR><BR>A live ensemble, rock musicians, electroni",
           "tags": []
         },
         {
@@ -6643,88 +6547,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-2715",
-          "title": "Houtse oldtimer bromfietsrit den Hout",
-          "start": "2026-09-19T09:00:00+02:00",
-          "end": "2026-09-19T17:00:00+02:00",
-          "location": "Houtse Heuvel den Hout, den Hout (Noord-Brabant)",
-          "description": "De voorbereidingen voor de tweede editie zijn inmiddels begonnen. De plannen zijn groots. We gaan aan de slag om een mooie tocht uit te stippelen. Suggesties zijn welkom! Schrijf je nu in voor de 2e editie! Koffie vanaf 9.00 uur &#8211; laatste vertrektijd 10.00 uur Inschrijven? Stuur een mailtje…",
-          "url": "https://brommerritten.nl/ritten/houtse-oldtimer-bromfietsrit-den-hout/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-970",
-          "title": "Oldtimerdag Nieuwe-Tonge",
-          "start": "2026-09-19T10:00:00+02:00",
-          "end": "2026-09-19T16:00:00+02:00",
-          "location": "Korteweegje 52 Nieuwe-Tonge, Nieuwe Tonge (Zuid-Holland)",
-          "description": "Nederlands Kom jij ook naar het leukste oldtimerevenement van de Zuid-Hollandse Eilanden? Op zaterdag 19 september ben je van harte welkom bij Oldtimerdag Nieuwe-Tonge! Bewonder een grote collectie prachtige oldtimers, waaronder auto&#8217;s, brommers, motoren, trekkers en vrachtwagens. Naast alle…",
-          "url": "https://brommerritten.nl/ritten/oldtimerdag-nieuwe-tonge/",
-          "tags": [
-            "Auto",
-            "Bromfiets",
-            "Motor",
-            "Tractor",
-            "Truck"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-3030",
-          "title": "Batavus Bromfiets Clubrit 4 – Terkaple",
-          "start": "2026-09-19T10:00:00+02:00",
-          "end": "2026-09-19T17:00:00+02:00",
-          "location": "Buorren 34 Terkaple, Terkaple (Friesland)",
-          "description": "Start- en finishlocatie: Mfs it Heechein, Buorren 34, 8542 AB Terkaple Inschrijving vanaf 10.00 tot 10.45 uur. Kosten € 5.00. Lunchkosten € 15,00 p.p. Starttijd toertocht: 11.00 uur. Na de verloting van de toertocht is er gelegenheid voor een Barbeque De kosten zijn € 20.00 excl. drankjes. Opgeven…",
-          "url": "https://brommerritten.nl/ritten/batavus-bromfiets-clubrit-4-terkaple/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1353",
-          "title": "Sallandrit Heino – VOC ’t Oale Kreng",
-          "start": "2026-09-19T10:30:00+02:00",
-          "end": "2026-09-19T17:00:00+02:00",
-          "location": "Lemelerveldseweg 37 Heino, Heino (Overijssel)",
-          "description": "&nbsp; Zaterdag 19 september ’26 organiseren Corine en Harrie weer de Sallandrit, Verzamelen vanaf 10.30 uur bij Restaurant en Zalen De Veldhoek Lemelerveldseweg 37, 8141 PS Heino vertrek om 11.30 uur kosten leden; € 5.- kosten niet leden; €12,50 opgave tot uiterlijk zaterdag 13 september bij;…",
-          "url": "https://brommerritten.nl/ritten/de-harrie-en-caroline-sallandrit-heino-voc-t-oale-kreng/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-2921",
-          "title": "AMBC Staphorst herfstrit",
-          "start": "2026-09-19T13:00:00+02:00",
-          "end": "2026-09-19T17:00:00+02:00",
-          "location": "Spoordijk 2 Staphorst, Staphorst (Overijssel)",
-          "description": "De afsluiter van het 2026 toerseizoen van de AMBC vanaf de kantine.",
-          "url": "https://brommerritten.nl/ritten/ambc-staphorst-herfstrit/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
-        {
-          "id": "brommerritten-nl-1983",
-          "title": "10e Editie Olster brommertoertocht Olst",
-          "start": "2026-09-20T00:00:00+02:00",
-          "end": "2026-09-20T23:59:00+02:00",
-          "location": "Kornet van Limburg Stirumstraat 22 Olst, Olst (Overijssel)",
-          "description": "Brommertoertocht Heb jij jouw brommer eigenlijk al te lang in de schuur staan en zoek jij een goede reden om deze weer tevoorschijn te toveren? Of neem jij vaker deel aan georganiseerde toertochten? Dan is er ook dit jaar weer de mogelijkheid om mee te doen aan de brommertoertocht tijdens het…",
-          "url": "https://brommerritten.nl/ritten/8e-editie-olster-brommertoertocht-olst/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-3507",
           "title": "Benelli Revival",

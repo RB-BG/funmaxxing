@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T09:39:48.178Z",
+  "updatedAt": "2026-09-21T10:30:25.742Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,20 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17163",
-          "title": "ARANKAI (USA) + Artificial",
-          "start": "2026-09-20T20:00:00+02:00",
-          "end": "2026-09-20T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Deftones, Sevendust en Korn. Nu maar hopen dat hij zijn elektrische Hello Kitty-gitaar meeneemt!",
-          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-arankai-usa/",
-          "tags": [
-            "Electronics",
-            "Metal",
-            "Rap"
-          ]
-        },
         {
           "id": "17014",
           "title": "THE FLAMIN' GROOVIES (USA) + The Hook",
@@ -405,6 +391,21 @@
           "description": "Marie Maanlicht. Erik Dijkstra. Kirsten de Meijer. Raymond Elvis.\nDE CRISTALCAVE EXPERIENCE met Anthony Davis op drums en Jan op Bas PLUS verrassende gasten. \nReken op verassingen tussen al!! het verrassends hierboven door.",
           "url": "https://dbstudio.nl/event/jan-schellink-70-jaar-alweer/",
           "tags": []
+        },
+        {
+          "id": "17882",
+          "title": "DEATH VALLEY GIRLS (USA) + BELLA & THE BIZARRE (GER)",
+          "start": "2026-11-03T20:00:00+01:00",
+          "end": "2026-11-03T23:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Make way for some California Doom Boogie. Zo omschrijven de Death Valley Girls althans hun donkere en energieke garage pop. Dit viertal uit Los Angeles, opgericht in 2013 door voormalig Hole drummer Patty Schlemel en haar gitaar spelende broer Larry, heeft een voorliefde voor b-movies en occulte…",
+          "url": "https://dbstudio.nl/event/death-valley-girls-usa-bella-the-bizarre-ger/",
+          "tags": [
+            "Concert",
+            "Garage",
+            "Punk",
+            "Rock 'n Roll"
+          ]
         }
       ]
     },
@@ -416,6 +417,36 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "28608",
+          "title": "Kaat Van Stralen",
+          "start": "2026-11-27T20:00:00+01:00",
+          "end": "2026-11-27T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Kaat Van Stralen laat zich niet zomaar in een hokje plaatsen. Wat begon als een soloproject, groeide uit tot een genre-overstijgende punkband. Hun geluid beweegt zich tussen punk, psychedelica en alternatieve spoken word in. Hun debuutsingle ‘Stop Met Wenen’, een punkrockanthem voor alle vrouwen,…",
+          "url": "https://ekko.nl/event/kaat-van-stralen/",
+          "tags": []
+        },
+        {
+          "id": "29802",
+          "title": "R.M.F.C.",
+          "start": "2026-09-23T19:30:00+02:00",
+          "end": "2026-09-23T22:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "R.M.F.C. is het project van multi-instrumentalist Buz Clatworthy. Wat begon als een thuisstudio-project, is uitgegroeid tot een volwaardige liveband en een belangrijke speler binnen de wereldwijde DIY-punk-underground. Met het album ‘Club Hits’ (2023) groeide hij uit tot een van de vaandeldragers…",
+          "url": "https://ekko.nl/event/rmfc/",
+          "tags": []
+        },
+        {
+          "id": "31295",
+          "title": "Club Fataal",
+          "start": "2026-10-24T23:30:00+01:00",
+          "end": "2026-10-25T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Na meerdere uitverkochte edities van hun pop-up bar concept is Café Fataal klaar om de nacht over te nemen. Het terugkerende initiatief biedt lesbische queer personen in Utrecht een inclusieve, laagdrempelige en veilige(re) plek om elkaar te ontmoeten. Van een praatje aan de bar tot nieuwe…",
+          "url": "https://ekko.nl/event/club-fataal/",
+          "tags": []
+        },
         {
           "id": "31434",
           "title": "The Cat Eye Cabaret: Hex Appeal",
@@ -437,16 +468,6 @@
           "tags": []
         },
         {
-          "id": "31295",
-          "title": "Club Fataal",
-          "start": "2026-10-24T23:30:00+01:00",
-          "end": "2026-10-25T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Na meerdere uitverkochte edities van hun pop-up bar concept is Café Fataal klaar om de nacht over te nemen. Het terugkerende initiatief biedt lesbische queer personen in Utrecht een inclusieve, laagdrempelige en veilige(re) plek om elkaar te ontmoeten. Van een praatje aan de bar tot nieuwe…",
-          "url": "https://ekko.nl/event/club-fataal/",
-          "tags": []
-        },
-        {
           "id": "31394",
           "title": "Omroep EKKO: DJ GG",
           "start": "2026-09-24T17:00:00+02:00",
@@ -457,16 +478,6 @@
           "tags": []
         },
         {
-          "id": "28608",
-          "title": "Kaat Van Stralen",
-          "start": "2026-11-27T20:00:00+01:00",
-          "end": "2026-11-27T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Kaat Van Stralen laat zich niet zomaar in een hokje plaatsen. Wat begon als een soloproject, groeide uit tot een genre-overstijgende punkband. Hun geluid beweegt zich tussen punk, psychedelica en alternatieve spoken word in. Hun debuutsingle ‘Stop Met Wenen’, een punkrockanthem voor alle vrouwen,…",
-          "url": "https://ekko.nl/event/kaat-van-stralen/",
-          "tags": []
-        },
-        {
           "id": "29941",
           "title": "Iron Jinn & Temple Fang",
           "start": "2026-11-28T20:00:00+01:00",
@@ -474,16 +485,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Verbonden door een rijk heden en verleden in bands als Death Alley en Geishas of Doom en een voorliefde voor geestverruimende, avontuurlijke en vooral diep-psychedelische rock, zullen deze twee bands samen zorgen voor een onvergetelijke avond gitaarmuziek van de bovenste plank en laten horen en…",
           "url": "https://ekko.nl/event/iron-jinn-temple-fang/",
-          "tags": []
-        },
-        {
-          "id": "29771",
-          "title": "Daryll-Ann",
-          "start": "2026-09-20T20:00:00+02:00",
-          "end": "2026-09-20T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Daryll-Ann is een van de belangrijkste indiebands die Nederland ooit voortbracht. De band bouwde in de jaren negentig een indrukwekkend oeuvre op, met ‘Daryll-Ann Weeps’ uit 1996 als hoogtepunt. Het is een album waar alles in zit: woede, verdriet, schoonheid en troost, samengebracht in zestien…",
-          "url": "https://ekko.nl/event/daryll-ann/",
           "tags": []
         },
         {
@@ -704,16 +705,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Wildgroei was jarenlang dé plek waar het rauwe EKKO, een eigenzinnig publiek en onconventionele muziek samenkwamen. Een avond waarop de armen de lucht in gingen en de rest van de wereld even naar de achtergrond verdween. Ter ere van ons 40-jarig jubileum keert Wildgroei éénmalig terug naar EKKO.…",
           "url": "https://ekko.nl/event/wildgroei/",
-          "tags": []
-        },
-        {
-          "id": "29802",
-          "title": "R.M.F.C.",
-          "start": "2026-09-23T19:30:00+02:00",
-          "end": "2026-09-23T22:30:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "R.M.F.C. is het project van multi-instrumentalist Buz Clatworthy. Wat begon als een thuisstudio-project, is uitgegroeid tot een volwaardige liveband en een belangrijke speler binnen de wereldwijde DIY-punk-underground. Met het album ‘Club Hits’ (2023) groeide hij uit tot een van de vaandeldragers…",
-          "url": "https://ekko.nl/event/rmfc/",
           "tags": []
         },
         {
@@ -1126,16 +1117,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-cult-uren-w-the-funky-cat-20-09-2026",
-          "title": "CULT-UREN w/ The Funky Cat",
-          "start": "2026-09-20T13:30:00+02:00",
-          "end": "2026-09-20T18:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Het clubhuis van alle niches ",
-          "url": "https://dehelling.nl/agenda/cult-uren-w-the-funky-cat-20-09-2026/",
-          "tags": []
-        },
         {
           "id": "helling-jesse-barnett-acoustic-in-stadsklooster-utrecht-22-09-2026",
           "title": "Jesse Barnett – acoustic in Stadsklooster Utrecht",
@@ -1837,46 +1818,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "457697",
-          "title": "Dick de Graaf Quartet - Con Alma",
-          "start": "2026-09-20T15:00:00+02:00",
-          "end": "2026-09-20T16:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Dick de Graaf Quartet presenteert het album ‘Con Alma – in memory of Rob van Kreeveld’, gebaseerd op opnamen van een legendarisch concert uit 2002. Het kwartet bestaat uit Dick de Graaf (saxofoon), Mike Boddé (piano), John Engels (drums) en Jos Machtel (bas). Rob van Kreeveld, bekend als…",
-          "url": "https://www.podiuminfo.nl/concert/457697/Dick-de-Graaf-Quartet-Con-Alma/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "450858",
-          "title": "The Bluesbones + Eddy Smith & The 507",
-          "start": "2026-09-20T20:00:00+02:00",
-          "end": "2026-09-20T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Belgische band The Bluesbones behoort tot de top van de Europese blues – hun album Live On Stage (2020) deed zelfs tot in de Verenigde Staten stof opwaaien. De heren zijn overigens geen puristen: ze verrijken hun blues graag met dampende soul, funk en rock.\r\n\r\nZanger/toetsenist Eddy Smith is een…",
-          "url": "https://www.podiuminfo.nl/concert/450858/The-Bluesbones-Eddy-Smith-The-507/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "454770",
-          "title": "Chinese American Bear",
-          "start": "2026-09-20T20:15:00+02:00",
-          "end": "2026-09-20T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "indiepopduo met mix van peelse mix van lo-fi, bedroompop en synthpop - Chinese American Bear is een vrolijk en ietwat quirky Amerikaans indiepopduo, bestaande uit het echtpaar Anne Tong en Bryce Barsten. ",
-          "url": "https://www.podiuminfo.nl/concert/454770/Chinese-American-Bear/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "454771",
-          "title": "Chinese American Bear",
-          "start": "2026-09-20T21:00:00+02:00",
-          "end": "2026-09-20T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "indiepopduo met mix van peelse mix van lo-fi, bedroompop en synthpop - Chinese American Bear is een vrolijk en ietwat quirky Amerikaans indiepopduo, bestaande uit het echtpaar Anne Tong en Bryce Barsten. ",
-          "url": "https://www.podiuminfo.nl/concert/454771/Chinese-American-Bear/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "476543",
           "title": "JILUKA",
           "start": "2026-09-22T20:00:00+02:00",
@@ -2035,6 +1976,46 @@
           "description": "Ambrosia Ecstatic Rave XXL belooft een energieke bijeenkomst van duizenden enthousiastelingen. Dit evenement is meer dan een doorsnee editie; het is een statement dat nuchter raven allesbehalve saai is. De organisatie benadrukt dat deze Ambrosia-editie de geschiedenisboeken in zal gaan, en nodigt…",
           "url": "https://www.podiuminfo.nl/concert/490994/Ambrosia-Ecstatic-Rave-XXL/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "484695",
+          "title": "HERA by Kika Sprangers",
+          "start": "2026-09-26T20:00:00+02:00",
+          "end": "2026-09-26T21:00:00.000Z",
+          "location": "Pieterskerk, Pieterskerkhof 3, Utrecht",
+          "description": "HERA van Kika Sprangers brengt de saxofoniste samen met negen vrouwenstemmen voor een avond vol kleurrijke melancholie. In de akoestiek van de Sint Pieterskerk versmelten lyrische saxofoonklanken met karakteristieke vrouwenstemmen, puur akoestisch. Kika Sprangers, bekend van haar werk met vocale…",
+          "url": "https://www.podiuminfo.nl/concert/484695/HERA-by-Kika-Sprangers/Pieterskerk/",
+          "tags": []
+        },
+        {
+          "id": "492353",
+          "title": "Afrolounge",
+          "start": "2026-09-26T20:00:00+02:00",
+          "end": "2026-09-26T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Afrolounge keert terug naar Danel en biedt een 'Afro Experience' met muziek, cultuur en verbinding. Bezoekers kunnen dansen op Afrobeats, Amapiano en Afro House, genieten van cocktails en nieuwe connecties maken in een warme gemeenschapsvibe. Het evenement is een plek waar Afro Utrecht samenkomt…",
+          "url": "https://www.podiuminfo.nl/concert/492353/Afrolounge/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "474863",
+          "title": "40UP",
+          "start": "2026-09-26T21:00:00+02:00",
+          "end": "2026-09-26T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Tijdens de 40UP-avond kunnen bezoekers naar hartenlust dansen op een selectie van fijne muziek uit de jaren '80 tot nu. Op grote schermen worden originele videoclips vertoond, wat zorgt voor een groot feest der herkenning en een nostalgische trip down memory lane. De sfeer op de dansvloer is altijd…",
+          "url": "https://www.podiuminfo.nl/concert/474863/40UP/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "479115",
+          "title": "Turkish Pop Night by DJ Denden",
+          "start": "2026-09-26T21:00:00+02:00",
+          "end": "2026-09-26T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Turkish Pop Night brengt een stukje Istanboels nachtleven naar Utrecht, met een warme, luide en energieke sfeer op de dansvloer. Verwacht een avond vol Turkse popmuziek, van anthems uit de jaren '90 en '00 tot actuele hits en edits. De muziek beweegt tussen meezingmomenten en diepe, late-night…",
+          "url": "https://www.podiuminfo.nl/concert/479115/Turkish-Pop-Night-by-DJ-Denden/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2132,6 +2113,16 @@
           "end": "2026-09-30T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "D&amp;D5e: Exandria (beginner friendly) Wed 30/9 7-10pm at Subcultures @Silver Heron Studios English, Dungeons &amp; Dragons 5th Edition Underneath a light snowfall in the Palebank Village on the shores of the Frigid Depths, a group of adventurers find themselves at the funeral of a mutual friend.…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "608986",
+          "title": "Foul Play: Be a naughty little goose [beginner friendly] [playtest]",
+          "start": "2026-09-30T19:00:00+02:00",
+          "end": "2026-09-30T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Foul Play: Be a naughty little goose [beginner friendly] [playtest] Wed 30/9 7-10pm at Subcultures @Silver Heron Studios English, Foul Play Written by Hendrik ten Napel, art by Ema Acosta Foul Play is a role-playing game for a group of horrible geese and one Goose Master. During the one shot…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2417,99 +2408,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-17",
-          "title": "Cursus pottenbakken – meerdere dagen en tijden",
-          "start": "2026-09-21T00:00:00+02:00",
-          "end": "2026-09-21T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-17/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-schilderles-diverse-dagen-40",
-          "title": "Schilderles – diverse dagen",
-          "start": "2026-09-21T00:00:00+02:00",
-          "end": "2026-09-21T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-40/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-22",
-          "title": "Robotics lessen voor kinderen – diverse dagen",
-          "start": "2026-09-21T00:00:00+02:00",
-          "end": "2026-09-21T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-22/",
-          "tags": [
-            "Kinderen",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-beton-gieten-diverse-dagen-39",
-          "title": "Beton gieten – diverse dagen",
-          "start": "2026-09-21T00:00:00+02:00",
-          "end": "2026-09-21T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-39/",
-          "tags": [
-            "Kunst",
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
-          "id": "beton-naailes-bij-neeltje-diverse-dagen-17",
-          "title": "Naailes bij Neeltje – diverse dagen",
-          "start": "2026-09-21T00:00:00+02:00",
-          "end": "2026-09-21T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-17/",
-          "tags": [
-            "Fashion",
-            "Workshop",
-            "Vechtclub Keiland"
-          ]
-        },
-        {
-          "id": "beton-besloten-event-5",
-          "title": "Besloten event",
-          "start": "2026-09-21T00:00:00+02:00",
-          "end": "2026-09-21T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/besloten-event-5/",
-          "tags": []
-        },
-        {
-          "id": "beton-lees-dit-boekenclub-3",
-          "title": "LEES DIT! Boekenclub",
-          "start": "2026-09-21T00:00:00+02:00",
-          "end": "2026-09-21T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/lees-dit-boekenclub-3/",
-          "tags": [
-            "Kunst",
-            "Panelgesprek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-besloten-event-6",
           "title": "Besloten event",
           "start": "2026-09-22T00:00:00+02:00",
@@ -2560,19 +2458,6 @@
             "Gratis",
             "Muziek",
             "Kantine"
-          ]
-        },
-        {
-          "id": "beton-sustainable-fashion-workshop-de-creatiehallen",
-          "title": "Sustainable Fashion Workshop – De Creatiehallen",
-          "start": "2026-09-24T00:00:00+02:00",
-          "end": "2026-09-24T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/sustainable-fashion-workshop-de-creatiehallen/",
-          "tags": [
-            "Workshop",
-            "Vechtclub Keiland"
           ]
         }
       ]
@@ -5187,26 +5072,6 @@
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
         {
-          "id": "brederode-moestuinmiddag-tijdens-ru-ne-bewoond-2026-09-20",
-          "title": "Moestuinmiddag tijdens Ruïne Bewoond",
-          "start": "2026-09-20T11:00:00+02:00",
-          "end": "2026-09-20T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/moestuinmiddag-20september/",
-          "tags": []
-        },
-        {
-          "id": "brederode-ru-ne-bewoond-2026-09-20",
-          "title": "Ruïne Bewoond",
-          "start": "2026-09-20T11:00:00+02:00",
-          "end": "2026-09-20T17:00:00+02:00",
-          "location": "Ruïne van Brederode, Santpoort-Zuid",
-          "description": "",
-          "url": "https://ruinevanbrederode.nl/ruine-bewoond-20-september/",
-          "tags": []
-        },
-        {
           "id": "brederode-ru-ne-bewoond-2026-10-25",
           "title": "Ruïne Bewoond",
           "start": "2026-10-25T11:00:00+01:00",
@@ -6524,17 +6389,6 @@
           "country": "Italy",
           "description": "Buhurt-toernooi in Italy.",
           "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
-          "tags": []
-        },
-        {
-          "id": "bi-heritage-shield-2026",
-          "title": "Heritage Shield 2026",
-          "start": "2026-10-03T00:00:00+01:00",
-          "end": "2026-10-03T23:00:00+01:00",
-          "location": "United Kingdom",
-          "country": "United Kingdom",
-          "description": "Buhurt-toernooi in United Kingdom.",
-          "url": "https://www.buhurtinternational.com/tournament/heritage-shield-2026",
           "tags": []
         }
       ]

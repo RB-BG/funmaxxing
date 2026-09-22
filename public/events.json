@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T10:30:25.742Z",
+  "updatedAt": "2026-09-22T09:42:24.020Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -304,6 +304,18 @@
           ]
         },
         {
+          "id": "18001",
+          "title": "POPRONDE",
+          "start": "2026-10-22T20:00:00+01:00",
+          "end": "2026-10-22T23:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Magazines  \nMagazines is een punchy post-punk trio met een onstuitbare drang om alles kapot te spelen. Hun songs zijn rauw, eerlijk en vol adrenaline; het resultaat van drie mensen die alles zelf doen en nergens op wachten \n\nCoalmine Canary  \nTired of the same old sh*t? So is Coalmine Canary.…",
+          "url": "https://dbstudio.nl/event/popronde/",
+          "tags": [
+            "Concert"
+          ]
+        },
+        {
           "id": "17639",
           "title": "MAQUINA. (PORT)",
           "start": "2026-10-23T20:00:00+01:00",
@@ -391,21 +403,6 @@
           "description": "Marie Maanlicht. Erik Dijkstra. Kirsten de Meijer. Raymond Elvis.\nDE CRISTALCAVE EXPERIENCE met Anthony Davis op drums en Jan op Bas PLUS verrassende gasten. \nReken op verassingen tussen al!! het verrassends hierboven door.",
           "url": "https://dbstudio.nl/event/jan-schellink-70-jaar-alweer/",
           "tags": []
-        },
-        {
-          "id": "17882",
-          "title": "DEATH VALLEY GIRLS (USA) + BELLA & THE BIZARRE (GER)",
-          "start": "2026-11-03T20:00:00+01:00",
-          "end": "2026-11-03T23:00:00+01:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Make way for some California Doom Boogie. Zo omschrijven de Death Valley Girls althans hun donkere en energieke garage pop. Dit viertal uit Los Angeles, opgericht in 2013 door voormalig Hole drummer Patty Schlemel en haar gitaar spelende broer Larry, heeft een voorliefde voor b-movies en occulte…",
-          "url": "https://dbstudio.nl/event/death-valley-girls-usa-bella-the-bizarre-ger/",
-          "tags": [
-            "Concert",
-            "Garage",
-            "Punk",
-            "Rock 'n Roll"
-          ]
         }
       ]
     },
@@ -417,6 +414,36 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31473",
+          "title": "Curselifter",
+          "start": "2026-12-05T19:30:00+01:00",
+          "end": "2026-12-05T22:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Sinds hun demo uit 2023 timmert de Utrechtse metallic hardcoreband flink aan de weg. Met releases, shows als support van Hatebreed en Malevolence en optredens op Revolution Calling, Roadburn en Jera On Air heeft de band inmiddels een stevige plek in de Nederlandse hardcore scene veroverd. Zware…",
+          "url": "https://ekko.nl/event/curselifter/",
+          "tags": []
+        },
+        {
+          "id": "31451",
+          "title": "Clubnacht met punk x Girls To The Front",
+          "start": "2026-10-30T23:00:00+01:00",
+          "end": "2026-10-31T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "We duiken de nacht in met alles wat schuurt, kraakt en stuitert. Clubnacht met punk is een clubnacht met punk van alle soorten en maten: van egg punk, hardcore punk en garage punk tot postpunk. Voor deze editie van Clubnacht met punk slaan we de handen ineen met Girls to the Front, een collectief…",
+          "url": "https://ekko.nl/event/clubnacht-met-punk-x-girls-to-the-front/",
+          "tags": []
+        },
+        {
+          "id": "28785",
+          "title": "Jesse Hoefnagels",
+          "start": "2026-09-26T20:30:00+02:00",
+          "end": "2026-09-26T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Jesse Hoefnagels maakt elektronische muziek op het snijvlak van alternatieve pop en melancholische clubmuziek, waarin persoonlijke Nederlandstalige teksten centraal staan. Zijn tweeluik ‘Wakker in het donker’ en ‘Dichter bij de dag’ draait om thema’s als liefdesverdriet en zelfreflectie. Live…",
+          "url": "https://ekko.nl/event/jesse-hoefnagels/",
+          "tags": []
+        },
         {
           "id": "28608",
           "title": "Kaat Van Stralen",
@@ -535,16 +562,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Utrechtse muzikant FENNE schakelt moeiteloos tussen neo-soul, jazz en pop, met invloeden uit folk en elektronische muziek. Haar songs voelen als dagboekfragmenten vol verlangens, twijfels en dromerige verwachtingen. Dit verpakt ze allemaal in catchy melodieën en rijke harmonieën. Na haar laatste…",
           "url": "https://ekko.nl/event/fenne/",
-          "tags": []
-        },
-        {
-          "id": "28785",
-          "title": "Jesse Hoefnagels",
-          "start": "2026-09-26T20:30:00+02:00",
-          "end": "2026-09-26T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Jesse Hoefnagels maakt elektronische muziek op het snijvlak van alternatieve pop en melancholische clubmuziek, waarin persoonlijke Nederlandstalige teksten centraal staan. Zijn tweeluik ‘Wakker in het donker’ en ‘Dichter bij de dag’ draait om thema’s als liefdesverdriet en zelfreflectie. Live…",
-          "url": "https://ekko.nl/event/jesse-hoefnagels/",
           "tags": []
         },
         {
@@ -1708,6 +1725,16 @@
           "tags": []
         },
         {
+          "id": "helling-hudson-freeman-15-02-2027",
+          "title": "Hudson Freeman",
+          "start": "2027-02-15T20:15:00+01:00",
+          "end": "2027-02-15T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Veelbelovende folktroubadour uit het digitale tijdperk",
+          "url": "https://dehelling.nl/agenda/hudson-freeman-15-02-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-ozric-tentacles-25-02-2027",
           "title": "Ozric Tentacles",
           "start": "2027-02-25T20:15:00+01:00",
@@ -1778,6 +1805,16 @@
           "tags": []
         },
         {
+          "id": "helling-high-fade-23-04-2027",
+          "title": "High Fade",
+          "start": "2027-04-23T20:15:00+02:00",
+          "end": "2027-04-23T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Funkrocktrio High Fade is klaar om je omver te blazen",
+          "url": "https://dehelling.nl/agenda/high-fade-23-04-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-breakdown-of-sanity-02-05-2027",
           "title": "Breakdown Of Sanity",
           "start": "2027-05-02T19:30:00+02:00",
@@ -1795,6 +1832,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "EUFORISCHE BLEND VAN INDIE EN ELEKTRONICA",
           "url": "https://dehelling.nl/agenda/quentyn-05-06-2027/",
+          "tags": []
+        },
+        {
+          "id": "helling-extince-30-jaar-spraakwater-25-09-2027",
+          "title": "Extince – 30 Jaar Spraakwater",
+          "start": "2027-09-25T20:00:00+02:00",
+          "end": "2027-09-25T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "De godfather van de nederhop is nog steeds nummer één",
+          "url": "https://dehelling.nl/agenda/extince-30-jaar-spraakwater-25-09-2027/",
           "tags": []
         }
       ]
@@ -2408,16 +2455,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-besloten-event-6",
-          "title": "Besloten event",
-          "start": "2026-09-22T00:00:00+02:00",
-          "end": "2026-09-22T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/besloten-event-6/",
-          "tags": []
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-54",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-09-23T00:00:00+02:00",
@@ -2470,6 +2507,26 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261007-alternate-comedy-utrecht-2",
+          "title": "Alternate Comedy Utrecht",
+          "start": "2026-10-07T00:00:00+01:00",
+          "end": "2026-10-07T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 7th. Hosted by Ed.",
+          "url": "https://acu.nl/events/20261007/alternate-comedy-utrecht-2",
+          "tags": []
+        },
+        {
+          "id": "acu-20261001-platonic-smile-hester-centrepiece-colourised",
+          "title": "Platonic Smile + Hester + Centrepiece Colourised",
+          "start": "2026-10-01T00:00:00+01:00",
+          "end": "2026-10-01T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 1st. Indie/Psychadelic Rock Night. Platonic Smile (DH,NL) Sweet on the outside, but filled with surprises: Platonic Smile has a way of capturing life’s drama, no matter how petty or big. Their relatable yet contemplative lyrics ride on a sound that blends the bite of guitar-driven indie…",
+          "url": "https://acu.nl/events/20261001/platonic-smile-hester-centrepiece-colourised",
+          "tags": []
+        },
         {
           "id": "acu-20261010-neon-quatsch",
           "title": "Neon Quatsch",
@@ -2538,16 +2595,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "December 15th. For all your EECtronic experiments. Buildup starts at 19:00. The bar is open at: 19:00 We start playing around 20:00 – 20:30. We do generally not use the stage. Half a circle of tables is set up on the floor. If you arrive at 19:00 you can claim a spot and have roughly...",
           "url": "https://acu.nl/events/20261215/eectronic-open-stage-24",
-          "tags": []
-        },
-        {
-          "id": "acu-20261031-the-rocky-horror-picture-show",
-          "title": "The Rocky Horror Picture Show",
-          "start": "2026-10-31T00:00:00+01:00",
-          "end": "2026-10-31T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 31st. Sing-along Party. Bring out your horrifyingly queer outfits, no lifestyle is too extreme, because we are getting a visit from Transylvania! Ready your vocal cords and join us this Halloween for an homage to Tim Curry at ACU’s very first Rocky Horror Picture Show screening! Ticket…",
-          "url": "https://acu.nl/events/20261031/the-rocky-horror-picture-show",
           "tags": []
         }
       ]
@@ -2726,6 +2773,19 @@
           ]
         },
         {
+          "id": "basis-utrecht-10001520-1794610800-1794636000",
+          "title": "BASIS/ Amy Rymes/ Saskia Laval/ SNTS/ Sober",
+          "start": "2026-11-13T23:00:00+01:00",
+          "end": "2026-11-14T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-amy-rymes-saskia-laval-snts-sober/",
+          "tags": [
+            "Hardtechno",
+            "Industrial"
+          ]
+        },
+        {
           "id": "basis-utrecht-10001507-1795215600-1795240800",
           "title": "BASIS/ Tassery All Night Long",
           "start": "2026-11-20T23:00:00+01:00",
@@ -2762,6 +2822,19 @@
           "tags": [
             "Hardtechno",
             "Schranz"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001521-1797030000-1797055200",
+          "title": "BASIS/ BØĘRY/ D|K|OXY/ Jaz Jagers/ SEMPLIFIER",
+          "start": "2026-12-11T23:00:00+01:00",
+          "end": "2026-12-12T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-boery-dkoxy-jaz-jagers-semplifier/",
+          "tags": [
+            "Hardtechno",
+            "Industrial"
           ]
         }
       ]
@@ -2834,16 +2907,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "74947",
-          "title": "Undertale: The Determination Symphony",
-          "start": "2026-09-21T20:00:00.000Z",
-          "end": "2026-09-21T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74947",
-          "description": "CONCERT IS SOLD OUT<BR><BR>UNDERTALE: The Determination Symphony is an unforgettable concert experience featuring the most memorable themes from the popular indie game, specially rearranged and performed live by a 25-piece orchestra. With gameplay footage on a screen above the stage, the audience…",
-          "tags": []
-        },
         {
           "id": "73681",
           "title": "My Hero Academia in Concert",
@@ -4701,18 +4764,7 @@
       "icon": "🏛️",
       "scene": "middeleeuwen",
       "feedUrl": "https://archeon.eu",
-      "events": [
-        {
-          "id": "archeon-midwinterfair-2026",
-          "title": "Archeon Midwinter Fair 2026",
-          "start": "2026-12-12T11:00:00+01:00",
-          "end": "2026-12-13T23:00:00+01:00",
-          "location": "Archeon Museumpark, Alphen aan den Rijn",
-          "description": "Waar Fantasy en Historie samenkomen 12 &amp; 13 december 2026 Midwinter Fair | 22e editie Heel museumpark Archeon staat in het teken van de 22e Midwinter Fair, hét Winterse Fantasy festival van Nederland! Waan je in een magische wereld vol Heidense muziek, unieke producten op de Fantasy markt en…",
-          "url": "https://archeon.eu/midwinterfair/",
-          "tags": []
-        }
-      ]
+      "events": []
     },
     {
       "id": "kommus-kasteelfestival",
@@ -4732,23 +4784,13 @@
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
         {
-          "id": "muiderslot-mindful-weven-in-het-kasteelatelier-2026",
-          "title": "Mindful Weven in het Kasteelatelier",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-10T18:00:00+01:00",
+          "id": "muiderslot-writer-in-residence-2026-pim-lammers-2026",
+          "title": "Writer in Residence 2026: Pim Lammers",
+          "start": "2026-10-05T10:00:00+01:00",
+          "end": "2026-10-05T18:00:00+01:00",
           "location": "Muiderslot, Muiden",
           "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-weven-in-het-kasteelatelier/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-kasteelclubs-2026",
-          "title": "Kasteel Atelierlessen Muiderslot",
-          "start": "2026-09-21T10:00:00+02:00",
-          "end": "2027-02-01T18:00:00+02:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/kasteelclubs/",
+          "url": "https://muiderslot.nl/activiteit/writer-in-residence-2026-pim-lammers/",
           "tags": []
         },
         {
@@ -4782,16 +4824,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-writer-in-residence-2026-pim-lammers-2026",
-          "title": "Writer in Residence 2026: Pim Lammers",
-          "start": "2026-10-05T10:00:00+01:00",
-          "end": "2026-10-09T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/writer-in-residence-2026-pim-lammers/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-lezing-oogst-het-muiderslot-2026",
           "title": "Lezing: Oogst &amp; het Muiderslot &#8211; 7 okt 2026",
           "start": "2026-10-07T10:00:00+01:00",
@@ -4809,6 +4841,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/kasteel-kookclub-muiderslot/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-mindful-weven-in-het-kasteelatelier-2026",
+          "title": "Mindful Weven in het Kasteelatelier",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/mindful-weven-in-het-kasteelatelier/",
           "tags": []
         },
         {
@@ -4873,7 +4915,7 @@
         },
         {
           "id": "muiderslot-prikkelarme-openstelling-4-2026",
-          "title": "Prikkelarme openstelling",
+          "title": "Prikkelarme openstelling 24 okt",
           "start": "2026-10-24T10:00:00+01:00",
           "end": "2026-10-24T18:00:00+01:00",
           "location": "Muiderslot, Muiden",
@@ -4973,7 +5015,7 @@
         },
         {
           "id": "loevestein-rondleiding-2026-09",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Rondleiding Voor kinderen Gelderse dag",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Gelderse dag",
           "start": "2026-09-26T10:00:00+02:00",
           "end": "2026-09-26T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
@@ -6338,7 +6380,7 @@
       "events": [
         {
           "id": "bi-castleton-cup",
-          "title": "Castleton Cup",
+          "title": "Castleton Cup 2027",
           "start": "2027-04-17T00:00:00+02:00",
           "end": "2027-04-17T23:00:00+02:00",
           "location": "United Kingdom",
@@ -6389,6 +6431,17 @@
           "country": "Italy",
           "description": "Buhurt-toernooi in Italy.",
           "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
+          "tags": []
+        },
+        {
+          "id": "bi-heritage-shield-2026",
+          "title": "Heritage Shield 2026",
+          "start": "2026-10-03T00:00:00+01:00",
+          "end": "2026-10-03T23:00:00+01:00",
+          "location": "United Kingdom",
+          "country": "United Kingdom",
+          "description": "Buhurt-toernooi in United Kingdom.",
+          "url": "https://www.buhurtinternational.com/tournament/heritage-shield-2026",
           "tags": []
         }
       ]

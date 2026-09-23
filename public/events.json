@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T09:42:24.020Z",
+  "updatedAt": "2026-09-23T09:49:35.641Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17014",
-          "title": "THE FLAMIN' GROOVIES (USA) + The Hook",
-          "start": "2026-09-22T20:00:00+02:00",
-          "end": "2026-09-22T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "De legendarische Amerikaanse cultband Flamin’ Groovies, die aan de wieg stond van de hedendaagse punk, garagerock en powerpop, komt dinsdag 22 september naar dB’s. \nThe Flamin’ Groovies? Nooit van gehoord? Ja dat kan, want het in 1965 (!) opgerichte 𝗙𝗟𝗔𝗠𝗜𝗡‘ 𝗚𝗥𝗢𝗢𝗩𝗜𝗘𝗦 heeft nooit de…",
-          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-the-flamin-groovies-usa/",
-          "tags": [
-            "Garage",
-            "powerpop"
-          ]
-        },
         {
           "id": "17102",
           "title": "Møster! (No - Jazz Super Group) + Danibal",
@@ -403,6 +390,21 @@
           "description": "Marie Maanlicht. Erik Dijkstra. Kirsten de Meijer. Raymond Elvis.\nDE CRISTALCAVE EXPERIENCE met Anthony Davis op drums en Jan op Bas PLUS verrassende gasten. \nReken op verassingen tussen al!! het verrassends hierboven door.",
           "url": "https://dbstudio.nl/event/jan-schellink-70-jaar-alweer/",
           "tags": []
+        },
+        {
+          "id": "17882",
+          "title": "DEATH VALLEY GIRLS (USA) + BELLA & THE BIZARRE (GER)",
+          "start": "2026-11-03T20:00:00+01:00",
+          "end": "2026-11-03T23:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Make way for some California Doom Boogie. Zo omschrijven de Death Valley Girls althans hun donkere en energieke garage pop. Dit viertal uit Los Angeles, opgericht in 2013 door voormalig Hole drummer Patty Schlemel en haar gitaar spelende broer Larry, heeft een voorliefde voor b-movies en occulte…",
+          "url": "https://dbstudio.nl/event/death-valley-girls-usa-bella-the-bizarre-ger/",
+          "tags": [
+            "Concert",
+            "Garage",
+            "Punk",
+            "Rock 'n Roll"
+          ]
         }
       ]
     },
@@ -415,6 +417,16 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "30156",
+          "title": "Dry Cleaning",
+          "start": "2026-11-12T20:00:00+01:00",
+          "end": "2026-11-12T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het Londense viertal Dry Cleaning maakt postpunk die als iets volkomen eigens klinkt. Met bulderende baspartijen, onstuimig gitaarwerk en Florence Shaw’s deadpan-gesproken teksten springt de band er in de grote postpunk-hausse van de afgelopen jaren met kop en schouders bovenuit. Shaw, een beeldend…",
+          "url": "https://ekko.nl/event/dry-cleaning-1/",
+          "tags": []
+        },
+        {
           "id": "31473",
           "title": "Curselifter",
           "start": "2026-12-05T19:30:00+01:00",
@@ -422,6 +434,76 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Sinds hun demo uit 2023 timmert de Utrechtse metallic hardcoreband flink aan de weg. Met releases, shows als support van Hatebreed en Malevolence en optredens op Revolution Calling, Roadburn en Jera On Air heeft de band inmiddels een stevige plek in de Nederlandse hardcore scene veroverd. Zware…",
           "url": "https://ekko.nl/event/curselifter/",
+          "tags": []
+        },
+        {
+          "id": "31493",
+          "title": "Echoes from the Dungeon fest III",
+          "start": "2027-03-12T19:00:00+01:00",
+          "end": "2027-03-12T23:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Echoes from the Dungeon Fest III is het vervolg op de eerdere edities van het allereerste Fantasy &#038; Dungeon Synth-festival van Nederland. Verwacht een programma vol topartiesten uit het genre, een markt met merchandise van artiesten en labels, goed eten en drinken en meer. Mis deze kans niet…",
+          "url": "https://ekko.nl/event/echoes-from-the-dungeon-fest-iii/",
+          "tags": []
+        },
+        {
+          "id": "31494",
+          "title": "Echoes from the Dungeon fest III",
+          "start": "2027-03-13T14:30:00+01:00",
+          "end": "2027-03-13T23:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Echoes from the Dungeon Fest III is het vervolg op de eerdere edities van het allereerste Fantasy &#038; Dungeon Synth-festival van Nederland. Verwacht een programma vol topartiesten uit het genre, een markt met merchandise van artiesten en labels, goed eten en drinken en meer. Mis deze kans niet…",
+          "url": "https://ekko.nl/event/echoes-from-the-dungeon-fest-iii-2/",
+          "tags": []
+        },
+        {
+          "id": "31260",
+          "title": "Diep In De Groef",
+          "start": "2026-10-23T23:30:00+01:00",
+          "end": "2026-10-24T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-233/",
+          "tags": []
+        },
+        {
+          "id": "31250",
+          "title": "Diep In De Groef",
+          "start": "2026-10-09T23:30:00+01:00",
+          "end": "2026-10-10T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-231/",
+          "tags": []
+        },
+        {
+          "id": "31237",
+          "title": "Diep In De Groef",
+          "start": "2026-10-02T23:30:00+01:00",
+          "end": "2026-10-03T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-229/",
+          "tags": []
+        },
+        {
+          "id": "30902",
+          "title": "Antony Szmierek",
+          "start": "2026-11-01T20:00:00+01:00",
+          "end": "2026-11-01T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De uiterst charmante Brit Antony Szmierek wint overal waar hij gaat zieltjes. Met zijn aanstekelijke mix van spoken word, house, indie en rave zorgt hij voor euforische hoogtepunten op festivals en podia wereldwijd. Op zijn debuutalbum ‘Service Station at the End of the Universe’ liet Antony horen…",
+          "url": "https://ekko.nl/event/antony-szmierek-1/",
+          "tags": []
+        },
+        {
+          "id": "31479",
+          "title": "Blue Saturday",
+          "start": "2026-11-14T23:30:00+01:00",
+          "end": "2026-11-15T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "In een nachtcultuur die in het teken staat van elektronische muziek, creëert Blue Saturday een plek voor iedereen die tot in de late uurtjes wil dansen op gitaarmuziek. Dat doen we met een mix van new wave, postpunk, goth en alternative voor een melancholische, rauwe en opzwepende sound. Je kan…",
+          "url": "https://ekko.nl/event/blue-saturday-2/",
           "tags": []
         },
         {
@@ -635,36 +717,6 @@
           "tags": []
         },
         {
-          "id": "31260",
-          "title": "Diep In De Groef",
-          "start": "2026-10-23T23:30:00+01:00",
-          "end": "2026-10-24T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-233/",
-          "tags": []
-        },
-        {
-          "id": "31250",
-          "title": "Diep In De Groef",
-          "start": "2026-10-09T23:30:00+01:00",
-          "end": "2026-10-10T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-231/",
-          "tags": []
-        },
-        {
-          "id": "31237",
-          "title": "Diep In De Groef",
-          "start": "2026-10-02T23:30:00+01:00",
-          "end": "2026-10-03T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-229/",
-          "tags": []
-        },
-        {
           "id": "29378",
           "title": ".multibeat",
           "start": "2026-10-02T20:00:00+01:00",
@@ -732,16 +784,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Australische cultfiguur Alex Cameron brengt scherpe observaties, zwarte humor en glanzende synthpop samen in een eigenzinnig universum vol buitenbeentjes en zelfdestructieve antihelden. Met albums als ‘Forced Witness’, ‘Miami Memory’ en ‘Oxy Music’ groeide hij uit tot een van de meest…",
           "url": "https://ekko.nl/event/alex-cameron/",
-          "tags": []
-        },
-        {
-          "id": "30902",
-          "title": "Antony Szmierek",
-          "start": "2026-11-01T20:00:00+01:00",
-          "end": "2026-11-01T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De uiterst charmante Brit Antony Szmierek wint overal waar hij gaat zieltjes. Met zijn aanstekelijke mix van spoken word, house, indie en rave zorgt hij voor euforische hoogtepunten op festivals en podia wereldwijd. Op zijn debuutalbum ‘Service Station at the End of the Universe’ liet Antony horen…",
-          "url": "https://ekko.nl/event/antony-szmierek-1/",
           "tags": []
         },
         {
@@ -902,16 +944,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Van &#8216;Chaise Longue&#8217; tot &#8216;Take Me Out&#8217; en van &#8216;Space Song&#8217; tot &#8216;Seventeen Going Under&#8217;, met 40 jaar EKKO-geschiedenis kun je een flinke stapel Hitzones vullen. Het is natuurlijk hartstikke leuk dat we tijdens ons jubileum een aantal vedetten opnieuw…",
           "url": "https://ekko.nl/event/vrienden-van-ekko-live/",
-          "tags": []
-        },
-        {
-          "id": "30156",
-          "title": "Dry Cleaning",
-          "start": "2026-11-12T20:00:00+01:00",
-          "end": "2026-11-12T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het Londense viertal Dry Cleaning maakt postpunk die als iets volkomen eigens klinkt. Met bulderende baspartijen, onstuimig gitaarwerk en Florence Shaw’s deadpan-gesproken teksten springt de band er in de grote postpunk-hausse van de afgelopen jaren met kop en schouders bovenuit. Shaw, een beeldend…",
-          "url": "https://ekko.nl/event/dry-cleaning-1/",
           "tags": []
         },
         {
@@ -1135,16 +1167,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-jesse-barnett-acoustic-in-stadsklooster-utrecht-22-09-2026",
-          "title": "Jesse Barnett – acoustic in Stadsklooster Utrecht",
-          "start": "2026-09-22T20:00:00+02:00",
-          "end": "2026-09-22T22:30:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Activistische frontman van Stick To Your Guns opent akoestische moshpit in Het Stadsklooster",
-          "url": "https://dehelling.nl/agenda/jesse-barnett-acoustic-in-stadsklooster-utrecht-22-09-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-upfront-23-09-2026",
           "title": "UPFRONT",
           "start": "2026-09-23T20:15:00+02:00",
@@ -1365,6 +1387,16 @@
           "tags": []
         },
         {
+          "id": "helling-popronde-utrecht-22-10-2026",
+          "title": "Popronde Utrecht",
+          "start": "2026-10-22T19:30:00+01:00",
+          "end": "2026-10-23T00:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Het grootste reizende talentenfestival van Nederland",
+          "url": "https://dehelling.nl/agenda/popronde-utrecht-22-10-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-kruidkoek-joost-oomen-23-10-2026",
           "title": "Kruidkoek & Joost Oomen",
           "start": "2026-10-23T20:00:00+01:00",
@@ -1397,7 +1429,7 @@
         {
           "id": "helling-perrx-halloween-edition-30-10-2026",
           "title": "Perrx Halloween Edition",
-          "start": "2026-10-30T23:59:00+01:00",
+          "start": "2026-10-30T23:30:00+01:00",
           "end": "2026-10-31T05:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "PERRX: a Queer (kuir) Latinx party bringing inclusivity, safety, and revolutionary joy to Utrecht nightlife through Latin rhythms and sexy spaces. ",
@@ -1647,8 +1679,8 @@
         {
           "id": "helling-the-smiths-presumably-12-12-2026",
           "title": "The Smiths Presumably",
-          "start": "2026-12-12T20:15:00+01:00",
-          "end": "2026-12-12T23:00:00+01:00",
+          "start": "2026-12-12T20:30:00+01:00",
+          "end": "2026-12-12T22:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Smiths-tributeband met internationale reputatie",
           "url": "https://dehelling.nl/agenda/the-smiths-presumably-12-12-2026/",
@@ -1730,7 +1762,7 @@
           "start": "2027-02-15T20:15:00+01:00",
           "end": "2027-02-15T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Veelbelovende folktroubadour uit het digitale tijdperk",
+          "description": "Veelbelovende folktroubadour uit het digitale tijdperk met full band",
           "url": "https://dehelling.nl/agenda/hudson-freeman-15-02-2027/",
           "tags": []
         },
@@ -1864,26 +1896,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "476543",
-          "title": "JILUKA",
-          "start": "2026-09-22T20:00:00+02:00",
-          "end": "2026-09-22T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Japanse band JILUKA staat bekend om hun metalcore met invloeden uit djent, industrial en EDM, wat resulteert in een unieke sound die zij 'Electro Gothic Metal' (EGM) noemen. Frontman Ricko beheerst zowel melodieuze zang als screams. Met zes minialbums en een volledig album heeft het kwartet een…",
-          "url": "https://www.podiuminfo.nl/concert/476543/JILUKA/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "491494",
-          "title": "Salsa on Tuesday",
-          "start": "2026-09-22T20:15:00+02:00",
-          "end": "2026-09-22T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Salsa on Tuesday nodigt iedereen uit voor een levendige salsa-avond in zaal Danel, zowel beginners als gevorderden. De dj's draaien een mix van klassieke en nieuwe salsa hits, en de avond begint met een workshop om de basispassen te leren of op te frissen. De sfeer is warm en gastvrij, met een…",
-          "url": "https://www.podiuminfo.nl/concert/491494/Salsa-on-Tuesday/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "482698",
           "title": "Het Danspaleis",
@@ -2063,6 +2075,56 @@
           "description": "Turkish Pop Night brengt een stukje Istanboels nachtleven naar Utrecht, met een warme, luide en energieke sfeer op de dansvloer. Verwacht een avond vol Turkse popmuziek, van anthems uit de jaren '90 en '00 tot actuele hits en edits. De muziek beweegt tussen meezingmomenten en diepe, late-night…",
           "url": "https://www.podiuminfo.nl/concert/479115/Turkish-Pop-Night-by-DJ-Denden/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "480613",
+          "title": "Alternative 80's - Just Like Heaven!",
+          "start": "2026-09-26T21:00:00+02:00",
+          "end": "2026-09-26T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Duik in de sfeer van de jaren '80 tijdens Alternative 80's in Cloud Nine, TivoliVredenburg. Tijdens deze clubavond laten de dj's je dansen op geliefde nummers die je zelden hoort, aangevuld met onvergetelijke publieksfavorieten. De avond staat in het teken van de glorietijd van new wave en…",
+          "url": "https://www.podiuminfo.nl/concert/480613/Alternative-80s-Just-Like-Heaven!/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "457396",
+          "title": "Flat Earth Society - The Coltrane Mutations",
+          "start": "2026-09-27T15:00:00+02:00",
+          "end": "2026-09-27T16:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "In 2026 zou jazzlegende John Coltrane 100 jaar zijn geworden. Ter ere hiervan brengt de Flat Earth Society (FES) een speciale ode met 'The Coltrane Mutations'. Dit project, op uitnodiging van Bozar, verkent de invloed van Coltrane op de muziekwereld, ver buiten de grenzen van de jazz. FES neemt het…",
+          "url": "https://www.podiuminfo.nl/concert/457396/Flat-Earth-Society-The-Coltrane-Mutations/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "464935",
+          "title": "Berre",
+          "start": "2026-09-27T20:00:00+02:00",
+          "end": "2026-09-27T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Vlaamse singer-songwriter Berre begon in de coronatijd met het plaatsen van covers op TikTok, wat resulteerde in bijna tien miljoen views voor zijn versie van Freya Ridings' 'Lost Without You'. Inmiddels scoort hij met eigen werk, waaronder zijn debuutalbum 'I’ll Call You When I’m Home' (2024),…",
+          "url": "https://www.podiuminfo.nl/concert/464935/Berre/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "449878",
+          "title": "Djavan",
+          "start": "2026-09-27T20:30:00+02:00",
+          "end": "2026-09-27T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Braziliaanse zanger Djavan (met Nederlandse roots) viert in 2026 zijn 50-jarige muzikale carrière met zijn zesentwintigste album Improviso (verscheen eind 2025) en een uitgebreide wereldtournee. De sympathieke singer-songwriter staat bekend om zijn elegante mix van samba, jazz en pop en…",
+          "url": "https://www.podiuminfo.nl/concert/449878/Djavan/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "473387",
+          "title": "The Olllam",
+          "start": "2026-09-27T21:00:00+02:00",
+          "end": "2026-09-27T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "The Olllam combineert rauwe postfunk uit Detroit met Ierse traditionele muziek, wat resulteert in een unieke muzikale ervaring. Het collectief werd in 2012 opgericht rond doedelzakspeler John McSherry uit Belfast en funkbassist Joe Dart, bekend van Vulfpeck en Fearless Flyers. De naam The Olllam,…",
+          "url": "https://www.podiuminfo.nl/concert/473387/The-Olllam/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2225,6 +2287,18 @@
           "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zondag-1100-1v1-the-hobbit-2/",
           "tags": [
             "Pre-release"
+          ]
+        },
+        {
+          "id": "lab-monkey-11402",
+          "title": "Ladies Knight",
+          "start": "2026-09-29T19:00:00+02:00",
+          "end": "2026-09-29T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het…",
+          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
+          "tags": [
+            "Ladies'(K)night"
           ]
         }
       ]
@@ -2455,35 +2529,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-salsa-nights-elke-woensdag-54",
-          "title": "Salsa Nights – elke woensdag door Fuego Tropical",
-          "start": "2026-09-23T00:00:00+02:00",
-          "end": "2026-09-23T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/salsa-nights-elke-woensdag-54/",
-          "tags": [
-            "Dans",
-            "Muziek",
-            "Workshop"
-          ]
-        },
-        {
-          "id": "beton-terra-nova",
-          "title": "Bouw samen een nieuwe wereld met Terra Nova Minimaatschappij",
-          "start": "2026-09-23T00:00:00+02:00",
-          "end": "2026-09-23T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/terra-nova/",
-          "tags": [
-            "Kinderen",
-            "Kunst",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-albumrelease",
           "title": ".multibeat Album Release",
           "start": "2026-09-24T00:00:00+02:00",
@@ -2495,6 +2540,107 @@
             "Gratis",
             "Muziek",
             "Kantine"
+          ]
+        },
+        {
+          "id": "beton-sustainable-fashion-workshop-de-creatiehallen",
+          "title": "Sustainable Fashion Workshop – De Creatiehallen",
+          "start": "2026-09-24T00:00:00+02:00",
+          "end": "2026-09-24T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/sustainable-fashion-workshop-de-creatiehallen/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-the-lyrebirds-live",
+          "title": "The Lyrebirds (live)",
+          "start": "2026-09-25T00:00:00+02:00",
+          "end": "2026-09-25T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/the-lyrebirds-live/",
+          "tags": [
+            "Gratis",
+            "Live muziek",
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-schotse-dansavond-ceilidh-2",
+          "title": "Schotse dansavond: Ceilidh",
+          "start": "2026-09-25T00:00:00+02:00",
+          "end": "2026-09-25T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schotse-dansavond-ceilidh-2/",
+          "tags": [
+            "Dans",
+            "Muziek"
+          ]
+        },
+        {
+          "id": "beton-keramiekmarkt-2",
+          "title": "Keramiekmarkt",
+          "start": "2026-09-26T00:00:00+02:00",
+          "end": "2026-09-26T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/keramiekmarkt-2/",
+          "tags": [
+            "Gratis",
+            "Markt"
+          ]
+        },
+        {
+          "id": "beton-pesta-pesta",
+          "title": "Pesta Pesta",
+          "start": "2026-09-26T00:00:00+02:00",
+          "end": "2026-09-26T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/pesta-pesta/",
+          "tags": [
+            "Dans",
+            "Gratis",
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-basvanholt",
+          "title": "Bas van Holt (live)",
+          "start": "2026-09-27T00:00:00+02:00",
+          "end": "2026-09-27T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/basvanholt/",
+          "tags": [
+            "Gratis",
+            "Live muziek",
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-de-betonnerie-tweedekansmarkt-13",
+          "title": "De Betonnerie XXL editie – tweedekansmarkt",
+          "start": "2026-09-27T00:00:00+02:00",
+          "end": "2026-09-27T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/de-betonnerie-tweedekansmarkt-13/",
+          "tags": [
+            "Eten / Drinken",
+            "Gratis",
+            "Markt",
+            "Muziek",
+            "Studio-T",
+            "Terras"
           ]
         }
       ]
@@ -4697,7 +4843,8 @@
           "description": "Netherlands Philharmonic Orchestra<BR>Dalia Stasevska, conductor<BR>Student Choir Amsterdam<BR>Toonkunstkoor Amsterdam<BR><BR>Last year Dalia Stasevska made her debut with the Netherlands Philharmonic with The Planets van Holst. Now, the engaging and successful Finnish-Ukrainian conductor conducts w",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -4764,7 +4911,18 @@
       "icon": "🏛️",
       "scene": "middeleeuwen",
       "feedUrl": "https://archeon.eu",
-      "events": []
+      "events": [
+        {
+          "id": "archeon-midwinterfair-2026",
+          "title": "Archeon Midwinter Fair 2026",
+          "start": "2026-12-12T11:00:00+01:00",
+          "end": "2026-12-13T23:00:00+01:00",
+          "location": "Archeon Museumpark, Alphen aan den Rijn",
+          "description": "Waar Fantasy en Historie samenkomen 12 &amp; 13 december 2026 Midwinter Fair | 22e editie Heel museumpark Archeon staat in het teken van de 22e Midwinter Fair, hét Winterse Fantasy festival van Nederland! Waan je in een magische wereld vol Heidense muziek, unieke producten op de Fantasy markt en…",
+          "url": "https://archeon.eu/midwinterfair/",
+          "tags": []
+        }
+      ]
     },
     {
       "id": "kommus-kasteelfestival",
@@ -5015,22 +5173,22 @@
         },
         {
           "id": "loevestein-rondleiding-2026-09",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Gelderse dag",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding Museumweek",
           "start": "2026-09-26T10:00:00+02:00",
-          "end": "2026-09-26T18:00:00+02:00",
+          "end": "2026-10-04T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {
-          "id": "loevestein-museumweek-2026-09",
-          "title": "Museumweek",
+          "id": "loevestein-gelderse-dag-2026-09",
+          "title": "Gelderse dag",
           "start": "2026-09-26T10:00:00+02:00",
-          "end": "2026-10-04T18:00:00+02:00",
+          "end": "2026-09-26T18:00:00+02:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/museumweek/",
+          "url": "https://www.slotloevestein.nl/agenda/gelderse-dag/",
           "tags": []
         },
         {

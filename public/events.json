@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T10:04:34.260Z",
+  "updatedAt": "2026-09-26T09:45:57.863Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17237",
-          "title": "PLOEGENDIENST + GRGY",
-          "start": "2026-09-25T20:00:00+02:00",
-          "end": "2026-09-25T23:30:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=79lwfhS_36E",
-          "url": "https://dbstudio.nl/event/ploegendienst/",
-          "tags": [
-            "Punk"
-          ]
-        },
         {
           "id": "17694",
           "title": "Metal Quiz & Karaoke",
@@ -133,11 +121,11 @@
         },
         {
           "id": "17669",
-          "title": "YELLOFOX",
+          "title": "YELLOFOX + Fenster",
           "start": "2026-10-07T20:00:00+01:00",
           "end": "2026-10-07T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=GgfWSwXHxls",
+          "description": "//www.youtube.com/watch?v=Fjnanjfp4Uc&list=RDFjnanjfp4Uc&start_radio=1",
           "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-yellofox/",
           "tags": [
             "70'S",
@@ -237,11 +225,11 @@
         },
         {
           "id": "17411",
-          "title": "WOLVENNEST (BE) + BEDSORE (IT)",
-          "start": "2026-10-20T20:00:00+01:00",
-          "end": "2026-10-20T23:30:00+01:00",
+          "title": "WOLVENNEST (BE) + BEDSORE (IT) + Vígljós",
+          "start": "2026-10-20T19:30:00+01:00",
+          "end": "2026-10-20T23:00:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=3IAVn1Dv3pU",
+          "description": "//www.youtube.com/watch?v=OdJ4ShOIJdw",
           "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-wolvennest-be-bedsore-it/",
           "tags": [
             "Black Metal",
@@ -405,6 +393,23 @@
             "Le Guess Who?",
             "U? Festival"
           ]
+        },
+        {
+          "id": "17610",
+          "title": "Le Guess Who? presents BLEAK SQUAD (Aus) + Jess Ribeiro (Aus)",
+          "start": "2026-11-08T14:00:00+01:00",
+          "end": "2026-11-08T17:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "//www.youtube.com/watch?v=3ml4lTvv7d8&list=RD3ml4lTvv7d8&start_radio=1",
+          "url": "https://dbstudio.nl/event/bleak-squad-aus-jess-ribeiro/",
+          "tags": [
+            "Alternative",
+            "Concert",
+            "Pop",
+            "Rock",
+            "Singer Song Writer",
+            "Slowcore"
+          ]
         }
       ]
     },
@@ -416,6 +421,26 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31424",
+          "title": "karaEKKO",
+          "start": "2026-10-15T23:00:00+01:00",
+          "end": "2026-10-16T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "U vraagt, wij draaien. Op 25 oktober brengt karaEKKO karaoke naar EKKO. Of ADÉLA nou helemaal jouw ding is of toch meer je inner Adela wil channelen met een prachtige Jan Smit cover, wij bieden het podium. Deze editie wordt gehost door de baddies van Keukengerei, terwijl (dj tba) je voor en na de…",
+          "url": "https://ekko.nl/event/karaekko-2/",
+          "tags": []
+        },
+        {
+          "id": "30854",
+          "title": "ZORA 2 YEAR ANNIVERSARY",
+          "start": "2026-10-17T23:30:00+01:00",
+          "end": "2026-10-18T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "ZORA biedt een podium voor ondervertegenwoordigde FLINTA-artiesten en presenteert samen met hen een mix van dynamische beats en eclectische genres. De muzikale programmering is levendig en beperkt zich nooit tot één genre. ZORA’s clubnachten brengen hoge BPMs met een speelse sfeer en een rauw…",
+          "url": "https://ekko.nl/event/zora-2-year-anniversary/",
+          "tags": []
+        },
         {
           "id": "31582",
           "title": "Mood Bored",
@@ -434,16 +459,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Wegens grote vraag naar tickets is deze show verplaatst van ACU naar EKKO. Library Card maakt compromisloze gitaarmuziek waarin hoekige postpunk, explosieve garage en meeslepende post-rock voortdurend in elkaar overvloeien. Gedragen door de scherpe spoken word van Lot van Teylingen en instrumentals…",
           "url": "https://ekko.nl/event/library-card/",
-          "tags": []
-        },
-        {
-          "id": "31424",
-          "title": "karaEKKO",
-          "start": "2026-10-15T23:00:00+01:00",
-          "end": "2026-10-16T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "U vraagt, wij draaien. Op 25 oktober brengt karaEKKO karaoke naar EKKO. Of ADÈLA nou helemaal jouw ding is of toch meer je inner Adela wil channelen met een prachtige Jan Smit cover, wij bieden het podium. Deze editie wordt gehost Keukengerei, een energiek rap-trio uit Utrecht.",
-          "url": "https://ekko.nl/event/karaekko-2/",
           "tags": []
         },
         {
@@ -737,16 +752,6 @@
           "tags": []
         },
         {
-          "id": "30718",
-          "title": "Diep In De Groef",
-          "start": "2026-09-25T23:30:00+02:00",
-          "end": "2026-09-26T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-226/",
-          "tags": []
-        },
-        {
           "id": "29789",
           "title": "Gilla Band",
           "start": "2027-01-25T20:00:00+01:00",
@@ -894,16 +899,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Het concert van My First Time is helaas afgelast, kaartkopers zijn hierover geïnformeerd per e-mail. My First Time is een opkomend viertal uit Bristol dat dansbare postpunk, thrashy pop en scherpe satire samenbrengt in een energieke en eigenzinnige sound. Geïnspireerd door zowel de alledaagse…",
           "url": "https://ekko.nl/event/my-first-time/",
-          "tags": []
-        },
-        {
-          "id": "30854",
-          "title": "ZORA 2 YEAR ANNIVERSARY",
-          "start": "2026-10-17T23:30:00+01:00",
-          "end": "2026-09-18T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "ZORA biedt een podium voor ondervertegenwoordigde FLINTA-artiesten en presenteert samen met hen een mix van dynamische beats en eclectische genres. De muzikale programmering is levendig en beperkt zich nooit tot één genre. ZORA’s clubnachten brengen hoge BPMs met een speelse sfeer en een rauw…",
-          "url": "https://ekko.nl/event/zora-2-year-anniversary/",
           "tags": []
         },
         {
@@ -1156,26 +1151,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-dice-25-09-2026",
-          "title": "DICE",
-          "start": "2026-09-25T20:00:00+02:00",
-          "end": "2026-09-25T23:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Zonovergoten indiepoprock voor in het hier en nu",
-          "url": "https://dehelling.nl/agenda/dice-25-09-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-terug-in-de-tijd-25-09-2026",
-          "title": "Terug in de Tijd",
-          "start": "2026-09-25T23:00:00+02:00",
-          "end": "2026-09-26T04:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Terug naar de beste herinneringen uit 2016-2020",
-          "url": "https://dehelling.nl/agenda/terug-in-de-tijd-25-09-2026/",
-          "tags": []
-        },
         {
           "id": "helling-state-power-release-show-26-09-2026",
           "title": "State Power release show",
@@ -1867,26 +1842,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "489607",
-          "title": "Hush",
-          "start": "2026-09-25T23:55:00+02:00",
-          "end": "2026-09-26T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Hush brengt housemuziek tot leven, met kwaliteit voor liefhebbers en een warm welkom voor een nieuwe generatie. Het is dé plek voor onvergetelijke house vibes. DJ Benny Rodrigues keert weer terug, bekend om zijn jarenlange aanwezigheid aan de top van de Nederlandse house scene, zijn brede muzikale…",
-          "url": "https://www.podiuminfo.nl/concert/489607/Hush/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490807",
-          "title": "Pop-O-Matic",
-          "start": "2026-09-25T23:55:00+02:00",
-          "end": "2026-09-26T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Pop-O-Matic transformeert Pandora tot dé veelzijdige dansvloer van UUU. DJ St. Paul en VJ Switchdoctor slingeren tijdens deze dé popnacht van UUU diverse stijlen, tijden en subculturen in de smeltpan. Muzikaal gezien blijft de avond altijd scherp en bovenop de trend, met een eclectische mix van…",
-          "url": "https://www.podiuminfo.nl/concert/490807/Pop-O-Matic/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "490994",
           "title": "Ambrosia Ecstatic Rave XXL",
           "start": "2026-09-26T12:00:00+02:00",
@@ -2095,6 +2050,36 @@
           "description": "Afgelopen twee jaar konden we niet om hem heen. Douwe Bob was in 2024 de meest gedraaide Nederlandse artiest op de radio, speelde shows op festivals, theaters, de AFAS en was veelvuldig te zien op tv. Ondertussen werkt hij vol enthousiasme door aan alweer zijn zevende studio album dat in april 2026…",
           "url": "https://www.podiuminfo.nl/concert/451807/Douwe-Bob-Outcast-Town/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "479006",
+          "title": "Pieces of Tomorrow - Mendelssohn 4",
+          "start": "2026-10-01T21:00:00+02:00",
+          "end": "2026-10-01T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Pop en klassiek smelten samen in Pieces of Tomorrow: klassiek in een nieuw jasje. In ruim een uur hoor je fragmenten uit meesterwerken die je eens live gehoord móét hebben. Neem je drankje mee de zaal in, laat visuals en licht de muziek versterken en geniet van de pure sound van een voltallig…",
+          "url": "https://www.podiuminfo.nl/concert/479006/Pieces-of-Tomorrow-Mendelssohn-4/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "495410",
+          "title": "ULTRAJAZZ jamsessie",
+          "start": "2026-10-01T21:00:00+02:00",
+          "end": "2026-10-01T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Rabo Open Stage staat elke donderdagavond in het teken van jazz, talentontwikkeling en muzikale ontmoeting. Onder de vlag van ULTRAJAZZ organiseren Kika Sprangers en Bob Roos om de week bruisende jamsessies. Deze specifieke sessie staat onder leiding van Bob Roos. Elke sessie begint met een…",
+          "url": "https://www.podiuminfo.nl/concert/495410/ULTRAJAZZ-jamsessie/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "473390",
+          "title": "Jong JOC - Lunchconcert Jazz",
+          "start": "2026-10-02T12:30:00+02:00",
+          "end": "2026-10-02T13:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Lunchconcert op vrijdag 2 oktober wordt verzorgd door het JONG JOC. Dit gezelschap, bestaande uit muzikanten van twaalf tot achttien jaar, ademt de toekomst van jazz. Ieder jaar ontstaat een nieuwe incarnatie tijdens een bootcamp-weekend rond Pasen. Met het daaruit voortkomende repertoire…",
+          "url": "https://www.podiuminfo.nl/concert/473390/Jong-JOC-Lunchconcert-Jazz/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2172,6 +2157,16 @@
           "end": "2026-09-30T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Koning van de Krotten Wed 30/9 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "609622",
+          "title": "FRONTIER SCUM - Acid Western Roleplaying",
+          "start": "2026-10-07T19:00:00+02:00",
+          "end": "2026-10-07T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "FRONTIER SCUM - Acid Western Roleplaying Wed 7/10 7-10pm at Subcultures @Silver Heron Studios English, Frontier Scum Written by Karl Druid FRONTIER SCUM is a rules-lite Acid Western roleplaying game. A self-destructive, violent and LSD-infused take on Spaghetti Westerns, about wanted outlaws making…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2549,34 +2544,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-keramiekmarkt-2",
-          "title": "Keramiekmarkt",
-          "start": "2026-09-26T00:00:00+02:00",
-          "end": "2026-09-26T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/keramiekmarkt-2/",
-          "tags": [
-            "Gratis",
-            "Markt"
-          ]
-        },
-        {
-          "id": "beton-pesta-pesta",
-          "title": "Pesta Pesta",
-          "start": "2026-09-26T00:00:00+02:00",
-          "end": "2026-09-26T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/pesta-pesta/",
-          "tags": [
-            "Dans",
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-basvanholt",
           "title": "Bas van Holt (live)",
           "start": "2026-09-27T00:00:00+02:00",
@@ -2647,6 +2614,34 @@
             "Kinderen",
             "Workshop",
             "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-40",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-09-28T00:00:00+02:00",
+          "end": "2026-09-28T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-40/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-18",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-09-28T00:00:00+02:00",
+          "end": "2026-09-28T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-18/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
           ]
         }
       ]
@@ -2759,19 +2754,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001501-1790380740-1790402400",
-          "title": "BASIS/ Stan Christ all night long",
-          "start": "2026-09-25T23:59:00+02:00",
-          "end": "2026-09-26T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-stan-christ-all-night-long/",
-          "tags": [
-            "Hardtechno",
-            "Industrial"
-          ]
-        },
         {
           "id": "basis-utrecht-10001497-1790467140-1790488800",
           "title": "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ Newtone/ Roos Reijmers",
@@ -4985,8 +4967,7 @@
           "url": "https://archeon.eu/midwinterfair/",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "kommus-kasteelfestival",
@@ -6582,17 +6563,6 @@
           "tags": []
         },
         {
-          "id": "bi-1.-eisencup-2026",
-          "title": "1. Eisencup 2026",
-          "start": "2026-09-26T00:00:00+02:00",
-          "end": "2026-09-26T23:00:00+02:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/1.-eisencup-2026",
-          "tags": []
-        },
-        {
           "id": "bi-v.-veszprém-medieval-day",
           "title": "V. Veszprém Medieval Day 2026",
           "start": "2026-10-10T00:00:00+01:00",
@@ -6601,28 +6571,6 @@
           "country": "Hungary",
           "description": "Buhurt-toernooi in Hungary.",
           "url": "https://www.buhurtinternational.com/tournament/v.-veszprém-medieval-day",
-          "tags": []
-        },
-        {
-          "id": "bi-alpine-warrior-2027",
-          "title": "Alpine Warrior 2027",
-          "start": "2027-05-01T00:00:00+02:00",
-          "end": "2027-05-01T23:00:00+02:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
-          "tags": []
-        },
-        {
-          "id": "bi-tavola-rotonda-2026",
-          "title": "Tavola Rotonda 2026",
-          "start": "2026-09-26T00:00:00+02:00",
-          "end": "2026-09-26T23:00:00+02:00",
-          "location": "Italy",
-          "country": "Italy",
-          "description": "Buhurt-toernooi in Italy.",
-          "url": "https://www.buhurtinternational.com/tournament/tavola-rotonda-2026",
           "tags": []
         },
         {
@@ -6684,6 +6632,20 @@
           "url": "https://brommerritten.nl/ritten/kcon-boekelo-tour/",
           "tags": [
             "Bromfiets"
+          ],
+          "country": "Nederland"
+        },
+        {
+          "id": "brommerritten-nl-1904",
+          "title": "Motor- en brommerrit de Pub Waarland",
+          "start": "2026-09-27T11:30:00+02:00",
+          "end": "2026-09-27T16:00:00+02:00",
+          "location": "Veluweweg 14 Waarland, Waarland (Noord-Holland)",
+          "description": "Zondag 27 september is het weer zover de Motor en brommer toertocht van de pub. De koffie staat om 11.30 uur klaar En we vertrekken om 12.00 uur met volle tank Om rond 16.00 uur terug te zijn bij de pub. Om ff gezellig na te praten. Het rijden is op eigen risico Gr johnny v d pub",
+          "url": "https://brommerritten.nl/ritten/motor-en-brommerrit-de-pub-waarland/",
+          "tags": [
+            "Bromfiets",
+            "Motor"
           ],
           "country": "Nederland"
         },

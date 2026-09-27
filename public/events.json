@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:45:57.863Z",
+  "updatedAt": "2026-09-27T10:25:43.007Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,31 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17694",
-          "title": "Metal Quiz & Karaoke",
-          "start": "2026-09-26T19:30:00+02:00",
-          "end": "2026-09-26T23:30:00+02:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "METAL KARAOKE!\nOf je nu klinkt als Rob Halford of een kettingzaag in de regen — het podium is van jou. Niet zo’n metalhead, maar wél karaokegek?\nZing je favoriete Mariah Carey, maar je grunt wel eerst de eerste zin. Regels zijn regels, ook voor glitterdiva’s. Kom headbangen, lachen, winnen en…",
-          "url": "https://dbstudio.nl/event/metal-quiz-karaoke/",
-          "tags": [
-            "Cafe",
-            "Metal Quiz & Karaoke"
-          ]
-        },
-        {
-          "id": "16730",
-          "title": "Ballroom Blitz",
-          "start": "2026-09-26T23:00:00+02:00",
-          "end": "2026-09-27T03:00:00+02:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "𝟬𝟬 \nWe zien je graag djensen en glibberen op onze dansvloer!",
-          "url": "https://dbstudio.nl/event/ballroom-blitz-8/",
-          "tags": [
-            "Ballroom Blitz"
-          ]
-        },
         {
           "id": "17757",
           "title": "PopPubQuiz Live",
@@ -332,24 +307,12 @@
           ]
         },
         {
-          "id": "17232",
-          "title": "Jan Schellink 70 jaar!! in levende lijve",
-          "start": "2026-11-01T15:00:00+01:00",
-          "end": "2026-11-01T19:00:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Met een keur aan steengoeie & knal kleurrijke artiesten.\nDe Complete Line up zal naarmate het jaar vordert bekend worden. \nDenk aan wat je niet verwacht, met een eenmalig hoog WTF !! en HUH ??\ngehalte.\nJan’s vaste ‘handelsmerk” \n(De Straalkielen (zie foto) al zeker en vast)\nNoteren alvast ! die…",
-          "url": "https://dbstudio.nl/event/jan-schellink-70-jaar-in-levende-lijve/",
-          "tags": [
-            "Jan Schellinks circus van verbazing"
-          ]
-        },
-        {
           "id": "17874",
           "title": "70 jaar alweer",
           "start": "2026-11-01T15:00:00+01:00",
           "end": "2026-11-01T19:00:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Marie Maanlicht. Erik Dijkstra. Kirsten de Meijer. Raymond Elvis.\nDE CRISTALCAVE EXPERIENCE met Anthony Davis op drums en Jan op Bas PLUS verrassende gasten. \nReken op verassingen tussen al!! het verrassends hierboven door.",
+          "description": "Marie Maanlicht. Erik Dijkstra. Kirsten de Meijer.\nDE CRISTALCAVE EXPERIENCE met Anthony Davis op drums en Jan op Bas PLUS verrassende gasten. \nReken op verassingen tussen al!! het verrassends hierboven door.",
           "url": "https://dbstudio.nl/event/jan-schellink-70-jaar-alweer/",
           "tags": []
         },
@@ -410,6 +373,40 @@
             "Singer Song Writer",
             "Slowcore"
           ]
+        },
+        {
+          "id": "17770",
+          "title": "VALS ALARM",
+          "start": "2026-11-12T20:00:00+01:00",
+          "end": "2026-11-12T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "//www.youtube.com/watch?v=KTjND033GvE",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-vals-alarm/",
+          "tags": [
+            "Punk"
+          ]
+        },
+        {
+          "id": "17912",
+          "title": "HORIZONTOER AAN WAL",
+          "start": "2026-11-13T18:00:00+01:00",
+          "end": "2026-11-14T01:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Horizontoer brengt elk jaar opkomend talent samen op de Wadden. Artiesten, festivalgangers en organisatie die samen van eiland naar eiland varen op klassieke platbodems. In die gezamenlijke reis ontstaan nieuwe samenwerkingen, vriendschappen en muziek die je nergens anders hoort. \nDit najaar meert…",
+          "url": "https://dbstudio.nl/event/horizontoer/",
+          "tags": [
+            "DIY"
+          ]
+        },
+        {
+          "id": "18057",
+          "title": "Donker Dansen - Darker Levels",
+          "start": "2026-11-14T20:00:00+01:00",
+          "end": "2026-11-15T03:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Donker Dansen is na een hete zomer weer terug met een avond vol techno. Verwacht bij deze darker levels editie een opbouwende avond met meerdere niveaus van techno. Laat je prikkelen door donkere geluiden en ontdek nieuwe frisse sounds. Houd voor de line-up onze Website en socials in de gaten!…",
+          "url": "https://dbstudio.nl/event/donker-dansen-darker-levels/",
+          "tags": []
         }
       ]
     },
@@ -582,16 +579,6 @@
           "tags": []
         },
         {
-          "id": "28785",
-          "title": "Jesse Hoefnagels",
-          "start": "2026-09-26T20:30:00+02:00",
-          "end": "2026-09-26T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Jesse Hoefnagels maakt elektronische muziek op het snijvlak van alternatieve pop en melancholische clubmuziek, waarin persoonlijke Nederlandstalige teksten centraal staan. Zijn tweeluik ‘Wakker in het donker’ en ‘Dichter bij de dag’ draait om thema’s als liefdesverdriet en zelfreflectie. Live…",
-          "url": "https://ekko.nl/event/jesse-hoefnagels/",
-          "tags": []
-        },
-        {
           "id": "28608",
           "title": "Kaat Van Stralen",
           "start": "2026-11-27T20:00:00+01:00",
@@ -719,16 +706,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Canadese folkartiesten Haley Blais en Sam Lynch slaan de handen ineen als True Mountain Laurel. Verwacht warme samenzang, akoestische folk en country-invloeden, met een flinke dosis indie en melancholie. Dit is ook te horen op hun debuutalbum &#8216;Angel So Bad&#8217;, dat in september 2026…",
           "url": "https://ekko.nl/event/true-mountain-laurel/",
-          "tags": []
-        },
-        {
-          "id": "31245",
-          "title": "NFF Clubnight x MAXI",
-          "start": "2026-09-26T23:30:00+02:00",
-          "end": "2026-09-27T04:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het Nederlands Film Festival neemt in samenwerking met queer collectief MAXI de nacht van EKKO over. Verwacht een kleurrijke nacht vol queer en femme artiesten die elektronische, high-energy dj sets naar onze dansvloer op de Bemuurde Weerd brengen. Alice Olsthoorn (dj set) Artiest, dj en producent…",
-          "url": "https://ekko.nl/event/nff-clubnight-x-maxi/",
           "tags": []
         },
         {
@@ -1151,16 +1128,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-state-power-release-show-26-09-2026",
-          "title": "State Power release show",
-          "start": "2026-09-26T18:30:00+02:00",
-          "end": "2026-09-27T01:00:00+02:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Utrechts nieuwe hardcore-revelatie lanceert debuutalbum met mini-festival",
-          "url": "https://dehelling.nl/agenda/state-power-release-show-26-09-2026/",
-          "tags": []
-        },
         {
           "id": "helling-nff-x-030-29-09-2026",
           "title": "NFF x 030",
@@ -1842,66 +1809,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "490994",
-          "title": "Ambrosia Ecstatic Rave XXL",
-          "start": "2026-09-26T12:00:00+02:00",
-          "end": "2026-09-26T13:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Ambrosia Ecstatic Rave XXL belooft een energieke bijeenkomst van duizenden enthousiastelingen. Dit evenement is meer dan een doorsnee editie; het is een statement dat nuchter raven allesbehalve saai is. De organisatie benadrukt dat deze Ambrosia-editie de geschiedenisboeken in zal gaan, en nodigt…",
-          "url": "https://www.podiuminfo.nl/concert/490994/Ambrosia-Ecstatic-Rave-XXL/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "484695",
-          "title": "HERA by Kika Sprangers",
-          "start": "2026-09-26T20:00:00+02:00",
-          "end": "2026-09-26T21:00:00.000Z",
-          "location": "Pieterskerk, Pieterskerkhof 3, Utrecht",
-          "description": "HERA van Kika Sprangers brengt de saxofoniste samen met negen vrouwenstemmen voor een avond vol kleurrijke melancholie. In de akoestiek van de Sint Pieterskerk versmelten lyrische saxofoonklanken met karakteristieke vrouwenstemmen, puur akoestisch. Kika Sprangers, bekend van haar werk met vocale…",
-          "url": "https://www.podiuminfo.nl/concert/484695/HERA-by-Kika-Sprangers/Pieterskerk/",
-          "tags": []
-        },
-        {
-          "id": "492353",
-          "title": "Afrolounge",
-          "start": "2026-09-26T20:00:00+02:00",
-          "end": "2026-09-26T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Afrolounge keert terug naar Danel en biedt een 'Afro Experience' met muziek, cultuur en verbinding. Bezoekers kunnen dansen op Afrobeats, Amapiano en Afro House, genieten van cocktails en nieuwe connecties maken in een warme gemeenschapsvibe. Het evenement is een plek waar Afro Utrecht samenkomt…",
-          "url": "https://www.podiuminfo.nl/concert/492353/Afrolounge/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "474863",
-          "title": "40UP",
-          "start": "2026-09-26T21:00:00+02:00",
-          "end": "2026-09-26T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Tijdens de 40UP-avond kunnen bezoekers naar hartenlust dansen op een selectie van fijne muziek uit de jaren '80 tot nu. Op grote schermen worden originele videoclips vertoond, wat zorgt voor een groot feest der herkenning en een nostalgische trip down memory lane. De sfeer op de dansvloer is altijd…",
-          "url": "https://www.podiuminfo.nl/concert/474863/40UP/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "479115",
-          "title": "Turkish Pop Night by DJ Denden",
-          "start": "2026-09-26T21:00:00+02:00",
-          "end": "2026-09-26T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Turkish Pop Night brengt een stukje Istanboels nachtleven naar Utrecht, met een warme, luide en energieke sfeer op de dansvloer. Verwacht een avond vol Turkse popmuziek, van anthems uit de jaren '90 en '00 tot actuele hits en edits. De muziek beweegt tussen meezingmomenten en diepe, late-night…",
-          "url": "https://www.podiuminfo.nl/concert/479115/Turkish-Pop-Night-by-DJ-Denden/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "480613",
-          "title": "Alternative 80's - Just Like Heaven!",
-          "start": "2026-09-26T21:00:00+02:00",
-          "end": "2026-09-26T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Duik in de sfeer van de jaren '80 tijdens Alternative 80's in Cloud Nine, TivoliVredenburg. Tijdens deze clubavond laten de dj's je dansen op geliefde nummers die je zelden hoort, aangevuld met onvergetelijke publieksfavorieten. De avond staat in het teken van de glorietijd van new wave en…",
-          "url": "https://www.podiuminfo.nl/concert/480613/Alternative-80s-Just-Like-Heaven!/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "457396",
           "title": "Flat Earth Society - The Coltrane Mutations",
           "start": "2026-09-27T15:00:00+02:00",
@@ -2080,6 +1987,56 @@
           "description": "Het Lunchconcert op vrijdag 2 oktober wordt verzorgd door het JONG JOC. Dit gezelschap, bestaande uit muzikanten van twaalf tot achttien jaar, ademt de toekomst van jazz. Ieder jaar ontstaat een nieuwe incarnatie tijdens een bootcamp-weekend rond Pasen. Met het daaruit voortkomende repertoire…",
           "url": "https://www.podiuminfo.nl/concert/473390/Jong-JOC-Lunchconcert-Jazz/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "481317",
+          "title": "Bohem",
+          "start": "2026-10-02T15:00:00+02:00",
+          "end": "2026-10-02T16:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Bohèm, een muzikale samenwerking tussen Arthur Bont en Bettina Kraaieveld, treedt op in de Vrije Ruimte van TivoliVredenburg. Hun partnerschap, dat begon met een gezamenlijke inzending voor het Nationaal Songfestival, heeft zich ontwikkeld tot een inspirerende samenwerking. In maart 2026 brachten…",
+          "url": "https://www.podiuminfo.nl/concert/481317/Bohem/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "445146",
+          "title": "Orange Jazz Days 2026",
+          "start": "2026-10-02T16:00:00+02:00",
+          "end": "2026-10-02T17:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "passe-partout - Orange Jazz Days komt terug! De Nederlandse Jazz laat haar innovatieve en rijke traditie zien tijdens dit festival in TivoliVredenburg. Met exclusieve premières en speciale samenwerkingen ontdek je de avontuurlijkste kant van de Nederlandse jazz!",
+          "url": "https://www.podiuminfo.nl/concert/445146/Orange-Jazz-Days-2026/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "450698",
+          "title": "Snelle",
+          "start": "2026-10-02T19:45:00+02:00",
+          "end": "2026-10-02T20:45:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Nederlandse zanger/rapper Snelle brak in 2019 door met Reünie en sindsdien is deze zelfbenoemde ‘Hollandse dorpsjongen’ dankzij een flinke reeks hits (Blijven Slapen, Smoorverliefd, Kleur) niet meer weg te denken uit de Nederpop. Zijn naam indachtig pakt Snelle lekker door: in 2025 viel hij op…",
+          "url": "https://www.podiuminfo.nl/concert/450698/Snelle/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "456977",
+          "title": "Daft Funk Live",
+          "start": "2026-10-02T20:30:00+02:00",
+          "end": "2026-10-02T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Engelse tributeband Daft Funk Live, opgericht in 2018 door twee broers, heeft als doel het werk van Daft Punk live te brengen, maar dan Harder, Better, Faster Stronger. Ze hebben wereldwijd al meer dan honderd shows gedaan met live-instrumenten, elektronica en een gesynchroniseerde lichtshow.…",
+          "url": "https://www.podiuminfo.nl/concert/456977/Daft-Funk-Live/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "489194",
+          "title": "Dirty House: BOVSKI, Vato Gonzalez, FJDR",
+          "start": "2026-10-02T23:30:00+02:00",
+          "end": "2026-10-03T00:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Vrijdag 2 oktober staat in het teken van de 'dirty house-sandwich' van dj Vato Gonzalez, die dit keer vergezeld wordt door BOVSKI en FJDR. FJDR opent de avond met een energieke mix van house, UK garage en opzwepende beats. Daarna neemt BOVSKI het over, bekend van nummers als 'Low Again' en zijn…",
+          "url": "https://www.podiuminfo.nl/concert/489194/Dirty-House-BOVSKI-Vato-Gonzalez-FJDR/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2161,6 +2118,16 @@
           "tags": []
         },
         {
+          "id": "609646",
+          "title": "The Eternal Grind Cafe (Beginner friendly)",
+          "start": "2026-09-30T19:00:00+02:00",
+          "end": "2026-09-30T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "The Eternal Grind Cafe (Beginner friendly) Wed 30/9 7-10pm at Subcultures @De Bierkantine English, Indie RPG Written by Olga Patijn The Eternal Grind Cafe plays with existing characters from any system. The gods have played a cruel joke on your character. As a form of divine punishment, you must…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "609622",
           "title": "FRONTIER SCUM - Acid Western Roleplaying",
           "start": "2026-10-07T19:00:00+02:00",
@@ -2202,11 +2169,11 @@
         },
         {
           "id": "609401",
-          "title": "Wanderhome - bonfire season",
+          "title": "Wanderhome - bonfire season (beginner friendly!)",
           "start": "2026-10-07T19:00:00+02:00",
           "end": "2026-10-07T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - bonfire season Wed 7/10 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with grassy fields,…",
+          "description": "Wanderhome - bonfire season (beginner friendly!) Wed 7/10 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2281,18 +2248,6 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-23413",
-          "title": "Prerelease Ticket – Zaterdag 11:00 – 1v1 – Reality Fracture",
-          "start": "2026-09-26T11:00:00+02:00",
-          "end": "2026-09-26T17:00:00+02:00",
-          "location": "t Lab, Utrecht",
-          "description": "Een nieuwe set betekend een prerelease! Let op wij beginnen om 11:00! Je krijgt 6 boosters, een random foil en natuurlijk de befaamde spindown dobbelsteen. Deelnamekosten: €45,-. We spelen 4 rondes Swiss (je kunt elke ronde spelen). Per speler gaat er 1.5 Play Booster in de prijzenpot. Bestel hier…",
-          "url": "https://www.lab-monkey.nl/event_new/prerelease-ticket-zaterdag-1100-1v1-reality-fracture/",
-          "tags": [
-            "Pre-release"
-          ]
-        },
-        {
           "id": "lab-monkey-23416",
           "title": "Prerelease Ticket – Zondag 11:00 – 1v1 – Reality Fracture",
           "start": "2026-09-27T18:00:00+02:00",
@@ -2305,6 +2260,18 @@
           ]
         },
         {
+          "id": "lab-monkey-23538",
+          "title": "Commander Tuesday",
+          "start": "2026-09-29T18:00:00+02:00",
+          "end": "2026-09-29T23:00:00+02:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 40 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-245/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
           "start": "2026-09-29T19:00:00+02:00",
@@ -2314,6 +2281,18 @@
           "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
           "tags": [
             "Ladies'(K)night"
+          ]
+        },
+        {
+          "id": "lab-monkey-23540",
+          "title": "Weekly Draft",
+          "start": "2026-10-01T19:00:00+01:00",
+          "end": "2026-10-01T23:00:00+01:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €24,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-128/",
+          "tags": [
+            "Draft"
           ]
         }
       ]
@@ -2544,38 +2523,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-basvanholt",
-          "title": "Bas van Holt (live)",
-          "start": "2026-09-27T00:00:00+02:00",
-          "end": "2026-09-27T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/basvanholt/",
-          "tags": [
-            "Gratis",
-            "Live muziek",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-de-betonnerie-tweedekansmarkt-13",
-          "title": "De Betonnerie XXL editie – tweedekansmarkt",
-          "start": "2026-09-27T00:00:00+02:00",
-          "end": "2026-09-27T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/de-betonnerie-tweedekansmarkt-13/",
-          "tags": [
-            "Eten / Drinken",
-            "Gratis",
-            "Markt",
-            "Muziek",
-            "Studio-T",
-            "Terras"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-18",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-09-28T00:00:00+02:00",
@@ -2642,6 +2589,33 @@
             "Fashion",
             "Workshop",
             "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-cafe-pause-ai-lezing-alles-over-ai",
+          "title": "Café Pause AI – Lezing: Alles over AI",
+          "start": "2026-09-29T00:00:00+02:00",
+          "end": "2026-09-29T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cafe-pause-ai-lezing-alles-over-ai/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-lunchtalk-merwede",
+          "title": "Lunch Talk Merwede",
+          "start": "2026-09-29T00:00:00+02:00",
+          "end": "2026-09-29T00:00:00+02:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lunchtalk-merwede/",
+          "tags": [
+            "Gratis",
+            "Kantine"
           ]
         }
       ]
@@ -2754,19 +2728,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001497-1790467140-1790488800",
-          "title": "BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ Newtone/ Roos Reijmers",
-          "start": "2026-09-26T23:59:00+02:00",
-          "end": "2026-09-27T06:00:00+02:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-brent-honey-fka-m4a-jay-jackson-newtone-roos-reijmers/",
-          "tags": [
-            "Hard house",
-            "House"
-          ]
-        },
         {
           "id": "basis-utrecht-10001515-1790982000-1791007200",
           "title": "BASIS/ DEF/ Genetica/ LESSSS/ Santøs",
@@ -3089,26 +3050,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "72308",
-          "title": "Studio Ghibli in Concert",
-          "start": "2026-09-26T20:00:00.000Z",
-          "end": "2026-09-26T23:00:00.000Z",
-          "location": "Bruxelles / Brussel (Brussels), Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72308",
-          "description": "Studio Ghibli In Concert<BR>A Tribute to the music of Joe Hisaishi<BR>By the fans, for the fans<BR><BR>After the success of the first tour in Belgium, the Netherlands and France, Studio Ghibli is coming back to Brussels in Concert, bigger than ever! The magical atmosphere, 60 artists on stage, the e",
-          "tags": []
-        },
-        {
-          "id": "75861",
-          "title": "Undertale: The Determination Symphony",
-          "start": "2026-09-26T20:00:00.000Z",
-          "end": "2026-09-26T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75861",
-          "description": "UNDERTALE: The Determination Symphony is an unforgettable concert experience featuring the most memorable themes from the popular indie game, specially rearranged and performed live by a 25-piece orchestra. With gameplay footage on a screen above the stage, the audience is fully immersed in the worl",
-          "tags": []
-        },
         {
           "id": "72309",
           "title": "Studio Ghibli in Concert",
@@ -5217,26 +5158,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-rondleiding-2026-09",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Rondleiding Voor kinderen Gelderse dag",
-          "start": "2026-09-26T10:00:00+02:00",
-          "end": "2026-09-26T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-museumweek-2026-09",
-          "title": "Museumweek",
-          "start": "2026-09-26T10:00:00+02:00",
-          "end": "2026-10-04T18:00:00+02:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/museumweek/",
-          "tags": []
-        },
-        {
           "id": "loevestein-maand-van-de-geschiedenis-2026-10",
           "title": "Maand van de geschiedenis",
           "start": "2026-10-01T10:00:00+01:00",
@@ -6531,8 +6452,7 @@
             "Melee"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "buhurt-clubnights",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T11:33:07.826Z",
+  "updatedAt": "2026-09-29T11:13:07.099Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -125,11 +125,11 @@
         },
         {
           "id": "17584",
-          "title": "DEATHCHANT (USA)",
+          "title": "DEATHCHANT (USA) + Shitman",
           "start": "2026-10-14T20:00:00+01:00",
           "end": "2026-10-14T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=BoLkFI4PWcU",
+          "description": "//www.youtube.com/watch?v=i5NnLkhRB7A",
           "url": "https://dbstudio.nl/event/deathchant-usa/",
           "tags": [
             "Hard Rock",
@@ -148,7 +148,7 @@
         },
         {
           "id": "17379",
-          "title": "SONS OF THE CULTURE CLASH ( RUDEBOY + DJ DNA )",
+          "title": "SONS OF THE CULTURE CLASH ( RUDEBOY + DJ DNA )+ Zaphyria",
           "start": "2026-10-16T20:00:00+01:00",
           "end": "2026-10-16T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
@@ -176,7 +176,7 @@
         },
         {
           "id": "17588",
-          "title": "I PROMISED THE WORLD (USA)",
+          "title": "I PROMISED THE WORLD (USA) + Rosasharin (USA)",
           "start": "2026-10-18T20:00:00+01:00",
           "end": "2026-10-18T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
@@ -229,7 +229,7 @@
         },
         {
           "id": "17639",
-          "title": "MAQUINA. (PORT)",
+          "title": "MAQUINA. (PORT) + Feral",
           "start": "2026-10-23T20:00:00+01:00",
           "end": "2026-10-23T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
@@ -267,12 +267,26 @@
           ]
         },
         {
+          "id": "18082",
+          "title": "Frontaal Brouwerij Breda",
+          "start": "2026-10-30T16:00:00+01:00",
+          "end": "2026-10-30T19:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "00 uur.  Wij zorgen voor wat passende kleine hapjes.",
+          "url": "https://dbstudio.nl/event/tap-takeover-frontaal-brouwerij-breda/",
+          "tags": [
+            "Bier specials",
+            "Cafe",
+            "Tap Takeover"
+          ]
+        },
+        {
           "id": "17211",
-          "title": "TUSKY + RATS & DAGGERS",
+          "title": "TUSKY + Pomme-Grenade",
           "start": "2026-10-30T20:00:00+01:00",
           "end": "2026-10-30T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=2YIAxN88hrc",
+          "description": "//www.youtube.com/watch?v=WxXxGzbYc3Y",
           "url": "https://dbstudio.nl/event/tusky-rats-daggers/",
           "tags": [
             "MAGIC TOM & YURI",
@@ -364,11 +378,11 @@
         },
         {
           "id": "17770",
-          "title": "VALS ALARM",
+          "title": "VALS ALARM + Jackie & The Facts",
           "start": "2026-11-12T20:00:00+01:00",
           "end": "2026-11-12T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=KTjND033GvE",
+          "description": "//www.youtube.com/watch?v=x2e1OQvLHRA",
           "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-vals-alarm/",
           "tags": [
             "Punk"
@@ -395,20 +409,6 @@
           "description": "Donker Dansen is na een hete zomer weer terug met een avond vol techno. Verwacht bij deze darker levels editie een opbouwende avond met meerdere niveaus van techno. Laat je prikkelen door donkere geluiden en ontdek nieuwe frisse sounds. Houd voor de line-up onze Website en socials in de gaten!…",
           "url": "https://dbstudio.nl/event/donker-dansen-darker-levels/",
           "tags": []
-        },
-        {
-          "id": "17403",
-          "title": "EARLY JAMES (USA)",
-          "start": "2026-11-15T20:00:00+01:00",
-          "end": "2026-11-15T23:30:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=axq7kgy7Se8",
-          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-early-james-usa/",
-          "tags": [
-            "Blues",
-            "Country & Western",
-            "Folk"
-          ]
         }
       ]
     },
@@ -420,6 +420,46 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31646",
+          "title": "Pillowcase vol. 5",
+          "start": "2027-01-28T19:30:00+01:00",
+          "end": "2027-01-28T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Pillowcase is de concertavond van de shoegazeband Crashing, waar ze gelijkgestemde bands samenbrengen voor een avond vol dromerige gitaren, gelaagde sounds en stevige distortion. Voor de vijfde editie nodigen ze Girlhead en Turmeric uit in EKKO. Deze editie is extra bijzonder, want Pillowcase Vol.…",
+          "url": "https://ekko.nl/event/pillowcase-vol-5/",
+          "tags": []
+        },
+        {
+          "id": "31638",
+          "title": "Evanora Unlimited",
+          "start": "2026-12-02T20:00:00+01:00",
+          "end": "2026-12-02T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Evanora Unlimited is het muzikale universum van de in Oakland geboren en in Kroatië gevestigde artiest Orion Ohana. Verwacht een onvoorspelbare mix van experimentele pop, noise, elektronica en industriële beats, verpakt in een wereld waarin muziek, film, mode en performance samenkomen. Met releases…",
+          "url": "https://ekko.nl/event/evanora-unlimited/",
+          "tags": []
+        },
+        {
+          "id": "31322",
+          "title": "Nervous Breakdown Volume 2",
+          "start": "2026-10-30T19:30:00+01:00",
+          "end": "2026-10-30T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Heel veel hardcore punk in EKKO! Het genre heeft een frisse heropleving gekregen en er zijn genoeg Nederlandse acts die deze rauwe, energieke sound als geen ander weten te vangen. Nervous Breakdown is terug voor Volume 2, met opnieuw een avond vol felle riffs, razende drums en oprechte chaos. Dus…",
+          "url": "https://ekko.nl/event/nervous-breakdown-2/",
+          "tags": []
+        },
+        {
+          "id": "29626",
+          "title": "Ontaard",
+          "start": "2026-10-23T19:30:00+01:00",
+          "end": "2026-10-23T22:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Ontaard is een Utrechts viertal dat spoken word en een overweldigende geluidsmuur samenweeft tot post-metal die je grijpt en niet meer loslaat. De teksten van Shira zijn feministisch en emotioneel geladen met woede, verdriet en de hoop dat een betere wereld mogelijk is. Na optredens op Roadburn en…",
+          "url": "https://ekko.nl/event/ontaard/",
+          "tags": []
+        },
         {
           "id": "31250",
           "title": "Diep In De Groef",
@@ -661,16 +701,6 @@
           "tags": []
         },
         {
-          "id": "29626",
-          "title": "Ontaard",
-          "start": "2026-10-23T19:30:00+01:00",
-          "end": "2026-10-23T22:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ontaard is een Utrechts viertal dat spoken word en een overweldigende geluidsmuur samenweeft tot post-metal die je grijpt en niet meer loslaat. De teksten van Shira zijn feministisch en emotioneel geladen met woede, verdriet en de hoop dat een betere wereld mogelijk is. Na optredens op Roadburn en…",
-          "url": "https://ekko.nl/event/ontaard/",
-          "tags": []
-        },
-        {
           "id": "30680",
           "title": "Weval Presents: CLUB CHOROPHOBIA",
           "start": "2026-10-10T23:30:00+01:00",
@@ -698,16 +728,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Utrechtse muzikant FENNE schakelt moeiteloos tussen neo-soul, jazz en pop, met invloeden uit folk en elektronische muziek. Haar songs voelen als dagboekfragmenten vol verlangens, twijfels en dromerige verwachtingen. Dit verpakt ze allemaal in catchy melodieën en rijke harmonieën. Na haar laatste…",
           "url": "https://ekko.nl/event/fenne/",
-          "tags": []
-        },
-        {
-          "id": "31322",
-          "title": "Nervous Breakdown Volume 2",
-          "start": "2026-10-30T19:30:00+01:00",
-          "end": "2026-10-30T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Heel veel hardcore punk in EKKO! Het genre heeft een frisse heropleving gekregen en er zijn genoeg Nederlandse acts die deze rauwe, energieke sound als geen ander weten te vangen. Nervous Breakdown is terug voor Volume 2, met opnieuw een avond vol felle riffs, razende drums en oprechte chaos. Dus…",
-          "url": "https://ekko.nl/event/nervous-breakdown-2/",
           "tags": []
         },
         {
@@ -1383,7 +1403,7 @@
         {
           "id": "helling-momentum-iii-potochkine-vioflesh-silent-runners-01-11-2026",
           "title": "Momentum III – Potochkine + Vioflesh + Silent Runners",
-          "start": "2026-11-01T16:30:00+01:00",
+          "start": "2026-11-01T15:45:00+01:00",
           "end": "2026-11-01T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Mini new wave/postpunkfestival met o.a. Potochkine, Vioflesh en Dear Omen",
@@ -1541,6 +1561,26 @@
           "tags": []
         },
         {
+          "id": "helling-startblok-finale-26-11-2026",
+          "title": "Startblok Finale",
+          "start": "2026-11-26T20:15:00+01:00",
+          "end": "2026-11-26T23:30:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Utrechts muzikaal talent strijdt om de eerste plek in de finale van Startblok 2026",
+          "url": "https://dehelling.nl/agenda/startblok-finale-26-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-pann-25-27-11-2026",
+          "title": "PANN 25+",
+          "start": "2026-11-27T23:00:00+01:00",
+          "end": "2026-11-28T04:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Het leukste LHBTQIA+ event van Nederland",
+          "url": "https://dehelling.nl/agenda/pann-25-27-11-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-the-hillbilly-moonshiners-28-11-2026",
           "title": "The Hillbilly Moonshiners",
           "start": "2026-11-28T20:45:00+01:00",
@@ -1548,6 +1588,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Je favoriete hits in een bruinleren bluegrassjasje",
           "url": "https://dehelling.nl/agenda/the-hillbilly-moonshiners-28-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-10eurodance-28-11-2026",
+          "title": "10EURODANCE",
+          "start": "2026-11-28T23:30:00+01:00",
+          "end": "2026-11-29T04:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Ongegeneerd losgaan op de beste 90's eurodance hits en club bangers",
+          "url": "https://dehelling.nl/agenda/10eurodance-28-11-2026/",
           "tags": []
         },
         {
@@ -1821,16 +1871,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "476457",
-          "title": "Dizzee Rascal",
-          "start": "2026-09-28T20:00:00+02:00",
-          "end": "2026-09-28T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Engelse rapper Dizzee Rascal mogen we gerust de pionier van de grime noemen, het genre dat ontstond uit een mix van jungle, dancehall, hiphop en UK garage. Zijn debuutalbum Boy In Da Corner (2003) werd dankzij dit vernieuwende geluid en Dizzee’s onontkoombare mitrailleurflow meteen opgepikt door…",
-          "url": "https://www.podiuminfo.nl/concert/476457/Dizzee-Rascal/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "455713",
           "title": "Death Cab for Cutie",
           "start": "2026-09-29T20:00:00+02:00",
@@ -2038,6 +2078,16 @@
           "location": "Stadsklooster Utrecht, Kanaalstraat 198, Utrecht",
           "description": "De Amerikaanse singer-songwriter Lera Lynn, bekend om haar duistere, filmische americana, treedt op in het Stadsklooster Utrecht. Haar muziek wordt vaak vergeleken met artiesten als Mazzy Star, Sharon Van Etten en Lana Del Rey. Lynn kreeg in 2015 internationale bekendheid door haar optredens in een…",
           "url": "https://www.podiuminfo.nl/concert/470376/Lera-Lynn/Stadsklooster-Utrecht/",
+          "tags": []
+        },
+        {
+          "id": "491759",
+          "title": "Wasserette",
+          "start": "2026-10-03T23:55:00+02:00",
+          "end": "2026-10-04T00:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Op zaterdag 3 oktober wordt de Ronda opnieuw overspoeld door een mix van tropische klanken, waaronder Dancehall, Afro, R&B en Latin. Bezoekers kunnen zich opmaken voor een avond vol danspasjes en onvergetelijke ritmes in TivoliVredenburg. De Wasserette clubavond belooft een energieke sfeer waar de…",
+          "url": "https://www.podiuminfo.nl/concert/491759/Wasserette/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2523,33 +2573,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-cafe-pause-ai-lezing-alles-over-ai",
-          "title": "Café Pause AI – Lezing: Alles over AI",
-          "start": "2026-09-29T00:00:00+02:00",
-          "end": "2026-09-29T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/cafe-pause-ai-lezing-alles-over-ai/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-lunchtalk-merwede",
-          "title": "Lunch Talk Merwede",
-          "start": "2026-09-29T00:00:00+02:00",
-          "end": "2026-09-29T00:00:00+02:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/lunchtalk-merwede/",
-          "tags": [
-            "Gratis",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-salsa-nights-elke-woensdag-55",
           "title": "Salsa Nights – elke woensdag door Fuego Tropical",
           "start": "2026-09-30T00:00:00+02:00",
@@ -2561,6 +2584,33 @@
             "Dans",
             "Muziek",
             "Workshop"
+          ]
+        },
+        {
+          "id": "beton-lan-tine-super-smash",
+          "title": "LAN-tine: Super Smash",
+          "start": "2026-10-01T00:00:00+01:00",
+          "end": "2026-10-01T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lan-tine-super-smash/",
+          "tags": [
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-dansavond-emma",
+          "title": "Dansavond: Emma Champagne Queen!",
+          "start": "2026-10-02T00:00:00+01:00",
+          "end": "2026-10-02T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/dansavond-emma/",
+          "tags": [
+            "Dans",
+            "Gratis",
+            "Muziek",
+            "Kantine"
           ]
         }
       ]
@@ -2813,12 +2863,12 @@
           ]
         },
         {
-          "id": "basis-utrecht-10001522-1794146400-1794157200",
+          "id": "basis-utrecht-10001522-1794146400-1794171600",
           "title": "BASIS x Le Guess Who? // Listening Session U? / ... curated by Perry Gits",
           "start": "2026-11-08T14:00:00+01:00",
-          "end": "2026-11-08T17:00:00+01:00",
+          "end": "2026-11-08T21:00:00+01:00",
           "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//leguesswho.com/u/ \n… is a live electronic music platform exploring ambient and experimental sound. The first edition brings together local and international artists for an immersive day of live sets and sonic exploration. \nThe program centers Black sonic practitioners working across electronic,…",
+          "description": "//leguesswho.com/u/",
           "url": "https://clubbasis.nl/event/basis-x-le-guess-who-listening-session-u-curated-by-perry-gits/",
           "tags": [
             "Experimental",
@@ -2863,6 +2913,20 @@
           "url": "https://clubbasis.nl/event/basis-tassery-all-night-long/",
           "tags": [
             "Schranz"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001524-1795302000-1795327200",
+          "title": "BASIS/ Fenrick/ Hoesephine/ NORO$T/ Trias Kinetica",
+          "start": "2026-11-21T23:00:00+01:00",
+          "end": "2026-11-22T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-fenrick-hoesephine-norot-trias-kinetica/",
+          "tags": [
+            "Bounce",
+            "Hard house",
+            "Trance"
           ]
         },
         {
@@ -2931,7 +2995,7 @@
           "start": "2027-08-14T14:00:00+02:00",
           "end": "2027-08-14T21:00:00.000Z",
           "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
-          "description": "In het zand festival - sold out Zaterdag 14/08/2027 14:00 - 23:00 binnenkort meer info",
+          "description": "In het zand festival Zaterdag 14/08/2027 14:00 - 23:00 binnenkort meer info",
           "url": "https://soia.nl/agenda/in-het-zand/",
           "tags": []
         }
@@ -3997,7 +4061,7 @@
         },
         {
           "id": "76647",
-          "title": "Christmas Gala",
+          "title": "Wibi Soerjadi Christmas Gala",
           "start": "2026-12-27T20:00:00.000Z",
           "end": "2026-12-27T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
@@ -4755,8 +4819,7 @@
           "description": "Craig Armstrong / Nellee Hooper / Marius de Vries - William Shakespeare’s Romeo + Juliet<BR><BR>Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 film with William Shakespeare’s Romeo + Juliet Film in Concert, a live cinematic concert experience featuring a big-screen pr",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4834,8 +4897,7 @@
           "url": "https://archeon.eu/midwinterfair/",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "kommus-kasteelfestival",
@@ -5164,6 +5226,16 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://ruinevanbrederode.nl/activiteiten/",
       "events": [
+        {
+          "id": "brederode-valkenier-met-roofvogels-herfstvakantie-2026-10-14",
+          "title": "Valkenier met roofvogels | herfstvakantie",
+          "start": "2026-10-14T11:00:00+01:00",
+          "end": "2026-10-14T17:00:00+01:00",
+          "location": "Ruïne van Brederode, Santpoort-Zuid",
+          "description": "",
+          "url": "https://ruinevanbrederode.nl/valkenier-met-roofvogels-herfstvakantie/",
+          "tags": []
+        },
         {
           "id": "brederode-ru-ne-bewoond-2026-10-25",
           "title": "Ruïne Bewoond",
@@ -6379,8 +6451,7 @@
             "Melee"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "buhurt-clubnights",
@@ -6422,6 +6493,17 @@
           "tags": []
         },
         {
+          "id": "bi-alpine-warrior-2027",
+          "title": "Alpine Warrior 2027",
+          "start": "2027-05-01T00:00:00+02:00",
+          "end": "2027-05-01T23:00:00+02:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
+          "tags": []
+        },
+        {
           "id": "bi-heritage-shield-2026",
           "title": "Heritage Shield 2026",
           "start": "2026-10-03T00:00:00+01:00",
@@ -6442,19 +6524,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-2854",
-          "title": "Toertocht oude brommers St. Michielsgestel",
-          "start": "2026-09-28T10:30:00+02:00",
-          "end": "2026-09-28T14:30:00+02:00",
-          "location": "Meanderplein 1 St. Michielsgestel, St. Michielsgestel (Noord-Brabant)",
-          "description": "Een gezellige toertocht voor brommers (40 km.) en Solexen (25 km.). Startpunt is de Spiegeltent, die in Sint-Michielsgestel op het Meanderplein staat. Dit jaar is er ook aandacht voor de inwendige mens: ons gemeenschapshuis die naast de tent staat zorgt dat er gegeten kan worden, in de spiegeltent…",
-          "url": "https://brommerritten.nl/ritten/toertocht-oude-brommers-st-michielsgestel/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-1275",
           "title": "Terug van weggeweest Nijnsel",

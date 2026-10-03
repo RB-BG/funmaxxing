@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T10:57:52.917Z",
+  "updatedAt": "2026-10-03T10:16:56.624Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,21 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17633",
-          "title": "HARDCORE EARTHQUAKE ft. LOMA PRIETA (USA) + Hexis (DK) + Violence (DK)",
-          "start": "2026-10-02T20:00:00+01:00",
-          "end": "2026-10-02T23:00:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=QCDCB83HLdk",
-          "url": "https://dbstudio.nl/event/hardcore-earthquake-ft-loma-prieta-usa-hexis-dk-violence-dk/",
-          "tags": [
-            "Hardcore",
-            "Post Hardcore",
-            "Punk",
-            "Screamo"
-          ]
-        },
         {
           "id": "13611",
           "title": "DUB PISTOLS (UK) supported by Blue Beat & Ska DJ's (verplaatste concert van 1 november 2025)",
@@ -410,6 +395,18 @@
             "Hardcore",
             "Metal"
           ]
+        },
+        {
+          "id": "17509",
+          "title": "BLACKGOLD (UK) + Sumo Cyco (CAN)",
+          "start": "2026-11-18T20:00:00+01:00",
+          "end": "2026-11-18T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "//www.youtube.com/watch?v=YRBLbQnBMqQ",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-blackgold-uk/",
+          "tags": [
+            "Nu Metal"
+          ]
         }
       ]
     },
@@ -421,6 +418,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31770",
+          "title": "Haunted Housewarming",
+          "start": "2026-10-31T23:30:00+01:00",
+          "end": "2026-11-01T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "HOUSEWARMING – Waar house wél betaalbaar is Stap binnen bij de halloween editie van (haunted) Housewarming! De nacht waar de dansvloer voelt als een warme woonkamer, maar dit keer met een vleugje duisternis. Een woonkamer waar housemuziek de basis is en warme klanken het mubilair. Verwacht een…",
+          "url": "https://ekko.nl/event/haunted-housewarming-2026/",
+          "tags": []
+        },
         {
           "id": "31715",
           "title": "Griezelbus 12",
@@ -499,16 +506,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
           "url": "https://ekko.nl/event/diep-in-de-groef-231/",
-          "tags": []
-        },
-        {
-          "id": "31237",
-          "title": "Diep In De Groef",
-          "start": "2026-10-02T23:30:00+01:00",
-          "end": "2026-10-03T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-229/",
           "tags": []
         },
         {
@@ -809,16 +806,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
           "url": "https://ekko.nl/event/diep-in-de-groef-236/",
-          "tags": []
-        },
-        {
-          "id": "29378",
-          "title": ".multibeat",
-          "start": "2026-10-02T20:00:00+01:00",
-          "end": "2026-10-02T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": ".multibeat is een Utrechts future jazz-trio en producerscollectief dat moeiteloos beweegt tussen hiphop, jazz en R&amp;B. Geïnspireerd door artiesten als Robert Glasper, BADBADNOTGOOD en KAYTRANADA combineren ze toetsen, wonky beats en soulvolle grooves tot een warm, beatgedreven geluid. Live…",
-          "url": "https://ekko.nl/event/multibeat-1/",
           "tags": []
         },
         {
@@ -1191,16 +1178,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-avondklok-02-10-2026",
-          "title": "Avondklok",
-          "start": "2026-10-02T21:00:00+01:00",
-          "end": "2026-10-03T02:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Early-hours clubnacht voor échte muziekliefhebbers",
-          "url": "https://dehelling.nl/agenda/avondklok-02-10-2026/",
-          "tags": []
-        },
         {
           "id": "helling-80s-verantwoord-03-10-2026",
           "title": "80’s Verantwoord",
@@ -1912,76 +1889,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "473390",
-          "title": "Jong JOC - Lunchconcert Jazz",
-          "start": "2026-10-02T12:30:00+02:00",
-          "end": "2026-10-02T13:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Lunchconcert op vrijdag 2 oktober wordt verzorgd door het JONG JOC. Dit gezelschap, bestaande uit muzikanten van twaalf tot achttien jaar, ademt de toekomst van jazz. Ieder jaar ontstaat een nieuwe incarnatie tijdens een bootcamp-weekend rond Pasen. Met het daaruit voortkomende repertoire…",
-          "url": "https://www.podiuminfo.nl/concert/473390/Jong-JOC-Lunchconcert-Jazz/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "481317",
-          "title": "Bohem",
-          "start": "2026-10-02T15:00:00+02:00",
-          "end": "2026-10-02T16:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Bohèm, een muzikale samenwerking tussen Arthur Bont en Bettina Kraaieveld, treedt op in de Vrije Ruimte van TivoliVredenburg. Hun partnerschap, dat begon met een gezamenlijke inzending voor het Nationaal Songfestival, heeft zich ontwikkeld tot een inspirerende samenwerking. In maart 2026 brachten…",
-          "url": "https://www.podiuminfo.nl/concert/481317/Bohem/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "445146",
-          "title": "Orange Jazz Days 2026",
-          "start": "2026-10-02T16:00:00+02:00",
-          "end": "2026-10-02T17:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "passe-partout - Orange Jazz Days komt terug! De Nederlandse Jazz laat haar innovatieve en rijke traditie zien tijdens dit festival in TivoliVredenburg. Met exclusieve premières en speciale samenwerkingen ontdek je de avontuurlijkste kant van de Nederlandse jazz!",
-          "url": "https://www.podiuminfo.nl/concert/445146/Orange-Jazz-Days-2026/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "450698",
-          "title": "Snelle",
-          "start": "2026-10-02T19:45:00+02:00",
-          "end": "2026-10-02T20:45:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Nederlandse zanger/rapper Snelle brak in 2019 door met Reünie en sindsdien is deze zelfbenoemde ‘Hollandse dorpsjongen’ dankzij een flinke reeks hits (Blijven Slapen, Smoorverliefd, Kleur) niet meer weg te denken uit de Nederpop. Zijn naam indachtig pakt Snelle lekker door: in 2025 viel hij op…",
-          "url": "https://www.podiuminfo.nl/concert/450698/Snelle/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "456977",
-          "title": "Daft Funk Live",
-          "start": "2026-10-02T20:30:00+02:00",
-          "end": "2026-10-02T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Engelse tributeband Daft Funk Live, opgericht in 2018 door twee broers, heeft als doel het werk van Daft Punk live te brengen, maar dan Harder, Better, Faster Stronger. Ze hebben wereldwijd al meer dan honderd shows gedaan met live-instrumenten, elektronica en een gesynchroniseerde lichtshow.…",
-          "url": "https://www.podiuminfo.nl/concert/456977/Daft-Funk-Live/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "489194",
-          "title": "Dirty House: BOVSKI, Vato Gonzalez, FJDR",
-          "start": "2026-10-02T23:30:00+02:00",
-          "end": "2026-10-03T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Vrijdag 2 oktober staat in het teken van de 'dirty house-sandwich' van dj Vato Gonzalez, die dit keer vergezeld wordt door BOVSKI en FJDR. FJDR opent de avond met een energieke mix van house, UK garage en opzwepende beats. Daarna neemt BOVSKI het over, bekend van nummers als 'Low Again' en zijn…",
-          "url": "https://www.podiuminfo.nl/concert/489194/Dirty-House-BOVSKI-Vato-Gonzalez-FJDR/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490423",
-          "title": "Zer00's Heroes",
-          "start": "2026-10-02T23:55:00+02:00",
-          "end": "2026-10-03T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Zer00’s Heroes neemt je mee terug naar de hoogtijdagen van de jaren 2000-2009. Verwacht low rise spijkerbroeken, shutter shades en stoffige Nokia’s. Dans op vergeten en tijdloze bangers van onder andere Britney Spears, 50 Cent, Arctic Monkeys en Avril Lavigne. Ook het 00’s anthem Since You Been…",
-          "url": "https://www.podiuminfo.nl/concert/490423/Zer00s-Heroes/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "453693",
           "title": "Reinier Baas",
           "start": "2026-10-03T16:00:00+02:00",
@@ -2120,6 +2027,86 @@
           "description": "De Vlaamse muzikant Stef Kamil Carlens is een belangrijke figuur in de Belgische popmuziek. Hij was bassist van dEUS, richtte Moondog Jr. op (later Zita Swoon) en speelde in Kiss My Jazz. Vanavond treedt hij op als Stef Kamil Carlens & The Poem, een kwartet met de zangeressen/muzikantes Nel…",
           "url": "https://www.podiuminfo.nl/concert/463438/Stef-Kamil-Carlens-The-Poem/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "487629",
+          "title": "Yellofox",
+          "start": "2026-10-07T20:00:00+02:00",
+          "end": "2026-10-07T21:00:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "De zeskoppige Haagse indiefolkband Yellofox presenteert rijk gearrangeerde, seventies-achtige americana met een moderne productie. De kern van hun geluid ligt in de fraaie samenzang van Marc Mosmans en Jorieke de Vet, aangevuld met diverse instrumenten zoals cello, viool en gitaar. Na het succes…",
+          "url": "https://www.podiuminfo.nl/concert/487629/Yellofox/dBs/",
+          "tags": []
+        },
+        {
+          "id": "451700",
+          "title": "Beach Boys' Best - Keepin' The Summer Alive!",
+          "start": "2026-10-07T20:30:00+02:00",
+          "end": "2026-10-07T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Beach Boys’ Best won seizoen 5 van The Tribute: Battle of the Bands en bewees daarmee wat veel kijkers al vanaf het eerste moment zagen: dit is een Beach Boys-tribute die tot in de details klopt. In 1961 ontstond in Californië een band die de wereld voorgoed zou laten meezingen, dromen en surfen:…",
+          "url": "https://www.podiuminfo.nl/concert/451700/Beach-Boys-Best-Keepin-The-Summer-Alive!/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "459852",
+          "title": "Michael McGovern",
+          "start": "2026-10-07T20:45:00+02:00",
+          "end": "2026-10-07T21:45:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Michael McGovern, een Schotse singer-songwriter, verdient een breder publiek dankzij zijn unieke talent. Hij kreeg al enige bekendheid toen zijn nummer 'Evelyn' van zijn tweede album 'Thin White Road' (2025) viraal ging. Dit nummer illustreert perfect McGoverns tekstuele vaardigheden, waarbij hij…",
+          "url": "https://www.podiuminfo.nl/concert/459852/Michael-McGovern/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "465813",
+          "title": "Gibran Alcocer",
+          "start": "2026-10-08T20:00:00+02:00",
+          "end": "2026-10-08T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Mexicaanse pianist en componist Gibran Alcocer staat bekend om het minimalistische karakter van zijn neoklassieke composities, met titels als Idea 10 en Idea 22. Hij begon in 2021 met het plaatsen van piano-covers op TikTok, maar schakelde al snel over op eigen werk. Zijn melancholische,…",
+          "url": "https://www.podiuminfo.nl/concert/465813/Gibran-Alcocer/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "491000",
+          "title": "Marc Floor",
+          "start": "2026-10-08T20:00:00+02:00",
+          "end": "2026-10-08T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Marc Floor, een jonge zanger uit Apeldoorn, brengt frisse Nederlandstalige pop die luisteraars een glimlach bezorgt. Zijn muzikale reis begon in 2021 met zijn deelname aan The Voice Kids, waar hij alle vier de coaches wist te overtuigen en uiteindelijk de finale bereikte onder begeleiding van coach…",
+          "url": "https://www.podiuminfo.nl/concert/491000/Marc-Floor/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "452726",
+          "title": "Sonico",
+          "start": "2026-10-08T20:30:00+02:00",
+          "end": "2026-10-08T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Piazzolla - Rovira: The Edge of Tango | Jazzy Brussels tango-ensemble - Het jazzy Brusselse tango-ensemble Sonico houdt het werk in leven van de Argentijnse muzikant Eduardo Rovira (1925-1980) – net als zijn landgenoot Astor Piazzolla (1921-1992) een pionier van de avant-gardistische tango.",
+          "url": "https://www.podiuminfo.nl/concert/452726/Sonico/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "495412",
+          "title": "Rabo Open Stage: Ultrajazz jamsessie",
+          "start": "2026-10-08T21:00:00+02:00",
+          "end": "2026-10-08T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De donderdagavonden op de Rabo Open Stage staan in het teken van de ULTRAJAZZ jamsessies, georganiseerd door Kika Sprangers en Bob Roos. Deze bruisende avonden bevorderen jazz, talentontwikkeling en muzikale ontmoetingen. Elke sessie vangt aan met een krachtige openingsset van een uur, waarin de…",
+          "url": "https://www.podiuminfo.nl/concert/495412/Rabo-Open-Stage-Ultrajazz-jamsessie/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "455725",
+          "title": "Shadow of Intent",
+          "start": "2026-10-09T18:30:00+02:00",
+          "end": "2026-10-09T19:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse deathcoreband Shadow of Intent (vernoemd naar een ruimteschip uit de Halo-videogameserie) combineert extreme metal met orkestrale arrangementen tot een uniek eigen geluid. Op hun vijfde album Imperium Delerium (2025) klinken de heren – tot genoegen van veel fans – een stuk steviger…",
+          "url": "https://www.podiuminfo.nl/concert/455725/Shadow-of-Intent/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2146,7 +2133,7 @@
           "start": "2026-10-07T19:00:00+02:00",
           "end": "2026-10-07T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "DDHC-DD Dragon Delves, Baker's Doesn't Wed 7/10 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Eberron Campaign, Forgotten Realms Campaign (DD), Dragonlance Campaign Character levels 1-12 Written by Wizards of the Coast Dragons await…",
+          "description": "DDHC-DD Dragon Delves, Baker's Doesn't Wed 7/10 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Dragonlance Campaign, Forgotten Realms Campaign (DD), Eberron Campaign Character levels 1-12 Written by Wizards of the Coast Dragons await…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2231,6 +2218,16 @@
           "tags": []
         },
         {
+          "id": "610278",
+          "title": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables!)",
+          "start": "2026-10-14T19:00:00+02:00",
+          "end": "2026-10-14T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Pirate Borg - Beginner Friendly TTRPG @ Silver Heron 🦜 (2 tables!) Wed 14/10 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum. Your…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "609423",
           "title": "Campagne: Koning van de Krotten",
           "start": "2026-10-14T19:00:00+02:00",
@@ -2242,11 +2239,11 @@
         },
         {
           "id": "610277",
-          "title": "Wanderhome: The Valley of the Rainbow",
+          "title": "Wanderhome: The Valley of the Rainbow - The Desaturated Seven",
           "start": "2026-10-14T19:00:00+02:00",
           "end": "2026-10-14T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome: The Valley of the Rainbow Wed 14/10 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with…",
+          "description": "Wanderhome: The Valley of the Rainbow - The Desaturated Seven Wed 14/10 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2277,6 +2274,16 @@
           "end": "2026-10-21T22:00:00+02:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "[Prison day] Wanderhome - the raveyard Wed 21/10 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled with…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "610314",
+          "title": "Mothership 1e VIBECHETE",
+          "start": "2026-10-28T19:00:00+01:00",
+          "end": "2026-10-28T22:00:00+01:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Mothership 1e VIBECHETE Wed 28/10 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate dangerous…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2645,6 +2652,16 @@
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
         {
+          "id": "acu-20261031-sorrows-sanctuary-moonlight",
+          "title": "Sorrow’s Sanctuary: Moonlight",
+          "start": "2026-10-31T00:00:00+01:00",
+          "end": "2026-10-31T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 31st. Halloween dance night. Halloween night shines its light upon us once more. We heed its call from the shadows. After the early night Rocky Horror Picture Show screening, it’s time for Sorrow’s Sanctuary to summon the creatures of darkness for its most holy of rituals, in its most…",
+          "url": "https://acu.nl/events/20261031/sorrows-sanctuary-moonlight",
+          "tags": []
+        },
+        {
           "id": "acu-20261128-calling-all-midnight-creatures",
           "title": "Calling All Midnight Creatures",
           "start": "2026-11-28T00:00:00+01:00",
@@ -2695,16 +2712,6 @@
           "tags": []
         },
         {
-          "id": "acu-20261003-bloed-zweet-braaksels-blackout",
-          "title": "Bloed, Zweet & Braaksels: BLACKOUT",
-          "start": "2026-10-03T00:00:00+01:00",
-          "end": "2026-10-03T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 3rd. With L’orne, rosa’s propaganda & BlackBeach. L’orne evokes feelings of melancholy through their blend of doomy post-rock, bluespunk, psychedelic noise-rock and anything that flirts with the unpredictable and the unhinged. L’orne has won over audiences with plenty of drama and dynamics.…",
-          "url": "https://acu.nl/events/20261003/bloed-zweet-braaksels-blackout",
-          "tags": []
-        },
-        {
           "id": "acu-20261031-prisonnier-du-temps-tba-matinee",
           "title": "Prisonnier Du Temps + TBA (matinee)",
           "start": "2026-10-31T00:00:00+01:00",
@@ -2723,16 +2730,6 @@
           "description": "October 4th. A Dance Performance around Gender Norms. As part of Utrecht Queer Culture Festival 2026, Broken Self invites us to explore the ways we perform and experience gender. Inspired by Judith Butler and Plato’s Androgyne, two performers use movement, gesture, dance, and outrageous expression…",
           "url": "https://acu.nl/events/20261004/uqcf-2026-broken-self",
           "tags": []
-        },
-        {
-          "id": "acu-20261115-cornered-insurgent-visceral-contempt",
-          "title": "Cornered + Insurgent + Visceral Contempt",
-          "start": "2026-11-15T00:00:00+01:00",
-          "end": "2026-11-15T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 15th. Posse Productions and Silent Call Collective present. Posse Productions and Silent Call Collective present: Cornered Cornered started out in 2008 when many hardcore bands were drifting away from the sound they loved the most. Within a period of four years they toured Europe several…",
-          "url": "https://acu.nl/events/20261115/cornered-insurgent-visceral-contempt",
-          "tags": []
         }
       ]
     },
@@ -2744,19 +2741,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001515-1790982000-1791007200",
-          "title": "BASIS/ DEF/ Genetica/ LESSSS/ Santøs",
-          "start": "2026-10-02T23:00:00+01:00",
-          "end": "2026-10-03T06:00:00+01:00",
-          "location": "BASIS, Utrecht",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-def-genetica-lessss-santos/",
-          "tags": [
-            "Hardtechno",
-            "Industrial"
-          ]
-        },
         {
           "id": "basis-utrecht-10001508-1791071940-1791093600",
           "title": "BASIS/ BIIA All Night Long",
@@ -3077,6 +3061,16 @@
           "tags": []
         },
         {
+          "id": "ultrasonic-festival",
+          "title": "Ultrasonic Festival",
+          "start": "2027-07-10T13:00:00+00:00",
+          "end": "2027-07-10T13:00:00+00:00",
+          "location": "Maarsseveense Plassen, Utrecht",
+          "description": "Ultrasonic Festival komt weer terug op de Maarsseveense Plassen in Utrecht. Lees hier alles over de kaartverkoop & de line-up.",
+          "url": "https://festivalfans.nl/event/ultrasonic-festival/",
+          "tags": []
+        },
+        {
           "id": "geheime-liefde-tuinen-van-geluk",
           "title": "Geheime Liefde: Tuinen van Geluk",
           "start": "2027-07-24T14:00:00+00:00",
@@ -3096,16 +3090,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "72197",
-          "title": "Koninklijk Concertgebouworkest - Joe Hisaishi film music",
-          "start": "2026-10-02T20:00:00.000Z",
-          "end": "2026-10-02T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72197",
-          "description": "On Friday, October 2, 2026, composer and conductor Joe Hisaishi will lead a selection from his acclaimed film score!<BR><BR>Among them the music he made for Studio Ghibli's magical films, such as Spirited Away, Ponyo and Howl's Moving Castle by legendary filmmaker Hayao Miyazake, c",
-          "tags": []
-        },
         {
           "id": "69220",
           "title": "The Music Of From Studio Ghibli To One Piece (new date)",
@@ -5074,16 +5058,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-mindful-weven-in-het-kasteelatelier-2026",
-          "title": "Mindful Weven in het Kasteelatelier",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-18T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-weven-in-het-kasteelatelier/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-toegankelijkheidsadviseurs-in-het-kasteel-2026",
           "title": "Toegankelijkheidsadviseurs in het kasteel",
           "start": "2026-10-10T10:00:00+01:00",
@@ -5091,26 +5065,6 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/toegankelijkheidsadviseurs-in-het-kasteel/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-herfstvakantie-in-het-kasteelatelier-2026",
-          "title": "Herfstvakantie in het Kasteelatelier",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-18T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/herfstvakantie-in-het-kasteelatelier/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-mindful-muiderslot-yoga-10-oktober-2026-2026",
-          "title": "Mindful Muiderslot: yoga &amp; mindful kunstkijken &#8211; 10 oktober 2026",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-10T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-muiderslot-yoga-10-oktober-2026/",
           "tags": []
         },
         {
@@ -5124,6 +5078,36 @@
           "tags": []
         },
         {
+          "id": "muiderslot-mindful-weven-in-het-kasteelatelier-2026",
+          "title": "Mindful Weven in het Kasteelatelier",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/mindful-weven-in-het-kasteelatelier/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-mindful-muiderslot-yoga-10-oktober-2026-2026",
+          "title": "Mindful Muiderslot: yoga &amp; mindful kunstkijken &#8211; 10 oktober 2026",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-10T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/mindful-muiderslot-yoga-10-oktober-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-herfstvakantie-in-het-kasteelatelier-2026",
+          "title": "Herfstvakantie in het Kasteelatelier",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/herfstvakantie-in-het-kasteelatelier/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-ridderweekend-oktober-2026-2026",
           "title": "Ridder- en Ambachtenweekend 2026",
           "start": "2026-10-17T10:00:00+01:00",
@@ -5134,16 +5118,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-historische-proeverij-24-okt-2026-2026",
-          "title": "Historische proeverij 24 okt 2026",
-          "start": "2026-10-24T10:00:00+01:00",
-          "end": "2026-10-24T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-24-okt-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-prikkelarme-openstelling-4-2026",
           "title": "Prikkelarme openstelling 24 okt",
           "start": "2026-10-24T10:00:00+01:00",
@@ -5151,6 +5125,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-4/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-24-okt-2026-2026",
+          "title": "Historische proeverij 24 okt 2026",
+          "start": "2026-10-24T10:00:00+01:00",
+          "end": "2026-10-24T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-24-okt-2026/",
           "tags": []
         },
         {
@@ -5171,6 +5155,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/historische-proeverij-7-nov-2026/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-het-kasteel-van-sinterklaas-2026",
+          "title": "Het Kasteel van Sinterklaas",
+          "start": "2026-11-14T10:00:00+01:00",
+          "end": "2026-12-06T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/het-kasteel-van-sinterklaas/",
           "tags": []
         },
         {
@@ -5361,19 +5355,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://www.larp-platform.nl/evenementenoverzicht/",
       "events": [
-        {
-          "id": "larp-2098-fantasy-fall-2026",
-          "title": "Fantasy Fall 2026",
-          "start": "2026-10-03T00:00:00+01:00",
-          "end": "2026-10-04T23:59:00+01:00",
-          "location": "Kromme Heiweg/Kennepstraat Zutendaal, België",
-          "country": "België",
-          "description": "High-fantasy — Buiten slapen · Vanaf 13 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2098-fantasy-fall-2026/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
         {
           "id": "larp-1839-quon-40",
           "title": "Quon 40",
@@ -6497,21 +6478,7 @@
       "icon": "⚔️",
       "scene": "buhurt",
       "feedUrl": "https://www.worldofbuhurt.com/tournaments",
-      "events": [
-        {
-          "id": "wob-heritage-shield-2026",
-          "title": "Heritage Shield 2026",
-          "start": "2026-10-03T00:00:00+02:00",
-          "end": "2026-10-03T23:00:00+02:00",
-          "location": "Ledbury, United Kingdom",
-          "country": "United Kingdom",
-          "description": "Buhurt-toernooi in United Kingdom. 03 October 2026.",
-          "url": "https://www.worldofbuhurt.com/tournaments/heritage-shield-2026",
-          "tags": [
-            "Melee"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "buhurt-clubnights",
@@ -6561,17 +6528,6 @@
           "country": "Austria",
           "description": "Buhurt-toernooi in Austria.",
           "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
-          "tags": []
-        },
-        {
-          "id": "bi-heritage-shield-2026",
-          "title": "Heritage Shield 2026",
-          "start": "2026-10-03T00:00:00+01:00",
-          "end": "2026-10-03T23:00:00+01:00",
-          "location": "United Kingdom",
-          "country": "United Kingdom",
-          "description": "Buhurt-toernooi in United Kingdom.",
-          "url": "https://www.buhurtinternational.com/tournament/heritage-shield-2026",
           "tags": []
         }
       ]

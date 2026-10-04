@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T10:16:56.624Z",
+  "updatedAt": "2026-10-04T11:01:12.395Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,23 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "13611",
-          "title": "DUB PISTOLS (UK) supported by Blue Beat & Ska DJ's (verplaatste concert van 1 november 2025)",
-          "start": "2026-10-03T20:00:00+01:00",
-          "end": "2026-10-03T23:00:00+01:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "//www.youtube.com/watch?v=z6_ioaVKuJY&t=19s",
-          "url": "https://dbstudio.nl/event/dub-pistols-uk/",
-          "tags": [
-            "Concert",
-            "Dub",
-            "Hiphop",
-            "Punk",
-            "Reggae",
-            "Ska"
-          ]
-        },
         {
           "id": "17577",
           "title": "Boppin' the Rock presents Marcel Riesco & The Ray Allen Band + Mischief!",
@@ -406,6 +389,19 @@
           "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-blackgold-uk/",
           "tags": [
             "Nu Metal"
+          ]
+        },
+        {
+          "id": "17597",
+          "title": "SUGAR SPINE + Braces + Between Cities",
+          "start": "2026-11-19T20:00:00+01:00",
+          "end": "2026-11-19T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "//www.youtube.com/watch?v=M_gjgs2sKyU",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-sugar-spine-braces/",
+          "tags": [
+            "Deathcore",
+            "Metalcore"
           ]
         }
       ]
@@ -929,16 +925,6 @@
           "tags": []
         },
         {
-          "id": "30766",
-          "title": "DON’T MIND THE GAP x Keep Hush",
-          "start": "2026-10-03T23:30:00+01:00",
-          "end": "2026-10-04T04:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Een ode aan de energie en breedte van de moderne sounds uit de UK: clubavond DON’T MIND THE GAP wil een frisse wind brengen. Voor deze editie slaan ze de handen ineen met het internationale muziekplatform voor underground cultuur: Keep Hush. De boodschap van het Britse Keep Hush is simpel: Back the…",
-          "url": "https://ekko.nl/event/dmtg-keephush/",
-          "tags": []
-        },
-        {
           "id": "30151",
           "title": "De Gestampte Meisjes: STROT",
           "start": "2026-10-16T20:00:00+01:00",
@@ -946,16 +932,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "STROT. De Gestampte Meisjes gaan dit land redden met zieke HITS. Hoe? Vraag je je af? Way meer polarisering. Ze hebben kneiterhard geprobeerd te verbinden in deze chaos, maar dat is flink mislukt. We proberen nu al decennialang te verbinden; tijd om te splitsen! Zieke wall of death in je…",
           "url": "https://ekko.nl/event/de-gestampte-meisjes-strot/",
-          "tags": []
-        },
-        {
-          "id": "30056",
-          "title": "Vrienden van EKKO Live",
-          "start": "2026-10-03T20:30:00+01:00",
-          "end": "2026-10-03T22:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Van &#8216;Chaise Longue&#8217; tot &#8216;Take Me Out&#8217; en van &#8216;Space Song&#8217; tot &#8216;Seventeen Going Under&#8217;, met 40 jaar EKKO-geschiedenis kun je een flinke stapel Hitzones vullen. Het is natuurlijk hartstikke leuk dat we tijdens ons jubileum een aantal vedetten opnieuw…",
-          "url": "https://ekko.nl/event/vrienden-van-ekko-live/",
           "tags": []
         },
         {
@@ -1178,16 +1154,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-80s-verantwoord-03-10-2026",
-          "title": "80’s Verantwoord",
-          "start": "2026-10-03T20:00:00+01:00",
-          "end": "2026-10-04T01:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "De grootste credible hits en vergeten parels uit het beste decennium!",
-          "url": "https://dehelling.nl/agenda/80s-verantwoord-03-10-2026/",
-          "tags": []
-        },
         {
           "id": "helling-heleen-play-the-cosmic-collective-neko-04-10-2026",
           "title": "HE:LEEN Play – The Cosmic Collective & Neko",
@@ -1889,46 +1855,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "453693",
-          "title": "Reinier Baas",
-          "start": "2026-10-03T16:00:00+02:00",
-          "end": "2026-10-03T17:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De zaterdag zet de volle rijkdom van de jazz in de schijnwerpers met onder anderen het nieuwe Michiel Borstlap Trio, Benjamin Herman die een persoonlijke ode aan Piet Noordijk brengt, de Guy Salamon Group, Fay Claassen Quartet, het Brainteaser Orchestra van Tyn Wybenga en het Millennium Jazz…",
-          "url": "https://www.podiuminfo.nl/concert/453693/Reinier-Baas/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "460634",
-          "title": "Yard Act",
-          "start": "2026-10-03T20:00:00+02:00",
-          "end": "2026-10-03T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Engelse post-punkband Yard Act combineert dansbare, minimalistische indierock met scherpe spoken word-teksten. Vocalist James Smith mag dan een gewone naam hebben, op het podium is hij een charismatische frontman die (zoals de Vlaamse krant De Morgen het omschrijft) ‘het midden houdt tussen Ian…",
-          "url": "https://www.podiuminfo.nl/concert/460634/Yard-Act/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "470376",
-          "title": "Lera Lynn",
-          "start": "2026-10-03T21:00:00+02:00",
-          "end": "2026-10-03T22:00:00.000Z",
-          "location": "Stadsklooster Utrecht, Kanaalstraat 198, Utrecht",
-          "description": "De Amerikaanse singer-songwriter Lera Lynn, bekend om haar duistere, filmische americana, treedt op in het Stadsklooster Utrecht. Haar muziek wordt vaak vergeleken met artiesten als Mazzy Star, Sharon Van Etten en Lana Del Rey. Lynn kreeg in 2015 internationale bekendheid door haar optredens in een…",
-          "url": "https://www.podiuminfo.nl/concert/470376/Lera-Lynn/Stadsklooster-Utrecht/",
-          "tags": []
-        },
-        {
-          "id": "491759",
-          "title": "Wasserette",
-          "start": "2026-10-03T23:55:00+02:00",
-          "end": "2026-10-04T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Op zaterdag 3 oktober wordt de Ronda opnieuw overspoeld door een mix van tropische klanken, waaronder Dancehall, Afro, R&B en Latin. Bezoekers kunnen zich opmaken voor een avond vol danspasjes en onvergetelijke ritmes in TivoliVredenburg. De Wasserette clubavond belooft een energieke sfeer waar de…",
-          "url": "https://www.podiuminfo.nl/concert/491759/Wasserette/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "450879",
           "title": "Finale Dutch Blues Challenge 2026",
           "start": "2026-10-04T13:00:00+02:00",
@@ -2107,6 +2033,56 @@
           "description": "De Amerikaanse deathcoreband Shadow of Intent (vernoemd naar een ruimteschip uit de Halo-videogameserie) combineert extreme metal met orkestrale arrangementen tot een uniek eigen geluid. Op hun vijfde album Imperium Delerium (2025) klinken de heren – tot genoegen van veel fans – een stuk steviger…",
           "url": "https://www.podiuminfo.nl/concert/455725/Shadow-of-Intent/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "452871",
+          "title": "OGENE",
+          "start": "2026-10-09T20:30:00+02:00",
+          "end": "2026-10-09T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Nederlandse poptrio OGENE, bestaande uit de zussen Lisa, Amy en Shelley, brak in 2014 door toen ze The Voice Of Holland wonnen. Hun eerste album We Got This (2016) werd goud, opvolger Straight To You (2019) haalde ook de top tien en dan stond het trio in 2017 ook nog op het Songfestival. Fast…",
+          "url": "https://www.podiuminfo.nl/concert/452871/OGENE/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "465365",
+          "title": "Chica Chica",
+          "start": "2026-10-09T20:30:00+02:00",
+          "end": "2026-10-09T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Nederlandse trio Chica Chica klinkt met hun mix van psychedelische cumbia, vintage funk en exotische grooves allesbehalve Nederlands. Onder leiding van frontvrouw en bassiste Judith Renkema zet Chica Chica een organisch swingend geluid neer dat doet denken aan heerlijke analoge tijden van…",
+          "url": "https://www.podiuminfo.nl/concert/465365/Chica-Chica/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "489025",
+          "title": "Tante Joke Karaoke Band",
+          "start": "2026-10-09T21:00:00+02:00",
+          "end": "2026-10-09T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Tante Joke Karaoke Band keert terug naar TivoliVredenburg voor een avond vol interactieve karaoke. Bezoekers worden uitgenodigd om zelf het podium te betreden en hun favoriete 'foute hits' en gouden klassiekers te zingen, begeleid door de band. Het evenement belooft legendarische meezingers,…",
+          "url": "https://www.podiuminfo.nl/concert/489025/Tante-Joke-Karaoke-Band/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "490937",
+          "title": "Park 6",
+          "start": "2026-10-09T23:00:00+02:00",
+          "end": "2026-10-10T00:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Park 6 in TivoliVredenburg is de gratis hangout waar bezoekers direct in de weekendsfeer komen. Deze evenementenruimte biedt goede muziek, spellen zoals tafeltennis en diverse andere uitdagingen. Het is de ideale plek om te ontspannen na een show, op te warmen voor een clubavond, of gewoon de…",
+          "url": "https://www.podiuminfo.nl/concert/490937/Park-6/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "490707",
+          "title": "ANTHEMS",
+          "start": "2026-10-09T23:30:00+02:00",
+          "end": "2026-10-10T00:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "ANTHEMS is een energieke clubnacht gericht op het samenbrengen van herkenbare en opzwepende tracks om op los te gaan. De avond belooft een dansvloerervaring die doet denken aan een festivalweide, met een breed scala aan muziekstijlen en artiesten, variërend van popiconen tot dance-legendes. Ook…",
+          "url": "https://www.podiuminfo.nl/concert/490707/ANTHEMS/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2188,6 +2164,16 @@
           "tags": []
         },
         {
+          "id": "609401",
+          "title": "Wanderhome - bonfire season (beginner friendly!)",
+          "start": "2026-10-07T19:00:00+02:00",
+          "end": "2026-10-07T22:00:00+02:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - bonfire season (beginner friendly!) Wed 7/10 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "609434",
           "title": "Wanderhome - The Scaredy-bats",
           "start": "2026-10-07T19:00:00+02:00",
@@ -2198,12 +2184,12 @@
           "tags": []
         },
         {
-          "id": "609401",
-          "title": "Wanderhome - bonfire season (beginner friendly!)",
-          "start": "2026-10-07T19:00:00+02:00",
-          "end": "2026-10-07T22:00:00+02:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Wanderhome - bonfire season (beginner friendly!) Wed 7/10 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game filled…",
+          "id": "610355",
+          "title": "D&D 5.5e Phandelver: Thralls of Eternality",
+          "start": "2026-10-14T19:00:00+02:00",
+          "end": "2026-10-14T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5.5e Phandelver: Thralls of Eternality Wed 14/10 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2387,16 +2373,6 @@
       "feedUrl": "https://www.ducosim.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "ducosim-8210",
-          "title": "Ducosim spellenbeurs",
-          "start": "2026-10-03T10:00:00+01:00",
-          "end": "2026-10-03T17:30:00+01:00",
-          "location": "Flint theater, Amersfoort",
-          "description": "",
-          "url": "https://www.ducosim.nl/agenda/ducosim-spellenbeurs-2026-4/",
-          "tags": []
-        },
-        {
           "id": "ducosim-8216",
           "title": "Ducosim spellenbeurs",
           "start": "2027-01-16T10:00:00+01:00",
@@ -2444,6 +2420,16 @@
           "location": "Weighted Dice Utrecht, Utrecht",
           "description": "P\n\nYou can bring your own games and/or play those brought by others.\nAlso, plenty of games to be chosen from Het Lab to be played.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for…",
           "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/316488567/",
+          "tags": []
+        },
+        {
+          "id": "weighted-dice-event_316826710",
+          "title": "November Board Gaming Meetup",
+          "start": "2026-11-28T13:00:00+01:00",
+          "end": "2026-11-28T22:00:00+01:00",
+          "location": "Weighted Dice Utrecht, Utrecht",
+          "description": "P\n\nYou can bring your own games or play those brought by others. There are also dozens of games available for us at Het Lab.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for players…",
+          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/316826710/",
           "tags": []
         }
       ]
@@ -2534,32 +2520,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-copy-kiem-zine-workshop-2",
-          "title": "Copy & Kiem (zine workshop)",
-          "start": "2026-10-04T00:00:00+01:00",
-          "end": "2026-10-04T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/copy-kiem-zine-workshop-2/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-open-mic-klup-kweer",
-          "title": "Open Mic – Klup Kweer x Mama Jo",
-          "start": "2026-10-04T00:00:00+01:00",
-          "end": "2026-10-04T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/open-mic-klup-kweer/",
-          "tags": [
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-ruggengraat-community",
           "title": "Ruggengraat Community",
           "start": "2026-10-05T00:00:00+01:00",
@@ -2638,6 +2598,20 @@
           "url": "https://www.vechtclub.nl/agenda/btw-cafe-3/",
           "tags": [
             "Gratis",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-fishtank",
+          "title": "FISHTANK",
+          "start": "2026-10-08T00:00:00+01:00",
+          "end": "2026-10-08T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/fishtank/",
+          "tags": [
+            "Dans",
+            "Muziek",
             "Kantine"
           ]
         }
@@ -2720,16 +2694,6 @@
           "description": "October 31st. World's Appreciated Kitch and Silent Call Collective present. World’s Appreciated Kitch and Silent Call Collective present: Prisonnier Du Temps Born in Brest in 2020 at the initiative of Lionel Cadiou, Prisonnier du Temps was originally conceived as a solo project, developed alongside…",
           "url": "https://acu.nl/events/20261031/prisonnier-du-temps-tba-matinee",
           "tags": []
-        },
-        {
-          "id": "acu-20261004-uqcf-2026-broken-self",
-          "title": "UQCF 2026 | Broken Self",
-          "start": "2026-10-04T00:00:00+01:00",
-          "end": "2026-10-04T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 4th. A Dance Performance around Gender Norms. As part of Utrecht Queer Culture Festival 2026, Broken Self invites us to explore the ways we perform and experience gender. Inspired by Judith Butler and Plato’s Androgyne, two performers use movement, gesture, dance, and outrageous expression…",
-          "url": "https://acu.nl/events/20261004/uqcf-2026-broken-self",
-          "tags": []
         }
       ]
     },
@@ -2741,19 +2705,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001508-1791071940-1791093600",
-          "title": "BASIS/ BIIA All Night Long",
-          "start": "2026-10-03T23:59:00+01:00",
-          "end": "2026-10-04T06:00:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-biia-all-night-long/",
-          "tags": [
-            "Acid Techno",
-            "Hardtechno"
-          ]
-        },
         {
           "id": "basis-utrecht-10001509-1791586800-1791612000",
           "title": "BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem",
@@ -3031,16 +2982,6 @@
       "feedUrl": "https://festivalfans.nl/stad/utrecht/",
       "events": [
         {
-          "id": "hrfst-festival",
-          "title": "HRFST Festival",
-          "start": "2026-10-03T14:00:00+00:00",
-          "end": "2026-10-03T14:00:00+00:00",
-          "location": "Fort Vechten, Utrecht",
-          "description": "Zaterdag 3 oktober 2026 staat alweer de zesde editie van het HRFST Festival op het programma. Check hier meer info over de tickets & line-up!",
-          "url": "https://festivalfans.nl/event/hrfst-festival/",
-          "tags": []
-        },
-        {
           "id": "soenda-indoor",
           "title": "Soenda Indoor November",
           "start": "2026-11-21T14:00:00+00:00",
@@ -3090,16 +3031,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "69220",
-          "title": "The Music Of From Studio Ghibli To One Piece (new date)",
-          "start": "2026-10-03T20:00:00.000Z",
-          "end": "2026-10-03T23:00:00.000Z",
-          "location": "Den Haag (The Hague), Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=69220",
-          "description": "Immerse yourself in the magical world of Japanese animation. For two hours, experience the iconic music of Studio Ghibli, One Piece, Attack on Titan, and many more, performed live.<BR><BR>A concert like no other. A total immersion into the world of Studio Ghibli and the great classics of Japanese an",
-          "tags": []
-        },
         {
           "id": "73142",
           "title": "Koninklijk Concertgebouworkest - Joe Hisaishi film music (extra concert)",
@@ -4920,16 +4851,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://dis.drachenwald.sca.org/data/calendar.json",
       "events": [
-        {
-          "id": "sca-polderslot/3-oct-2026/the-grand-tour",
-          "title": "The Grand Tour",
-          "start": "2026-10-03T12:00:00+01:00",
-          "end": "2026-10-03T23:00:00+01:00",
-          "location": "Hoorn, Midwoud",
-          "description": "Maestro Giano Balestriere and Rae are excited to be your guides as you set off on your Grand Tour across Europe in search of enlightenment, architecture and art. ‘The Grand Tour’ is an SCA adjacent time period multi-course feast exploring the foods travellers enjoyed as they went out to build their…",
-          "url": "https://forms.gle/ERY5BAfYzP2A2De78",
-          "tags": []
-        },
         {
           "id": "sca-polderslot/14-oct-2026/polderslot-special-agm-on-barony-poll",
           "title": "Polderslot - Special AGM on Barony Poll",

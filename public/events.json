@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T12:08:08.541Z",
+  "updatedAt": "2026-10-06T11:52:31.145Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -274,6 +274,18 @@
           ]
         },
         {
+          "id": "17549",
+          "title": "Expect Kaos, Create Kaos, it's Karaoke innit!",
+          "start": "2026-11-06T21:00:00+01:00",
+          "end": "2026-11-07T01:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "Altijd al een band willen beginnen maar te druk (zoals Thomas), geen talent (zoals Tanja) of te onzeker (zoals Jessica). Wij kennen dus het gevoel maar geen nood Kaos Karaoke en Strak Blauw bundelen hun krachten om jou muzikale dromen waar te maken! \n6 november 2026 wordt de avond van je leven waar…",
+          "url": "https://dbstudio.nl/event/expect-kaos-create-kaos-its-karaoke-innit/",
+          "tags": [
+            "Karaoke"
+          ]
+        },
+        {
           "id": "17863",
           "title": "TOTALLY WIRED",
           "start": "2026-11-07T13:00:00+01:00",
@@ -389,21 +401,6 @@
             "Deathcore",
             "Metalcore"
           ]
-        },
-        {
-          "id": "17767",
-          "title": "OMAR DOOM (USA) + VONDER",
-          "start": "2026-11-20T20:00:00+01:00",
-          "end": "2026-11-20T23:30:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=2mfnqAmBs-4 \n  \n  \n  \nVonder – bleeding (official visual)",
-          "url": "https://dbstudio.nl/event/omar-doom-usa/",
-          "tags": [
-            "Concert",
-            "Darker Wave",
-            "Electronics",
-            "Experimenteel"
-          ]
         }
       ]
     },
@@ -415,6 +412,26 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31203",
+          "title": "Josie Edwards",
+          "start": "2026-10-07T20:00:00+01:00",
+          "end": "2026-10-07T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het is geen wonder dat de Amerikaanse zangeres Josie Edwards binnen de kortste keren miljoenen luisteraars wist te beroeren. Wie haar dagboek-eske folkpopliedjes luistert, heeft meteen het gevoel Edwards al jarenlang te kennen. Ze beheerst dezelfde moderne melancholie als Lana Del Rey, Florence +…",
+          "url": "https://ekko.nl/event/josie-edwards/",
+          "tags": []
+        },
+        {
+          "id": "27766",
+          "title": "néomí",
+          "start": "2026-10-10T20:00:00+01:00",
+          "end": "2026-10-10T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De folk-pop singer-songwriter néomí vertelt oprechte en authentieke verhalen geïnspireerd door zowel klassieke als hedendaagse folkartiesten, ondersteund door dromerige soundscapes. Sinds de release van haar veelgeprezen debuutalbum Somebody&#8217;s Daughter (2024) speelde de Nederlands/Surinaamse…",
+          "url": "https://ekko.nl/event/neomi-1/",
+          "tags": []
+        },
         {
           "id": "31787",
           "title": "Amber Arcades, I am Oak & The T.S. Eliot Appreciation Society",
@@ -623,16 +640,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Wegens grote vraag naar tickets is deze show verplaatst van ACU naar EKKO. Library Card maakt compromisloze gitaarmuziek waarin hoekige postpunk, explosieve garage en meeslepende post-rock voortdurend in elkaar overvloeien. Gedragen door de scherpe spoken word van Lot van Teylingen en instrumentals…",
           "url": "https://ekko.nl/event/library-card/",
-          "tags": []
-        },
-        {
-          "id": "31203",
-          "title": "Josie Edwards",
-          "start": "2026-10-07T20:00:00+01:00",
-          "end": "2026-10-07T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het is geen wonder dat de Amerikaanse zangeres Josie Edwards binnen de kortste keren miljoenen luisteraars wist te beroeren. Wie haar dagboek-eske folkpopliedjes luistert, heeft meteen het gevoel Edwards al jarenlang te kennen. Ze beheerst dezelfde moderne melancholie als Lana Del Rey, Florence +…",
-          "url": "https://ekko.nl/event/josie-edwards/",
           "tags": []
         },
         {
@@ -926,16 +933,6 @@
           "tags": []
         },
         {
-          "id": "27766",
-          "title": "néomí",
-          "start": "2026-10-10T20:00:00+01:00",
-          "end": "2026-10-10T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De folk-pop singer-songwriter néomí vertelt oprechte en authentieke verhalen geïnspireerd door zowel klassieke als hedendaagse folkartiesten, ondersteund door dromerige soundscapes. Sinds de release van haar veelgeprezen debuutalbum Somebody&#8217;s Daughter (2024) speelde de Nederlands/Surinaamse…",
-          "url": "https://ekko.nl/event/neomi-1/",
-          "tags": []
-        },
-        {
           "id": "30295",
           "title": "My First Time",
           "start": "2026-10-30T20:30:00+01:00",
@@ -988,8 +985,8 @@
         {
           "id": "30161",
           "title": "John Coffey",
-          "start": "2026-10-08T20:30:00+01:00",
-          "end": "2026-10-08T22:00:00+01:00",
+          "start": "2026-10-08T21:00:00+01:00",
+          "end": "2026-10-08T22:10:00+01:00",
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "John Coffey is een van de meest explosieve livebands die Nederland ooit heeft voortgebracht. Met punk en rock-’n-roll als geleider voor pure energie bouwden David Achter de Molen en zijn bandgenoten een reputatie op van Rusland tot Amerika en stonden ze op talloze podia en festivals door heel…",
           "url": "https://ekko.nl/event/john-coffey-1/",
@@ -1178,7 +1175,7 @@
         {
           "id": "helling-bare-jams-07-10-2026",
           "title": "Bare Jams",
-          "start": "2026-10-07T20:15:00+01:00",
+          "start": "2026-10-07T20:00:00+01:00",
           "end": "2026-10-07T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Feelgood-indiepop voor als het leven donker wordt ",
@@ -1209,7 +1206,7 @@
           "id": "helling-distortion-disco-09-10-2026",
           "title": "Distortion Disco",
           "start": "2026-10-09T23:00:00+01:00",
-          "end": "2026-10-10T04:00:00+01:00",
+          "end": "2026-10-10T02:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Dit is geen disco muziek, maar rock in de disco baby!",
           "url": "https://dehelling.nl/agenda/distortion-disco-09-10-2026/",
@@ -1298,7 +1295,7 @@
         {
           "id": "helling-acres-wayside-what-lies-below-lifespark-21-10-2026",
           "title": "Acres + Wayside + What Lies Below + Lifespark",
-          "start": "2026-10-21T19:30:00+01:00",
+          "start": "2026-10-21T19:15:00+01:00",
           "end": "2026-10-21T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Emotionele metalcore vol hooks en verwoestende grooves",
@@ -1368,7 +1365,7 @@
         {
           "id": "helling-perrx-halloween-edition-30-10-2026",
           "title": "Perrx Halloween Edition",
-          "start": "2026-10-30T23:30:00+01:00",
+          "start": "2026-10-30T23:59:00+01:00",
           "end": "2026-10-31T05:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "PERRX: a Queer (kuir) Latinx party bringing inclusivity, safety, and revolutionary joy to Utrecht nightlife through Latin rhythms and sexy spaces. ",
@@ -1383,6 +1380,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Gemaskerde rapper tilt Haagse trapsound naar een nieuw level",
           "url": "https://dehelling.nl/agenda/bartofso-31-10-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-paardenrave-halloween-edition-31-10-2026",
+          "title": "Paardenrave Halloween Edition",
+          "start": "2026-10-31T23:00:00+01:00",
+          "end": "2026-11-01T05:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Flamboyante rodeo vol high-energy genre-fluid dj's en performances",
+          "url": "https://dehelling.nl/agenda/paardenrave-halloween-edition-31-10-2026/",
           "tags": []
         },
         {
@@ -1477,7 +1484,7 @@
         },
         {
           "id": "helling-getikt-14-11-2026",
-          "title": "Getikt",
+          "title": "GETiKT",
           "start": "2026-11-14T23:00:00+01:00",
           "end": "2026-11-15T05:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
@@ -1539,7 +1546,7 @@
           "id": "helling-fiesta-latina-26-22-11-2026",
           "title": "Fiesta Latina ’26",
           "start": "2026-11-22T13:00:00+01:00",
-          "end": "2026-11-22T17:00:00+01:00",
+          "end": "2026-11-22T18:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Latin bands laten langs de Vaartsche Rijn de palmen wuiven. Vamos a gozarrr!",
           "url": "https://dehelling.nl/agenda/fiesta-latina-26-22-11-2026/",
@@ -1673,6 +1680,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Popster-in-wording met platinahit op zak",
           "url": "https://dehelling.nl/agenda/isabel-usher-19-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-getikt-nye-31-12-2026",
+          "title": "GETiKT NYE",
+          "start": "2026-12-31T23:59:00+01:00",
+          "end": "2027-01-01T05:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Utrechts hottest New Years Eve",
+          "url": "https://dehelling.nl/agenda/getikt-nye-31-12-2026/",
           "tags": []
         },
         {
@@ -1865,16 +1882,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "455047",
-          "title": "James Blake",
-          "start": "2026-10-05T20:00:00+02:00",
-          "end": "2026-10-05T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Engelse singer-songwriter/producer James Blake is een van de belangrijkste artiesten van deze tijd. Het is vooral de koppeling van het organische en digitale die de muziek van Blake zo intrigerend maakt, naast zijn hemelse, androgyne vocalen. Blake begon ooit in de dubstep-scene, maar op zijn…",
-          "url": "https://www.podiuminfo.nl/concert/455047/James-Blake/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "454734",
           "title": "Starsailor With Strings",
@@ -2103,6 +2110,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Al sinds zijn debuut in 2006 bouwt Diggy Dex gestaag aan een carrière, waarin hij uitgroeide tot een vaste waarde in het Nederlandse muzieklandschap. Met het platina bekroonde album Golven brak hij door bij het grote publiek, waarna vervolgalbums als Karavaan, Carrousel en Tempo Giusto volgden.…",
           "url": "https://www.podiuminfo.nl/concert/457065/Diggy-Dex-De-Zoektocht-Naar-Geluk/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "449501",
+          "title": "Dar Williams",
+          "start": "2026-10-10T21:00:00+02:00",
+          "end": "2026-10-10T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Amerikaanse folkzangeres bracht onlangs tiende album uit - De Amerikaanse folkzangeres Dar Williams debuteerde in 1990 met het album I Have No History, het begin van een rijke carrière met tot nu toe tien albums. Met inspiratiebronnen als Joan Baez en Ani Di Franco is het logisch dat Williams in…",
+          "url": "https://www.podiuminfo.nl/concert/449501/Dar-Williams/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2673,6 +2690,62 @@
             "Workshop",
             "Vechtclub XL"
           ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-42",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-10-12T00:00:00+01:00",
+          "end": "2026-10-12T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-42/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-20",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-10-12T00:00:00+01:00",
+          "end": "2026-10-12T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-20/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-ruggengraat-community-2",
+          "title": "Ruggengraat Community",
+          "start": "2026-10-12T00:00:00+01:00",
+          "end": "2026-10-12T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/ruggengraat-community-2/",
+          "tags": [
+            "Gratis",
+            "Panelgesprek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-luisteravond-album-release-fenne",
+          "title": "Luisteravond – Album release FENNE",
+          "start": "2026-10-14T00:00:00+01:00",
+          "end": "2026-10-14T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/luisteravond-album-release-fenne/",
+          "tags": [
+            "Gratis",
+            "Muziek",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2790,9 +2863,9 @@
           ]
         },
         {
-          "id": "basis-utrecht-10001514-1792191600-1792216800",
+          "id": "basis-utrecht-10001514-1792193400-1792216800",
           "title": "BASIS/ AREA ØNE/ BIIANCO/ Hurts/ Nick Selter",
-          "start": "2026-10-16T23:00:00+01:00",
+          "start": "2026-10-16T23:30:00+01:00",
           "end": "2026-10-17T06:00:00+01:00",
           "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
           "description": "//www.youtube.com/@basisclubutrecht",
@@ -2827,9 +2900,9 @@
           ]
         },
         {
-          "id": "basis-utrecht-10001511-1793401200-1793426400",
+          "id": "basis-utrecht-10001511-1793404740-1793426400",
           "title": "BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser",
-          "start": "2026-10-30T23:00:00+01:00",
+          "start": "2026-10-30T23:59:00+01:00",
           "end": "2026-10-31T06:00:00+01:00",
           "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
           "description": "//www.youtube.com/@basisclubutrecht",
@@ -2972,18 +3045,6 @@
           ]
         },
         {
-          "id": "basis-utrecht-10001528-1796511600-1796536800",
-          "title": "BASIS/ Estella Boersma All Night Long",
-          "start": "2026-12-05T23:00:00+01:00",
-          "end": "2026-12-06T06:00:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-estella-boersma-all-night-long/",
-          "tags": [
-            "Techno"
-          ]
-        },
-        {
           "id": "basis-utrecht-10001521-1797030000-1797055200",
           "title": "BASIS/ BØĘRY/ D|K|OXY/ Jaz Jagers/ SEMPLIFIER",
           "start": "2026-12-11T23:00:00+01:00",
@@ -2994,6 +3055,18 @@
           "tags": [
             "Hardtechno",
             "Industrial"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001530-1797033600-1797141600",
+          "title": "BASIS/ Changi/ Kim April/ Lasse Top/ Robbie Doherty",
+          "start": "2026-12-12T00:00:00+01:00",
+          "end": "2026-12-13T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-changi-kim-april-lasse-top-robbie-doherty/",
+          "tags": [
+            "House"
           ]
         },
         {
@@ -3010,6 +3083,19 @@
             "Leftfield techno",
             "Old school techno",
             "Underground techno"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001529-1798243200-1798354800",
+          "title": "BASIS/ GWELDBATUN All Night Long",
+          "start": "2026-12-26T00:00:00+01:00",
+          "end": "2026-12-27T07:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-gweldbatun-all-night-long/",
+          "tags": [
+            "Hardtechno",
+            "Industrial"
           ]
         }
       ]
@@ -3102,16 +3188,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "69222",
-          "title": "The Music Of From Studio Ghibli To One Piece (new date)",
-          "start": "2026-10-05T20:00:00.000Z",
-          "end": "2026-10-05T23:00:00.000Z",
-          "location": "Eindhoven, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=69222",
-          "description": "Immerse yourself in the magical world of Japanese animation. For two hours, experience the iconic music of Studio Ghibli, One Piece, Attack on Titan, and many more, performed live.<BR><BR>A concert like no other. A total immersion into the world of Studio Ghibli and the great classics of Japanese an",
-          "tags": []
-        },
         {
           "id": "73034",
           "title": "The music of Bond",
@@ -4882,8 +4958,7 @@
           "description": "Craig Armstrong / Nellee Hooper / Marius de Vries - William Shakespeare’s Romeo + Juliet<BR><BR>Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 film with William Shakespeare’s Romeo + Juliet Film in Concert, a live cinematic concert experience featuring a big-screen pr",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",
@@ -4980,16 +5055,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-writer-in-residence-2026-pim-lammers-2026",
-          "title": "Writer in Residence 2026: Pim Lammers",
-          "start": "2026-10-05T10:00:00+01:00",
-          "end": "2026-10-05T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/writer-in-residence-2026-pim-lammers/",
-          "tags": []
-        },
         {
           "id": "muiderslot-lezing-oogst-het-muiderslot-2026",
           "title": "Lezing: Oogst &amp; het Muiderslot &#8211; 7 okt 2026",
@@ -5118,6 +5183,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/het-kasteel-van-sinterklaas/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-familietheater-vrije-vogels-2026",
+          "title": "Familietheater: Vrije Vogels",
+          "start": "2026-12-06T10:00:00+01:00",
+          "end": "2026-12-06T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/familietheater-vrije-vogels/",
           "tags": []
         },
         {
@@ -6450,6 +6525,17 @@
       "scene": "buhurt",
       "feedUrl": "https://www.buhurtinternational.com/tournaments",
       "events": [
+        {
+          "id": "bi-drei-königs-triathlon",
+          "title": "Drei Königs Triathlon",
+          "start": "2027-01-09T00:00:00+01:00",
+          "end": "2027-01-09T23:00:00+01:00",
+          "location": "Germany",
+          "country": "Germany",
+          "description": "Buhurt-toernooi in Germany.",
+          "url": "https://www.buhurtinternational.com/tournament/drei-königs-triathlon",
+          "tags": []
+        },
         {
           "id": "bi-castleton-cup",
           "title": "Castleton Cup 2027",

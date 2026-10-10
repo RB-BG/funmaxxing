@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T11:44:03.577Z",
+  "updatedAt": "2026-10-10T11:02:13.272Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,20 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17777",
-          "title": "ZAKMES - 'We Are SO Back' EP Release Party!",
-          "start": "2026-10-09T19:30:00+01:00",
-          "end": "2026-10-09T23:00:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=Ac5kGn6Xy5w",
-          "url": "https://dbstudio.nl/event/zakmes-zakmes-is-so-back-release-party/",
-          "tags": [
-            "Emo",
-            "Hardcore",
-            "Pop Punk"
-          ]
-        },
         {
           "id": "17451",
           "title": "JOHN COFFEY + Van Tastik",
@@ -400,6 +386,20 @@
             "Country & Western",
             "Folk"
           ]
+        },
+        {
+          "id": "17825",
+          "title": "PRO-PAIN (USA - Legends) + Dyslekt",
+          "start": "2026-11-17T20:00:00+01:00",
+          "end": "2026-11-17T23:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "//www.youtube.com/watch?v=QiGkSUcf7RU",
+          "url": "https://dbstudio.nl/event/pro-pain-usa-legends/",
+          "tags": [
+            "Concert",
+            "Hardcore",
+            "Metal"
+          ]
         }
       ]
     },
@@ -411,6 +411,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31062",
+          "title": "Flawed Mangoes",
+          "start": "2026-11-02T20:00:00+01:00",
+          "end": "2026-11-02T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Flawed Mangoes is het project van de in Boston gevestigde producer, songwriter en multi-instrumentalist Evan Lo. Hij brengt een hypnotiserende mix van ambient gitaar, lo-fi, shoegaze en elektronische productie. Nadat hij zijn carrière begon met het delen van mixes op SoundCloud en samenwerkingen…",
+          "url": "https://ekko.nl/event/flawed-mangoes/",
+          "tags": []
+        },
         {
           "id": "31861",
           "title": "Popronde 2026",
@@ -589,16 +599,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Deze vrijdag wordt Diep In De Groef eenmalig Diep Indie Groef . Nog steeds het muzikale alternatief op vrijdag, maar dan met oneindig veel indiebangers gebracht door Indie Gloria en Sam Heegstra . Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits…",
           "url": "https://ekko.nl/event/diep-in-de-groef-233/",
-          "tags": []
-        },
-        {
-          "id": "31250",
-          "title": "Diep In De Groef",
-          "start": "2026-10-09T23:30:00+01:00",
-          "end": "2026-10-10T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-231/",
           "tags": []
         },
         {
@@ -849,16 +849,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Het Londense duo Good Health Good Wealth begon ooit als punkband, maar heeft inmiddels een geheel eigen mix gevonden van spoken word, indie-hiphop en elektronica. Hun muziek is rauw, energiek en onvoorspelbaar, met scherpe teksten en stuwende elektronische klanken die alle kanten op kunnen gaan.…",
           "url": "https://ekko.nl/event/good-health-good-wealth/",
-          "tags": []
-        },
-        {
-          "id": "31062",
-          "title": "Flawed Mangoes",
-          "start": "2026-11-02T20:00:00+01:00",
-          "end": "2026-11-02T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Flawed Mangoes is het project van de in Boston gevestigde producer, songwriter en multi-instrumentalist Evan Lo. Hij brengt een hypnotiserende mix van ambient gitaar, lo-fi, shoegaze en elektronische productie. Nadat hij zijn carrière begon met het delen van mixes op SoundCloud en samenwerkingen…",
-          "url": "https://ekko.nl/event/flawed-mangoes/",
           "tags": []
         },
         {
@@ -1151,26 +1141,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-john-coffey-support-eyesores-09-10-2026",
-          "title": "John Coffey + support Eyesores",
-          "start": "2026-10-09T19:45:00+01:00",
-          "end": "2026-10-09T23:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Utrechtse hardcore-legends zijn terug met vijfde album",
-          "url": "https://dehelling.nl/agenda/john-coffey-support-eyesores-09-10-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-distortion-disco-09-10-2026",
-          "title": "Distortion Disco",
-          "start": "2026-10-09T23:00:00+01:00",
-          "end": "2026-10-10T02:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Dit is geen disco muziek, maar rock in de disco baby!",
-          "url": "https://dehelling.nl/agenda/distortion-disco-09-10-2026/",
-          "tags": []
-        },
         {
           "id": "helling-the-funky-cat-office-day-rave-10-10-2026",
           "title": "The Funky Cat – Office Day Rave",
@@ -1587,7 +1557,7 @@
           "start": "2026-12-04T23:00:00+01:00",
           "end": "2026-12-05T05:30:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "No barriers, no limits. Raw hardtechno, industrial and schranz in an immersive Boiler Room setting. No nonsense, pure hardtechno.",
+          "description": "",
           "url": "https://dehelling.nl/agenda/styass-unscripted-04-12-2026/",
           "tags": []
         },
@@ -1872,76 +1842,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "455725",
-          "title": "Shadow of Intent",
-          "start": "2026-10-09T18:30:00+02:00",
-          "end": "2026-10-09T19:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse deathcoreband Shadow of Intent (vernoemd naar een ruimteschip uit de Halo-videogameserie) combineert extreme metal met orkestrale arrangementen tot een uniek eigen geluid. Op hun vijfde album Imperium Delerium (2025) klinken de heren – tot genoegen van veel fans – een stuk steviger…",
-          "url": "https://www.podiuminfo.nl/concert/455725/Shadow-of-Intent/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452871",
-          "title": "OGENE",
-          "start": "2026-10-09T20:30:00+02:00",
-          "end": "2026-10-09T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Nederlandse poptrio OGENE, bestaande uit de zussen Lisa, Amy en Shelley, brak in 2014 door toen ze The Voice Of Holland wonnen. Hun eerste album We Got This (2016) werd goud, opvolger Straight To You (2019) haalde ook de top tien en dan stond het trio in 2017 ook nog op het Songfestival. Fast…",
-          "url": "https://www.podiuminfo.nl/concert/452871/OGENE/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "465365",
-          "title": "Chica Chica",
-          "start": "2026-10-09T20:30:00+02:00",
-          "end": "2026-10-09T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Nederlandse trio Chica Chica klinkt met hun mix van psychedelische cumbia, vintage funk en exotische grooves allesbehalve Nederlands. Onder leiding van frontvrouw en bassiste Judith Renkema zet Chica Chica een organisch swingend geluid neer dat doet denken aan heerlijke analoge tijden van…",
-          "url": "https://www.podiuminfo.nl/concert/465365/Chica-Chica/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "489025",
-          "title": "Tante Joke Karaoke Band",
-          "start": "2026-10-09T21:00:00+02:00",
-          "end": "2026-10-09T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Tante Joke Karaoke Band keert terug naar TivoliVredenburg voor een avond vol interactieve karaoke. Bezoekers worden uitgenodigd om zelf het podium te betreden en hun favoriete 'foute hits' en gouden klassiekers te zingen, begeleid door de band. Het evenement belooft legendarische meezingers,…",
-          "url": "https://www.podiuminfo.nl/concert/489025/Tante-Joke-Karaoke-Band/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490937",
-          "title": "Park 6",
-          "start": "2026-10-09T23:00:00+02:00",
-          "end": "2026-10-10T00:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Park 6 in TivoliVredenburg is de gratis hangout waar bezoekers direct in de weekendsfeer komen. Deze evenementenruimte biedt goede muziek, spellen zoals tafeltennis en diverse andere uitdagingen. Het is de ideale plek om te ontspannen na een show, op te warmen voor een clubavond, of gewoon de…",
-          "url": "https://www.podiuminfo.nl/concert/490937/Park-6/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490707",
-          "title": "ANTHEMS",
-          "start": "2026-10-09T23:30:00+02:00",
-          "end": "2026-10-10T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "ANTHEMS is een energieke clubnacht gericht op het samenbrengen van herkenbare en opzwepende tracks om op los te gaan. De avond belooft een dansvloerervaring die doet denken aan een festivalweide, met een breed scala aan muziekstijlen en artiesten, variërend van popiconen tot dance-legendes. Ook…",
-          "url": "https://www.podiuminfo.nl/concert/490707/ANTHEMS/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "487805",
-          "title": "ON&ON: HVMZA, Susan Right, DEMS",
-          "start": "2026-10-10T00:00:00+02:00",
-          "end": "2026-10-10T01:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "ON&ON keert terug met een line-up van Nederlandse en internationale DJ's voor een muzikale reis. HVMZA, een Belgische DJ en producer met Turkse en Arabische roots, transformeert Pandora met zijn Afro-, Latin- en Organic House-klanken. HVMZA heeft wereldwijd publiek veroverd met meer dan 16 miljoen…",
-          "url": "https://www.podiuminfo.nl/concert/487805/ON-ON-HVMZA-Susan-Right-DEMS/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "445736",
           "title": "Dotan",
           "start": "2026-10-10T20:00:00+02:00",
@@ -2099,6 +1999,66 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Jesse Hydro, een 23-jarige singer-songwriter en producer uit Utrecht, presenteert Engelstalige popmuziek vol emotie en aanstekelijke melodieën. Zijn nummers, geïnspireerd door persoonlijke observaties, zijn openhartig en toegankelijk, met refreinen die blijven hangen. Hydro vergaarde bekendheid via…",
           "url": "https://www.podiuminfo.nl/concert/491497/Rabo-Open-Stage-Jesse-Hydro/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "456978",
+          "title": "Wishful Singing - Fritz Langs Metropolis",
+          "start": "2026-10-14T19:30:00+02:00",
+          "end": "2026-10-14T20:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "In een wereld die honderd jaar geleden al werd geconfronteerd met kunstmatige intelligentie, robots en sociale ongelijkheid, blijft Fritz Langs legendarische film Metropolis (1927) verrassend actueel. Deze visionaire rolprent wordt integraal vertoond in Hertz, TivoliVredenburg, en live begeleid…",
+          "url": "https://www.podiuminfo.nl/concert/456978/Wishful-Singing-Fritz-Langs-Metropolis/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "447726",
+          "title": "The Mountain Goats",
+          "start": "2026-10-14T20:00:00+02:00",
+          "end": "2026-10-14T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse indieband The Mountain Goats bestaat bij de gratie van frontman John Darnielle, in de begintijd (de vroege nineties) ook het enige lid. De teksten van Darnielle zijn hyperpersoonlijk, muzikaal stuiteren The Mountain Goats alle kanten op, van lo-fi tot rijk gearrangeerde indierock. De…",
+          "url": "https://www.podiuminfo.nl/concert/447726/The-Mountain-Goats/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "462824",
+          "title": "Ruel",
+          "start": "2026-10-14T20:00:00+02:00",
+          "end": "2026-10-14T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De jonge Australische zanger Ruel verovert de wereld met zijn goed in het gehoor liggende pop en r&b, vergelijkbaar met de stijl van Shawn Mendes. Hij scoorde de afgelopen jaren met tracks als Dazed & Confused, Don’t Tell Me en Painkiller. Zijn populariteit blijkt uit het feit dat zijn vijf meest…",
+          "url": "https://www.podiuminfo.nl/concert/462824/Ruel/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "455058",
+          "title": "Myles Sanko",
+          "start": "2026-10-14T20:30:00+02:00",
+          "end": "2026-10-14T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Myles Sanko, een Engels-Ghanese soul- en jazz-zanger, heeft een duidelijke missie: positiviteit uitstralen en luisteraars aanzetten tot zelfreflectie via zijn muziek. Dit heeft hij gedurende vijf albums al consistent gedaan, met 'Let It Fold' (2024) als zijn meest recente werk. Hoewel zijn eerdere…",
+          "url": "https://www.podiuminfo.nl/concert/455058/Myles-Sanko/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "460898",
+          "title": "Gruppo Sportivo - Stop Motion",
+          "start": "2026-10-14T20:30:00+02:00",
+          "end": "2026-10-14T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Gruppo Sportivo viert in 2026 een halve eeuw bestaan en markeert dit met een laatste tournee langs popzalen en festivals, getiteld 'Stop Motion'. Zanger en gitarist Hans Vandenburg kondigt aan dat de band op een hoogtepunt afscheid wil nemen van het podium. De bezetting bestaat naast Vandenburg uit…",
+          "url": "https://www.podiuminfo.nl/concert/460898/Gruppo-Sportivo-Stop-Motion/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "461868",
+          "title": "Kita Alexander",
+          "start": "2026-10-14T20:30:00+02:00",
+          "end": "2026-10-14T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Australische zangeres Kita Alexander maakt indiepop die op het eerste gehoor luchtig klinkt, maar dit combineert met persoonlijke teksten over liefde, verlies en mentale gezondheid. In 2023 brak ze door met de track Atmosphere, een samenwerking met producer FISHER die inmiddels een kwart miljard…",
+          "url": "https://www.podiuminfo.nl/concert/461868/Kita-Alexander/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2500,19 +2460,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-lingerie-maken-workshop-rue-de-paradis-english",
-          "title": "Lingerie Maken Workshop – Rue de Paradis (English)",
-          "start": "2026-10-10T00:00:00+01:00",
-          "end": "2026-10-10T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/lingerie-maken-workshop-rue-de-paradis-english/",
-          "tags": [
-            "Workshop",
-            "Vechtclub XL"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-20",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-10-12T00:00:00+01:00",
@@ -2594,6 +2541,20 @@
             "Muziek",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-canal-do-samba-4",
+          "title": "Canal Do Samba",
+          "start": "2026-10-15T00:00:00+01:00",
+          "end": "2026-10-15T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/canal-do-samba-4/",
+          "tags": [
+            "Dans",
+            "Muziek",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2656,16 +2617,6 @@
           "tags": []
         },
         {
-          "id": "acu-20261010-neon-quatsch",
-          "title": "Neon Quatsch",
-          "start": "2026-10-10T00:00:00+01:00",
-          "end": "2026-10-10T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 10th. Queerfuif. Fuck normaal, wij willen Neon Quatsch. Quatsch en NeoN Noir gaan deze nacht samen feestbeesten. Dus reken op dubbele poespas, vele genders en een queer dansvloer die de schaamte voorbij is. Met een optreden van VIXEN. Queer feministisch rapduo VIXEN is niet op hun mondje…",
-          "url": "https://acu.nl/events/20261010/neon-quatsch",
-          "tags": []
-        },
-        {
           "id": "acu-20261031-prisonnier-du-temps-tba-matinee",
           "title": "Prisonnier Du Temps + Hard Shoulder + Maulkorb (matinee)",
           "start": "2026-10-31T00:00:00+01:00",
@@ -2685,18 +2636,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001509-1791586800-1791612000",
-          "title": "BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem",
-          "start": "2026-10-09T23:00:00+01:00",
-          "end": "2026-10-10T06:00:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-ghetto-house-special-bohm-dj-assault-extended-set-dj-godfather-zora-soundsystem/",
-          "tags": [
-            "Ghetto house"
-          ]
-        },
         {
           "id": "basis-utrecht-10001499-1791673200-1791698400",
           "title": "BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set]",
@@ -3049,26 +2988,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "74684",
-          "title": "Intouchables Live in Concert",
-          "start": "2026-10-09T20:00:00.000Z",
-          "end": "2026-10-09T23:00:00.000Z",
-          "location": "Leiden, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74684",
-          "description": "Ludovico Einaudi - Intouchables<BR><BR>After the success of previous film concerts, The James Whale Orchestra will present a new title in the 2026/2027 season: Intouchables Live in Concert . During this special evening, the French film classic Intouchables will be screened in its entirety on a big s",
-          "tags": []
-        },
-        {
-          "id": "78861",
-          "title": "Tim Burton’s Universe",
-          "start": "2026-10-09T20:00:00.000Z",
-          "end": "2026-10-09T23:00:00.000Z",
-          "location": "Roermond, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78861",
-          "description": "Welcome to the fantastical worlds of Tim Burton! We invite you on a journey through the music that made them unforgettable.<BR><BR>From the shimmering wonder of Alice in Wonderland to the festive magic of The Nightmare Before Christmas, from the haunting lyricism of Edward Scissorhands to the eccent",
-          "tags": []
-        },
         {
           "id": "74524",
           "title": "From Taco to Tango, the soul of South America",
@@ -3716,7 +3635,7 @@
           "end": "2026-11-21T23:00:00.000Z",
           "location": "Rotterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75450",
-          "description": "CONCERT IS SOLD OUT<BR><BR>Philzuid<BR>Ben Palmer - Conductor<BR>Roger Sayer - Organ<BR><BR>Hans Zimmer - Interstellar<BR><BR>Interstellar Live brings Christopher Nolan's Oscar-winning science fiction epic back to the big screen, featuring Hans Zimmer's revelatory score performed live by the…",
+          "description": "Philzuid<BR>Ben Palmer - Conductor<BR>Roger Sayer - Organ<BR><BR>Hans Zimmer - Interstellar<BR><BR>Interstellar Live brings Christopher Nolan's Oscar-winning science fiction epic back to the big screen, featuring Hans Zimmer's revelatory score performed live by the Philzuid Orchest",
           "tags": []
         },
         {
@@ -4907,16 +4826,6 @@
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
         {
-          "id": "muiderslot-kasteel-kookclub-muiderslot-2026",
-          "title": "Kasteel Kookclub Muiderslot Thema Herfst",
-          "start": "2026-10-09T10:00:00+01:00",
-          "end": "2026-12-11T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/kasteel-kookclub-muiderslot/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-toegankelijkheidsadviseurs-in-het-kasteel-2026",
           "title": "Toegankelijkheidsadviseurs in het kasteel",
           "start": "2026-10-10T10:00:00+01:00",
@@ -4937,6 +4846,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-herfstvakantie-in-het-kasteelatelier-2026",
+          "title": "Herfstvakantie in het Kasteelatelier",
+          "start": "2026-10-10T10:00:00+01:00",
+          "end": "2026-10-18T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/herfstvakantie-in-het-kasteelatelier/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-mindful-weven-in-het-kasteelatelier-2026",
           "title": "Mindful Weven in het Kasteelatelier",
           "start": "2026-10-10T10:00:00+01:00",
@@ -4954,16 +4873,6 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/mindful-muiderslot-yoga-10-oktober-2026/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-herfstvakantie-in-het-kasteelatelier-2026",
-          "title": "Herfstvakantie in het Kasteelatelier",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-18T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/herfstvakantie-in-het-kasteelatelier/",
           "tags": []
         },
         {
@@ -6367,17 +6276,6 @@
           "country": "United Kingdom",
           "description": "Buhurt-toernooi in United Kingdom.",
           "url": "https://www.buhurtinternational.com/tournament/castleton-cup",
-          "tags": []
-        },
-        {
-          "id": "bi-v.-veszprém-medieval-day",
-          "title": "V. Veszprém Medieval Day 2026",
-          "start": "2026-10-10T00:00:00+01:00",
-          "end": "2026-10-10T23:00:00+01:00",
-          "location": "Hungary",
-          "country": "Hungary",
-          "description": "Buhurt-toernooi in Hungary.",
-          "url": "https://www.buhurtinternational.com/tournament/v.-veszprém-medieval-day",
           "tags": []
         },
         {

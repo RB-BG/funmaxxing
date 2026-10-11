@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T11:02:13.272Z",
+  "updatedAt": "2026-10-11T11:19:04.456Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,20 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17451",
-          "title": "JOHN COFFEY + Van Tastik",
-          "start": "2026-10-10T20:00:00+01:00",
-          "end": "2026-10-10T23:30:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=vLRzqY7kObs",
-          "url": "https://dbstudio.nl/event/john-coffey/",
-          "tags": [
-            "Hardcore",
-            "Metal",
-            "Screamo"
-          ]
-        },
         {
           "id": "18207",
           "title": "Muziekschool Backstage bandmiddag",
@@ -400,6 +386,18 @@
             "Hardcore",
             "Metal"
           ]
+        },
+        {
+          "id": "17509",
+          "title": "BLACKGOLD (UK) + Sumo Cyco (CAN)",
+          "start": "2026-11-18T20:00:00+01:00",
+          "end": "2026-11-18T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "//www.youtube.com/watch?v=YRBLbQnBMqQ",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-blackgold-uk/",
+          "tags": [
+            "Nu Metal"
+          ]
         }
       ]
     },
@@ -459,16 +457,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Uncloud is een Utrechts interdisciplinair festival en platform waar elektronische muziek, beeldende kunst, technologie en performance samenkomen. Al vanaf de eerste edities zoekt Uncloud in EKKO de grenzen tussen kunstvormen, ruimte en geluid op. Dit jaar bestaat Uncloud 10 jaar en viert EKKO het…",
           "url": "https://ekko.nl/event/uncloud-bnnt-radwan-ghazi-moumneh/",
-          "tags": []
-        },
-        {
-          "id": "27766",
-          "title": "néomí",
-          "start": "2026-10-10T20:00:00+01:00",
-          "end": "2026-10-10T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De folk-pop singer-songwriter néomí vertelt oprechte en authentieke verhalen geïnspireerd door zowel klassieke als hedendaagse folkartiesten, ondersteund door dromerige soundscapes. Sinds de release van haar veelgeprezen debuutalbum Somebody&#8217;s Daughter (2024) speelde de Nederlands/Surinaamse…",
-          "url": "https://ekko.nl/event/neomi-1/",
           "tags": []
         },
         {
@@ -789,16 +777,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Verbonden door een rijk heden en verleden in bands als Death Alley en Geishas of Doom en een voorliefde voor geestverruimende, avontuurlijke en vooral diep-psychedelische rock, zullen deze twee bands samen zorgen voor een onvergetelijke avond gitaarmuziek van de bovenste plank en laten horen en…",
           "url": "https://ekko.nl/event/iron-jinn-temple-fang/",
-          "tags": []
-        },
-        {
-          "id": "30680",
-          "title": "Weval Presents: CLUB CHOROPHOBIA",
-          "start": "2026-10-10T23:30:00+01:00",
-          "end": "2026-10-11T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Na een eerder bezoek aan de Bemuurde Weerd, alweer tien jaar geleden, keert Weval op 10 oktober terug naar EKKO voor een bijzondere editie van hun clubconcept CLUB CHOROPHOBIA. Waar het Amsterdamse duo voorheen in EKKO met een liveshow op het podium stond, nemen ze op 10 oktober plaats achter de…",
-          "url": "https://ekko.nl/event/weval-presents-club-chorophobia/",
           "tags": []
         },
         {
@@ -1141,26 +1119,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-the-funky-cat-office-day-rave-10-10-2026",
-          "title": "The Funky Cat – Office Day Rave",
-          "start": "2026-10-10T15:00:00+01:00",
-          "end": "2026-10-10T23:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Alle underground dance genres in de blender voor een knotsgekke en kleurrijke rave!",
-          "url": "https://dehelling.nl/agenda/the-funky-cat-office-day-rave-10-10-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-afrobeats-nl-utrecht-edition-10-10-2026",
-          "title": "AFROBEATS NL: UTRECHT EDITION",
-          "start": "2026-10-10T23:59:00+01:00",
-          "end": "2026-10-11T05:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "The afrobeat movement that took over Groningen and Amsterdam is landing in Utrecht.",
-          "url": "https://dehelling.nl/agenda/afrobeats-nl-utrecht-edition-10-10-2026/",
-          "tags": []
-        },
         {
           "id": "helling-the-magic-numbers-support-simon-joan-12-10-2026",
           "title": "The Magic Numbers + support Simon Joan",
@@ -1842,66 +1800,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "445736",
-          "title": "Dotan",
-          "start": "2026-10-10T20:00:00+02:00",
-          "end": "2026-10-10T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Nederlandse singer-songwriter Dotan brak in 2014 door met de hit Home, afkomstig van zijn tweede album 7 Layers. Een nummer met een lange adem: in 2024 kwam Home op 1 in de Canadese iTunes Top 100 nadat Dotan had opgetreden in een Canadese tv-show. De singer-songwriter meldt dat zijn volgende…",
-          "url": "https://www.podiuminfo.nl/concert/445736/Dotan/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "456891",
-          "title": "Robert Jon & The Wreck",
-          "start": "2026-10-10T20:15:00+02:00",
-          "end": "2026-10-10T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse band Robert Jon & The Wreck ademt nieuw leven in de southern rock en bluesrock. De band wordt geprezen om de krachtige, soulvolle stem van frontman Robert Jon Burrison, aangevuld met sterke songs en indrukwekkend gitaarwerk. Na te zijn getekend door Joe Bonamassa’s Journeyman-label…",
-          "url": "https://www.podiuminfo.nl/concert/456891/Robert-Jon-The-Wreck/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "457065",
-          "title": "Diggy Dex - De Zoektocht Naar Geluk",
-          "start": "2026-10-10T20:15:00+02:00",
-          "end": "2026-10-10T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Al sinds zijn debuut in 2006 bouwt Diggy Dex gestaag aan een carrière, waarin hij uitgroeide tot een vaste waarde in het Nederlandse muzieklandschap. Met het platina bekroonde album Golven brak hij door bij het grote publiek, waarna vervolgalbums als Karavaan, Carrousel en Tempo Giusto volgden.…",
-          "url": "https://www.podiuminfo.nl/concert/457065/Diggy-Dex-De-Zoektocht-Naar-Geluk/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "449501",
-          "title": "Dar Williams",
-          "start": "2026-10-10T21:00:00+02:00",
-          "end": "2026-10-10T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Amerikaanse folkzangeres bracht onlangs tiende album uit - De Amerikaanse folkzangeres Dar Williams debuteerde in 1990 met het album I Have No History, het begin van een rijke carrière met tot nu toe tien albums. Met inspiratiebronnen als Joan Baez en Ani Di Franco is het logisch dat Williams in…",
-          "url": "https://www.podiuminfo.nl/concert/449501/Dar-Williams/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "495413",
-          "title": "Rabo Open Stage: Yasmina",
-          "start": "2026-10-10T22:30:00+02:00",
-          "end": "2026-10-10T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Yasmina is een alternatieve pop singer-songwriter, bekend om haar warme, persoonlijke vocalen en een zachte doch speelse scherpte. Haar muziek, geïnspireerd door artiesten als Lizzy McAlpine, YEBBA en Tiny Habits, vertaalt thema's als liefde, verlangen en opgroeien naar intieme en aanstekelijke…",
-          "url": "https://www.podiuminfo.nl/concert/495413/Rabo-Open-Stage-Yasmina/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "491378",
-          "title": "4AM.",
-          "start": "2026-10-10T23:55:00+02:00",
-          "end": "2026-10-11T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "4AM. keert op 10 oktober terug in Utrecht voor een avond vol nostalgische Nederlandse hiphop classics. Bezoekers kunnen een nacht vol bekende en vergeten hits verwachten van artiesten zoals Ronnie Flex, Frenna, Jonna Fraser en Broederliefde, die de euforische soundtrack vormen. 4AM. belooft naast…",
-          "url": "https://www.podiuminfo.nl/concert/491378/4AM-/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "450618",
           "title": "Jack Savoretti - We Will Always Be The Way We Were Tour",
           "start": "2026-10-11T20:00:00+02:00",
@@ -2059,6 +1957,86 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "De Australische zangeres Kita Alexander maakt indiepop die op het eerste gehoor luchtig klinkt, maar dit combineert met persoonlijke teksten over liefde, verlies en mentale gezondheid. In 2023 brak ze door met de track Atmosphere, een samenwerking met producer FISHER die inmiddels een kwart miljard…",
           "url": "https://www.podiuminfo.nl/concert/461868/Kita-Alexander/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "451663",
+          "title": "ÁMÀL Ensemble",
+          "start": "2026-10-15T20:00:00+02:00",
+          "end": "2026-10-15T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Arabische melodieën, latin grooves en impro-jazz - ÁMÀL Ensemble brengt een eclectische mix van Arabische thema's, Latin grooves en impro-jazz. Deze in Amsterdam gevestigde band van zeven jonge muzikanten met roots in Syrië, Siberië, Mexico en Frankrijk creëert een uniek, betoverend geluid. Voel de…",
+          "url": "https://www.podiuminfo.nl/concert/451663/AMAL-Ensemble/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "462225",
+          "title": "The Lemonheads",
+          "start": "2026-10-15T20:00:00+02:00",
+          "end": "2026-10-15T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse gitaarband The Lemonheads stond in de jaren negentig bekend om hun kenmerkende mix van grunge, powerpop en folkrock, wat resulteerde in klassieke albums zoals 'It’s A Shame About Ray' en 'Come On Feel The Lemonheads'. Na twee coveralbums bracht de band vorig jaar 'Love Chant' uit,…",
+          "url": "https://www.podiuminfo.nl/concert/462225/The-Lemonheads/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "481179",
+          "title": "Mondo Drag + Early Moods",
+          "start": "2026-10-15T20:00:00+02:00",
+          "end": "2026-10-15T21:00:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "De Amerikaanse rockband Mondo Drag put inspiratie uit de psychedelische rock van de jaren zestig en zeventig, en heeft dit in twintig jaar tijd aangevuld met krautrock en vroege heavy metal. Hun meest recente album, Through The Hourglass (2023), verkent reflectieve thema's rondom het verstrijken…",
+          "url": "https://www.podiuminfo.nl/concert/481179/Mondo-Drag-Early-Moods/dBs/",
+          "tags": []
+        },
+        {
+          "id": "474054",
+          "title": "Krallice",
+          "start": "2026-10-15T20:15:00+02:00",
+          "end": "2026-10-15T21:15:00.000Z",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "De New Yorkse band Krallice staat bekend om hun blackmetal op gymnasiumniveau, gekenmerkt door supertechnische en onnavolgbare akkoordenschema’s en invloeden uit diverse andere genres. Na het album 'Years Past Matter' (2012) begon de band te experimenteren met technical deathmetal, dark ambient,…",
+          "url": "https://www.podiuminfo.nl/concert/474054/Krallice/De-Helling/",
+          "tags": []
+        },
+        {
+          "id": "460016",
+          "title": "Lambert",
+          "start": "2026-10-15T20:30:00+02:00",
+          "end": "2026-10-15T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De mysterieuze Duitse pianist-componist Lambert, herkenbaar aan zijn Sardijnse masker, wordt vaak gelinkt aan neoklassieke muziek, maar ziet zichzelf als een jazzmuzikant met een sterk gevoel voor melodie. Zijn muzikale invloeden variëren breed, van de Beatles tot Chopin, en hij laat zich…",
+          "url": "https://www.podiuminfo.nl/concert/460016/Lambert/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "481180",
+          "title": "Kreukelzone: Woezie Woezie 17",
+          "start": "2026-10-16T15:00:00+02:00",
+          "end": "2026-10-16T16:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Woezie Woezie 17 presenteert tweemaal per maand semi-akoestische popmuziek met levenservaring op de Vredenburg Open Stage. Bezoekers kunnen bekende en nieuwe nummers verwachten in een gezellige vrijdagmiddagsetting. De formatie, ontstaan op de middelbare school, zingt nu over alledaagse thema's,…",
+          "url": "https://www.podiuminfo.nl/concert/481180/Kreukelzone-Woezie-Woezie-17/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "464952",
+          "title": "Orgel Vreten",
+          "start": "2026-10-16T19:30:00+02:00",
+          "end": "2026-10-16T20:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Twee ronkende hammondorgels en een mix van rock, funk en psychedelica vormen de kern van de band Orgel Vreten. Toetsenvirtuozen Darius Timmer en Thijs Schrijnemakers stuwen elkaar op naar grote artistieke hoogten, ondersteund door Jan Teertstra op bas, Henri van den Berg op drums en Arno Bakker op…",
+          "url": "https://www.podiuminfo.nl/concert/464952/Orgel-Vreten/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "449475",
+          "title": "Flaire",
+          "start": "2026-10-16T20:00:00+02:00",
+          "end": "2026-10-16T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De drie jonge boys van het Haagse trio Flaire maken onweerstaanbaar dansbare pop in de stijl van Goldband en De Jeugd Van Tegenwoordig. Met het nummer Seks (afkomstig van de debuut-ep Sociale Zaken) gingen ze begin 2024 viraal, een succes dat nog eens werd overgedaan met de track Zomer, onderdeel…",
+          "url": "https://www.podiuminfo.nl/concert/449475/Flaire/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2221,6 +2199,18 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
+          "id": "lab-monkey-23641",
+          "title": "Commander Tuesday",
+          "start": "2026-10-13T18:00:00+01:00",
+          "end": "2026-10-13T23:00:00+01:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 44 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-247/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
           "start": "2026-10-13T19:00:00+01:00",
@@ -2230,6 +2220,18 @@
           "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
           "tags": [
             "Ladies'(K)night"
+          ]
+        },
+        {
+          "id": "lab-monkey-23639",
+          "title": "Weekly Draft",
+          "start": "2026-10-15T19:00:00+01:00",
+          "end": "2026-10-15T23:00:00+01:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €24,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-130/",
+          "tags": [
+            "Draft"
           ]
         }
       ]
@@ -2555,6 +2557,35 @@
             "Muziek",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-lars-gypsy-project-live-2",
+          "title": "Lars Gypsy Project (Live)",
+          "start": "2026-10-16T00:00:00+01:00",
+          "end": "2026-10-16T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lars-gypsy-project-live-2/",
+          "tags": [
+            "Gratis",
+            "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-dansavond-twee-jaar-tweemans",
+          "title": "Dansavond: Twee jaar Tweemans",
+          "start": "2026-10-17T00:00:00+01:00",
+          "end": "2026-10-17T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/dansavond-twee-jaar-tweemans/",
+          "tags": [
+            "Dans",
+            "Gratis",
+            "Muziek",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2566,6 +2597,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261101-against-capitalism-and-climate-chaos",
+          "title": "Against Capitalism and Climate Chaos",
+          "start": "2026-11-01T00:00:00+01:00",
+          "end": "2026-11-01T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 1st. Building today’s commune. (scroll down for dutch) The Commune, as an organizational form, represents the long tradition of self-governance, autonomy and resistance in the face of domination. Confronted with the myriad crises of the modern world, reviving the democratic legacy of…",
+          "url": "https://acu.nl/events/20261101/against-capitalism-and-climate-chaos",
+          "tags": []
+        },
         {
           "id": "acu-20270311-echoes-from-the-dungeon-fest-iii-pre-party",
           "title": "Echoes From The Dungeon Fest III – Pre Party",
@@ -2615,16 +2656,6 @@
           "description": "December 2nd. Balkan, Folk, Middle Eastern. On Wednesday, 2 December 2026, ACU Utrecht welcomes Banda Entopica: a Thessaloniki street band bringing the restless energy of the Balkans to the heart of Utrecht. Born in the streets of Thessaloniki, Banda Entopica turns traditional music into a shared…",
           "url": "https://acu.nl/events/20261202/banda-entopica-gr-x-arda-and-the-giannena-gr-tr",
           "tags": []
-        },
-        {
-          "id": "acu-20261031-prisonnier-du-temps-tba-matinee",
-          "title": "Prisonnier Du Temps + Hard Shoulder + Maulkorb (matinee)",
-          "start": "2026-10-31T00:00:00+01:00",
-          "end": "2026-10-31T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 31st. World's Appreciated Kitch and Silent Call Collective present. World’s Appreciated Kitch and Silent Call Collective present: Prisonnier Du Temps Born in Brest in 2020 at the initiative of Lionel Cadiou, Prisonnier du Temps was originally conceived as a solo project, developed alongside…",
-          "url": "https://acu.nl/events/20261031/prisonnier-du-temps-tba-matinee",
-          "tags": []
         }
       ]
     },
@@ -2636,19 +2667,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001499-1791673200-1791698400",
-          "title": "BASIS Vinyl Special/ 36framez/ Line-O b2b ROBOITH/ Narciss [extended set]",
-          "start": "2026-10-10T23:00:00+01:00",
-          "end": "2026-10-11T06:00:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-vinyl-special-36framez-line-o-b2b-roboith-narciss-extended-set/",
-          "tags": [
-            "House",
-            "Trance"
-          ]
-        },
         {
           "id": "basis-utrecht-10001514-1792193400-1792216800",
           "title": "BASIS/ AREA ØNE/ BIIANCO/ Hurts/ Nick Selter",
@@ -2988,56 +3006,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "74524",
-          "title": "From Taco to Tango, the soul of South America",
-          "start": "2026-10-10T20:00:00.000Z",
-          "end": "2026-10-10T23:00:00.000Z",
-          "location": "Den Haag (The Hague), Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74524",
-          "description": "Ciconia The Hague String Orchestra takes you on a thrilling musical journey through the soul of South America. From Taco to Tango is a concert full of melancholy, rhythm and fire. The supporting program consists of the screening of a documentary about El Sistema in Venezuela.<BR><BR>Program<BR>Teres",
-          "tags": []
-        },
-        {
-          "id": "74525",
-          "title": "Intouchables live in concert",
-          "start": "2026-10-10T20:00:00.000Z",
-          "end": "2026-10-10T23:00:00.000Z",
-          "location": "Den Haag (The Hague), Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74525",
-          "description": "Ludovico Einaudi - Intouchables<BR><BR>After the success of previous film concerts, The James Whale Orchestra will present a new title in the 2026/2027 season: Intouchables Live in Concert . During this special evening, the French film classic Intouchables will be screened in its entirety on a big s",
-          "tags": []
-        },
-        {
-          "id": "77457",
-          "title": "From Taco to Tango – with Bram van Sambeek",
-          "start": "2026-10-10T20:00:00.000Z",
-          "end": "2026-10-10T23:00:00.000Z",
-          "location": "Den Haag (The Hague), Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77457",
-          "description": "Ciconia takes you on a thrilling musical journey through the soul of South America. From Taco to Tango is a concert full of melancholy, rhythm and fire.<BR><BR>Master bassoonist Bram van Sambeek shines in Morricone's moving Gabriels oboe. The work is known from the film The Mission, which s",
-          "tags": []
-        },
-        {
-          "id": "78862",
-          "title": "Tim Burton’s Universe",
-          "start": "2026-10-10T20:00:00.000Z",
-          "end": "2026-10-10T23:00:00.000Z",
-          "location": "Amstelveen, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78862",
-          "description": "Welcome to the fantastical worlds of Tim Burton! We invite you on a journey through the music that made them unforgettable.<BR><BR>From the shimmering wonder of Alice in Wonderland to the festive magic of The Nightmare Before Christmas, from the haunting lyricism of Edward Scissorhands to the eccent",
-          "tags": []
-        },
-        {
-          "id": "78863",
-          "title": "Tim Burton’s Universe",
-          "start": "2026-10-10T20:00:00.000Z",
-          "end": "2026-10-10T23:00:00.000Z",
-          "location": "Gouda, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78863",
-          "description": "Welcome to the fantastical worlds of Tim Burton! We invite you on a journey through the music that made them unforgettable.<BR><BR>From the shimmering wonder of Alice in Wonderland to the festive magic of The Nightmare Before Christmas, from the haunting lyricism of Edward Scissorhands to the eccent",
-          "tags": []
-        },
         {
           "id": "74272",
           "title": "Metropolis (1927)",
@@ -4728,7 +4696,8 @@
           "description": "Craig Armstrong / Nellee Hooper / Marius de Vries - William Shakespeare’s Romeo + Juliet<BR><BR>Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 film with William Shakespeare’s Romeo + Juliet Film in Concert, a live cinematic concert experience featuring a big-screen pr",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -4825,56 +4794,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://muiderslot.nl/ontdek-het-muiderslot/agenda/",
       "events": [
-        {
-          "id": "muiderslot-toegankelijkheidsadviseurs-in-het-kasteel-2026",
-          "title": "Toegankelijkheidsadviseurs in het kasteel",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-10T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/toegankelijkheidsadviseurs-in-het-kasteel/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-historische-proeverij-10-okt-2026-2026",
-          "title": "Historische proeverij 10 okt 2026",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-10T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-10-okt-2026/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-herfstvakantie-in-het-kasteelatelier-2026",
-          "title": "Herfstvakantie in het Kasteelatelier",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-18T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/herfstvakantie-in-het-kasteelatelier/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-mindful-weven-in-het-kasteelatelier-2026",
-          "title": "Mindful Weven in het Kasteelatelier",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-18T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-weven-in-het-kasteelatelier/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-mindful-muiderslot-yoga-10-oktober-2026-2026",
-          "title": "Mindful Muiderslot: yoga &amp; mindful kunstkijken &#8211; 10 oktober 2026",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-10T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/mindful-muiderslot-yoga-10-oktober-2026/",
-          "tags": []
-        },
         {
           "id": "muiderslot-ridderweekend-oktober-2026-2026",
           "title": "Ridder- en Ambachtenweekend 2026",
@@ -4995,16 +4914,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://www.slotloevestein.nl/agenda/",
       "events": [
-        {
-          "id": "loevestein-herfstvakantie-2026-10",
-          "title": "Herfstvakantie",
-          "start": "2026-10-10T10:00:00+01:00",
-          "end": "2026-10-25T18:00:00+01:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/herfstvakantie/",
-          "tags": []
-        },
         {
           "id": "loevestein-riddertoernooi-2026-10",
           "title": "Hét grote riddertoernooi van het jaar",

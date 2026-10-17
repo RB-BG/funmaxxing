@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:34:51.061Z",
+  "updatedAt": "2026-10-17T09:05:23.888Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -10,24 +10,10 @@
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
         {
-          "id": "17379",
-          "title": "SONS OF THE CULTURE CLASH ( RUDEBOY )+ Zaphyria",
-          "start": "2026-10-16T20:00:00+01:00",
-          "end": "2026-10-16T23:00:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=bE6HcFSUwdo",
-          "url": "https://dbstudio.nl/event/17379/",
-          "tags": [
-            "Electronics",
-            "Hiphop",
-            "Rap"
-          ]
-        },
-        {
           "id": "17143",
           "title": "SALLY FAMILY FESTIVAL met This Beautiful Mess + Cape Sleep + Ponoka + Mensenkinderen",
-          "start": "2026-10-17T18:00:00+01:00",
-          "end": "2026-10-17T23:00:00+01:00",
+          "start": "2026-10-17T18:30:00+01:00",
+          "end": "2026-10-17T23:30:00+01:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
           "description": "//www.youtube.com/watch?v=f7Bv3iQ09Uo&list=RDf7Bv3iQ09Uo&start_radio=1",
           "url": "https://dbstudio.nl/event/sally-family-festival-met-this-beautiful-mess-cape-sleep-ponoka-mensenkinderen/",
@@ -159,7 +145,7 @@
           "start": "2026-10-30T16:00:00+01:00",
           "end": "2026-10-30T19:00:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "00 uur.  Wij zorgen voor wat passende kleine hapjes.",
+          "description": "00 draaien we de kranen open, heb dorst en kom vroeg.",
           "url": "https://dbstudio.nl/event/tap-takeover-frontaal-brouwerij-breda/",
           "tags": [
             "Bier specials",
@@ -405,6 +391,19 @@
             "Electronics",
             "Experimenteel"
           ]
+        },
+        {
+          "id": "18131",
+          "title": "METALQUIZ & KARAOKE met Tante Alie & Ome Flo",
+          "start": "2026-11-21T19:30:00+01:00",
+          "end": "2026-11-21T23:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "METAL KARAOKE!\nOf je nu klinkt als Rob Halford of een kettingzaag in de regen — het podium is van jou. Niet zo’n metalhead, maar wél karaokegek?\nZing je favoriete Mariah Carey, maar je grunt wel eerst de eerste zin. Regels zijn regels, ook voor glitterdiva’s. Kom headbangen, lachen, winnen en…",
+          "url": "https://dbstudio.nl/event/metalquiz-karaoke-met-tante-alie-ome-flo/",
+          "tags": [
+            "Cafe",
+            "Metal Quiz & Karaoke"
+          ]
         }
       ]
     },
@@ -537,16 +536,6 @@
           "tags": []
         },
         {
-          "id": "30151",
-          "title": "De Gestampte Meisjes: STROT",
-          "start": "2026-10-16T20:00:00+01:00",
-          "end": "2026-10-16T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "STROT. De Gestampte Meisjes gaan dit land redden met zieke HITS. Hoe? Vraag je je af? Way meer polarisering. Ze hebben kneiterhard geprobeerd te verbinden in deze chaos, maar dat is flink mislukt. We proberen nu al decennialang te verbinden; tijd om te splitsen! Zieke wall of death in je…",
-          "url": "https://ekko.nl/event/de-gestampte-meisjes-strot/",
-          "tags": []
-        },
-        {
           "id": "30991",
           "title": "Is This It? De Popquiz",
           "start": "2026-10-18T19:30:00+01:00",
@@ -594,16 +583,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Opnieuw verwelkomen we Popronde Utrecht dit jaar in EKKO! Popronde is een rondreizend muziekfestival dat elk najaar plaatsvindt in een dertigtal steden door het hele land. Tijdens de Popronde toeren talentvolle acts door Nederland om zo hun naam op te bouwen, hun netwerk uit te breiden en een nieuw…",
           "url": "https://ekko.nl/event/popronde-2026/",
-          "tags": []
-        },
-        {
-          "id": "31084",
-          "title": "Wildgroei",
-          "start": "2026-10-16T23:00:00+01:00",
-          "end": "2026-10-17T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Wildgroei was jarenlang dé plek waar het rauwe EKKO, een eigenzinnig publiek en onconventionele muziek samenkwamen. Een avond waarop de armen de lucht in gingen en de rest van de wereld even naar de achtergrond verdween. Ter ere van ons 40-jarig jubileum keert Wildgroei éénmalig terug naar EKKO.…",
-          "url": "https://ekko.nl/event/wildgroei/",
           "tags": []
         },
         {
@@ -1807,126 +1786,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "498425",
-          "title": "Lunchconcert Jazz",
-          "start": "2026-10-16T12:30:00+02:00",
-          "end": "2026-10-16T13:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "M'BASSY is een bekroond jazzkwartet, gevestigd in Nederland, dat floreert op de rand van chaos en schoonheid. Deze internationale groep combineert explosieve energie met muzikale gevoeligheid, wat resulteert in nieuwe muziek die zowel melodisch als vluchtig is. Op het podium zijn ze dynamisch, wild…",
-          "url": "https://www.podiuminfo.nl/concert/498425/Lunchconcert-Jazz/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "481180",
-          "title": "Kreukelzone: Woezie Woezie 17",
-          "start": "2026-10-16T15:00:00+02:00",
-          "end": "2026-10-16T16:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Woezie Woezie 17 presenteert tweemaal per maand semi-akoestische popmuziek met levenservaring op de Vredenburg Open Stage. Bezoekers kunnen bekende en nieuwe nummers verwachten in een gezellige vrijdagmiddagsetting. De formatie, ontstaan op de middelbare school, zingt nu over alledaagse thema's,…",
-          "url": "https://www.podiuminfo.nl/concert/481180/Kreukelzone-Woezie-Woezie-17/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "464952",
-          "title": "Orgel Vreten",
-          "start": "2026-10-16T19:30:00+02:00",
-          "end": "2026-10-16T20:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Twee ronkende hammondorgels en een mix van rock, funk en psychedelica vormen de kern van de band Orgel Vreten. Toetsenvirtuozen Darius Timmer en Thijs Schrijnemakers stuwen elkaar op naar grote artistieke hoogten, ondersteund door Jan Teertstra op bas, Henri van den Berg op drums en Arno Bakker op…",
-          "url": "https://www.podiuminfo.nl/concert/464952/Orgel-Vreten/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "449475",
-          "title": "Flaire",
-          "start": "2026-10-16T20:00:00+02:00",
-          "end": "2026-10-16T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De drie jonge boys van het Haagse trio Flaire maken onweerstaanbaar dansbare pop in de stijl van Goldband en De Jeugd Van Tegenwoordig. Met het nummer Seks (afkomstig van de debuut-ep Sociale Zaken) gingen ze begin 2024 viraal, een succes dat nog eens werd overgedaan met de track Zomer, onderdeel…",
-          "url": "https://www.podiuminfo.nl/concert/449475/Flaire/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "457038",
-          "title": "Blood Red Shoes",
-          "start": "2026-10-16T20:00:00+02:00",
-          "end": "2026-10-16T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Tweemans garageband uit Brighton, Engeland.\r\n\r\nBlood Red Shoes is een indiegarage-duo bestaande uit Laura Mary Carter en Steven Ansell. Al meer dan twintig jaar maken ze platen, toeren ze de wereld rond en bouwen ze een eigen universum voor zichzelf en voor iedereen die zich daarbij wil aansluiten.",
-          "url": "https://www.podiuminfo.nl/concert/457038/Blood-Red-Shoes/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "457440",
-          "title": "Bobo Stenson Trio - Sphere",
-          "start": "2026-10-16T20:00:00+02:00",
-          "end": "2026-10-16T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Zweedse pianist Bobo Stenson, door The Guardian omschreven als een van 's werelds meest verfijnde jazzpianisten, is al sinds de jaren zeventig verbonden aan het prestigieuze ECM-label. Zijn oeuvre combineert klassieke precisie, jazzvrijheid en Scandinavische lyriek, voortkomend uit…",
-          "url": "https://www.podiuminfo.nl/concert/457440/Bobo-Stenson-Trio-Sphere/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "493330",
-          "title": "Pedro Mendes Trio",
-          "start": "2026-10-16T20:00:00+02:00",
-          "end": "2026-10-16T21:00:00.000Z",
-          "location": "Muziekhuis, Loevenhoutsedijk 301, Utrecht",
-          "description": "UJazz en TivoliVredenburg presenteren gezamenlijk een clubconcert met het Pedro Mendes Trio, dat nieuwe klankwerelden en sferen verkent met invloeden uit klassieke muziek, hiphop, vrije improvisatie en hedendaagse jazz. Sinds de oprichting in 2024 werkt het trio intensief aan een eigen geluid,…",
-          "url": "https://www.podiuminfo.nl/concert/493330/Pedro-Mendes-Trio/Muziekhuis/",
-          "tags": []
-        },
-        {
-          "id": "454065",
-          "title": "Donovan Woods",
-          "start": "2026-10-16T20:30:00+02:00",
-          "end": "2026-10-16T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Donovan Woods, de Canadese singer-songwriter, staat bekend om zijn ingetogen alt-country en indiefolk met een fluweelzachte stem en grote impact. Hij is een veelgevraagd schrijver die nummers heeft geschreven voor artiesten zoals Kenny Chesney en Tim McGraw. Op 26 februari 2026 bracht Woods zijn…",
-          "url": "https://www.podiuminfo.nl/concert/454065/Donovan-Woods/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490954",
-          "title": "Park 6",
-          "start": "2026-10-16T22:00:00+02:00",
-          "end": "2026-10-16T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Park 6 keert terug als de gratis hangout van Utrecht, een ideale plek om het weekend in te luiden. In deze ruimte komen bezoekers samen voor ontspanning, entertainment en gezelligheid. De avond biedt een combinatie van games, videokunst, diverse muziek, speciaalbier en cocktails. Of men nu na een…",
-          "url": "https://www.podiuminfo.nl/concert/490954/Park-6/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "489616",
-          "title": "Gitaardisco",
-          "start": "2026-10-16T22:30:00+02:00",
-          "end": "2026-10-16T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Tijdens Gitaardisco draait DJ Vrijmoed prima dansbare gitaartunes. De avond is gevuld met gitaartracks uit de popgeschiedenis, aangevuld met een gezonde dosis frisse nummers van nu. Bezoekers kunnen losgaan op muziek van iconen zoals Iggy Pop, IDLES, Blur, Oasis, Black Keys, Skunk Anansie,…",
-          "url": "https://www.podiuminfo.nl/concert/489616/Gitaardisco/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "496622",
-          "title": "Rabo Open Stage: Sabine",
-          "start": "2026-10-16T22:30:00+02:00",
-          "end": "2026-10-16T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Sabine, een energieke, krachtige en eerlijke Nederpop-artiest, creëert een muzikale wereld waarin emotie en energie samenkomen. Met heldere melodieën, donkere sounds en een subtiel randje glitter vertaalt zij haar innerlijke onrust in persoonlijke teksten. Vervolgens staat ze vol energie met haar…",
-          "url": "https://www.podiuminfo.nl/concert/496622/Rabo-Open-Stage-Sabine/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "495134",
-          "title": "Fiesta Macumba",
-          "start": "2026-10-16T23:55:00+02:00",
-          "end": "2026-10-17T00:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Fiesta Macumba keert terug naar TivoliVredenburg voor een avond vol energie en Latijns-Amerikaanse ritmes. Het evenement staat bekend om zijn aanstekelijke sfeer, waarbij bezoekers worden uitgenodigd om te dansen, flirten en genieten van een brede selectie van Música Latina, zowel klassiekers als…",
-          "url": "https://www.podiuminfo.nl/concert/495134/Fiesta-Macumba/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "459706",
           "title": "De Rolf Sanchez Club",
           "start": "2026-10-17T20:00:00+02:00",
@@ -2035,6 +1894,126 @@
           "description": "De Amerikaanse indieband Mercury Rev draait al 36 jaar mee, maar is nog steeds niet in een hokje te stoppen. De formatie van kernleden Jonathan Donahue (gitaar/zang) en Sean Mackowiak (gitaar/klarinet) combineert indierock, psychedelica en americana met filmische orkestratie – dat Mercury Rev soms…",
           "url": "https://www.podiuminfo.nl/concert/448389/Mercury-Rev/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "464581",
+          "title": "girli",
+          "start": "2026-10-19T20:00:00+02:00",
+          "end": "2026-10-19T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Engelse zangeres en muzikante girli staat bekend om haar high-energy pop, gecombineerd met bijtende en persoonlijke teksten over feminisme, seksualiteit en mentale gezondheid. Haar debuutsingle uit 2015, 'So You Think You Can Fuck With Me Do Ya?', zette meteen de toon voor haar artistieke…",
+          "url": "https://www.podiuminfo.nl/concert/464581/girli/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "475782",
+          "title": "FKJ",
+          "start": "2026-10-19T20:00:00+02:00",
+          "end": "2026-10-19T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Franse producer en multi-instrumentalist FKJ komt op 19 oktober 2026 naar TivoliVredenburg. De artiest, voluit French Kiwi Juice, staat bekend om zijn ontspannen mix van nu-jazz, soul, house, elektronica en hiphop. Tijdens zijn liveoptredens bespeelt FKJ verschillende instrumenten, waaronder…",
+          "url": "https://www.podiuminfo.nl/concert/475782/FKJ/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "476756",
+          "title": "Eloi Youssef",
+          "start": "2026-10-19T20:15:00+02:00",
+          "end": "2026-10-19T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het is alweer een ruime drie jaar geleden dat zanger/gitarist Eloi Youssef afscheid nam van zijn band Kensington. Na een grote theatertournee met orkest Kamerata Zuid en het Nederlands Kamerkoor zoekt Youssef nu de intimiteit op: slechts gewapend met zijn akoestische gitaar brengt hij de…",
+          "url": "https://www.podiuminfo.nl/concert/476756/Eloi-Youssef/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "479056",
+          "title": "Wolvennest + Bedsore",
+          "start": "2026-10-20T19:30:00+02:00",
+          "end": "2026-10-20T20:30:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Wolvennest en Bedsore bundelen hun krachten voor een metal double bill. De Belgische band Wolvennest staat bekend om hun unieke mix van black metal, psychedelica, doom, krautrock en ambient. Sinds 2013 creëren ze een onheilige sfeer, waarbij zangeres en theremin-bespeelster Shazzula een centrale,…",
+          "url": "https://www.podiuminfo.nl/concert/479056/Wolvennest-Bedsore/dBs/",
+          "tags": []
+        },
+        {
+          "id": "454329",
+          "title": "Buffalo Tom",
+          "start": "2026-10-20T20:00:00+02:00",
+          "end": "2026-10-20T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Amerikaanse gitaarband, bekend van het nummer Taillights Fade - De Amerikaanse gitaarband Buffalo Tom brak in 1992 door met hun derde album Let Me Come Over, waarvan vooral het nummer Taillights Fade een fan- en festivalfavoriet werd. ",
+          "url": "https://www.podiuminfo.nl/concert/454329/Buffalo-Tom/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "471113",
+          "title": "Kaya / Maartje",
+          "start": "2026-10-20T20:00:00+02:00",
+          "end": "2026-10-20T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "TivoliVredenburg presenteert een 'double bill' met twee veelbelovende Nederlandstalige artiesten: Kaya en Maartje. Kaya staat bekend om zijn pakkende popmuziek zonder opsmuk, waarbij hij kwetsbaarheid en dansbaarheid combineert. Hij heeft reeds tweemaal in een uitverkocht TivoliVredenburg…",
+          "url": "https://www.podiuminfo.nl/concert/471113/Kaya-Maartje/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "476749",
+          "title": "Everything Yes",
+          "start": "2026-10-20T20:30:00+02:00",
+          "end": "2026-10-20T21:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Everything Yes uit het Amerikaanse North Carolina maakt energieke, funky jazzfusion die zowel zeer dansbaar als muzikaal verrassend is. Als Vulfpeck en Sungazer een samenwerking aan zouden gaan, komt dat geluid vermoedelijk een heel eind in de richting van dit vijftal. De band is ontstaan uit…",
+          "url": "https://www.podiuminfo.nl/concert/476749/Everything-Yes/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "468815",
+          "title": "Guilt Trip",
+          "start": "2026-10-21T18:30:00+02:00",
+          "end": "2026-10-21T19:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Engelse hardcoreband Guilt Trip brengt de rauwe energie van klassieke hardcore samen met moderne metalinvloeden. De band, bekend van festivals als Hellfest en Jera On Air, staat bekend om hun agressieve songs en ijzersterke live reputatie. Deze tour markeert de release van hun derde album,…",
+          "url": "https://www.podiuminfo.nl/concert/468815/Guilt-Trip/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "447265",
+          "title": "Warren Zeiders",
+          "start": "2026-10-21T20:00:00+02:00",
+          "end": "2026-10-21T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Voor iedereen die zijn country graag wat steviger heeft, is er Warren Zeiders. Deze nieuwe Amerikaanse ster combineert outlaw-country met rockgitaren, z’n lekker rauwe stemgeluid doet de rest. Zeiders begon tijdens corona met het online plaatsen van akoestische covers, maar bleek ook zelf songs te…",
+          "url": "https://www.podiuminfo.nl/concert/447265/Warren-Zeiders/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "498426",
+          "title": "Rabo Open Stage: The Intimate Sessions",
+          "start": "2026-10-21T20:00:00+02:00",
+          "end": "2026-10-21T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "The Intimate Sessions is een tweemaandelijkse avond op de Rabo Open Stage in TivoliVredenburg, waar drie singer-songwriters in een intieme setting hun muziek ten gehore brengen. De avonden zijn gratis toegankelijk en vinden plaats op het kleinste podium in de centrale hal, bij Café Het Gegeven…",
+          "url": "https://www.podiuminfo.nl/concert/498426/Rabo-Open-Stage-The-Intimate-Sessions/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "453534",
+          "title": "Julian “J3PO” Pollack Trio",
+          "start": "2026-10-21T20:15:00+02:00",
+          "end": "2026-10-21T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Julian “J3PO” Pollack Trio brengt een unieke blend van warme akoestische jazzpiano, dampende synthesizers, hiphopbeats en elektronische texturen naar Cloud Nine. De in Los Angeles gevestigde toetsenist, een klassiek wonderkind, heeft getoerd met grootheden als Marcus Miller en Michael League. Zijn…",
+          "url": "https://www.podiuminfo.nl/concert/453534/Julian-J3PO-Pollack-Trio/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "454284",
+          "title": "Peter Sandberg - Temporary Coexistence of Humans’ Tour",
+          "start": "2026-10-21T20:15:00+02:00",
+          "end": "2026-10-21T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Peter Sandberg, de Zweedse componist en pianist, brengt een intieme doch grootse combinatie van neoklassiek minimalisme en subtiele elektronica. Zijn omvangrijke oeuvre omvat zeven albums, waarvan 'Motion' (2019) een doorbraak betekende door het gebruik van het nummer 'Deep' in 'Stranger Things'.…",
+          "url": "https://www.podiuminfo.nl/concert/454284/Peter-Sandberg-Temporary-Coexistence-of-Humans-Tour/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2066,12 +2045,22 @@
           "tags": []
         },
         {
+          "id": "611279",
+          "title": "[Prison Day] Mothership NEXT STOP: HELL'S GATE",
+          "start": "2026-10-21T19:00:00+02:00",
+          "end": "2026-10-21T22:00:00+02:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "[Prison Day] Mothership NEXT STOP: HELL'S GATE Wed 21/10 7-10pm at Subcultures @De Bierkantine English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "610393",
           "title": "🪆[Prison Day]  PF2: The Winter Queen's Dollhouse (beginner friendly)👮‍♂️",
           "start": "2026-10-21T19:00:00+02:00",
           "end": "2026-10-21T22:00:00+02:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "🪆[Prison Day] PF2: The Winter Queen's Dollhouse (beginner friendly)👮‍♂️ Wed 21/10 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), All Ages, Repeatable Character levels 1-4 Written by Brite Cheney The ruler of Irrisen,…",
+          "description": "🪆[Prison Day] PF2: The Winter Queen's Dollhouse (beginner friendly)👮‍♂️ Wed 21/10 7-10pm at Subcultures @De Bierkantine English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable, All Ages Character levels 1-4 Written by Brite Cheney The ruler of Irrisen,…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2412,21 +2401,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-dansavond-twee-jaar-tweemans",
-          "title": "Dansavond: Twee jaar Tweemans",
-          "start": "2026-10-17T00:00:00+01:00",
-          "end": "2026-10-17T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/dansavond-twee-jaar-tweemans/",
-          "tags": [
-            "Dans",
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-loop-leaf-haak-workshop",
           "title": "Loop & Leaf: Crochet for Knitters",
           "start": "2026-10-18T00:00:00+01:00",
@@ -2522,6 +2496,20 @@
             "Theater",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-popronde-26",
+          "title": "Popronde ’26",
+          "start": "2026-10-22T00:00:00+01:00",
+          "end": "2026-10-22T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/popronde-26/",
+          "tags": [
+            "Gratis",
+            "Muziek",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2533,6 +2521,26 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261107-slik-green-policy-dunebender",
+          "title": "Slik + Green Policy + Dunebender",
+          "start": "2026-11-07T00:00:00+01:00",
+          "end": "2026-11-07T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 7th. A Night of Sludge and Disorder. Slik (Prog Punk) A progressive punk band based in Utrecht, combining outspoken lyrics against inequality with loud vocals, unconventional guitar riffs, and a sound that gets dirty without losing its groove and playfulness. Drawing inspiration from…",
+          "url": "https://acu.nl/events/20261107/slik-green-policy-dunebender",
+          "tags": []
+        },
+        {
+          "id": "acu-20261114-black-widow-nl-x-robot-pool-party-nl",
+          "title": "Mutiny Presents: Black Widow (NL) x Robot Pool Party (NL)",
+          "start": "2026-11-14T00:00:00+01:00",
+          "end": "2026-11-14T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 14th. ElektroFusion, Alt-Groove, Bass and Breaks. Black Widow’s elektrofusion blends house, big beat, and jazz with modular synths, live drums, and trumpet for an intense, textured ride. Black Widow combines elements of house/big beat and jazz/fusion.. Featuring modular synthesizers, live…",
+          "url": "https://acu.nl/events/20261114/black-widow-nl-x-robot-pool-party-nl",
+          "tags": []
+        },
         {
           "id": "acu-20261113-pitchdark",
           "title": "PITCH:DARK",
@@ -2602,26 +2610,6 @@
           "description": "March 11th. 5 Bands!. Description Join us for a night of fantasy & dungeon synth at the Echoes from the Dungeon Fest III pre-festival kick-off show! Featuring an international lineup with lo-fi dark ambience from Barbarian Ring (UK), ritualistic sorcery synth from Sopoorific (FR), dark dungeon…",
           "url": "https://acu.nl/events/20270311/echoes-from-the-dungeon-fest-iii-pre-party",
           "tags": []
-        },
-        {
-          "id": "acu-20261031-sorrows-sanctuary-moonlight",
-          "title": "Sorrow’s Sanctuary: Moonlight",
-          "start": "2026-10-31T00:00:00+01:00",
-          "end": "2026-10-31T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 31st. Halloween dance night. Halloween night shines its light upon us once more. We heed its call from the shadows. After the early night Rocky Horror Picture Show screening, it’s time for Sorrow’s Sanctuary to summon the creatures of darkness for its most holy of rituals, in its most…",
-          "url": "https://acu.nl/events/20261031/sorrows-sanctuary-moonlight",
-          "tags": []
-        },
-        {
-          "id": "acu-20261212-calling-all-midnight-creatures",
-          "title": "Calling All Midnight Creatures",
-          "start": "2026-12-12T00:00:00+01:00",
-          "end": "2026-12-12T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "December 12th. Tinnitus Patches Events. Tinnitus Patches Presents: Calling all midnight creatures 🦇 Dead Bats, Utrecht, NL Debuting their first show this anarcho post punk band from Utrecht describes itself as a band with dark but dreamy undertones, a deep bass, fueled with lyrics that are both…",
-          "url": "https://acu.nl/events/20261212/calling-all-midnight-creatures",
-          "tags": []
         }
       ]
     },
@@ -2633,31 +2621,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001533-1792184400-1792193400",
-          "title": "BASIS x BIIANCO/ FREE Community Production Class",
-          "start": "2026-10-16T21:00:00+01:00",
-          "end": "2026-10-16T23:30:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "30 \nCome learn, hang, ask questions, meet each other & then LET’S DANCE. 💋\nSee you there,\nBIIANCO 🤍",
-          "url": "https://clubbasis.nl/event/basis-x-biianco-free-community-production-class/",
-          "tags": [
-            "Other"
-          ]
-        },
-        {
-          "id": "basis-utrecht-10001514-1792193400-1792216800",
-          "title": "BASIS/ AREA ØNE/ BIIANCO/ Hurts/ Nick Selter",
-          "start": "2026-10-16T23:30:00+01:00",
-          "end": "2026-10-17T06:00:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/area-one-biianco-hurts-nick-selter/",
-          "tags": [
-            "Bounce",
-            "Trance"
-          ]
-        },
         {
           "id": "basis-utrecht-10001503-1792278000-1792303200",
           "title": "BASIS/ Rebekah All Night Long",

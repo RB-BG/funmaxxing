@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T10:36:37.084Z",
+  "updatedAt": "2026-10-20T09:52:33.976Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "18170",
-          "title": "Bandmatching + Workshops",
-          "start": "2026-10-19T12:00:00+01:00",
-          "end": "2026-10-19T18:00:00+01:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "00 pak een studio\nDaarna is er nog tijd om te repeteren in de studio’s van dB’s met begeleiding van onze bandcoaches en workshopleiders. \nWe sluiten natuurlijk gezellig samen af. \n\nAanmelden kan HIER",
-          "url": "https://dbstudio.nl/event/gplr-banddag-bandmatching-workshops/",
-          "tags": [
-            "De Grote Prijs van Leidsche Rijn"
-          ]
-        },
         {
           "id": "17411",
           "title": "WOLVENNEST (BE) + BEDSORE (IT) + Vígljós",
@@ -194,7 +182,7 @@
         },
         {
           "id": "17624",
-          "title": "SHINING (NORWAY)",
+          "title": "SHINING (NORWAY) + Schizoid Lloyd",
           "start": "2026-11-05T20:00:00+01:00",
           "end": "2026-11-05T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
@@ -403,6 +391,20 @@
           "tags": [
             "PopPubQuiz Live"
           ]
+        },
+        {
+          "id": "17361",
+          "title": "COILGUNS (CH) + TEARDRINKER",
+          "start": "2026-11-25T20:00:00+01:00",
+          "end": "2026-11-25T23:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "//www.youtube.com/watch?v=pAMDM__xQac",
+          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-coilguns-ch/",
+          "tags": [
+            "DIY",
+            "Hardcore",
+            "Noise"
+          ]
         }
       ]
     },
@@ -415,10 +417,250 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "31268",
+          "title": "Diep In De Groef",
+          "start": "2026-11-20T23:30:00+01:00",
+          "end": "2026-11-21T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-236/",
+          "tags": []
+        },
+        {
+          "id": "31264",
+          "title": "Diep In De Groef",
+          "start": "2026-11-13T23:30:00+01:00",
+          "end": "2026-11-14T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groep/",
+          "tags": []
+        },
+        {
+          "id": "29905",
+          "title": "Static Dress",
+          "start": "2026-10-24T19:20:00+01:00",
+          "end": "2026-10-24T22:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Static Dress is een post-hardcoreband uit het Engelse Leeds die intense, riff-gedreven muziek combineert met emotionele en introspectieve teksten. Met invloeden van vroege 2000s-bands als Underoath en Alexisonfire creëren ze een geluid dat moeiteloos schakelt tussen agressieve sounds en melodische…",
+          "url": "https://ekko.nl/event/static-dress/",
+          "tags": []
+        },
+        {
+          "id": "32016",
+          "title": "karaEKKO",
+          "start": "2026-11-26T23:00:00+01:00",
+          "end": "2026-11-27T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "U vraagt, wij draaien. Op 26 november brengt karaEKKO karaoke naar EKKO. Of ADÈLA nou helemaal jouw ding is of toch meer je inner Adela wil channelen met een prachtige Jan Smit cover, wij bieden het podium. Deze editie wordt gehost door VIXEN. VIXENn Dino Delicious en Young Yoni, ofwel VIXEN, zijn…",
+          "url": "https://ekko.nl/event/karaekko-4/",
+          "tags": []
+        },
+        {
+          "id": "31434",
+          "title": "The Cat Eye Cabaret: Hex Appeal",
+          "start": "2026-10-31T20:00:00+01:00",
+          "end": "2026-10-31T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "The Cat Eye Cabaret is terug met een nieuwe Halloween burlesque-show om je te betoveren en de stuipen op het lijf te jagen! Na meerdere uitverkochte shows bij EKKO en met drie nieuwe gezichten erbij is de groep klaar om hun duistere kant weer te laten zien. The Cat Eye Cabaret presenteert…",
+          "url": "https://ekko.nl/event/the-cat-eye-cabaret-hex-appeal/",
+          "tags": []
+        },
+        {
+          "id": "31966",
+          "title": "Bess Atwell",
+          "start": "2027-05-19T20:00:00+02:00",
+          "end": "2027-05-19T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Britse singer-songwriter Bess Atwell maakt dromerige indiepop waarin kristalheldere zang, melancholische melodieën en atmosferische synths samenkomen. Geïnspireerd door persoonlijke ervaringen en ingewikkelde relaties schrijft ze openhartige songs over liefdesverdriet, opgekropte emoties en…",
+          "url": "https://ekko.nl/event/bess-atwell/",
+          "tags": []
+        },
+        {
+          "id": "31582",
+          "title": "Mood Bored",
+          "start": "2027-05-15T20:00:00+02:00",
+          "end": "2027-05-15T23:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Mood Bored draait al een tijdje mee in de Nederlandse underground, maar komt nu eindelijk met hun langverwachte debuutalbum. De band stond eerder al in EKKO tijdens Popronde 2022 en keerde daarna terug als support van The Belair Lip Bombs, Hotel Lux en POM. Ook buiten Utrecht deelden ze het podium…",
+          "url": "https://ekko.nl/event/mood-bored/",
+          "tags": []
+        },
+        {
+          "id": "31886",
+          "title": "Eosine",
+          "start": "2027-03-10T20:30:00+01:00",
+          "end": "2027-03-10T23:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Jong Luiks/Gents viertal op het snijvlak van postpunk, indierock, emo en neo psych vol overgave, gejaagde gitaren en drums, tempowisselingen en dromerige zanglijnen afgewisseld met rauwe emotie en overgoten met verslavende postpunk, emo en een vleugje glam drama. Bij alle concerten die EKKO en…",
+          "url": "https://ekko.nl/event/eosine/",
+          "tags": []
+        },
+        {
+          "id": "31778",
+          "title": "Banji",
+          "start": "2027-02-26T20:00:00+01:00",
+          "end": "2027-02-26T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het Utrechtse viertal Banji is terug. Na twee jaar zonder liveoptredens dook de band met hart en ziel de studio in voor hun nieuwe plaat. Nu trekken ze de deur van de studio weer achter zich dicht en keren ze terug naar het podium. Hun sound beweegt moeiteloos tussen alternatieve indie,…",
+          "url": "https://ekko.nl/event/banji/",
+          "tags": []
+        },
+        {
+          "id": "31990",
+          "title": "Ugly",
+          "start": "2027-02-17T20:00:00+01:00",
+          "end": "2027-02-17T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Britse zeskoppige band UGLY maakt een theatrale mix van postrock, artrock en folk, waarin meeslepende koorzang en grillige gitaren elkaar afwisselen. Met invloeden uit de jaren zestig en zeventig, experimentele arrangementen en meerstemmige harmonieën bouwt het zestal aan een geluid dat steeds…",
+          "url": "https://ekko.nl/event/ugly/",
+          "tags": []
+        },
+        {
+          "id": "31140",
+          "title": "True Mountain Laurel",
+          "start": "2027-02-02T20:00:00+01:00",
+          "end": "2027-02-02T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Canadese folkartiesten Haley Blais en Sam Lynch slaan de handen ineen als True Mountain Laurel. Verwacht warme samenzang, akoestische folk en country-invloeden, met een flinke dosis indie en melancholie. Dit is ook te horen op hun debuutalbum &#8216;Angel So Bad&#8217;, dat in september 2026…",
+          "url": "https://ekko.nl/event/true-mountain-laurel/",
+          "tags": []
+        },
+        {
+          "id": "31646",
+          "title": "Pillowcase vol. 5",
+          "start": "2027-01-28T19:30:00+01:00",
+          "end": "2027-01-28T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Pillowcase is de concertavond van de shoegazeband Crashing, waar ze gelijkgestemde bands samenbrengen voor een avond vol dromerige gitaren, gelaagde sounds en stevige distortion. Voor de vijfde editie nodigen ze Girlhead en Turmeric uit in EKKO. Deze editie is extra bijzonder, want Pillowcase Vol.…",
+          "url": "https://ekko.nl/event/pillowcase-vol-5/",
+          "tags": []
+        },
+        {
+          "id": "31787",
+          "title": "Amber Arcades, I am Oak & The T.S. Eliot Appreciation Society",
+          "start": "2026-12-20T15:00:00+01:00",
+          "end": "2026-12-20T18:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Een verjaardag vier je nooit alleen. Tenminste, dat wensen we niemand toe. Daarom nodigen we als slotstuk van ons 40-jarig jubileum drie Utrechtse indie-iconen uit om hun 10-jarige albums integraal te spelen in EKKO. Een heuse tijdmachine naar 2016 dus, toen het leven nog simpel was en Utrecht gold…",
+          "url": "https://ekko.nl/event/amber-arcades-i-am-oak-the-t-s-eliot-appreciation-society/",
+          "tags": []
+        },
+        {
+          "id": "28325",
+          "title": "SONS",
+          "start": "2026-12-17T20:00:00+01:00",
+          "end": "2026-12-17T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "SONS brengt compromisloze garagerock. De Belgen staan bekend om hun expressieve geluid, messcherpe riffs en explosieve liveshows. Met hun album ‘Hallo’, dat in september 2025 uitkwam, begon SONS aan een volgend hoofdstuk. De prettige chaos van hun eerdere werk maakte deels plaats voor meer…",
+          "url": "https://ekko.nl/event/sons/",
+          "tags": []
+        },
+        {
+          "id": "31891",
+          "title": "Altın Gün",
+          "start": "2026-12-10T20:00:00+01:00",
+          "end": "2026-12-10T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Turks-Nederlandse psychformatie die de afgelopen jaren uitgroeide tot een van de grootste alternatieve bands van het land. Het Nederlandse psychedelische vijftal Altın Gün keert terug met hun vijfde album, een liefdevol eerbetoon aan de legendarische Turkse volkszanger Neşet Ertaş. Sinds hun…",
+          "url": "https://ekko.nl/event/altin-gun/",
+          "tags": []
+        },
+        {
+          "id": "29436",
+          "title": "Ebbb",
+          "start": "2026-12-09T20:30:00+01:00",
+          "end": "2026-12-09T23:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Ebbb beweegt zich tussen gabber, techno, ambient pop en folk, en zet daarmee een ongrijpbare, constant veranderende sound neer. Pulserende beats, gelaagde vocals en onverwachte wendingen botsen en versmelten tot een intens en melodiegedreven geheel. Met hun debuut-EP ‘All At Once’ laten ze horen…",
+          "url": "https://ekko.nl/event/ebbb/",
+          "tags": []
+        },
+        {
+          "id": "31473",
+          "title": "Curselifter",
+          "start": "2026-12-05T19:30:00+01:00",
+          "end": "2026-12-05T22:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Sinds hun demo uit 2023 timmert de Utrechtse metallic hardcoreband flink aan de weg. Met releases, shows als support van Hatebreed en Malevolence en optredens op Revolution Calling, Roadburn en Jera On Air heeft de band inmiddels een stevige plek in de Nederlandse hardcore scene veroverd. Zware…",
+          "url": "https://ekko.nl/event/curselifter/",
+          "tags": []
+        },
+        {
+          "id": "28654",
+          "title": "Klezmagic",
+          "start": "2026-12-04T20:00:00+01:00",
+          "end": "2026-12-04T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het energieke Amsterdamse Klezmagic verweeft balkan, klezmer en eigen invloeden tot een explosieve mix die zowel dansbaar is als raakt. Sinds hun debuutalbum ‘MAKEDAMSKO’ (2019) ontwikkelde de band een herkenbare eigen sound en bracht meerdere singles, een EP en een livealbum uit. De EP ‘De Grote…",
+          "url": "https://ekko.nl/event/klezmagic/",
+          "tags": []
+        },
+        {
+          "id": "31638",
+          "title": "Evanora Unlimited",
+          "start": "2026-12-02T20:00:00+01:00",
+          "end": "2026-12-02T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Evanora Unlimited is het muzikale universum van de in Oakland geboren en in Kroatië gevestigde artiest Orion Ohana. Verwacht een onvoorspelbare mix van experimentele pop, noise, elektronica en industriële beats, verpakt in een wereld waarin muziek, film, mode en performance samenkomen. Met releases…",
+          "url": "https://ekko.nl/event/evanora-unlimited/",
+          "tags": []
+        },
+        {
+          "id": "29941",
+          "title": "Iron Jinn & Temple Fang",
+          "start": "2026-11-28T20:00:00+01:00",
+          "end": "2026-11-28T22:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Verbonden door een rijk heden en verleden in bands als Death Alley en Geishas of Doom en een voorliefde voor geestverruimende, avontuurlijke en vooral diep-psychedelische rock, zullen deze twee bands samen zorgen voor een onvergetelijke avond gitaarmuziek van de bovenste plank en laten horen en…",
+          "url": "https://ekko.nl/event/iron-jinn-temple-fang/",
+          "tags": []
+        },
+        {
+          "id": "30166",
+          "title": "mustbejohn",
+          "start": "2026-11-20T20:00:00+01:00",
+          "end": "2026-11-20T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Met zijn mix van eerlijke teksten en aanstekelijke producties groeit mustbejohn uit tot een van de opvallendste onafhankelijke artiesten uit het Verenigd Koninkrijk. Geïnspireerd door artiesten als The Streets, Gorillaz en Arctic Monkeys beweegt zijn muziek zich tussen indie, hiphop en…",
+          "url": "https://ekko.nl/event/mustbejohn/",
+          "tags": []
+        },
+        {
+          "id": "30224",
+          "title": "Grace Cummings",
+          "start": "2026-11-19T20:00:00+01:00",
+          "end": "2026-11-19T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Grace Cummings maakt als singer-songwriter muziek die even rauw als meeslepend klinkt. De Australische zangeres staat bekend om haar diepe, onmiskenbare stem en intense nummers waarin kwetsbaarheid en kracht samenkomen. Op haar nieuwe album ‘Bloodhorse!’ verruilt ze de kampvuurintimiteit van…",
+          "url": "https://ekko.nl/event/grace-cummings/",
+          "tags": []
+        },
+        {
+          "id": "30289",
+          "title": "Flora Hibberd",
+          "start": "2026-11-15T20:30:00+01:00",
+          "end": "2026-11-15T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Flora Hibberd maakt eigenzinnige indiefolk waarin literaire teksten en surrealistische beelden samenkomen in dromerige folkpop. De in Londen geboren en in Parijs gevestigde songwriter brak door met het veelgeprezen debuutalbum ‘Swirl’ (2025) en verkent op opvolger ‘Mammoth’ (release: 16 oktober…",
+          "url": "https://ekko.nl/event/flora-hibberd/",
+          "tags": []
+        },
+        {
+          "id": "29777",
+          "title": "Holy Fawn",
+          "start": "2026-11-15T20:00:00+01:00",
+          "end": "2026-11-15T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Holy Fawn smelt post-metal, shoegaze en blackgaze samen tot muziek die ze zelf omschrijven als “loud, heavy, pretty, noises.” Met een verpletterende geluidsmuur, sombere texturen en droomachtige natuurbeelden weet het trio uit Arizona iets te creëren dat overweldigend en hypnotisch is. Op het…",
+          "url": "https://ekko.nl/event/holy-fawn/",
+          "tags": []
+        },
+        {
           "id": "31697",
           "title": "Dom Gaan: Cico Cimpel",
-          "start": "2026-11-13T20:00:00+01:00",
-          "end": "2026-11-13T22:15:00+01:00",
+          "start": "2026-11-13T20:20:00+01:00",
+          "end": "2026-11-13T22:30:00+01:00",
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "In samenwerking met Herman Brood Academie en House of Hip Hop presenteert EKKO een negende editie van onze nieuwe hiphopreeks: Dom Gaan! Verwacht een avond vol energie en rauw talent, met de next gen uit de Nederlandse rapscene en aanstormende locals. De Amsterdamse rapper Cico Cimpel brengt rauwe…",
           "url": "https://ekko.nl/event/dom-gaan-cico-cimpel/",
@@ -475,16 +717,6 @@
           "tags": []
         },
         {
-          "id": "29905",
-          "title": "Static Dress",
-          "start": "2026-10-24T19:30:00+01:00",
-          "end": "2026-10-24T22:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Static Dress is een post-hardcoreband uit het Engelse Leeds die intense, riff-gedreven muziek combineert met emotionele en introspectieve teksten. Met invloeden van vroege 2000s-bands als Underoath en Alexisonfire creëren ze een geluid dat moeiteloos schakelt tussen agressieve sounds en melodische…",
-          "url": "https://ekko.nl/event/static-dress/",
-          "tags": []
-        },
-        {
           "id": "29626",
           "title": "Ontaard",
           "start": "2026-10-23T19:30:00+01:00",
@@ -505,16 +737,6 @@
           "tags": []
         },
         {
-          "id": "30049",
-          "title": "panicbaby",
-          "start": "2026-10-19T20:00:00+01:00",
-          "end": "2026-10-19T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "panicbaby maakt donkere, cinematische alt-pop die kwetsbaarheid en glamour samensmelt met de chaos van het internettijdperk. Met rauwe bekentenissen, nostalgische visuals en emotioneel geladen verhalen bouwde de singer-songwriter in korte tijd een eigen wereld op. Na de virale doorbraak van ‘Claw…",
-          "url": "https://ekko.nl/event/panicbaby/",
-          "tags": []
-        },
-        {
           "id": "29878",
           "title": "Nectar Woode",
           "start": "2026-10-25T20:00:00+01:00",
@@ -532,36 +754,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "The Guest List is een aanstormende band uit Manchester, bestaande uit vijf schoolvrienden die elkaar vonden in een gedeelde liefde voor The Strokes. Met hun indierocknummers bouwden ze in korte tijd een fervent publiek op, aangedreven door het emotionele en maatschappelijk bewuste schrijven van…",
           "url": "https://ekko.nl/event/the-guest-list/",
-          "tags": []
-        },
-        {
-          "id": "30166",
-          "title": "mustbejohn",
-          "start": "2026-11-20T20:00:00+01:00",
-          "end": "2026-11-20T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Met zijn mix van eerlijke teksten en aanstekelijke producties groeit mustbejohn uit tot een van de opvallendste onafhankelijke artiesten uit het Verenigd Koninkrijk. Geïnspireerd door artiesten als The Streets, Gorillaz en Arctic Monkeys beweegt zijn muziek zich tussen indie, hiphop en…",
-          "url": "https://ekko.nl/event/mustbejohn/",
-          "tags": []
-        },
-        {
-          "id": "31990",
-          "title": "Ugly",
-          "start": "2027-02-17T20:00:00+01:00",
-          "end": "2027-02-17T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De Britse zeskoppige band UGLY maakt een theatrale mix van postrock, artrock en folk, waarin meeslepende koorzang en grillige gitaren elkaar afwisselen. Met invloeden uit de jaren zestig en zeventig, experimentele arrangementen en meerstemmige harmonieën bouwt het zestal aan een geluid dat steeds…",
-          "url": "https://ekko.nl/event/ugly/",
-          "tags": []
-        },
-        {
-          "id": "31966",
-          "title": "Bess Atwell",
-          "start": "2027-05-19T20:00:00+02:00",
-          "end": "2027-05-19T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De Britse singer-songwriter Bess Atwell maakt dromerige indiepop waarin kristalheldere zang, melancholische melodieën en atmosferische synths samenkomen. Geïnspireerd door persoonlijke ervaringen en ingewikkelde relaties schrijft ze openhartige songs over liefdesverdriet, opgekropte emoties en…",
-          "url": "https://ekko.nl/event/bess-atwell/",
           "tags": []
         },
         {
@@ -592,26 +784,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Britse singer-songwriter Charlie Cunningham maakt subtiele, meeslepende folkpop waarin melancholie en ritme moeiteloos samenkomen. Zijn verfijnde gitaarspel, warme pianoklanken en kwetsbare melodieën brachten hem van bars in Oxford naar uitverkochte zalen door heel Europa. In 2027 viert…",
           "url": "https://ekko.nl/event/charlie-cunningham/",
-          "tags": []
-        },
-        {
-          "id": "31891",
-          "title": "Altın Gün",
-          "start": "2026-12-10T20:00:00+01:00",
-          "end": "2026-12-10T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Turks-Nederlandse psychformatie die de afgelopen jaren uitgroeide tot een van de grootste alternatieve bands van het land. Het Nederlandse psychedelische vijftal Altın Gün keert terug met hun vijfde album, een liefdevol eerbetoon aan de legendarische Turkse volkszanger Neşet Ertaş. Sinds hun…",
-          "url": "https://ekko.nl/event/altin-gun/",
-          "tags": []
-        },
-        {
-          "id": "31886",
-          "title": "Eosine",
-          "start": "2027-03-10T20:30:00+01:00",
-          "end": "2027-03-10T23:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Jong Luiks/Gents viertal op het snijvlak van postpunk, indierock, emo en neo psych vol overgave, gejaagde gitaren en drums, tempowisselingen en dromerige zanglijnen afgewisseld met rauwe emotie en overgoten met verslavende postpunk, emo en een vleugje glam drama. Bij alle concerten die EKKO en…",
-          "url": "https://ekko.nl/event/eosine/",
           "tags": []
         },
         {
@@ -685,26 +857,6 @@
           "tags": []
         },
         {
-          "id": "31264",
-          "title": "Diep In De Groef",
-          "start": "2026-11-13T23:30:00+01:00",
-          "end": "2026-11-14T03:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groep/",
-          "tags": []
-        },
-        {
-          "id": "31268",
-          "title": "Diep In De Groef",
-          "start": "2026-11-20T23:30:00+01:00",
-          "end": "2026-11-21T03:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-236/",
-          "tags": []
-        },
-        {
           "id": "31260",
           "title": "Diep Indie Groef",
           "start": "2026-10-23T23:30:00+01:00",
@@ -712,26 +864,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Deze vrijdag wordt Diep In De Groef eenmalig Diep Indie Groef . Nog steeds het muzikale alternatief op vrijdag, maar dan met oneindig veel indiebangers gebracht door Indie Gloria en Sam Heegstra . Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits…",
           "url": "https://ekko.nl/event/diep-in-de-groef-233/",
-          "tags": []
-        },
-        {
-          "id": "31787",
-          "title": "Amber Arcades, I am Oak & The T.S. Eliot Appreciation Society",
-          "start": "2026-12-20T15:00:00+01:00",
-          "end": "2026-12-20T18:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Een verjaardag vier je nooit alleen. Tenminste, dat wensen we niemand toe. Daarom nodigen we als slotstuk van ons 40-jarig jubileum drie Utrechtse indie-iconen uit om hun 10-jarige albums integraal te spelen in EKKO. Een heuse tijdmachine naar 2016 dus, toen het leven nog simpel was en Utrecht gold…",
-          "url": "https://ekko.nl/event/amber-arcades-i-am-oak-the-t-s-eliot-appreciation-society/",
-          "tags": []
-        },
-        {
-          "id": "31778",
-          "title": "Banji",
-          "start": "2027-02-26T20:00:00+01:00",
-          "end": "2027-02-26T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het Utrechtse viertal Banji is terug. Na twee jaar zonder liveoptredens dook de band met hart en ziel de studio in voor hun nieuwe plaat. Nu trekken ze de deur van de studio weer achter zich dicht en keren ze terug naar het podium. Hun sound beweegt moeiteloos tussen alternatieve indie,…",
-          "url": "https://ekko.nl/event/banji/",
           "tags": []
         },
         {
@@ -752,26 +884,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. BUS 12 maakt op 29 oktober een duistere detour voor een griezelige Halloween-editie. Verzamel je moed en je vrienden voor een spookachtige rit langs ‘00s en…",
           "url": "https://ekko.nl/event/griezelbus-12-2026/",
-          "tags": []
-        },
-        {
-          "id": "31646",
-          "title": "Pillowcase vol. 5",
-          "start": "2027-01-28T19:30:00+01:00",
-          "end": "2027-01-28T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Pillowcase is de concertavond van de shoegazeband Crashing, waar ze gelijkgestemde bands samenbrengen voor een avond vol dromerige gitaren, gelaagde sounds en stevige distortion. Voor de vijfde editie nodigen ze Girlhead en Turmeric uit in EKKO. Deze editie is extra bijzonder, want Pillowcase Vol.…",
-          "url": "https://ekko.nl/event/pillowcase-vol-5/",
-          "tags": []
-        },
-        {
-          "id": "31638",
-          "title": "Evanora Unlimited",
-          "start": "2026-12-02T20:00:00+01:00",
-          "end": "2026-12-02T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Evanora Unlimited is het muzikale universum van de in Oakland geboren en in Kroatië gevestigde artiest Orion Ohana. Verwacht een onvoorspelbare mix van experimentele pop, noise, elektronica en industriële beats, verpakt in een wereld waarin muziek, film, mode en performance samenkomen. Met releases…",
-          "url": "https://ekko.nl/event/evanora-unlimited/",
           "tags": []
         },
         {
@@ -805,16 +917,6 @@
           "tags": []
         },
         {
-          "id": "31582",
-          "title": "Mood Bored",
-          "start": "2027-05-15T20:00:00+02:00",
-          "end": "2027-05-15T23:00:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Mood Bored draait al een tijdje mee in de Nederlandse underground, maar komt nu eindelijk met hun langverwachte debuutalbum. De band stond eerder al in EKKO tijdens Popronde 2022 en keerde daarna terug als support van The Belair Lip Bombs, Hotel Lux en POM. Ook buiten Utrecht deelden ze het podium…",
-          "url": "https://ekko.nl/event/mood-bored/",
-          "tags": []
-        },
-        {
           "id": "30316",
           "title": "Library Card",
           "start": "2026-12-16T20:30:00+01:00",
@@ -832,16 +934,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Het Antwerpse trio High Hi beweegt moeiteloos tussen dromerige shoegaze en scherpe synthpop. Wat begon als een zweverige sound groeide uit tot een eigen geluid waarin experiment en catchy hooks hand in hand gaan, met ruimte voor zowel introspectie als energie. Hun herkenbare maar eigenzinnige stijl…",
           "url": "https://ekko.nl/event/high-hi/",
-          "tags": []
-        },
-        {
-          "id": "31473",
-          "title": "Curselifter",
-          "start": "2026-12-05T19:30:00+01:00",
-          "end": "2026-12-05T22:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Sinds hun demo uit 2023 timmert de Utrechtse metallic hardcoreband flink aan de weg. Met releases, shows als support van Hatebreed en Malevolence en optredens op Revolution Calling, Roadburn en Jera On Air heeft de band inmiddels een stevige plek in de Nederlandse hardcore scene veroverd. Zware…",
-          "url": "https://ekko.nl/event/curselifter/",
           "tags": []
         },
         {
@@ -885,36 +977,6 @@
           "tags": []
         },
         {
-          "id": "31434",
-          "title": "The Cat Eye Cabaret: Hex Appeal",
-          "start": "2026-10-31T20:00:00+01:00",
-          "end": "2026-10-31T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "The Cat Eye Cabaret is terug met een nieuwe Halloween burlesque-show om je te betoveren en de stuipen op het lijf te jagen! Na meerdere uitverkochte shows bij EKKO en met drie nieuwe gezichten erbij is de groep klaar om hun duistere kant weer te laten zien. The Cat Eye Cabaret presenteert…",
-          "url": "https://ekko.nl/event/the-cat-eye-cabaret-hex-appeal/",
-          "tags": []
-        },
-        {
-          "id": "29941",
-          "title": "Iron Jinn & Temple Fang",
-          "start": "2026-11-28T20:00:00+01:00",
-          "end": "2026-11-28T22:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Verbonden door een rijk heden en verleden in bands als Death Alley en Geishas of Doom en een voorliefde voor geestverruimende, avontuurlijke en vooral diep-psychedelische rock, zullen deze twee bands samen zorgen voor een onvergetelijke avond gitaarmuziek van de bovenste plank en laten horen en…",
-          "url": "https://ekko.nl/event/iron-jinn-temple-fang/",
-          "tags": []
-        },
-        {
-          "id": "31140",
-          "title": "True Mountain Laurel",
-          "start": "2027-02-02T20:00:00+01:00",
-          "end": "2027-02-02T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De Canadese folkartiesten Haley Blais en Sam Lynch slaan de handen ineen als True Mountain Laurel. Verwacht warme samenzang, akoestische folk en country-invloeden, met een flinke dosis indie en melancholie. Dit is ook te horen op hun debuutalbum &#8216;Angel So Bad&#8217;, dat in september 2026…",
-          "url": "https://ekko.nl/event/true-mountain-laurel/",
-          "tags": []
-        },
-        {
           "id": "26600",
           "title": "KYTES",
           "start": "2027-02-13T20:00:00+01:00",
@@ -955,26 +1017,6 @@
           "tags": []
         },
         {
-          "id": "30289",
-          "title": "Flora Hibberd",
-          "start": "2026-11-15T20:30:00+01:00",
-          "end": "2026-11-15T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Flora Hibberd maakt eigenzinnige indiefolk waarin literaire teksten en surrealistische beelden samenkomen in dromerige folkpop. De in Londen geboren en in Parijs gevestigde songwriter brak door met het veelgeprezen debuutalbum ‘Swirl’ (2025) en verkent op opvolger ‘Mammoth’ (release: 16 oktober…",
-          "url": "https://ekko.nl/event/flora-hibberd/",
-          "tags": []
-        },
-        {
-          "id": "30224",
-          "title": "Grace Cummings",
-          "start": "2026-11-19T20:00:00+01:00",
-          "end": "2026-11-19T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Grace Cummings maakt als singer-songwriter muziek die even rauw als meeslepend klinkt. De Australische zangeres staat bekend om haar diepe, onmiskenbare stem en intense nummers waarin kwetsbaarheid en kracht samenkomen. Op haar nieuwe album ‘Bloodhorse!’ verruilt ze de kampvuurintimiteit van…",
-          "url": "https://ekko.nl/event/grace-cummings/",
-          "tags": []
-        },
-        {
           "id": "29825",
           "title": "Le Guess Who? 2026",
           "start": "2026-11-06T18:00:00+01:00",
@@ -992,16 +1034,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Le Guess Who? wordt beschouwd als een van de meest vooruitstrevende festivals ter wereld, gevierd vanwege de inspirerende manier waarop grensverleggende muziek wordt gepresenteerd. Artiesten van over de hele wereld bieden nieuwe perspectieven op wat mogelijk is binnen de muziek. Van 5-8 november…",
           "url": "https://ekko.nl/event/le-guess-who-2026-1/",
-          "tags": []
-        },
-        {
-          "id": "29777",
-          "title": "Holy Fawn",
-          "start": "2026-11-15T20:00:00+01:00",
-          "end": "2026-11-15T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Holy Fawn smelt post-metal, shoegaze en blackgaze samen tot muziek die ze zelf omschrijven als “loud, heavy, pretty, noises.” Met een verpletterende geluidsmuur, sombere texturen en droomachtige natuurbeelden weet het trio uit Arizona iets te creëren dat overweldigend en hypnotisch is. Op het…",
-          "url": "https://ekko.nl/event/holy-fawn/",
           "tags": []
         },
         {
@@ -1025,16 +1057,6 @@
           "tags": []
         },
         {
-          "id": "29436",
-          "title": "Ebbb",
-          "start": "2026-12-09T20:30:00+01:00",
-          "end": "2026-12-09T23:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ebbb beweegt zich tussen gabber, techno, ambient pop en folk, en zet daarmee een ongrijpbare, constant veranderende sound neer. Pulserende beats, gelaagde vocals en onverwachte wendingen botsen en versmelten tot een intens en melodiegedreven geheel. Met hun debuut-EP ‘All At Once’ laten ze horen…",
-          "url": "https://ekko.nl/event/ebbb/",
-          "tags": []
-        },
-        {
           "id": "29063",
           "title": "Sarah Julia",
           "start": "2026-12-03T20:00:00+01:00",
@@ -1042,26 +1064,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Sarah Julia maakt gelaagde indiefolk waarin tederheid en persoonlijke verhalen centraal staan. De twee zussen schrijven vanuit hun gedeelde jeugd en brengen intieme thema’s als liefde, verlies en familie samen in warme harmonieën en dagboekachtige teksten. Met hun tweede EP ‘Only Making It Worse’…",
           "url": "https://ekko.nl/event/sarah-julia-1/",
-          "tags": []
-        },
-        {
-          "id": "28654",
-          "title": "Klezmagic",
-          "start": "2026-12-04T20:00:00+01:00",
-          "end": "2026-12-04T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het energieke Amsterdamse Klezmagic verweeft balkan, klezmer en eigen invloeden tot een explosieve mix die zowel dansbaar is als raakt. Sinds hun debuutalbum ‘MAKEDAMSKO’ (2019) ontwikkelde de band een herkenbare eigen sound en bracht meerdere singles, een EP en een livealbum uit. De EP ‘De Grote…",
-          "url": "https://ekko.nl/event/klezmagic/",
-          "tags": []
-        },
-        {
-          "id": "28325",
-          "title": "SONS",
-          "start": "2026-12-17T20:00:00+01:00",
-          "end": "2026-12-17T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "SONS brengt compromisloze garagerock. De Belgen staan bekend om hun expressieve geluid, messcherpe riffs en explosieve liveshows. Met hun album ‘Hallo’, dat in september 2025 uitkwam, begon SONS aan een volgend hoofdstuk. De prettige chaos van hun eerdere werk maakte deels plaats voor meer…",
-          "url": "https://ekko.nl/event/sons/",
           "tags": []
         }
       ]
@@ -1235,13 +1237,13 @@
           "tags": []
         },
         {
-          "id": "helling-ghostly-kisses-08-11-2026",
-          "title": "Ghostly Kisses",
+          "id": "helling-ghostly-kisses-support-rosie-carney-08-11-2026",
+          "title": "Ghostly Kisses + support Rosie Carney",
           "start": "2026-11-08T20:15:00+01:00",
           "end": "2026-11-08T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Minimalistische fluister-indie vol grote gevoelens",
-          "url": "https://dehelling.nl/agenda/ghostly-kisses-08-11-2026/",
+          "url": "https://dehelling.nl/agenda/ghostly-kisses-support-rosie-carney-08-11-2026/",
           "tags": []
         },
         {
@@ -1335,6 +1337,16 @@
           "tags": []
         },
         {
+          "id": "helling-queer-panic-wys-after-party-21-11-2026",
+          "title": "Queer Panic! WYS After Party",
+          "start": "2026-11-21T23:00:00+01:00",
+          "end": "2026-11-22T04:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Queer party vol fierce drags, sickening looks en harde beats",
+          "url": "https://dehelling.nl/agenda/queer-panic-wys-after-party-21-11-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-fiesta-latina-26-22-11-2026",
           "title": "Fiesta Latina ’26",
           "start": "2026-11-22T13:00:00+01:00",
@@ -1425,13 +1437,13 @@
           "tags": []
         },
         {
-          "id": "helling-set-the-bar-w-atlantis-dnb-05-12-2026",
-          "title": "Set the Bar w/ Atlantis DnB",
-          "start": "2026-12-05T21:00:00+01:00",
-          "end": "2026-12-06T02:00:00+01:00",
+          "id": "helling-set-the-bar-w-atlantis-05-12-2026",
+          "title": "Set the Bar w/ Atlantis",
+          "start": "2026-12-05T22:00:00+01:00",
+          "end": "2026-12-06T03:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Fresh faces and filthy basses",
-          "url": "https://dehelling.nl/agenda/set-the-bar-w-atlantis-dnb-05-12-2026/",
+          "url": "https://dehelling.nl/agenda/set-the-bar-w-atlantis-05-12-2026/",
           "tags": []
         },
         {
@@ -1562,6 +1574,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Gitzwarte mix van avant-metal, extravagante kostuums en zware emoties    ",
           "url": "https://dehelling.nl/agenda/madmans-esprit-31-01-2027/",
+          "tags": []
+        },
+        {
+          "id": "helling-she-wants-revenge-05-02-2027",
+          "title": "She Wants Revenge",
+          "start": "2027-02-05T20:00:00+01:00",
+          "end": "2027-02-05T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Californische cultband is nog lang niet uit z’n gothic-fase ",
+          "url": "https://dehelling.nl/agenda/she-wants-revenge-05-02-2027/",
           "tags": []
         },
         {
@@ -1734,46 +1756,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "448389",
-          "title": "Mercury Rev",
-          "start": "2026-10-19T20:00:00+02:00",
-          "end": "2026-10-19T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse indieband Mercury Rev draait al 36 jaar mee, maar is nog steeds niet in een hokje te stoppen. De formatie van kernleden Jonathan Donahue (gitaar/zang) en Sean Mackowiak (gitaar/klarinet) combineert indierock, psychedelica en americana met filmische orkestratie – dat Mercury Rev soms…",
-          "url": "https://www.podiuminfo.nl/concert/448389/Mercury-Rev/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "464581",
-          "title": "girli",
-          "start": "2026-10-19T20:00:00+02:00",
-          "end": "2026-10-19T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Engelse zangeres en muzikante girli staat bekend om haar high-energy pop, gecombineerd met bijtende en persoonlijke teksten over feminisme, seksualiteit en mentale gezondheid. Haar debuutsingle uit 2015, 'So You Think You Can Fuck With Me Do Ya?', zette meteen de toon voor haar artistieke…",
-          "url": "https://www.podiuminfo.nl/concert/464581/girli/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "475782",
-          "title": "FKJ",
-          "start": "2026-10-19T20:00:00+02:00",
-          "end": "2026-10-19T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Franse producer en multi-instrumentalist FKJ komt op 19 oktober 2026 naar TivoliVredenburg. De artiest, voluit French Kiwi Juice, staat bekend om zijn ontspannen mix van nu-jazz, soul, house, elektronica en hiphop. Tijdens zijn liveoptredens bespeelt FKJ verschillende instrumenten, waaronder…",
-          "url": "https://www.podiuminfo.nl/concert/475782/FKJ/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "476756",
-          "title": "Eloi Youssef",
-          "start": "2026-10-19T20:15:00+02:00",
-          "end": "2026-10-19T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het is alweer een ruime drie jaar geleden dat zanger/gitarist Eloi Youssef afscheid nam van zijn band Kensington. Na een grote theatertournee met orkest Kamerata Zuid en het Nederlands Kamerkoor zoekt Youssef nu de intimiteit op: slechts gewapend met zijn akoestische gitaar brengt hij de…",
-          "url": "https://www.podiuminfo.nl/concert/476756/Eloi-Youssef/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "479056",
           "title": "Wolvennest + Bedsore",
@@ -1972,6 +1954,46 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "De jonge Amerikaans-Australische poprockband Midnight Til Morning onstond in 2024 bij de Netflix-muziekcompetitie Building The Band. De vier boys maakten indruk met hun gepassioneerde vertolkingen van onder meer Ocean Eyes (Billie Eilish), Iris (The Goo Goo Dolls) en Circles (Post Malone). Hoewel…",
           "url": "https://www.podiuminfo.nl/concert/462571/Midnight-Til-Morning/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "474392",
+          "title": "Bilint Ibrahim",
+          "start": "2026-10-24T20:15:00+02:00",
+          "end": "2026-10-24T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Bilint Ibrahim is een Koerdische zanger wiens muziek troost zoekt en uitdeelt. Zijn liederen omvatten de grote thema’s van de Koerdische traditie: heimwee, verlies, liefde, trots en het verlangen naar vrijheid. De zanger brengt zijn boodschap zonder veel uiterlijk vertoon, met een stem die direct…",
+          "url": "https://www.podiuminfo.nl/concert/474392/Bilint-Ibrahim/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "492289",
+          "title": "Wegz",
+          "start": "2026-10-24T20:15:00+02:00",
+          "end": "2026-10-24T21:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Wegz, een van de meest invloedrijke stemmen in de hedendaagse Egyptische muziekscene, komt op 24 oktober naar Utrecht voor zijn eerste Europese live bandtour. Afkomstig uit Alexandrië, heeft Wegz zich ontpopt als een bepalende artiest voor een nieuwe generatie Arabische muziek, waarbij hij hiphop,…",
+          "url": "https://www.podiuminfo.nl/concert/492289/Wegz/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "490957",
+          "title": "Park 6",
+          "start": "2026-10-24T22:30:00+02:00",
+          "end": "2026-10-24T23:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Park 6 biedt een gratis ontmoetingsplek in Utrecht, ideaal om te ontspannen en te genieten van het weekend. De ruimte combineert games, videokunst en muziek met een aanbod van speciaalbier en cocktails. Het is een veelzijdige plek, perfect om na een voorstelling te vertoeven, je voor te bereiden op…",
+          "url": "https://www.podiuminfo.nl/concert/490957/Park-6/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "491383",
+          "title": "Disco Arabesquo",
+          "start": "2026-10-24T23:30:00+02:00",
+          "end": "2026-10-25T00:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Disco Arabesquo Night keert terug in Utrecht. Ze nemen je mee op een reis door de Arabische muziek van de jaren '90, '00 en nu, met geluiden uit het Midden-Oosten en Noord-Afrika. Je hoort de stemmen van iconische artiesten zoals Fairuz, Mohamed Mounir, Haife Wahbe, Cheb Khaled, Nancy Ajram, Amr…",
+          "url": "https://www.podiuminfo.nl/concert/491383/Disco-Arabesquo/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2395,19 +2417,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-filmavond",
-          "title": "Filmavond",
-          "start": "2026-10-20T00:00:00+01:00",
-          "end": "2026-10-20T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/filmavond/",
-          "tags": [
-            "Film",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-lekkerdier",
           "title": "Lekker Dier (try-out)",
           "start": "2026-10-21T00:00:00+01:00",
@@ -2480,6 +2489,62 @@
             "Workshop",
             "Vechtclub XL"
           ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-42",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-10-26T00:00:00+01:00",
+          "end": "2026-10-26T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-42/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-27",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-10-26T00:00:00+01:00",
+          "end": "2026-10-26T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-27/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-44",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-10-26T00:00:00+01:00",
+          "end": "2026-10-26T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-44/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-22",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-10-26T00:00:00+01:00",
+          "end": "2026-10-26T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-22/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
         }
       ]
     },
@@ -2491,6 +2556,26 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261125-bi-cafe-utrecht-4",
+          "title": "Bi+ Café Utrecht",
+          "start": "2026-11-25T00:00:00+01:00",
+          "end": "2026-11-25T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 25th. Monthly hangout for the bi+ community. Join our monthly bi+ café in Utrecht! The bi+ café offers a place for bi+ people to meet, get together, share experiences and, above all, have a fun evening. We believe it is important to create a safer space together, where there is room for…",
+          "url": "https://acu.nl/events/20261125/bi-cafe-utrecht-4",
+          "tags": []
+        },
+        {
+          "id": "acu-20261028-bi-cafe-utrecht-3",
+          "title": "Bi+ Café Utrecht",
+          "start": "2026-10-28T00:00:00+01:00",
+          "end": "2026-10-28T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "October 28th. Monthly hangout for the bi+ community. Join our monthly bi+ café in Utrecht! The bi+ café offers a place for bi+ people to meet, get together, share experiences and, above all, have a fun evening. We believe it is important to create a safer space together, where there is room for…",
+          "url": "https://acu.nl/events/20261028/bi-cafe-utrecht-3",
+          "tags": []
+        },
         {
           "id": "acu-20261218-welcome-at-the-purrrlesque",
           "title": "Welcome at the purrrlesque!",
@@ -2559,26 +2644,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "October 22nd. Mahala x SWANSLAUGHTER. Combining their Persian, Dutch and Romanian roots, connected by their love of SWANA and Balkan music, the members of Mahala (neighbourhood) invite you to become part of their own Mahala. Blending ethno-inspired melodies and rhythms with elements of Western…",
           "url": "https://acu.nl/events/20261022/popronde-utrecht-at-acu",
-          "tags": []
-        },
-        {
-          "id": "acu-20261105-a-part-of-the-problem-shitman-tba",
-          "title": "A Part Of The Problem // Shitman // TBA",
-          "start": "2026-11-05T00:00:00+01:00",
-          "end": "2026-11-05T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 5th. Info coming soon",
-          "url": "https://acu.nl/events/20261105/a-part-of-the-problem-shitman-tba",
-          "tags": []
-        },
-        {
-          "id": "acu-20261101-against-capitalism-and-climate-chaos",
-          "title": "Against Capitalism and Climate Chaos",
-          "start": "2026-11-01T00:00:00+01:00",
-          "end": "2026-11-01T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 1st. Building today’s commune. (scroll down for dutch) The Commune, as an organizational form, represents the long tradition of self-governance, autonomy and resistance in the face of domination. Confronted with the myriad crises of the modern world, reviving the democratic legacy of…",
-          "url": "https://acu.nl/events/20261101/against-capitalism-and-climate-chaos",
           "tags": []
         }
       ]
@@ -4105,6 +4170,16 @@
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77753",
           "description": "CONCERT IS SOLD OUT<BR><BR>Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the…",
+          "tags": []
+        },
+        {
+          "id": "79863",
+          "title": "Intouchables Live in Concert (additional performance)",
+          "start": "2027-02-24T20:00:00.000Z",
+          "end": "2027-02-24T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=79863",
+          "description": "Ludovico Einaudi - Intouchables<BR><BR>The Noordpool Orkest, under the direction of conductor Anthony Gabriele, performs the iconic music of composer Ludovico Einaudi live, perfectly synchronized with the film. This unique combination of film and live music brings the story to life in a new, even mo",
           "tags": []
         },
         {

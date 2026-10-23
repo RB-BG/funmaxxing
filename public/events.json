@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T09:54:33.084Z",
+  "updatedAt": "2026-10-23T09:48:17.259Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "18001",
-          "title": "POPRONDE w/ Magazines + Coalmine Canary + aquelarre*",
-          "start": "2026-10-22T20:00:00+01:00",
-          "end": "2026-10-22T23:00:00+01:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "//www.youtube.com/watch?v=S8krR0F6GUc",
-          "url": "https://dbstudio.nl/event/popronde/",
-          "tags": [
-            "Concert"
-          ]
-        },
         {
           "id": "17639",
           "title": "MAQUINA. (PORT) + Feral",
@@ -402,6 +390,18 @@
             "Hardcore",
             "Punk"
           ]
+        },
+        {
+          "id": "18034",
+          "title": "Cora Kemperman & de Schuurmachines release party",
+          "start": "2026-11-29T14:30:00+01:00",
+          "end": "2026-11-29T19:30:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Alvvays, Porter Robinson, glass beach, Jane Remover, Lex Walton, saoirse dream, Weatherday, feeble little horse \nNa afloop van de livemuziek begint het naprogramma met een onnavolgbare Kaos Coraoke! Bij zijn is meemaken.",
+          "url": "https://dbstudio.nl/event/cora-kemperman-de-schuurmachines-release-party/",
+          "tags": [
+            "Concert"
+          ]
         }
       ]
     },
@@ -414,13 +414,83 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
-          "id": "32188",
-          "title": "Omroep EKKO: Fiori",
-          "start": "2026-10-22T17:00:00+01:00",
-          "end": "2026-10-22T00:00:00+01:00",
+          "id": "32171",
+          "title": "Meltheads",
+          "start": "2027-03-04T20:00:00+01:00",
+          "end": "2027-03-04T22:15:00+01:00",
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Onder de noemer Omroep EKKO nemen wij eens per maand de digitale radiogolven van Stranded FM over voor een uur gevuld met door ons geselecteerd talent. Zo komen in dit plezante uurtje radio opkomende dj’s uit onze dj-course voorbij, of hoor je een uur gewijd aan een van onze clubavonden of…",
-          "url": "https://ekko.nl/event/omroep-ekko-fiori/",
+          "description": "Meltheads is terug met een nieuw hoofdstuk. Het Antwerpse viertal brak in 2022 door met de single ‘Naïef’ en maakte naam met een broeierige mix van garagepunk, post-punk, noise en rock-’n-roll. Na het snoeiharde debuutalbum &#8216;Decent Sex&#8217; uit 2024 gooit de band het over een andere boeg:…",
+          "url": "https://ekko.nl/event/meltheads-1/",
+          "tags": []
+        },
+        {
+          "id": "32193",
+          "title": "Géonne Hartman",
+          "start": "2027-01-30T20:00:00+01:00",
+          "end": "2027-01-30T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Utrechtse singer-songwriter Géonne Hartman maakt intieme indiefolk vol persoonlijke verhalen, subtiele arrangementen en bitterzoete melodieën. Na haar debuutalbum He Went To The Sea uit 2022 verscheen in september haar tweede plaat Once More. Daarop verkent ze thema’s als liefde, vriendschap,…",
+          "url": "https://ekko.nl/event/geonne-hartman/",
+          "tags": []
+        },
+        {
+          "id": "32016",
+          "title": "karaEKKO",
+          "start": "2026-11-26T23:00:00+01:00",
+          "end": "2026-11-27T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "U vraagt, wij draaien. Op 26 november brengt karaEKKO karaoke naar EKKO. Of ADÈLA nou helemaal jouw ding is of toch meer je inner Adela wil channelen met een prachtige Jan Smit cover, wij bieden het podium. Deze editie wordt gehost door VIXEN. VIXEN Dino Delicious en Young Yoni, ofwel VIXEN, zijn…",
+          "url": "https://ekko.nl/event/karaekko-nov-2026/",
+          "tags": []
+        },
+        {
+          "id": "32223",
+          "title": "Diep In De Groef",
+          "start": "2026-12-18T23:30:00+01:00",
+          "end": "2026-12-19T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-239/",
+          "tags": []
+        },
+        {
+          "id": "32214",
+          "title": "Diep In De Groef",
+          "start": "2026-12-04T23:30:00+01:00",
+          "end": "2026-12-05T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-237/",
+          "tags": []
+        },
+        {
+          "id": "31268",
+          "title": "Diep In De Groef",
+          "start": "2026-11-20T23:30:00+01:00",
+          "end": "2026-11-21T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-236/",
+          "tags": []
+        },
+        {
+          "id": "31264",
+          "title": "Diep In De Groef",
+          "start": "2026-11-13T23:30:00+01:00",
+          "end": "2026-11-14T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groep/",
+          "tags": []
+        },
+        {
+          "id": "31147",
+          "title": "Good Health Good Wealth",
+          "start": "2026-11-05T20:00:00+01:00",
+          "end": "2026-11-05T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het Londense duo Good Health Good Wealth begon ooit als punkband, maar heeft inmiddels een geheel eigen mix gevonden van spoken word, indie-hiphop en elektronica. Hun muziek is rauw, energiek en onvoorspelbaar, met scherpe teksten en stuwende elektronische klanken die alle kanten op kunnen gaan.…",
+          "url": "https://ekko.nl/event/good-health-good-wealth/",
           "tags": []
         },
         {
@@ -431,16 +501,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "DOTS is niet zomaar een clubnacht. Het is een explosie van beats, een samensmelting van genres, een trip zonder grenzen met vrouwen op de voorgrond. Global club, bass, UK garage en alles ertussen lopen vlekkeloos in elkaar over en zorgen voor een verbindende flow op de dansvloer. DOTS is een space…",
           "url": "https://ekko.nl/event/dots-6/",
-          "tags": []
-        },
-        {
-          "id": "32171",
-          "title": "Meltheads",
-          "start": "2027-03-04T20:00:00+01:00",
-          "end": "2027-03-04T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Meltheads is terug met een nieuw hoofdstuk. Het Antwerpse viertal brak in 2022 door met de single ‘Naïef’ en maakte naam met een broeierige mix van garagepunk, post-punk, noise en rock-’n-roll. Na het snoeiharde debuutalbum &#8216;Decent Sex&#8217; uit 2024 gooit de band het over een andere boeg:…",
-          "url": "https://ekko.nl/event/meltheads-1/",
           "tags": []
         },
         {
@@ -484,16 +544,6 @@
           "tags": []
         },
         {
-          "id": "32016",
-          "title": "karaEKKO",
-          "start": "2026-11-26T23:00:00+01:00",
-          "end": "2026-11-27T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "U vraagt, wij draaien. Op 26 november brengt karaEKKO karaoke naar EKKO. Of ADÈLA nou helemaal jouw ding is of toch meer je inner Adela wil channelen met een prachtige Jan Smit cover, wij bieden het podium. Deze editie wordt gehost door VIXEN. VIXEN Dino Delicious en Young Yoni, ofwel VIXEN, zijn…",
-          "url": "https://ekko.nl/event/karaekko-nov-2026/",
-          "tags": []
-        },
-        {
           "id": "31697",
           "title": "Dom Gaan: Cico Cimpel",
           "start": "2026-11-13T20:20:00+01:00",
@@ -501,26 +551,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "In samenwerking met Herman Brood Academie en House of Hip Hop presenteert EKKO een negende editie van onze nieuwe hiphopreeks: Dom Gaan! Verwacht een avond vol energie en rauw talent, met de next gen uit de Nederlandse rapscene en aanstormende locals. De Amsterdamse rapper Cico Cimpel brengt rauwe…",
           "url": "https://ekko.nl/event/dom-gaan-cico-cimpel/",
-          "tags": []
-        },
-        {
-          "id": "31268",
-          "title": "Diep In De Groef",
-          "start": "2026-11-20T23:30:00+01:00",
-          "end": "2026-11-21T03:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-236/",
-          "tags": []
-        },
-        {
-          "id": "31264",
-          "title": "Diep In De Groef",
-          "start": "2026-11-13T23:30:00+01:00",
-          "end": "2026-11-14T03:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groep/",
           "tags": []
         },
         {
@@ -724,16 +754,6 @@
           "tags": []
         },
         {
-          "id": "31147",
-          "title": "Good Health Good Wealth",
-          "start": "2026-11-05T20:00:00+01:00",
-          "end": "2026-11-05T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het Londense duo Good Health Good Wealth begon ooit als punkband, maar heeft inmiddels een geheel eigen mix gevonden van spoken word, indie-hiphop en elektronica. Hun muziek is rauw, energiek en onvoorspelbaar, met scherpe teksten en stuwende elektronische klanken die alle kanten op kunnen gaan.…",
-          "url": "https://ekko.nl/event/good-health-good-wealth/",
-          "tags": []
-        },
-        {
           "id": "30085",
           "title": "lots of hands & sundots",
           "start": "2026-11-03T20:00:00+01:00",
@@ -821,16 +841,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Britse singer-songwriter Charlie Cunningham maakt subtiele, meeslepende folkpop waarin melancholie en ritme moeiteloos samenkomen. Zijn verfijnde gitaarspel, warme pianoklanken en kwetsbare melodieën brachten hem van bars in Oxford naar uitverkochte zalen door heel Europa. In 2027 viert…",
           "url": "https://ekko.nl/event/charlie-cunningham/",
-          "tags": []
-        },
-        {
-          "id": "31861",
-          "title": "Popronde 2026",
-          "start": "2026-10-22T21:30:00+01:00",
-          "end": "2026-10-23T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Opnieuw verwelkomen we Popronde Utrecht dit jaar in EKKO! Popronde is een rondreizend muziekfestival dat elk najaar plaatsvindt in een dertigtal steden door het hele land. Tijdens de Popronde toeren talentvolle acts door Nederland om zo hun naam op te bouwen, hun netwerk uit te breiden en een nieuw…",
-          "url": "https://ekko.nl/event/popronde-2026/",
           "tags": []
         },
         {
@@ -1083,16 +1093,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-popronde-utrecht-22-10-2026",
-          "title": "Popronde Utrecht",
-          "start": "2026-10-22T19:30:00+01:00",
-          "end": "2026-10-23T00:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Het grootste reizende talentenfestival van Nederland",
-          "url": "https://dehelling.nl/agenda/popronde-utrecht-22-10-2026/",
-          "tags": []
-        },
         {
           "id": "helling-kruidkoek-joost-oomen-support-tim-koehoorn-23-10-2026",
           "title": "Kruidkoek & Joost Oomen + support Tim Koehoorn",
@@ -1434,23 +1434,23 @@
           "tags": []
         },
         {
-          "id": "helling-the-scratch-07-12-2026",
-          "title": "The Scratch",
+          "id": "helling-the-scratch-support-dug-07-12-2026",
+          "title": "The Scratch + support DUG",
           "start": "2026-12-07T20:15:00+01:00",
           "end": "2026-12-07T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Oer-Ierse folkmetalheads met het hart op de juiste plek",
-          "url": "https://dehelling.nl/agenda/the-scratch-07-12-2026/",
+          "url": "https://dehelling.nl/agenda/the-scratch-support-dug-07-12-2026/",
           "tags": []
         },
         {
-          "id": "helling-warbuhl-10-12-2026",
-          "title": "Warbuhl",
-          "start": "2026-12-10T20:00:00+01:00",
+          "id": "helling-warbuhl-support-wabr-10-12-2026",
+          "title": "Warbuhl + support WABR",
+          "start": "2026-12-10T20:15:00+01:00",
           "end": "2026-12-10T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Nederpop-chaos waar je vrolijk van wordt",
-          "url": "https://dehelling.nl/agenda/warbuhl-10-12-2026/",
+          "url": "https://dehelling.nl/agenda/warbuhl-support-wabr-10-12-2026/",
           "tags": []
         },
         {
@@ -1491,6 +1491,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Popster-in-wording met platinahit op zak",
           "url": "https://dehelling.nl/agenda/isabel-usher-19-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-modulation-20-12-2026",
+          "title": "Modulation",
+          "start": "2026-12-20T20:15:00+01:00",
+          "end": "2026-12-20T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Live modulaire synthesizers in intieme setting. ",
+          "url": "https://dehelling.nl/agenda/modulation-20-12-2026/",
           "tags": []
         },
         {
@@ -1709,7 +1719,7 @@
           "start": "2027-06-05T20:15:00+02:00",
           "end": "2027-06-05T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "EUFORISCHE BLEND VAN INDIE EN ELEKTRONICA",
+          "description": "Euforische blend van indie en elektronica",
           "url": "https://dehelling.nl/agenda/quentyn-05-06-2027/",
           "tags": []
         },
@@ -1743,36 +1753,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "453047",
-          "title": "O Tree",
-          "start": "2026-10-22T20:15:00+02:00",
-          "end": "2026-10-22T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Virtuoze jazzrock, kamermuziek & drone-sounds - Geïnspireerd door de stille kracht van bomen en een diep verlangen naar eenheid met de natuur, bundelen drie topmusici hun krachten in O Tree. ",
-          "url": "https://www.podiuminfo.nl/concert/453047/O-Tree/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "462628",
-          "title": "Celine Cairo",
-          "start": "2026-10-22T20:15:00+02:00",
-          "end": "2026-10-22T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amsterdamse singer-songwriter Celine Cairo creëert weelderige, akoestisch getinte kamerpop met subtiele elektronische accenten. Cairo, gezegend met een betoverend stemgeluid, trekt luisteraars direct haar wereld in. Haar stijl vertoont af en toe gelijkenissen met London Grammar, wat niet…",
-          "url": "https://www.podiuminfo.nl/concert/462628/Celine-Cairo/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "453053",
-          "title": "Niels Geusebroek - Sings Coldplay",
-          "start": "2026-10-22T20:45:00+02:00",
-          "end": "2026-10-22T21:45:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Niels Geusebroek keert terug op de podia met zijn ‘Sings Coldplay’-show. De Nederlandse zanger/componist, bekend van hits als Year Of Summer (met Wildstylez) en Take Your Time Girl, is Coldplay-fan van het eerste uur.",
-          "url": "https://www.podiuminfo.nl/concert/453053/Niels-Geusebroek-Sings-Coldplay/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "453295",
           "title": "The Hu",
@@ -1983,7 +1963,8 @@
           "url": "https://www.podiuminfo.nl/concert/498423/Jean-Michel-Blais/TivoliVredenburg/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "gietijzer",
@@ -2061,6 +2042,16 @@
           "description": "🎃 [Halloween special!] Wanderhome - Trick-Or-Treat 🎃 Wed 28/10 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a game…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
+        },
+        {
+          "id": "611837",
+          "title": "Pirate Borg - At World's End - CAMPAIGN FINALE @ Silver Heron 🐙 (3 tables!)",
+          "start": "2026-11-04T19:00:00+01:00",
+          "end": "2026-11-04T22:00:00+01:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Pirate Borg - At World's End - CAMPAIGN FINALE @ Silver Heron 🐙 (3 tables!) Wed 4/11 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum.…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
         }
       ]
     },
@@ -2072,18 +2063,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-23690",
-          "title": "Weekly Draft",
-          "start": "2026-10-22T18:00:00+01:00",
-          "end": "2026-10-22T23:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €24,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-131/",
-          "tags": [
-            "Draft"
-          ]
-        },
         {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
@@ -2313,20 +2292,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-museum-kantine-openingsdiner",
-          "title": "Museum Kantine: Openingsdiner",
-          "start": "2026-10-23T00:00:00+01:00",
-          "end": "2026-10-23T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/museum-kantine-openingsdiner/",
-          "tags": [
-            "Eten / Drinken",
-            "Kunst",
-            "Kantine"
-          ]
-        },
         {
           "id": "beton-de-betonnerie-tweedekansmarkt-12",
           "title": "De Betonnerie – tweedekansmarkt",
@@ -2926,26 +2891,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "72880",
-          "title": "Twilight in Concert",
-          "start": "2026-10-22T20:00:00.000Z",
-          "end": "2026-10-22T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72880",
-          "description": "Carter Burwell - Twilight<BR><BR>Step into the world of Twilight (2008) like never before with Twilight in Concert, a cinematic live-to-film event that brings the beloved saga to life through live music. Featuring a breathtaking performance by a 12-piece ensemble of rock and orchestral musicians, th",
-          "tags": []
-        },
-        {
-          "id": "77458",
-          "title": "From Taco to Tango – with Maria Pedano",
-          "start": "2026-10-22T20:00:00.000Z",
-          "end": "2026-10-22T23:00:00.000Z",
-          "location": "Terneuzen, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77458",
-          "description": "Ciconia takes you on a thrilling musical journey through the soul of South America. From Taco to Tango is a concert full of melancholy, rhythm and fire.<BR><BR>Soloist Maria Pedano plays a unique double role in this programme. She shines as a soprano in Piazzolla's Ave Maria and as an obois",
-          "tags": []
-        },
         {
           "id": "78866",
           "title": "Tim Burton’s Universe",
@@ -4353,7 +4298,7 @@
           "end": "2027-04-19T23:00:00.000Z",
           "location": "Leusden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78318",
-          "description": "Anna Lapwood MBE, Associate Artist of the Royal Albert Hall and TikTok sensation, demonstrates just how hip and versatile the organ can be. With her innovative approach and virtuoso playing, she explores the boundaries of the instrument in a program full of cinematic and minimalist sounds, featuring",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Anna Lapwood MBE, Associate Artist of the Royal Albert Hall and TikTok sensation, demonstrates just how hip and versatile the organ can be. With her innovative approach and virtuoso playing, she explores the boundaries of the instrument in a program full of cinematic and…",
           "tags": []
         },
         {
@@ -4363,7 +4308,7 @@
           "end": "2027-04-20T23:00:00.000Z",
           "location": "Leusden, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78319",
-          "description": "Anna Lapwood MBE, Associate Artist of the Royal Albert Hall and TikTok sensation, demonstrates just how hip and versatile the organ can be. With her innovative approach and virtuoso playing, she explores the boundaries of the instrument in a program full of cinematic and minimalist sounds, featuring",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Anna Lapwood MBE, Associate Artist of the Royal Albert Hall and TikTok sensation, demonstrates just how hip and versatile the organ can be. With her innovative approach and virtuoso playing, she explores the boundaries of the instrument in a program full of cinematic and…",
           "tags": []
         },
         {
@@ -4881,60 +4826,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://www.larp-platform.nl/evenementenoverzicht/",
       "events": [
-        {
-          "id": "larp-1824-maerquin-weekend-57",
-          "title": "Maerquin weekend 57",
-          "start": "2026-10-23T00:00:00+01:00",
-          "end": "2026-10-25T23:59:00+01:00",
-          "location": "Kamphuis Ahoy, Oosterhout",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/1824-maerquin-weekend-57/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
-          "id": "larp-1843-ekyo-4",
-          "title": "Ekyo",
-          "start": "2026-10-23T00:00:00+01:00",
-          "end": "2026-10-25T23:59:00+01:00",
-          "location": "Ada's Hoeve, Ommen",
-          "country": "Nederland",
-          "description": "Anders, Low-fantasy — Buiten slapen · Vanaf 16 jaar",
-          "url": "https://www.larp-platform.nl/evenement/1843-ekyo-4/",
-          "tags": [
-            "Anders",
-            "Low-fantasy"
-          ]
-        },
-        {
-          "id": "larp-2160-agnoia-unwritten-8",
-          "title": "Agnoia Unwritten 8",
-          "start": "2026-10-23T00:00:00+01:00",
-          "end": "2026-10-25T23:59:00+01:00",
-          "location": "Blokhut \"de Hei\" - Grossel",
-          "country": "Nederland",
-          "description": "High-fantasy — Buiten slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2160-agnoia-unwritten-8/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
-          "id": "larp-2070-irrealis-26",
-          "title": "Irrealis 26",
-          "start": "2026-10-23T00:00:00+01:00",
-          "end": "2026-10-25T23:59:00+01:00",
-          "location": "Groepsaccommodatie De Roerdomp",
-          "country": "Nederland",
-          "description": "High-fantasy, Steampunk — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2070-irrealis-26/",
-          "tags": [
-            "High-fantasy",
-            "Steampunk"
-          ]
-        },
         {
           "id": "larp-2121-elbaria-najaarsevenement-2026",
           "title": "Elbaria – Novemberweekend 2026",

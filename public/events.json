@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T09:48:17.259Z",
+  "updatedAt": "2026-10-24T09:21:43.625Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17639",
-          "title": "MAQUINA. (PORT) + Feral",
-          "start": "2026-10-23T20:00:00+01:00",
-          "end": "2026-10-23T23:00:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=Uqs9EdpjMHY",
-          "url": "https://dbstudio.nl/event/maquina-port/",
-          "tags": [
-            "Krautrock",
-            "Techno"
-          ]
-        },
         {
           "id": "17705",
           "title": "Pim van de Werken & de Tijdgeest release party + Vampire Boyfriend + Rinze",
@@ -401,6 +388,20 @@
           "url": "https://dbstudio.nl/event/cora-kemperman-de-schuurmachines-release-party/",
           "tags": [
             "Concert"
+          ]
+        },
+        {
+          "id": "16800",
+          "title": "DŸSE (D)",
+          "start": "2026-12-02T20:00:00+01:00",
+          "end": "2026-12-02T23:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "//www.youtube.com/watch?v=t4q_m_EcdWQ",
+          "url": "https://dbstudio.nl/event/dyse-d/",
+          "tags": [
+            "Noise",
+            "Postrock",
+            "Punk"
           ]
         }
       ]
@@ -784,16 +785,6 @@
           "tags": []
         },
         {
-          "id": "29626",
-          "title": "Ontaard",
-          "start": "2026-10-23T19:30:00+01:00",
-          "end": "2026-10-23T22:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Ontaard is een Utrechts viertal dat spoken word en een overweldigende geluidsmuur samenweeft tot post-metal die je grijpt en niet meer loslaat. De teksten van Shira zijn feministisch en emotioneel geladen met woede, verdriet en de hoop dat een betere wereld mogelijk is. Na optredens op Roadburn en…",
-          "url": "https://ekko.nl/event/ontaard/",
-          "tags": []
-        },
-        {
           "id": "29878",
           "title": "Nectar Woode",
           "start": "2026-10-25T20:00:00+01:00",
@@ -891,16 +882,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Echoes from the Dungeon Fest III is het vervolg op de eerdere edities van het allereerste Fantasy &#038; Dungeon Synth-festival van Nederland. Verwacht een programma vol topartiesten uit het genre, een markt met merchandise van artiesten en labels, goed eten en drinken en meer. Mis deze kans niet…",
           "url": "https://ekko.nl/event/echoes-from-the-dungeon-fest-iii-2/",
-          "tags": []
-        },
-        {
-          "id": "31260",
-          "title": "Diep Indie Groef",
-          "start": "2026-10-23T23:30:00+01:00",
-          "end": "2026-10-24T03:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Deze vrijdag wordt Diep In De Groef eenmalig Diep Indie Groef . Nog steeds het muzikale alternatief op vrijdag, maar dan met oneindig veel indiebangers gebracht door Indie Gloria en Sam Heegstra . Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-233/",
           "tags": []
         },
         {
@@ -1093,26 +1074,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-kruidkoek-joost-oomen-support-tim-koehoorn-23-10-2026",
-          "title": "Kruidkoek & Joost Oomen + support Tim Koehoorn",
-          "start": "2026-10-23T20:00:00+01:00",
-          "end": "2026-10-23T22:30:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Poëzie meets jazzpunk in de meest literaire moshpit van het jaar",
-          "url": "https://dehelling.nl/agenda/kruidkoek-joost-oomen-support-tim-koehoorn-23-10-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-the-sun-23-10-2026",
-          "title": "The Sun",
-          "start": "2026-10-23T23:59:00+01:00",
-          "end": "2026-10-24T05:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "More than a reggaeton event, a fusion of music, energy, and culture.",
-          "url": "https://dehelling.nl/agenda/the-sun-23-10-2026/",
-          "tags": []
-        },
         {
           "id": "helling-joy-division-undercover-24-10-2026",
           "title": "Joy Division Undercover",
@@ -1719,7 +1680,7 @@
           "start": "2027-06-05T20:15:00+02:00",
           "end": "2027-06-05T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Euforische blend van indie en elektronica",
+          "description": "EUFORISCHE BLEND VAN INDIE EN ELEKTRONICA",
           "url": "https://dehelling.nl/agenda/quentyn-05-06-2027/",
           "tags": []
         },
@@ -1753,56 +1714,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "453295",
-          "title": "The Hu",
-          "start": "2026-10-23T20:00:00+02:00",
-          "end": "2026-10-23T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "The HU is een Mongoolse metalband die met traditionele boventoonzang en instrumenten als de morin khuur (paardenviool) een volstrekt eigen vorm van folkmetal maakt. In tegenstelling tot bij veel metalbands hebben de vier leden niet gestudeerd aan de universiteit van de straat, maar bezochten ze…",
-          "url": "https://www.podiuminfo.nl/concert/453295/The-Hu/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "456775",
-          "title": "IOS",
-          "start": "2026-10-23T20:00:00+02:00",
-          "end": "2026-10-23T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Na een pauze van ruim tien jaar is de Groningse band IOS definitief terug en klaar om Pandora in TivoliVredenburg op zijn grondvesten te laten trillen. Ooit scoorden ze in 1997, nog onder de naam IsOokSchitterend!, hun eerste hit 'Voltooid Verleden Tijd'. In de 'zeroes' kende de band een tweede…",
-          "url": "https://www.podiuminfo.nl/concert/456775/IOS/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452110",
-          "title": "Black Sea Dahu",
-          "start": "2026-10-23T20:30:00+02:00",
-          "end": "2026-10-23T21:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Black Sea Dahu is het indiefolkproject rondom de Zwitserse singer-songwriter Janine Cathrein. Muzikaal combineert het vijftal indiefolk met kamerpop en artrock, maar het is toch vooral de mysterieuze stem van Cathrein die de aandacht trekt: rauw en gevoelig tegelijk, een geluid dat rechtstreeks…",
-          "url": "https://www.podiuminfo.nl/concert/452110/Black-Sea-Dahu/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490956",
-          "title": "Park 6",
-          "start": "2026-10-23T22:30:00+02:00",
-          "end": "2026-10-23T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Park 6 is de gratis hangout in Utrecht, een plek waar bezoekers kunnen ontspannen en genieten van de weekendvibes. De ruimte biedt een gevarieerd aanbod aan entertainment, waaronder games, videokunst en muziek, aangevuld met speciaalbier en cocktails. Het is een geschikte locatie om na een show te…",
-          "url": "https://www.podiuminfo.nl/concert/490956/Park-6/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "494778",
-          "title": "Pop-O-Matic",
-          "start": "2026-10-23T23:30:00+02:00",
-          "end": "2026-10-24T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Tijdens Pop-O-Matic slingeren DJ St. Paul en VJ Switchdoctor stijlen, tijden en subculturen in de smeltpan en toveren ze Pandora om tot de meest veelzijdige dansvloer van UUU. Muzikaal is het altijd scherp en bovenop de trend. Charli XCX, KNEECAP, Tame Impala en Donna Summer zijn erbij, als…",
-          "url": "https://www.podiuminfo.nl/concert/494778/Pop-O-Matic/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "491805",
           "title": "Nataraj",
@@ -1962,9 +1873,98 @@
           "description": "De Canadese pianist en componist Jean-Michel Blais staat bekend om zijn unieke stijl, waarin neoklassiek, minimalisme en avant-garde samenkomen. Hoewel hij op jonge leeftijd werd toegelaten tot het conservatorium, koos Blais ervoor om zijn eigen artistieke pad te bewandelen na twee jaar de…",
           "url": "https://www.podiuminfo.nl/concert/498423/Jean-Michel-Blais/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "481337",
+          "title": "NKK NOW Zangroepen",
+          "start": "2026-10-28T16:00:00+01:00",
+          "end": "2026-10-28T18:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Met NKK NOW investeert het Nederlands Kamerkoor in de volgende generatie zangers, makers en luisteraars. Dit meerjarige programma biedt Utrechtse kinderen en jongeren van 9 tot 18 jaar de kans om samen te zingen, muziek te creëren en hun eigen stem te ontdekken. Samen zingen versterkt verbinding,…",
+          "url": "https://www.podiuminfo.nl/concert/481337/NKK-NOW-Zangroepen/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "453772",
+          "title": "Arlo Parks",
+          "start": "2026-10-28T20:00:00+01:00",
+          "end": "2026-10-28T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Engelse zangeres Arlo Parks, bekend van haar debuutalbum 'Collapsed In Sunbeams', brengt haar 'Desire Tour' naar de Ronda zaal. Haar muziek is een frisse mix van indiepop, soul en elektronica, verrijkt met haar warme, fluisterende stem. Geïnspireerd door artiesten als Radiohead en Joni Mitchell,…",
+          "url": "https://www.podiuminfo.nl/concert/453772/Arlo-Parks/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "469134",
+          "title": "Prize Collect + Coparck",
+          "start": "2026-10-28T20:00:00+01:00",
+          "end": "2026-10-28T22:00:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "In een bijzondere 'double bill' avond kruisen de wegen van Odilo Girod (Coparck) en Marzio Scholten (Prize Collect) elkaar in dB's Utrecht. Coparck, bekend om hun melodieuze, alternatieve pop die de Nederlandse indiescene in de eerste tien jaar van de 21e eeuw domineerde, keert terug met hun…",
+          "url": "https://www.podiuminfo.nl/concert/469134/Prize-Collect-Coparck/dBs/",
+          "tags": []
+        },
+        {
+          "id": "457441",
+          "title": "Kristin Hersh - An Evening with Kristin Hersh",
+          "start": "2026-10-28T20:30:00+01:00",
+          "end": "2026-10-28T22:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse zangeres en gitariste Kristin Hersh, een cult-icoon binnen de alternatieve rock, staat bekend om haar intense folk/alternatieve rockmuziek. Hoewel haar werk niet voor de hitparades is geschreven, scoorde ze in 1994 een Top 40-hit met het hypnotiserende 'Your Ghost', een duet met…",
+          "url": "https://www.podiuminfo.nl/concert/457441/Kristin-Hersh-An-Evening-with-Kristin-Hersh/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "463604",
+          "title": "Noah Guthrie",
+          "start": "2026-10-28T20:30:00+01:00",
+          "end": "2026-10-28T22:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Singer-songwriter en geboren entertainer Noah Guthrie komt naar Rotown! Op zondag 1 november staat de artiest uit South Carolina op ons podium. Veel mensen kennen Guthrie door zijn rol als Roderick Meeks in de Amerikaanse serie Glee, zijn virale covers op YouTube (zijn meest bekeken video heeft 28…",
+          "url": "https://www.podiuminfo.nl/concert/463604/Noah-Guthrie/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "423351",
+          "title": "The Meltdown",
+          "start": "2026-10-28T21:00:00+01:00",
+          "end": "2026-10-28T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Australische band The Meltdown neemt je mee terug naar de hoogtijdagen van de soul en rhythm & blues, of zoals ze het zelf omschrijven: Southern Soul from the great southern land. Grote troef van de band is de stem van zanger Simon Burke (zou hij soms familie zijn van Solomon?), die precies de…",
+          "url": "https://www.podiuminfo.nl/concert/423351/The-Meltdown/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "497808",
+          "title": "Rabo Open Stage: innermotion",
+          "start": "2026-10-28T22:15:00+01:00",
+          "end": "2026-10-29T00:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Dit evenement neemt het publiek mee in de producties van het elektronische duo innermotion. Het optreden verkent diverse subgenres binnen de elektronische muziek en dance, waaronder deep, melodische, breakbeat, uptempo en progressive klanken. De liveshow wordt begeleid door live vocalen en een…",
+          "url": "https://www.podiuminfo.nl/concert/497808/Rabo-Open-Stage-innermotion/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "453038",
+          "title": "Stu Larsen",
+          "start": "2026-10-29T20:00:00+01:00",
+          "end": "2026-10-29T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Australische singer-songwriter Stu Larsen is een troubadour zoals je ze zelden meer ziet: hij heeft geen vaste woonplaats en is al jaren op tour. Larsens muziek doet denken aan die van zijn Britse collega Passenger – niet zo vreemd, want Passenger produceerde Larsens debuutalbum Vagabond (2014).…",
+          "url": "https://www.podiuminfo.nl/concert/453038/Stu-Larsen/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "454693",
+          "title": "Rondé",
+          "start": "2026-10-29T20:00:00+01:00",
+          "end": "2026-10-29T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "RONDÉ heeft zich de laatste jaren ontwikkeld tot een indiepop-hitmachine: nummers als Hard to Say Goodbye, Love Myself, Break My Heart, Undecided en Bright Eyes werden allemaal toptienhits. Daarnaast maakte Rikki Borgelt veel indruk bij het tv-programma Beste Zangers met haar gepassioneerde…",
+          "url": "https://www.podiuminfo.nl/concert/454693/Ronde/TivoliVredenburg/",
+          "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "gietijzer",
@@ -2044,12 +2044,42 @@
           "tags": []
         },
         {
+          "id": "611840",
+          "title": "🧚‍♀️PFS2 Quest #19: The Elsewhere Feast (beginners friendy)🥂",
+          "start": "2026-11-04T19:00:00+01:00",
+          "end": "2026-11-04T22:00:00+01:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "🧚‍♀️PFS2 Quest #19: The Elsewhere Feast (beginners friendy)🥂 Wed 4/11 7-10pm at Subcultures @Silver Heron Studios English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by Mark Malcolm The enigmatic being known simply as the…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "611837",
           "title": "Pirate Borg - At World's End - CAMPAIGN FINALE @ Silver Heron 🐙 (3 tables!)",
           "start": "2026-11-04T19:00:00+01:00",
           "end": "2026-11-04T22:00:00+01:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Pirate Borg - At World's End - CAMPAIGN FINALE @ Silver Heron 🐙 (3 tables!) Wed 4/11 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum.…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "611838",
+          "title": "D&D 5.5e Shogunate Oneshot: Tumultous Tea Ceremony",
+          "start": "2026-11-18T19:00:00+01:00",
+          "end": "2026-11-18T22:00:00+01:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "D&amp;D 5.5e Shogunate Oneshot: Tumultous Tea Ceremony Wed 18/11 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Premise: You are attending a Tea Ceremony in the Southern Garden next to the Imperial Palace, which was recently rebuild by order of the Shogun after…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "611841",
+          "title": "🏜PFS2 Quest #17: Escorting a Mirage (beginners friendly)🌸",
+          "start": "2026-11-18T19:00:00+01:00",
+          "end": "2026-11-18T22:00:00+01:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "🏜PFS2 Quest #17: Escorting a Mirage (beginners friendly)🌸 Wed 18/11 7-10pm at Subcultures @Silver Heron Studios English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by Glen Parnell A down-on-his luck Aspis Agent, relegated…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         }
@@ -2891,16 +2921,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "78866",
-          "title": "Tim Burton’s Universe",
-          "start": "2026-10-23T20:00:00.000Z",
-          "end": "2026-10-23T23:00:00.000Z",
-          "location": "Apeldoorn, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78866",
-          "description": "Welcome to the fantastical worlds of Tim Burton! We invite you on a journey through the music that made them unforgettable.<BR><BR>From the shimmering wonder of Alice in Wonderland to the festive magic of The Nightmare Before Christmas, from the haunting lyricism of Edward Scissorhands to the eccent",
-          "tags": []
-        },
         {
           "id": "78867",
           "title": "Tim Burton’s Universe",
@@ -4729,16 +4749,6 @@
           "tags": []
         },
         {
-          "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2026-11",
-          "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
-          "start": "2026-11-22T10:00:00+01:00",
-          "end": "2026-11-22T18:00:00+01:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
-          "tags": []
-        },
-        {
           "id": "loevestein-oorlogsrecht-handboekbinden-2026-11",
           "title": "OORLOGSRECHT Handboekbinden. Te zien t/m",
           "start": "2026-11-22T10:00:00+01:00",
@@ -4746,6 +4756,16 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-handboekbinden/",
+          "tags": []
+        },
+        {
+          "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2026-11",
+          "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
+          "start": "2026-11-22T10:00:00+01:00",
+          "end": "2026-11-22T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
           "tags": []
         },
         {

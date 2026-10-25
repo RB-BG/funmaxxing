@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:21:43.625Z",
+  "updatedAt": "2026-10-25T09:38:51.683Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -555,16 +555,6 @@
           "tags": []
         },
         {
-          "id": "29905",
-          "title": "Static Dress",
-          "start": "2026-10-24T19:20:00+01:00",
-          "end": "2026-10-24T22:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Static Dress is een post-hardcoreband uit het Engelse Leeds die intense, riff-gedreven muziek combineert met emotionele en introspectieve teksten. Met invloeden van vroege 2000s-bands als Underoath en Alexisonfire creëren ze een geluid dat moeiteloos schakelt tussen agressieve sounds en melodische…",
-          "url": "https://ekko.nl/event/static-dress/",
-          "tags": []
-        },
-        {
           "id": "31434",
           "title": "The Cat Eye Cabaret: Hex Appeal",
           "start": "2026-10-31T20:00:00+01:00",
@@ -985,16 +975,6 @@
           "tags": []
         },
         {
-          "id": "31295",
-          "title": "Club Fataal",
-          "start": "2026-10-24T23:30:00+01:00",
-          "end": "2026-10-25T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Na meerdere uitverkochte edities van hun pop-up bar concept is Café Fataal klaar om de nacht over te nemen. Het terugkerende initiatief biedt lesbische queer personen in Utrecht een inclusieve, laagdrempelige en veilige(re) plek om elkaar te ontmoeten. Van een praatje aan de bar tot nieuwe…",
-          "url": "https://ekko.nl/event/club-fataal/",
-          "tags": []
-        },
-        {
           "id": "26600",
           "title": "KYTES",
           "start": "2027-02-13T20:00:00+01:00",
@@ -1074,26 +1054,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-joy-division-undercover-24-10-2026",
-          "title": "Joy Division Undercover",
-          "start": "2026-10-24T20:30:00+01:00",
-          "end": "2026-10-24T23:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Doorgewinterde muzikanten brengen een ode aan de pioniers van de new wave",
-          "url": "https://dehelling.nl/agenda/joy-division-undercover-24-10-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-tropenrooster-24-10-2026",
-          "title": "Tropenrooster",
-          "start": "2026-10-24T23:00:00+01:00",
-          "end": "2026-10-25T04:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "De heetste latin, dancehall en afro ",
-          "url": "https://dehelling.nl/agenda/tropenrooster-24-10-2026/",
-          "tags": []
-        },
         {
           "id": "helling-nasty-crawlspace-pintglass-premonition-30-10-2026",
           "title": "Nasty + Crawlspace + Pintglass + Premonition",
@@ -1715,66 +1675,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "491805",
-          "title": "Nataraj",
-          "start": "2026-10-24T19:30:00+02:00",
-          "end": "2026-10-24T20:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Na een zomerbreak keert Nataraj terug in TivoliVredenburg met een blote voetenfeest voor de vrije geest. De avond start met \"SPEEDFRIENDING 2.0\" onder leiding van Yos en Didi, een speelse manier om nieuwe mensen te ontmoeten door middel van de Kletscarrousel, In Touch bewegingsoefeningen en…",
-          "url": "https://www.podiuminfo.nl/concert/491805/Nataraj/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "462571",
-          "title": "Midnight Til Morning",
-          "start": "2026-10-24T20:00:00+02:00",
-          "end": "2026-10-24T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De jonge Amerikaans-Australische poprockband Midnight Til Morning onstond in 2024 bij de Netflix-muziekcompetitie Building The Band. De vier boys maakten indruk met hun gepassioneerde vertolkingen van onder meer Ocean Eyes (Billie Eilish), Iris (The Goo Goo Dolls) en Circles (Post Malone). Hoewel…",
-          "url": "https://www.podiuminfo.nl/concert/462571/Midnight-Til-Morning/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "474392",
-          "title": "Bilint Ibrahim",
-          "start": "2026-10-24T20:15:00+02:00",
-          "end": "2026-10-24T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Bilint Ibrahim is een Koerdische zanger wiens muziek troost zoekt en uitdeelt. Zijn liederen omvatten de grote thema’s van de Koerdische traditie: heimwee, verlies, liefde, trots en het verlangen naar vrijheid. De zanger brengt zijn boodschap zonder veel uiterlijk vertoon, met een stem die direct…",
-          "url": "https://www.podiuminfo.nl/concert/474392/Bilint-Ibrahim/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "492289",
-          "title": "Wegz",
-          "start": "2026-10-24T20:15:00+02:00",
-          "end": "2026-10-24T21:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Wegz, een van de meest invloedrijke stemmen in de hedendaagse Egyptische muziekscene, komt op 24 oktober naar Utrecht voor zijn eerste Europese live bandtour. Afkomstig uit Alexandrië, heeft Wegz zich ontpopt als een bepalende artiest voor een nieuwe generatie Arabische muziek, waarbij hij hiphop,…",
-          "url": "https://www.podiuminfo.nl/concert/492289/Wegz/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490957",
-          "title": "Park 6",
-          "start": "2026-10-24T22:30:00+02:00",
-          "end": "2026-10-24T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Park 6 biedt een gratis ontmoetingsplek in Utrecht, ideaal om te ontspannen en te genieten van het weekend. De ruimte combineert games, videokunst en muziek met een aanbod van speciaalbier en cocktails. Het is een veelzijdige plek, perfect om na een voorstelling te vertoeven, je voor te bereiden op…",
-          "url": "https://www.podiuminfo.nl/concert/490957/Park-6/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "491383",
-          "title": "Disco Arabesquo",
-          "start": "2026-10-24T23:30:00+02:00",
-          "end": "2026-10-25T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Disco Arabesquo Night keert terug in Utrecht. Ze nemen je mee op een reis door de Arabische muziek van de jaren '90, '00 en nu, met geluiden uit het Midden-Oosten en Noord-Afrika. Je hoort de stemmen van iconische artiesten zoals Fairuz, Mohamed Mounir, Haife Wahbe, Cheb Khaled, Nancy Ajram, Amr…",
-          "url": "https://www.podiuminfo.nl/concert/491383/Disco-Arabesquo/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "481980",
           "title": "Mooren / Watson / Kay / Irons",
           "start": "2026-10-25T15:00:00+01:00",
@@ -1962,6 +1862,56 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "RONDÉ heeft zich de laatste jaren ontwikkeld tot een indiepop-hitmachine: nummers als Hard to Say Goodbye, Love Myself, Break My Heart, Undecided en Bright Eyes werden allemaal toptienhits. Daarnaast maakte Rikki Borgelt veel indruk bij het tv-programma Beste Zangers met haar gepassioneerde…",
           "url": "https://www.podiuminfo.nl/concert/454693/Ronde/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "498325",
+          "title": "ULTRAJAZZ x TivoliVredenburg",
+          "start": "2026-10-29T21:00:00+01:00",
+          "end": "2026-10-29T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Op de donderdagavonden van de Rabo Open Stage in TivoliVredenburg staan jazz, talentontwikkeling en muzikale ontmoeting centraal onder de vlag van ULTRAJAZZ. Kika Sprangers en Bob Roos organiseren om de week bruisende jamsessies, die telkens beginnen met een krachtige openingsset van een uur.…",
+          "url": "https://www.podiuminfo.nl/concert/498325/ULTRAJAZZ-x-TivoliVredenburg/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "489751",
+          "title": "Discozwemmen",
+          "start": "2026-10-29T23:55:00+01:00",
+          "end": "2026-10-30T01:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Discozwemmen is het maandelijkse studentenfeest in Utrecht, waar bezoekers worden uitgenodigd om zich onder te dompelen in een avond vol diverse muziekstijlen. Dit evenement transformeert TivoliVredenburg's Ronda zaal in een dynamische dansvloer waar pop, dance en hiphop naadloos in elkaar…",
+          "url": "https://www.podiuminfo.nl/concert/489751/Discozwemmen/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "488564",
+          "title": "ICONIC - Queer Pop Party: Queer Halloween editie",
+          "start": "2026-10-30",
+          "end": "2026-10-30T03:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "ICONIC viert haar vierde verjaardag met een Queer Halloween editie, waarbij €0,50 per verkocht ticket gedoneerd wordt aan Trans Utrecht & Beyond. Bezoekers worden uitgenodigd om 'all-out' te gaan met hun looks voor een nacht vol queer pop, chaos en plezier. Deejays Vera Siemons en Liza van den…",
+          "url": "https://www.podiuminfo.nl/concert/488564/ICONIC-Queer-Pop-Party-Queer-Halloween-editie/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "451354",
+          "title": "Marko Hietala",
+          "start": "2026-10-30T20:00:00+01:00",
+          "end": "2026-10-30T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Finse rocker Marko Hietala is de voormalige bassist van de symfonische metalband Nightwish – in 2024 stond hij nog in onze Ronda met ex-Nightwish-frontvrouw Tarja Turunen. Deze tour doet Hietala op eigen kracht, en kracht heeft hij genoeg, zoals blijkt op zijn tweede soloalbum Roses From The…",
+          "url": "https://www.podiuminfo.nl/concert/451354/Marko-Hietala/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "464965",
+          "title": "Fat Dog",
+          "start": "2026-10-30T20:00:00+01:00",
+          "end": "2026-10-30T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Engelse band Fat Dog zette zichzelf in 2022 op de kaart met wilde liveshows, precies passend bij hun explosieve mengsel van post-punk, elektronica, rave, klezmer en techno. Dat de bandleden doen waar ze zin in hebben, blijkt ook uit de lengte van hun debuutsingle King Of The Slugs (2023): zeven…",
+          "url": "https://www.podiuminfo.nl/concert/464965/Fat-Dog/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2323,23 +2273,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-de-betonnerie-tweedekansmarkt-12",
-          "title": "De Betonnerie – tweedekansmarkt",
-          "start": "2026-10-25T00:00:00+01:00",
-          "end": "2026-10-25T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/de-betonnerie-tweedekansmarkt-12/",
-          "tags": [
-            "Eten / Drinken",
-            "Gratis",
-            "Markt",
-            "Muziek",
-            "Studio-T",
-            "Terras"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-22",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-10-26T00:00:00+01:00",
@@ -2433,6 +2366,19 @@
             "Gratis",
             "Workshop",
             "Kantine"
+          ]
+        },
+        {
+          "id": "beton-sustainable-fashion-workshop-de-creatiehallen-2",
+          "title": "Sustainable Fashion Workshop – De Creatiehallen",
+          "start": "2026-10-29T00:00:00+01:00",
+          "end": "2026-10-29T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/sustainable-fashion-workshop-de-creatiehallen-2/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
           ]
         }
       ]
@@ -2545,20 +2491,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001516-1792882800-1792908000",
-          "title": "BASIS/ Ben Techy/ Brtinzz/ Nikki/ Remon Verhoeve",
-          "start": "2026-10-24T23:00:00+01:00",
-          "end": "2026-10-25T06:00:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-ben-techy-brtinzz-nikki-remon-verhoeve/",
-          "tags": [
-            "Hardgroove",
-            "Hardtechno",
-            "Schranz"
-          ]
-        },
         {
           "id": "basis-utrecht-10001511-1793404740-1793426400",
           "title": "BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser",
@@ -2921,46 +2853,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "78867",
-          "title": "Tim Burton’s Universe",
-          "start": "2026-10-24T20:00:00.000Z",
-          "end": "2026-10-24T23:00:00.000Z",
-          "location": "Delft, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78867",
-          "description": "Welcome to the fantastical worlds of Tim Burton! We invite you on a journey through the music that made them unforgettable.<BR><BR>From the shimmering wonder of Alice in Wonderland to the festive magic of The Nightmare Before Christmas, from the haunting lyricism of Edward Scissorhands to the eccent",
-          "tags": []
-        },
-        {
-          "id": "78868",
-          "title": "Tim Burton’s Universe",
-          "start": "2026-10-24T20:00:00.000Z",
-          "end": "2026-10-24T23:00:00.000Z",
-          "location": "Leiden, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78868",
-          "description": "Welcome to the fantastical worlds of Tim Burton! We invite you on a journey through the music that made them unforgettable.<BR><BR>From the shimmering wonder of Alice in Wonderland to the festive magic of The Nightmare Before Christmas, from the haunting lyricism of Edward Scissorhands to the eccent",
-          "tags": []
-        },
-        {
-          "id": "79689",
-          "title": "Needle Drop - Film Music from John Williams",
-          "start": "2026-10-24T20:00:00.000Z",
-          "end": "2026-10-24T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=79689",
-          "description": "Experience the iconic film music of John Williams, featuring unforgettable themes from Star Wars, Harry Potter, Jurassic Park and more.<BR><BR>Set in the historic Singelkerk&mdash;a hidden church in Amsterdam’s canal district&mdash;this unique concert brings the magic of these legendary soundt",
-          "tags": []
-        },
-        {
-          "id": "79902",
-          "title": "Candlelight: Tribute to Hans Zimmer",
-          "start": "2026-10-24T20:00:00.000Z",
-          "end": "2026-10-24T23:00:00.000Z",
-          "location": "Arnhem, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=79902",
-          "description": "Candlelight Concerts brings the magic of live music by candlelight to wondrous locations in Musis. Let yourself be surrounded by thousands of sparkling candles and enjoy an unforgettable evening full of atmosphere and music.<BR><BR>Plan<BR>    Time – Inception<BR>    This Land – The Lion",
-          "tags": []
-        },
         {
           "id": "77459",
           "title": "From Taco to Tango – with Bram van Sambeek",
@@ -4589,26 +4481,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-prikkelarme-openstelling-4-2026",
-          "title": "Prikkelarme openstelling 24 okt",
-          "start": "2026-10-24T10:00:00+01:00",
-          "end": "2026-10-24T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/prikkelarme-openstelling-4/",
-          "tags": []
-        },
-        {
-          "id": "muiderslot-historische-proeverij-24-okt-2026-2026",
-          "title": "Historische proeverij 24 okt 2026",
-          "start": "2026-10-24T10:00:00+01:00",
-          "end": "2026-10-24T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-24-okt-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-familietheater-vleugels-2026",
           "title": "Familietheater: Vleugels",
           "start": "2026-11-01T10:00:00+01:00",
@@ -4669,16 +4541,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-kerstvakantie-in-het-kasteelatelier-2026",
-          "title": "Kerstvakantie in het Kasteelatelier",
-          "start": "2026-12-19T10:00:00+01:00",
-          "end": "2027-01-03T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/kerstvakantie-in-het-kasteelatelier/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-winterse-rondleiding-2026",
           "title": "Winterse rondleiding",
           "start": "2026-12-19T10:00:00+01:00",
@@ -4686,6 +4548,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/winterse-rondleiding/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-kerstvakantie-in-het-kasteelatelier-2026",
+          "title": "Kerstvakantie in het Kasteelatelier",
+          "start": "2026-12-19T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/kerstvakantie-in-het-kasteelatelier/",
           "tags": []
         },
         {
@@ -5873,17 +5745,6 @@
           "country": "Germany",
           "description": "Buhurt-toernooi in Germany.",
           "url": "https://www.buhurtinternational.com/tournament/st.-georgen-cup-2.0",
-          "tags": []
-        },
-        {
-          "id": "bi-niederösterreichische-landesmeisterschaft-2026",
-          "title": "Niederösterreichische Landesmeisterschaft 2026",
-          "start": "2026-10-25T00:00:00+01:00",
-          "end": "2026-10-25T23:00:00+01:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/niederösterreichische-landesmeisterschaft-2026",
           "tags": []
         },
         {

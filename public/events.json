@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T10:51:07.952Z",
+  "updatedAt": "2026-10-27T10:16:50.438Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -414,6 +414,26 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "32146",
+          "title": "Lagos in NL",
+          "start": "2026-12-12T23:30:00+01:00",
+          "end": "2026-12-13T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De afrobeats-sound, gedragen door internationale supersterren als Burna Boy, Rema en Wizkid (just to name a few) is niet meer weg te denken uit hitlijsten en clubs. Op 12 december brengt Lagos in NL opnieuw een onversneden afrobeats-ervaring naar EKKO. Om de unieke sfeer van Nigeriaanse…",
+          "url": "https://ekko.nl/event/lagos-in-nl-dec-2026/",
+          "tags": []
+        },
+        {
+          "id": "30224",
+          "title": "Grace Cummings",
+          "start": "2026-11-19T20:00:00+01:00",
+          "end": "2026-11-19T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Grace Cummings maakt als singer-songwriter muziek die even rauw als meeslepend klinkt. De Australische zangeres staat bekend om haar diepe, onmiskenbare stem en intense nummers waarin kwetsbaarheid en kracht samenkomen. Op haar nieuwe album ‘Bloodhorse!’ verruilt ze de kampvuurintimiteit van…",
+          "url": "https://ekko.nl/event/grace-cummings/",
+          "tags": []
+        },
+        {
           "id": "32171",
           "title": "Meltheads",
           "start": "2027-03-04T20:00:00+01:00",
@@ -701,16 +721,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Met zijn mix van eerlijke teksten en aanstekelijke producties groeit mustbejohn uit tot een van de opvallendste onafhankelijke artiesten uit het Verenigd Koninkrijk. Geïnspireerd door artiesten als The Streets, Gorillaz en Arctic Monkeys beweegt zijn muziek zich tussen indie, hiphop en…",
           "url": "https://ekko.nl/event/mustbejohn/",
-          "tags": []
-        },
-        {
-          "id": "30224",
-          "title": "Grace Cummings",
-          "start": "2026-11-19T20:00:00+01:00",
-          "end": "2026-11-19T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Grace Cummings maakt als singer-songwriter muziek die even rauw als meeslepend klinkt. De Australische zangeres staat bekend om haar diepe, onmiskenbare stem en intense nummers waarin kwetsbaarheid en kracht samenkomen. Op haar nieuwe album ‘Bloodhorse!’ verruilt ze de kampvuurintimiteit van…",
-          "url": "https://ekko.nl/event/grace-cummings/",
           "tags": []
         },
         {
@@ -1086,7 +1096,7 @@
         {
           "id": "helling-momentum-iii-potochkine-vioflesh-silent-runners-01-11-2026",
           "title": "Momentum III – Potochkine + Vioflesh + Silent Runners",
-          "start": "2026-11-01T15:45:00+01:00",
+          "start": "2026-11-01T15:30:00+01:00",
           "end": "2026-11-01T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Mini new wave/postpunkfestival met o.a. Potochkine, Vioflesh en Dear Omen",
@@ -1106,8 +1116,8 @@
         {
           "id": "helling-le-guess-who-2026-06-11-2026",
           "title": "Le Guess Who? 2026",
-          "start": "2026-11-06T10:00:00+01:00",
-          "end": "2026-11-07T00:00:00+01:00",
+          "start": "2026-11-06T18:00:00+01:00",
+          "end": "2026-11-08T02:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "20e jubileumeditie - vrijdag",
           "url": "https://dehelling.nl/agenda/le-guess-who-2026-06-11-2026/",
@@ -1116,8 +1126,8 @@
         {
           "id": "helling-le-guess-who-2026-07-11-2026",
           "title": "Le Guess Who? 2026",
-          "start": "2026-11-07T10:00:00+01:00",
-          "end": "2026-11-08T00:00:00+01:00",
+          "start": "2026-11-07T15:30:00+01:00",
+          "end": "2026-11-08T22:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "20e jubileumeditie - zaterdag",
           "url": "https://dehelling.nl/agenda/le-guess-who-2026-07-11-2026/",
@@ -1291,6 +1301,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Ongegeneerd losgaan op de beste 90's eurodance hits en club bangers",
           "url": "https://dehelling.nl/agenda/10eurodance-28-11-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-metal-sunday-29-11-2026",
+          "title": "Metal Sunday",
+          "start": "2026-11-29T13:30:00+01:00",
+          "end": "2026-11-29T18:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Heavy muziek en koud bier op de zondagmiddag in het café van De Helling",
+          "url": "https://dehelling.nl/agenda/metal-sunday-29-11-2026/",
           "tags": []
         },
         {
@@ -1664,36 +1684,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "446174",
-          "title": "Paul Carrack",
-          "start": "2026-10-26T20:00:00+01:00",
-          "end": "2026-10-26T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Carrack is al decennialang een boegbeeld van soulvolle pop en scoorde wereldhits met groepen als Squeeze, Ace en Mike + The Mechanics. Daarnaast bouwde hij een succesvolle solocarrière op met de klassiekers I Need You en Don’t Shed a Tear. Hij heeft met wereldartiesten gespeeld zoals Eric Clapton,…",
-          "url": "https://www.podiuminfo.nl/concert/446174/Paul-Carrack/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "472390",
-          "title": "Son Lux",
-          "start": "2026-10-26T20:00:00+01:00",
-          "end": "2026-10-26T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse band Son Lux combineert elektronica, post-rock en een flinke dosis experimenteerdrift tot een uniek geluid. De band, die in 2008 begon als soloproject van Ryan Lott en in 2014 uitgroeide tot een trio, wordt vaak gezien als een geluidslaboratorium waarin muziek tot op de molecuul…",
-          "url": "https://www.podiuminfo.nl/concert/472390/Son-Lux/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "476456",
-          "title": "Cee Lo Green",
-          "start": "2026-10-26T20:30:00+01:00",
-          "end": "2026-10-26T22:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het Amerikaanse fenomeen CeeLo Green is behalve soulzanger ook songschrijver, zakenman, tv-persoonlijkheid (onder meer in The Voice) en mode-icoon. Onder de naam Gnarls Barkley (een samenwerking met producer Danger Mouse) maakte hij het nummer Crazy (2006), een van de grootste hits van de zeroes.…",
-          "url": "https://www.podiuminfo.nl/concert/476456/Cee-Lo-Green/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "448708",
           "title": "Clawfinger",
           "start": "2026-10-27T20:00:00+01:00",
@@ -1902,6 +1892,36 @@
           "description": "De Britse singer-songwriter Dan Owen staat bekend om zijn rauwe, doorleefde stem en bluesdoordrenkte poprock die rechtstreeks uit de ziel lijkt te komen. Al op jonge leeftijd ontdekte hij de gitaar, aanvankelijk spelend met zijn zus op lokale open-mic-avonden in Shropshire, voordat hij solo…",
           "url": "https://www.podiuminfo.nl/concert/453515/Dan-Owen/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "490958",
+          "title": "Park 6",
+          "start": "2026-10-30T22:30:00+01:00",
+          "end": "2026-10-31T00:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Park 6 is een gratis sociale hangout in TivoliVredenburg, ideaal om de werkweek af te sluiten of op te warmen voor een clubnight. Bezoekers kunnen hier genieten van goede muziek, videokunst en diverse spellen zoals tafeltennis. Met een ruime selectie aan speciaalbier en cocktails biedt het…",
+          "url": "https://www.podiuminfo.nl/concert/490958/Park-6/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "451075",
+          "title": "Dotan",
+          "start": "2026-10-31T20:00:00+01:00",
+          "end": "2026-10-31T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Nederlandse singer-songwriter Dotan brak in 2014 door met de hit Home, afkomstig van zijn tweede album 7 Layers. Een nummer met een lange adem: in 2024 kwam Home op 1 in de Canadese iTunes Top 100 nadat Dotan had opgetreden in een Canadese tv-show. De singer-songwriter meldt dat zijn volgende…",
+          "url": "https://www.podiuminfo.nl/concert/451075/Dotan/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "451617",
+          "title": "Bill Frisell With Luke Bergman And Tim Angulo",
+          "start": "2026-10-31T20:00:00+01:00",
+          "end": "2026-10-31T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Met zijn gitaar genereert Bill Frisell een geluid dat onmiskenbaar van hem is. De Amerikaanse jazz-pionier staat bekend om zijn atmosferische speelstijl waarin folk, country, blues en avantgarde samensmelten. Met subtiele delays, warme akkoorden en een onnavolgbare touch creëert hij…",
+          "url": "https://www.podiuminfo.nl/concert/451617/Bill-Frisell-With-Luke-Bergman-And-Tim-Angulo/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1959,16 +1979,6 @@
           "end": "2026-10-28T22:00:00+01:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Mothership 1e VIBECHETE Wed 28/10 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate dangerous…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "609424",
-          "title": "Campagne: Koning van de Krotten",
-          "start": "2026-10-28T19:00:00+01:00",
-          "end": "2026-10-28T22:00:00+01:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Campagne: Koning van de Krotten Wed 28/10 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2326,20 +2336,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-annes-werkplaats-workshop-jack-o-lantern",
-          "title": "Annes Werkplaats: Workshop Jack-O’-Lantern",
-          "start": "2026-10-27T00:00:00+01:00",
-          "end": "2026-10-27T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/annes-werkplaats-workshop-jack-o-lantern/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-sustainable-fashion-workshop-de-creatiehallen-2",
           "title": "Sustainable Fashion Workshop – De Creatiehallen",
           "start": "2026-10-29T00:00:00+01:00",
@@ -2362,6 +2358,18 @@
           "url": "https://www.vechtclub.nl/agenda/radio-2b-2/",
           "tags": [
             "Muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-lan-tine-among-us",
+          "title": "LAN-tine: Among Us",
+          "start": "2026-10-29T00:00:00+01:00",
+          "end": "2026-10-29T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lan-tine-among-us/",
+          "tags": [
             "Kantine"
           ]
         },
@@ -2391,6 +2399,74 @@
           "tags": [
             "Muziek",
             "Kantine"
+          ]
+        },
+        {
+          "id": "beton-charlie-reads-the-work-of-2",
+          "title": "Charlie reads the work of…",
+          "start": "2026-10-31T00:00:00+01:00",
+          "end": "2026-10-31T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/charlie-reads-the-work-of-2/",
+          "tags": [
+            "Gratis",
+            "Kunst",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-gentle-yoga-4",
+          "title": "Gentle Yoga",
+          "start": "2026-11-01T00:00:00+01:00",
+          "end": "2026-11-01T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/gentle-yoga-4/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-loopleaf-workshop",
+          "title": "Loop & Leaf: the basics of knitting",
+          "start": "2026-11-01T00:00:00+01:00",
+          "end": "2026-11-01T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/loopleaf-workshop/",
+          "tags": [
+            "Workshop",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-23",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-11-02T00:00:00+01:00",
+          "end": "2026-11-02T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-23/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-43",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-11-02T00:00:00+01:00",
+          "end": "2026-11-02T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-43/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
           ]
         }
       ]
@@ -2767,7 +2843,7 @@
       "events": [
         {
           "id": "soia-soia-koningsdag",
-          "title": "SOIA koningsdag",
+          "title": "Soia koningsdag",
           "start": "2027-04-27T14:00:00+02:00",
           "end": "2027-04-27T21:00:00.000Z",
           "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
@@ -2865,16 +2941,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "76700",
-          "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-10-26T20:00:00.000Z",
-          "end": "2026-10-26T23:00:00.000Z",
-          "location": "Den Haag (The Hague), Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76700",
-          "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
-          "tags": []
-        },
         {
           "id": "75862",
           "title": "An Orchestral Tribute to Tim Burton & Dark Fantasy by Moonlight",
@@ -4404,6 +4470,16 @@
           "description": "The shire of Polderslot invites you to Drachenwald’s Twelfth Night Coronation. Come join us as we celebrate the Coronation of the next Majesties to sit on the Black Dragon Thrones.",
           "url": "https://coronation2027.polderslot.info/",
           "tags": []
+        },
+        {
+          "id": "sca-polderslot/26-feb-2027/the-wurst-of-times-cut-and-cure",
+          "title": "The Wurst of Times : Cut and Cure",
+          "start": "2027-02-26T12:00:00+01:00",
+          "end": "2027-02-28T23:00:00+01:00",
+          "location": "Hoorn, Hoorn, North Holland",
+          "description": "The Wurst of Times is a small 15 person A&S event focusing on butchery, preservation and sausage making skills, with hands on training from a professional butcher.",
+          "url": "https://polderslot.info/agenda/#/polderslot/26-feb-2027/the-wurst-of-times-cut-and-cure",
+          "tags": []
         }
       ]
     },
@@ -4613,6 +4689,16 @@
           "tags": []
         },
         {
+          "id": "loevestein-kerstvakantie-2026-12",
+          "title": "Kerstvakantie",
+          "start": "2026-12-19T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Slot Loevestein, Poederooijen",
+          "description": "",
+          "url": "https://www.slotloevestein.nl/agenda/kerstvakantie/",
+          "tags": []
+        },
+        {
           "id": "loevestein-oorlogsrecht-handboekbinden-2026-11",
           "title": "OORLOGSRECHT Handboekbinden. Te zien t/m",
           "start": "2026-11-22T10:00:00+01:00",
@@ -4630,16 +4716,6 @@
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
           "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
-          "tags": []
-        },
-        {
-          "id": "loevestein-kerstvakantie-2026-12",
-          "title": "Kerstvakantie",
-          "start": "2026-12-19T10:00:00+01:00",
-          "end": "2027-01-03T18:00:00+01:00",
-          "location": "Slot Loevestein, Poederooijen",
-          "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/kerstvakantie/",
           "tags": []
         },
         {
@@ -5706,6 +5782,17 @@
       "scene": "buhurt",
       "feedUrl": "https://www.buhurtinternational.com/tournaments",
       "events": [
+        {
+          "id": "bi-swaiut-toringi-cup-2027",
+          "title": "Swaiut Toringi Cup 2027",
+          "start": "2027-04-24T00:00:00+02:00",
+          "end": "2027-04-24T23:00:00+02:00",
+          "location": "Germany",
+          "country": "Germany",
+          "description": "Buhurt-toernooi in Germany.",
+          "url": "https://www.buhurtinternational.com/tournament/swaiut-toringi-cup-2027",
+          "tags": []
+        },
         {
           "id": "bi-grenzwacht-cup-ehrenberg-ehrenberger-turniertage-2027",
           "title": "emld 21/10 Grenzwacht-Cup Ehrenberg - Ehrenberger Turniertage 2027",

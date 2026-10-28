@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:16:50.438Z",
+  "updatedAt": "2026-10-28T11:07:58.712Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -273,11 +273,11 @@
         },
         {
           "id": "17767",
-          "title": "OMAR DOOM (USA) + VONDER",
+          "title": "Wave Invasion presents OMAR DOOM (USA) + Hollow Reflection + DJ Donkerzwart (Dance in the Underdark)",
           "start": "2026-11-20T20:00:00+01:00",
           "end": "2026-11-20T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=2mfnqAmBs-4 \n  \n  \n  \nVonder – bleeding (official visual)",
+          "description": "//www.youtube.com/watch?v=e0S_XXYenZ8",
           "url": "https://dbstudio.nl/event/omar-doom-usa/",
           "tags": [
             "Concert",
@@ -301,8 +301,8 @@
         },
         {
           "id": "17788",
-          "title": "LORDS OF ALTAMONT + Sick Shooters",
-          "start": "2026-11-22T20:00:00+01:00",
+          "title": "LORDS OF ALTAMONT + Sick Shooters + Tineke",
+          "start": "2026-11-22T19:30:00+01:00",
           "end": "2026-11-22T22:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
           "description": "//www.youtube.com/watch?v=3Z18suB4nas",
@@ -352,7 +352,7 @@
         },
         {
           "id": "17942",
-          "title": "ZALZALA FEST feat. TAQBIR",
+          "title": "ZALZALA FEST feat. TAQBIR + Defacement + Snake Eater + Resist + Flyssa + Bottled Violence",
           "start": "2026-11-28T14:00:00+01:00",
           "end": "2026-11-28T23:00:00+01:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
@@ -378,11 +378,11 @@
         },
         {
           "id": "16800",
-          "title": "DŸSE (D)",
+          "title": "DŸSE (D) + Jättebra",
           "start": "2026-12-02T20:00:00+01:00",
-          "end": "2026-12-02T23:30:00+01:00",
+          "end": "2026-12-02T23:00:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=t4q_m_EcdWQ",
+          "description": "//www.youtube.com/watch?v=fZ3fIMuz7gw",
           "url": "https://dbstudio.nl/event/dyse-d/",
           "tags": [
             "Noise",
@@ -413,6 +413,66 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "31770",
+          "title": "Haunted Housewarming",
+          "start": "2026-10-31T23:30:00+01:00",
+          "end": "2026-11-01T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "HOUSEWARMING – Waar house wél betaalbaar is Stap binnen bij de halloween editie van (haunted) Housewarming! De nacht waar de dansvloer voelt als een warme woonkamer, maar dit keer met een vleugje duisternis. Een woonkamer waar housemuziek de basis is en warme klanken het mubilair. Verwacht een…",
+          "url": "https://ekko.nl/event/haunted-housewarming-2026/",
+          "tags": []
+        },
+        {
+          "id": "30902",
+          "title": "Antony Szmierek",
+          "start": "2026-11-01T20:00:00+01:00",
+          "end": "2026-11-01T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De uiterst charmante Brit Antony Szmierek wint overal waar hij gaat zieltjes. Met zijn aanstekelijke mix van spoken word, house, indie en rave zorgt hij voor euforische hoogtepunten op festivals en podia wereldwijd. Op zijn debuutalbum ‘Service Station at the End of the Universe’ liet Antony horen…",
+          "url": "https://ekko.nl/event/antony-szmierek-1/",
+          "tags": []
+        },
+        {
+          "id": "31451",
+          "title": "Clubnacht met punk x Girls To The Front",
+          "start": "2026-10-30T23:00:00+01:00",
+          "end": "2026-10-31T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "We duiken de nacht in met alles wat schuurt, kraakt en stuitert. Clubnacht met punk is een clubnacht met punk van alle soorten en maten: van egg punk, hardcore punk en garage punk tot postpunk. Voor deze editie van Clubnacht met punk slaan we de handen ineen met Girls to the Front, een collectief…",
+          "url": "https://ekko.nl/event/clubnacht-met-punk-x-girls-to-the-front/",
+          "tags": []
+        },
+        {
+          "id": "31322",
+          "title": "Nervous Breakdown Volume 2",
+          "start": "2026-10-30T19:30:00+01:00",
+          "end": "2026-10-30T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Heel veel hardcore punk in EKKO! Het genre heeft een frisse heropleving gekregen en er zijn genoeg Nederlandse acts die deze rauwe, energieke sound als geen ander weten te vangen. Nervous Breakdown is terug voor Volume 2, met opnieuw een avond vol felle riffs, razende drums en oprechte chaos. Dus…",
+          "url": "https://ekko.nl/event/nervous-breakdown-2/",
+          "tags": []
+        },
+        {
+          "id": "29547",
+          "title": "The Guest List",
+          "start": "2026-10-29T20:00:00+01:00",
+          "end": "2026-10-29T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "The Guest List is een aanstormende band uit Manchester, bestaande uit vijf schoolvrienden die elkaar vonden in een gedeelde liefde voor The Strokes. Met hun indierocknummers bouwden ze in korte tijd een fervent publiek op, aangedreven door het emotionele en maatschappelijk bewuste schrijven van…",
+          "url": "https://ekko.nl/event/the-guest-list/",
+          "tags": []
+        },
+        {
+          "id": "30257",
+          "title": "bby",
+          "start": "2026-10-28T20:00:00+01:00",
+          "end": "2026-10-28T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het Londense vijftal bby combineert aanstekelijke alternatieve indie met invloeden uit folk en elektronica. De band geeft vaak DIY-optredens in hun hoofdkwartier in Oost-Londen, waarbij ze rauwe, energieke shows geven die doen denken aan de chaos van klassieke punkconcerten op huisfeesten. Met hun…",
+          "url": "https://ekko.nl/event/bby/",
+          "tags": []
+        },
         {
           "id": "32146",
           "title": "Lagos in NL",
@@ -764,36 +824,6 @@
           "tags": []
         },
         {
-          "id": "31322",
-          "title": "Nervous Breakdown Volume 2",
-          "start": "2026-10-30T19:30:00+01:00",
-          "end": "2026-10-30T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Heel veel hardcore punk in EKKO! Het genre heeft een frisse heropleving gekregen en er zijn genoeg Nederlandse acts die deze rauwe, energieke sound als geen ander weten te vangen. Nervous Breakdown is terug voor Volume 2, met opnieuw een avond vol felle riffs, razende drums en oprechte chaos. Dus…",
-          "url": "https://ekko.nl/event/nervous-breakdown-2/",
-          "tags": []
-        },
-        {
-          "id": "30257",
-          "title": "bby",
-          "start": "2026-10-28T20:00:00+01:00",
-          "end": "2026-10-28T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het Londense vijftal bby combineert aanstekelijke alternatieve indie met invloeden uit folk en elektronica. De band geeft vaak DIY-optredens in hun hoofdkwartier in Oost-Londen, waarbij ze rauwe, energieke shows geven die doen denken aan de chaos van klassieke punkconcerten op huisfeesten. Met hun…",
-          "url": "https://ekko.nl/event/bby/",
-          "tags": []
-        },
-        {
-          "id": "29547",
-          "title": "The Guest List",
-          "start": "2026-10-29T20:00:00+01:00",
-          "end": "2026-10-29T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "The Guest List is een aanstormende band uit Manchester, bestaande uit vijf schoolvrienden die elkaar vonden in een gedeelde liefde voor The Strokes. Met hun indierocknummers bouwden ze in korte tijd een fervent publiek op, aangedreven door het emotionele en maatschappelijk bewuste schrijven van…",
-          "url": "https://ekko.nl/event/the-guest-list/",
-          "tags": []
-        },
-        {
           "id": "31670",
           "title": "Spinvis",
           "start": "2026-11-18T21:00:00+01:00",
@@ -821,16 +851,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De Britse singer-songwriter Charlie Cunningham maakt subtiele, meeslepende folkpop waarin melancholie en ritme moeiteloos samenkomen. Zijn verfijnde gitaarspel, warme pianoklanken en kwetsbare melodieën brachten hem van bars in Oxford naar uitverkochte zalen door heel Europa. In 2027 viert…",
           "url": "https://ekko.nl/event/charlie-cunningham/",
-          "tags": []
-        },
-        {
-          "id": "30902",
-          "title": "Antony Szmierek",
-          "start": "2026-11-01T20:00:00+01:00",
-          "end": "2026-11-01T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De uiterst charmante Brit Antony Szmierek wint overal waar hij gaat zieltjes. Met zijn aanstekelijke mix van spoken word, house, indie en rave zorgt hij voor euforische hoogtepunten op festivals en podia wereldwijd. Op zijn debuutalbum ‘Service Station at the End of the Universe’ liet Antony horen…",
-          "url": "https://ekko.nl/event/antony-szmierek-1/",
           "tags": []
         },
         {
@@ -871,16 +891,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Echoes from the Dungeon Fest III is het vervolg op de eerdere edities van het allereerste Fantasy &#038; Dungeon Synth-festival van Nederland. Verwacht een programma vol topartiesten uit het genre, een markt met merchandise van artiesten en labels, goed eten en drinken en meer. Mis deze kans niet…",
           "url": "https://ekko.nl/event/echoes-from-the-dungeon-fest-iii-2/",
-          "tags": []
-        },
-        {
-          "id": "31770",
-          "title": "Haunted Housewarming",
-          "start": "2026-10-31T23:30:00+01:00",
-          "end": "2026-11-01T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "HOUSEWARMING – Waar house wél betaalbaar is Stap binnen bij de halloween editie van (haunted) Housewarming! De nacht waar de dansvloer voelt als een warme woonkamer, maar dit keer met een vleugje duisternis. Een woonkamer waar housemuziek de basis is en warme klanken het mubilair. Verwacht een…",
-          "url": "https://ekko.nl/event/haunted-housewarming-2026/",
           "tags": []
         },
         {
@@ -951,16 +961,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "In een nachtcultuur die in het teken staat van elektronische muziek, creëert Blue Saturday een plek voor iedereen die tot in de late uurtjes wil dansen op gitaarmuziek. Dat doen we met een mix van new wave, postpunk, goth en alternative voor een melancholische, rauwe en opzwepende sound. Je kan…",
           "url": "https://ekko.nl/event/blue-saturday-2/",
-          "tags": []
-        },
-        {
-          "id": "31451",
-          "title": "Clubnacht met punk x Girls To The Front",
-          "start": "2026-10-30T23:00:00+01:00",
-          "end": "2026-10-31T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "We duiken de nacht in met alles wat schuurt, kraakt en stuitert. Clubnacht met punk is een clubnacht met punk van alle soorten en maten: van egg punk, hardcore punk en garage punk tot postpunk. Voor deze editie van Clubnacht met punk slaan we de handen ineen met Girls to the Front, een collectief…",
-          "url": "https://ekko.nl/event/clubnacht-met-punk-x-girls-to-the-front/",
           "tags": []
         },
         {
@@ -1516,7 +1516,7 @@
         {
           "id": "helling-rudeboy-x-boskat-persona-non-grata-06-02-2027",
           "title": "Rudeboy x Boskat – Persona Non Grata",
-          "start": "2027-02-06T20:15:00+01:00",
+          "start": "2027-02-06T20:00:00+01:00",
           "end": "2027-02-06T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Legendarisch UDS-album in een nieuw, pluizig jasje",
@@ -1683,46 +1683,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "448708",
-          "title": "Clawfinger",
-          "start": "2026-10-27T20:00:00+01:00",
-          "end": "2026-10-27T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Zweedse rapmetalband Clawfinger brak in 1993 door met hun debuutalbum Deaf Dumb Blind, mede dankzij MTV, waar de clip van de belangrijkste single Nigger zo ongeveer elk uur te zien was. Met ruim 35 jaar op de teller is Clawfinger nog steeds boos op de wereld en dat laten ze keihard horen op hun…",
-          "url": "https://www.podiuminfo.nl/concert/448708/Clawfinger/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "462229",
-          "title": "BCUC",
-          "start": "2026-10-27T20:30:00+01:00",
-          "end": "2026-10-27T22:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "BCUC, of Bantu Continua Uhuru Consciousness, is een muzikale beweging uit Soweto, Zuid-Afrika. De band staat bekend om hun energieke mix van funk, hiphop en punkrock, waarmee ze een stem geven aan de gewone mens in Zuid-Afrika. Hun optredens worden beschreven als bezielde spirituele rituelen en…",
-          "url": "https://www.podiuminfo.nl/concert/462229/BCUC/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "463444",
-          "title": "Eliades Ochoa",
-          "start": "2026-10-27T20:30:00+01:00",
-          "end": "2026-10-27T22:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Cubaanse gitarist en zanger Eliades Ochoa, 79 jaar oud, is een van de laatste grote vertolkers van de 'son cubano', een traditionele Cubaanse muziekstijl met Spaanse en Afrikaanse invloeden. Wereldwijd brak hij door als lid van de Buena Vista Social Club, mede dankzij de documentaire over de…",
-          "url": "https://www.podiuminfo.nl/concert/463444/Eliades-Ochoa/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "498423",
-          "title": "Jean-Michel Blais",
-          "start": "2026-10-27T20:30:00+01:00",
-          "end": "2026-10-27T22:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Canadese pianist en componist Jean-Michel Blais staat bekend om zijn unieke stijl, waarin neoklassiek, minimalisme en avant-garde samenkomen. Hoewel hij op jonge leeftijd werd toegelaten tot het conservatorium, koos Blais ervoor om zijn eigen artistieke pad te bewandelen na twee jaar de…",
-          "url": "https://www.podiuminfo.nl/concert/498423/Jean-Michel-Blais/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "481337",
           "title": "NKK NOW Zangroepen",
@@ -1922,6 +1882,46 @@
           "description": "Met zijn gitaar genereert Bill Frisell een geluid dat onmiskenbaar van hem is. De Amerikaanse jazz-pionier staat bekend om zijn atmosferische speelstijl waarin folk, country, blues en avantgarde samensmelten. Met subtiele delays, warme akkoorden en een onnavolgbare touch creëert hij…",
           "url": "https://www.podiuminfo.nl/concert/451617/Bill-Frisell-With-Luke-Bergman-And-Tim-Angulo/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "459908",
+          "title": "Micha",
+          "start": "2026-10-31T20:00:00+01:00",
+          "end": "2026-10-31T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "MICHA’s liefde voor muziek begon al op jonge leeftijd. Op vijfjarige leeftijd speelde hij zijn eerste nummers, met de steun van zijn familie — een ervaring die de basis legde voor zijn latere carrière. In 2023 startte hij zijn soloproject en reisde hij naar Nashville, Tennessee, om verder te werken…",
+          "url": "https://www.podiuminfo.nl/concert/459908/Micha/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "462009",
+          "title": "Salque, Deurloo, Simcock & Peirani",
+          "start": "2026-10-31T20:00:00+01:00",
+          "end": "2026-10-31T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Vier vooraanstaande muzikanten uit verschillende Europese landen en muzikale genres komen samen voor een unieke muzikale ontmoeting. De Franse cellist François Salque, bekend om zijn diepgewortelde klassieke traditie en internationale prijzen, combineert zijn virtuositeit met de warme, verhalende…",
+          "url": "https://www.podiuminfo.nl/concert/462009/Salque-Deurloo-Simcock-Peirani/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "457341",
+          "title": "St. Paul And The Broken Bones",
+          "start": "2026-10-31T20:30:00+01:00",
+          "end": "2026-10-31T22:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "St. Paul & The Broken Bones heeft niets te maken met TivoliVredenburgs ster-dj St. Paul, maar is een achtkoppige soulsensatie uit de Verenigde Staten. Frontman Paul Janeway klinkt als de reïncarnatie van Otis Redding, en samen met zijn kompanen maakt hij van elk concert een dampende en stampende…",
+          "url": "https://www.podiuminfo.nl/concert/457341/St-Paul-And-The-Broken-Bones/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "467609",
+          "title": "Lola Cedès",
+          "start": "2026-10-31T20:30:00+01:00",
+          "end": "2026-10-31T22:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De jonge Nederlandse popzangeres Lola Cedès creëert een uniek geluid, met subtiele elektronische elementen die samensmelten met eerlijke en persoonlijke teksten. Haar stijl doet denken aan artiesten als Billie Eilish en London Grammar. Haar meest recente single, 'Wat Er Allemaal Al Is' (2026),…",
+          "url": "https://www.podiuminfo.nl/concert/467609/Lola-Cedes/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2082,30 +2082,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-23734",
-          "title": "Commander Tuesday",
-          "start": "2026-10-27T18:00:00+01:00",
-          "end": "2026-10-27T23:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 44 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-249/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
-          "id": "lab-monkey-11402",
-          "title": "Ladies Knight",
-          "start": "2026-10-27T19:00:00+01:00",
-          "end": "2026-10-27T23:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het…",
-          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
-          "tags": [
-            "Ladies'(K)night"
-          ]
-        },
         {
           "id": "lab-monkey-23731",
           "title": "Weekly Draft",
@@ -2468,6 +2444,20 @@
             "Workshop",
             "Vechtclub XL"
           ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-28",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-11-02T00:00:00+01:00",
+          "end": "2026-11-02T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-28/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
+          ]
         }
       ]
     },
@@ -2507,16 +2497,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "November 25th. Monthly hangout for the bi+ community. Join our monthly bi+ café in Utrecht! The bi+ café offers a place for bi+ people to meet, get together, share experiences and, above all, have a fun evening. We believe it is important to create a safer space together, where there is room for…",
           "url": "https://acu.nl/events/20261125/bi-cafe-utrecht-4",
-          "tags": []
-        },
-        {
-          "id": "acu-20261028-bi-cafe-utrecht-3",
-          "title": "Bi+ Café Utrecht",
-          "start": "2026-10-28T00:00:00+01:00",
-          "end": "2026-10-28T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "October 28th. Monthly hangout for the bi+ community. Join our monthly bi+ café in Utrecht! The bi+ café offers a place for bi+ people to meet, get together, share experiences and, above all, have a fun evening. We believe it is important to create a safer space together, where there is room for…",
-          "url": "https://acu.nl/events/20261028/bi-cafe-utrecht-3",
           "tags": []
         },
         {
@@ -2941,16 +2921,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "75862",
-          "title": "An Orchestral Tribute to Tim Burton & Dark Fantasy by Moonlight",
-          "start": "2026-10-27T20:00:00.000Z",
-          "end": "2026-10-27T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75862",
-          "description": "An Orchestral Tribute to Tim Burton &amp; Dark Fantasy by Moonlight – An enchanting live performance of whimsical and otherworldly dark fantasy film music, brought to life by the Illuminated Orchestra, beneath the glow of a giant moon.<BR><BR>A spellbinding live concert celebrating the mus",
-          "tags": []
-        },
         {
           "id": "76701",
           "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
@@ -4461,6 +4431,16 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://dis.drachenwald.sca.org/data/calendar.json",
       "events": [
+        {
+          "id": "sca-polderslot/22-nov-2026/northern-fighter-practice",
+          "title": "Northern Fighter Practice ",
+          "start": "2026-11-22T12:00:00+01:00",
+          "end": "2026-11-22T23:00:00+01:00",
+          "location": "Hoorn, Hoorn",
+          "description": "Northern Fighter Practice - see WhatsApp for more details",
+          "url": "http://polderslot.info",
+          "tags": []
+        },
         {
           "id": "sca-polderslot/8-jan-2027/twelfth-night-coronation",
           "title": "Twelfth Night Coronation",

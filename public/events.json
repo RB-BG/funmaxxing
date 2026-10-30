@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:22:32.575Z",
+  "updatedAt": "2026-10-30T11:14:39.275Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "18244",
-          "title": "Club 3voor12 Utrecht w/  Aluminium + Centrepiece Colourised + Mail for Sil",
-          "start": "2026-10-29T20:00:00+01:00",
-          "end": "2026-10-29T23:00:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=SOGE-Fb9nPo",
-          "url": "https://dbstudio.nl/event/club-3voor12-utrecht-w-aluminium-centrepiece-colourised-mail-for-sil/",
-          "tags": [
-            "Club 3voor 12 / Utrecht"
-          ]
-        },
         {
           "id": "18082",
           "title": "Frontaal Brouwerij Breda",
@@ -405,6 +393,21 @@
             "Hardcore",
             "Indie Rock"
           ]
+        },
+        {
+          "id": "18031",
+          "title": "Boppin' the Rock presents LOVESICK DUO (IT) + Speed 78 (Excelsior Recordings)",
+          "start": "2026-12-06T16:00:00+01:00",
+          "end": "2026-12-06T19:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "//www.youtube.com/watch?v=7CBM0nYUU8Y",
+          "url": "https://dbstudio.nl/event/boppin-the-rock-presents-lovesick-duo-it/",
+          "tags": [
+            "Boppin' the Rock",
+            "Concert",
+            "Country & Western",
+            "Rockabilly"
+          ]
         }
       ]
     },
@@ -417,12 +420,92 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "32344",
+          "title": "Takeshi’s Cashew",
+          "start": "2027-03-26T20:00:00+01:00",
+          "end": "2027-03-26T22:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het Weense collectief Takeshi’s Cashew mixt psychedelische funk, krautrock en wereldse grooves tot een dansbare trip. Na optredens op festivals als Eurosonic Noorderslag, Into The Great Wide Open, Wilde Weide en Footprints is de band terug met een nieuw album: Planet Odyssey 64. Daarop breiden ze…",
+          "url": "https://ekko.nl/event/takeshis-cashew/",
+          "tags": []
+        },
+        {
+          "id": "32368",
+          "title": "Bus 12",
+          "start": "2026-12-17T23:30:00+01:00",
+          "end": "2026-12-18T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-220/",
+          "tags": []
+        },
+        {
+          "id": "32364",
+          "title": "Bus 12",
+          "start": "2026-12-10T23:30:00+01:00",
+          "end": "2026-12-11T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-218/",
+          "tags": []
+        },
+        {
+          "id": "32359",
+          "title": "Bus 12",
+          "start": "2026-12-03T23:30:00+01:00",
+          "end": "2026-12-04T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-216/",
+          "tags": []
+        },
+        {
+          "id": "32355",
+          "title": "Bus 12",
+          "start": "2026-11-19T23:30:00+01:00",
+          "end": "2026-11-20T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-214/",
+          "tags": []
+        },
+        {
+          "id": "32350",
+          "title": "Bus 12",
+          "start": "2026-11-12T23:30:00+01:00",
+          "end": "2026-11-13T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-212/",
+          "tags": []
+        },
+        {
+          "id": "32340",
+          "title": "Bus 12",
+          "start": "2026-11-05T23:00:00+01:00",
+          "end": "2026-11-06T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
+          "url": "https://ekko.nl/event/bus-12-210/",
+          "tags": []
+        },
+        {
+          "id": "32255",
+          "title": "Musical Rave",
+          "start": "2026-12-19T23:00:00+01:00",
+          "end": "2026-12-20T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Some people are worth melting for, en de beste nachten ook. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg: alles kan voorbij komen. Musical…",
+          "url": "https://ekko.nl/event/musicalrave-2/",
+          "tags": []
+        },
+        {
           "id": "32246",
           "title": "Is This It? de Popquiz",
           "start": "2027-01-31T19:30:00+01:00",
           "end": "2027-01-31T22:00:00+01:00",
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Terug in EKKO: ‘Is This It?’ de popquiz, gehost door DJ’s Mr &amp; Mevr Koot. Verwacht verrassende rondes in beeld én geluid. Altijd met een goede dosis humor en op z’n tijd een live-element. Geschikt voor zowel nieuwe enthousiastelingen als quizfanatici die al langer meegaan. Tijden: 19:30 &#8211;…",
+          "description": "Er vindt ook een editie in de middag plaats, kijk hier voor meer informatie. Terug in EKKO: ‘Is This It?’ de popquiz, gehost door DJ’s Mr &amp; Mevr Koot. Verwacht verrassende rondes in beeld én geluid. Altijd met een goede dosis humor en op z’n tijd een live-element. Geschikt voor zowel nieuwe…",
           "url": "https://ekko.nl/event/https-ekko-nl-event-is-this-it-de-popquiz-5-avond/",
           "tags": []
         },
@@ -432,7 +515,7 @@
           "start": "2027-01-31T15:30:00+01:00",
           "end": "2027-01-31T18:00:00+01:00",
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Terug in EKKO: ‘Is This It?’ de popquiz, gehost door DJ’s Mr &amp; Mevr Koot. Verwacht verrassende rondes in beeld én geluid. Altijd met een goede dosis humor en op z’n tijd een live-element. Geschikt voor zowel nieuwe enthousiastelingen als quizfanatici die al langer meegaan. Tijden: 15:30 &#8211;…",
+          "description": "Er vindt ook een editie in de avond plaats, kijk hier voor meer informatie. Terug in EKKO: ‘Is This It?’ de popquiz, gehost door DJ’s Mr &amp; Mevr Koot. Verwacht verrassende rondes in beeld én geluid. Altijd met een goede dosis humor en op z’n tijd een live-element. Geschikt voor zowel nieuwe…",
           "url": "https://ekko.nl/event/is-this-it-de-popquiz-5-middag/",
           "tags": []
         },
@@ -454,16 +537,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "U vraagt, wij draaien. Op 26 november brengt karaEKKO karaoke naar EKKO. Of ADÈLA nou helemaal jouw ding is of toch meer je inner Adela wil channelen met een prachtige Jan Smit cover, wij bieden het podium. Deze editie wordt gehost door VIXEN. VIXEN Dino Delicious en Young Yoni, ofwel VIXEN, zijn…",
           "url": "https://ekko.nl/event/karaekko-nov-2026/",
-          "tags": []
-        },
-        {
-          "id": "32255",
-          "title": "Musical Rave",
-          "start": "2026-12-19T23:00:00+01:00",
-          "end": "2026-12-20T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Some people are worth melting for, en de beste nachten ook. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg: alles kan voorbij komen. Musical…",
-          "url": "https://ekko.nl/event/musicalrave-2/",
           "tags": []
         },
         {
@@ -524,16 +597,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Heel veel hardcore punk in EKKO! Het genre heeft een frisse heropleving gekregen en er zijn genoeg Nederlandse acts die deze rauwe, energieke sound als geen ander weten te vangen. Nervous Breakdown is terug voor Volume 2, met opnieuw een avond vol felle riffs, razende drums en oprechte chaos. Dus…",
           "url": "https://ekko.nl/event/nervous-breakdown-2/",
-          "tags": []
-        },
-        {
-          "id": "29547",
-          "title": "The Guest List",
-          "start": "2026-10-29T20:00:00+01:00",
-          "end": "2026-10-29T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "The Guest List is een aanstormende band uit Manchester, bestaande uit vijf schoolvrienden die elkaar vonden in een gedeelde liefde voor The Strokes. Met hun indierocknummers bouwden ze in korte tijd een fervent publiek op, aangedreven door het emotionele en maatschappelijk bewuste schrijven van…",
-          "url": "https://ekko.nl/event/the-guest-list/",
           "tags": []
         },
         {
@@ -934,16 +997,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Echoes from the Dungeon Fest III is het vervolg op de eerdere edities van het allereerste Fantasy &#038; Dungeon Synth-festival van Nederland. Verwacht een programma vol topartiesten uit het genre, een markt met merchandise van artiesten en labels, goed eten en drinken en meer. Mis deze kans niet…",
           "url": "https://ekko.nl/event/echoes-from-the-dungeon-fest-iii-2/",
-          "tags": []
-        },
-        {
-          "id": "31715",
-          "title": "Griezelbus 12",
-          "start": "2026-10-29T23:00:00+01:00",
-          "end": "2026-10-30T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. BUS 12 maakt op 29 oktober een duistere detour voor een griezelige Halloween-editie. Verzamel je moed en je vrienden voor een spookachtige rit langs ‘00s en…",
-          "url": "https://ekko.nl/event/griezelbus-12-2026/",
           "tags": []
         },
         {
@@ -1489,8 +1542,8 @@
         {
           "id": "helling-honk-02-01-2027",
           "title": "HONK",
-          "start": "2027-01-02T21:00:00+01:00",
-          "end": "2027-01-03T03:00:00+01:00",
+          "start": "2027-01-02T20:00:00+01:00",
+          "end": "2027-01-03T02:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "HONK – Jouw nieuwe ‘thuis’ voor house",
           "url": "https://dehelling.nl/agenda/honk-02-01-2027/",
@@ -1727,46 +1780,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "453038",
-          "title": "Stu Larsen",
-          "start": "2026-10-29T20:00:00+01:00",
-          "end": "2026-10-29T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Australische singer-songwriter Stu Larsen is een troubadour zoals je ze zelden meer ziet: hij heeft geen vaste woonplaats en is al jaren op tour. Larsens muziek doet denken aan die van zijn Britse collega Passenger – niet zo vreemd, want Passenger produceerde Larsens debuutalbum Vagabond (2014).…",
-          "url": "https://www.podiuminfo.nl/concert/453038/Stu-Larsen/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "454693",
-          "title": "Rondé",
-          "start": "2026-10-29T20:00:00+01:00",
-          "end": "2026-10-29T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "RONDÉ heeft zich de laatste jaren ontwikkeld tot een indiepop-hitmachine: nummers als Hard to Say Goodbye, Love Myself, Break My Heart, Undecided en Bright Eyes werden allemaal toptienhits. Daarnaast maakte Rikki Borgelt veel indruk bij het tv-programma Beste Zangers met haar gepassioneerde…",
-          "url": "https://www.podiuminfo.nl/concert/454693/Ronde/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "498325",
-          "title": "ULTRAJAZZ x TivoliVredenburg",
-          "start": "2026-10-29T21:00:00+01:00",
-          "end": "2026-10-29T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Op de donderdagavonden van de Rabo Open Stage in TivoliVredenburg staan jazz, talentontwikkeling en muzikale ontmoeting centraal onder de vlag van ULTRAJAZZ. Kika Sprangers en Bob Roos organiseren om de week bruisende jamsessies, die telkens beginnen met een krachtige openingsset van een uur.…",
-          "url": "https://www.podiuminfo.nl/concert/498325/ULTRAJAZZ-x-TivoliVredenburg/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "489751",
-          "title": "Discozwemmen",
-          "start": "2026-10-29T23:55:00+01:00",
-          "end": "2026-10-30T01:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Discozwemmen is het maandelijkse studentenfeest in Utrecht, waar bezoekers worden uitgenodigd om zich onder te dompelen in een avond vol diverse muziekstijlen. Dit evenement transformeert TivoliVredenburg's Ronda zaal in een dynamische dansvloer waar pop, dance en hiphop naadloos in elkaar…",
-          "url": "https://www.podiuminfo.nl/concert/489751/Discozwemmen/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "488564",
           "title": "ICONIC - Queer Pop Party: Queer Halloween editie",
           "start": "2026-10-30",
@@ -1955,6 +1968,56 @@
           "description": "Het Bill Stewart Trio, bestaande uit drummer Bill Stewart, contrabassist Larry Grenadier en saxofonist Walter Smith III, is een absoluut top jazzcombo. Bill Stewart, al meer dan dertig jaar een veelgevraagd drummer, staat bekend om zijn vermogen om bands onverklaarbaar beter te laten klinken. Larry…",
           "url": "https://www.podiuminfo.nl/concert/456892/Bill-Stewart-Trio/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "452690",
+          "title": "MaYaN",
+          "start": "2026-11-01T20:00:00+01:00",
+          "end": "2026-11-01T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De symfonische deathmetalband MaYaN viert zijn vijftienjarig bestaan! MaYaN is de band van Mark Jansen, de man met de gewone naam en de ongewoon grote talenten: de gitarist/zanger is de oprichter van twee van Nederlands grootste symfonische metalbands, After Forever en Epica. En dus ook van MaYaN,…",
+          "url": "https://www.podiuminfo.nl/concert/452690/MaYaN/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "455747",
+          "title": "Stephen Wilson Jr.",
+          "start": "2026-11-01T20:00:00+01:00",
+          "end": "2026-11-01T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse singer-songwriter Stephen Wilson Jr. had al carrières als amateurbokser en laborant achter de rug toen hij besloot vol voor de muziek te gaan. In 2023 debuteerde hij met het dubbelalbum Søn Of Dad, geïnspireerd door de dood van zijn vader. Wilson Jr. maakt een krachtige mix van…",
+          "url": "https://www.podiuminfo.nl/concert/455747/Stephen-Wilson-Jr-/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "451370",
+          "title": "Fresku & Metropole Orkest",
+          "start": "2026-11-01T20:15:00+01:00",
+          "end": "2026-11-01T22:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Fresku & het Metropole Orkest presenteren Hand op mijn hart: een nieuwe samenwerking waarin hiphop en orkestrale muziek samenkomen. In dit project vormen een gezamenlijke EP en een landelijke tournee één geheel. Het Metropole Orkest legt een rijke muzikale basis van pop, soul, jazz en levenslied,…",
+          "url": "https://www.podiuminfo.nl/concert/451370/Fresku-Metropole-Orkest/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "498332",
+          "title": "The Rebel as Poet",
+          "start": "2026-11-01T22:00:00+01:00",
+          "end": "2026-11-02T00:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "The Rebel As Poet, het muzikale project van Jorn ten Ham, presenteert Americana-liedjes. De nummers benaderen thema's als persoonlijke ontwikkeling en reflectie op de binnen- en buitenwereld vanuit een filosofisch perspectief, en worden op poëtische wijze bezongen. De muziek wordt omschreven als…",
+          "url": "https://www.podiuminfo.nl/concert/498332/The-Rebel-as-Poet/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "462589",
+          "title": "Erra + Currents",
+          "start": "2026-11-02T18:00:00+01:00",
+          "end": "2026-11-02T20:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse progressieve metalband ERRA combineert technische complexiteit met toegankelijkheid. Daarbij vergeten ze niet om stevig te beuken: op hun zevende album Silence Outlives The Earth (2026) zijn de riffs zo laag dat er een extra lijn moet worden toegevoegd onder aan de notenbalk. Hun…",
+          "url": "https://www.podiuminfo.nl/concert/462589/Erra-Currents/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2016,6 +2079,16 @@
           "tags": []
         },
         {
+          "id": "612547",
+          "title": "Wanderhome - shelter from the storm (newcomer friendly!)",
+          "start": "2026-11-11T19:00:00+01:00",
+          "end": "2026-11-11T22:00:00+01:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Wanderhome - shelter from the storm (newcomer friendly!) Wed 11/11 7-10pm at Subcultures @Silver Heron Studios English, Wanderhome Written by Jay Dragon Wanderhome is a pastoral fantasy role-playing game about traveling animal-folk, the world they inhabit, and the way the seasons change. It is a…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "611838",
           "title": "D&D 5.5e Shogunate Oneshot: Tumultous Tea Ceremony",
           "start": "2026-11-18T19:00:00+01:00",
@@ -2064,20 +2137,7 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": [
-        {
-          "id": "lab-monkey-23731",
-          "title": "Weekly Draft",
-          "start": "2026-10-29T19:00:00+01:00",
-          "end": "2026-10-29T19:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €24,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-132/",
-          "tags": [
-            "Draft"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "casual-carnage",
@@ -2295,34 +2355,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-lan-tine-halloween",
-          "title": "SCREEN IT",
-          "start": "2026-10-30T00:00:00+01:00",
-          "end": "2026-10-30T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/lan-tine-halloween/",
-          "tags": [
-            "Film",
-            "Gratis",
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-radio-2b-3",
-          "title": "Radio 2b",
-          "start": "2026-10-30T00:00:00+01:00",
-          "end": "2026-10-30T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/radio-2b-3/",
-          "tags": [
-            "Muziek",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-charlie-reads-the-work-of-2",
           "title": "Charlie reads the work of…",
           "start": "2026-10-31T00:00:00+01:00",
@@ -2403,6 +2435,47 @@
             "Workshop",
             "Vechtclub XL"
           ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-45",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-11-02T00:00:00+01:00",
+          "end": "2026-11-02T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-45/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-23",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-11-02T00:00:00+01:00",
+          "end": "2026-11-02T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-23/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
+        },
+        {
+          "id": "beton-maak-je-eigen-neonledlamp-in-een-dag-3",
+          "title": "Maak je eigen neonledlamp in één dag",
+          "start": "2026-11-02T00:00:00+01:00",
+          "end": "2026-11-02T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/maak-je-eigen-neonledlamp-in-een-dag-3/",
+          "tags": [
+            "Workshop",
+            "Vechtclub Keiland"
+          ]
         }
       ]
     },
@@ -2415,12 +2488,22 @@
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
         {
+          "id": "acu-20261128-mutiny-presents-kill-emil-x-big-shine",
+          "title": "Mutiny Presents: Kill Emil x Big Shine",
+          "start": "2026-11-28T00:00:00+01:00",
+          "end": "2026-11-28T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 28th. Kill Emil & Big Shine live at ACU Utrecht. One of the most distinctive beatmakers of the Greek scene, Kill Emil, comes for a unique live set at ACU. With his signature style that blends hip hop, reggae, trip hop, downtempo and world sounds, he creates an atmosphere that balances…",
+          "url": "https://acu.nl/events/20261128/mutiny-presents-kill-emil-x-big-shine",
+          "tags": []
+        },
+        {
           "id": "acu-20261205-tomb-of-memories",
           "title": "Tomb of Memories",
           "start": "2026-12-05T00:00:00+01:00",
           "end": "2026-12-05T00:00:00+01:00",
           "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "December 5th. Goth/EGL/VK night with Malice in Dix. 🗓️ 5th of December, 19h 🎟️ 16 EUR 📍 ACU – Utrecht, the Netherlands Dear future guests of the night, As the 「Tomb of Memories」is revealed, the realm of the Monochrome Dream opens its gates once more. Tomb of Memories — an art book containing a…",
+          "description": "December 5th. Goth/EGL/VK night with Malice in Dix. 🗓️ 5th of December, 19h 🎟️ 16 EUR – (Tickets: https://shorturl.at/1wNnZ) 📍 ACU, Voorstraat 71 – Utrecht, the Netherlands Dear future guests of the night, As the 「Tomb of Memories」 is revealed, the realm of the Monochrome Dream opens its gates…",
           "url": "https://acu.nl/events/20261205/tomb-of-memories",
           "tags": []
         },
@@ -2492,16 +2575,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "November 14th. ElektroFusion, Alt-Groove, Bass and Breaks. Black Widow’s elektrofusion blends house, big beat, and jazz with modular synths, live drums, and trumpet for an intense, textured ride. Black Widow combines elements of house/big beat and jazz/fusion.. Featuring modular synthesizers, live…",
           "url": "https://acu.nl/events/20261114/black-widow-nl-x-robot-pool-party-nl",
-          "tags": []
-        },
-        {
-          "id": "acu-20261113-pitchdark",
-          "title": "PITCH:DARK",
-          "start": "2026-11-13T00:00:00+01:00",
-          "end": "2026-11-13T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 13th. Death Sells, Ioana Iorgu & Marumori. Open Deur boeking is back babyy! This time with a whole new event called PITCH:DARK, booking some noise rock and post-punk for all of you brooding souls. Death Sells has a dark and peculiar sound bursting with energy. The music evokes a feeling…",
-          "url": "https://acu.nl/events/20261113/pitchdark",
           "tags": []
         }
       ]
@@ -2876,26 +2949,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "75700",
-          "title": "Die 12 Cellisten der Berliner Philharmoniker",
-          "start": "2026-10-29T20:00:00.000Z",
-          "end": "2026-10-29T23:00:00.000Z",
-          "location": "Groningen, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75700",
-          "description": "A fascinating journey through the world of cello with twelve top cellists from Berlin<BR><BR>When twelve top cellists from the world-famous Berlin Philharmonic take the stage together, something special awaits you. For more than fifty years, the company, founded in 1972, has been drawing full houses",
-          "tags": []
-        },
-        {
-          "id": "76702",
-          "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-10-29T20:00:00.000Z",
-          "end": "2026-10-29T23:00:00.000Z",
-          "location": "Uutrecht, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76702",
-          "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
-          "tags": []
-        },
         {
           "id": "73782",
           "title": "Beethoven en Prokofiev",
@@ -4494,16 +4547,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-sinterklaas-uitzwaaien-2026",
-          "title": "Sinterklaas uitzwaaien",
-          "start": "2026-12-06T10:00:00+01:00",
-          "end": "2026-12-06T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/sinterklaas-uitzwaaien/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-familietheater-vrije-vogels-2026",
           "title": "Familietheater: Vrije Vogels",
           "start": "2026-12-06T10:00:00+01:00",
@@ -4511,6 +4554,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/familietheater-vrije-vogels/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-sinterklaas-uitzwaaien-2026",
+          "title": "Sinterklaas uitzwaaien",
+          "start": "2026-12-06T10:00:00+01:00",
+          "end": "2026-12-06T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/sinterklaas-uitzwaaien/",
           "tags": []
         },
         {
@@ -4574,6 +4627,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-familietheater-koning-van-katoren-2027",
+          "title": "Familietheater: Koning van Katoren",
+          "start": "2027-01-03T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/familietheater-koning-van-katoren/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-het-muiderslot-bij-kaarslicht-2-2027",
           "title": "Het Muiderslot bij kaarslicht",
           "start": "2027-01-08T10:00:00+01:00",
@@ -4581,6 +4644,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/het-muiderslot-bij-kaarslicht-2/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-familietheater-de-staart-van-de-djinn-1001-nacht-2027",
+          "title": "Familietheater: De staart van de Djinn, 1001 Nacht",
+          "start": "2027-02-07T10:00:00+01:00",
+          "end": "2027-02-07T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/familietheater-de-staart-van-de-djinn-1001-nacht/",
           "tags": []
         },
         {
@@ -4711,19 +4784,6 @@
       "feedUrl": "https://www.larp-platform.nl/evenementenoverzicht/",
       "events": [
         {
-          "id": "larp-2121-elbaria-najaarsevenement-2026",
-          "title": "Elbaria – Novemberweekend 2026",
-          "start": "2026-10-30T00:00:00+01:00",
-          "end": "2026-11-01T23:59:00+01:00",
-          "location": "Locatie t.b.a.",
-          "country": "Nederland",
-          "description": "High-fantasy — Buiten slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2121-elbaria-najaarsevenement-2026/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2003-kederan-xlv",
           "title": "Kederan XLV",
           "start": "2026-11-06T00:00:00+01:00",
@@ -4763,6 +4823,19 @@
           ]
         },
         {
+          "id": "larp-1628-frontier-23",
+          "title": "Frontier 23",
+          "start": "2026-12-11T00:00:00+01:00",
+          "end": "2026-12-13T23:59:00+01:00",
+          "location": "Hopper jeugdverblijf De Brink, Herentals, Belgie",
+          "country": "België",
+          "description": "Sci-fi — Binnen slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/1628-frontier-23/",
+          "tags": [
+            "Sci-fi"
+          ]
+        },
+        {
           "id": "larp-2136-dumpster-pyre-the-masquerade",
           "title": "Dumpster Pyre: the Masquerade",
           "start": "2026-12-11T00:00:00+01:00",
@@ -4775,19 +4848,6 @@
             "Anders",
             "Modern",
             "World of Darkness"
-          ]
-        },
-        {
-          "id": "larp-1628-frontier-23",
-          "title": "Frontier 23",
-          "start": "2026-12-11T00:00:00+01:00",
-          "end": "2026-12-13T23:59:00+01:00",
-          "location": "Hopper jeugdverblijf De Brink, Herentals, Belgie",
-          "country": "België",
-          "description": "Sci-fi — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/1628-frontier-23/",
-          "tags": [
-            "Sci-fi"
           ]
         },
         {
@@ -4870,19 +4930,16 @@
           ]
         },
         {
-          "id": "larp-2260-postapobob-19-standing-in-v-formation",
-          "title": "PostApoBob #19 – Standing in V-formation",
+          "id": "larp-2291-elerion-61",
+          "title": "Elerion 61",
           "start": "2027-03-19T00:00:00+01:00",
           "end": "2027-03-21T23:59:00+01:00",
-          "location": "Kampeerboerderij Fleuren; De Mortel",
+          "location": "Locatie t.b.a.",
           "country": "Nederland",
-          "description": "Horror, Low-fantasy, Modern, Post-Apo — Binnen- of buiten slapen · Vanaf 16 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2260-postapobob-19-standing-in-v-formation/",
+          "description": "High-fantasy — Binnen- of buiten slapen",
+          "url": "https://www.larp-platform.nl/evenement/2291-elerion-61/",
           "tags": [
-            "Horror",
-            "Low-fantasy",
-            "Modern",
-            "Post-Apo"
+            "High-fantasy"
           ]
         },
         {
@@ -4899,16 +4956,19 @@
           ]
         },
         {
-          "id": "larp-2291-elerion-61",
-          "title": "Elerion 61",
+          "id": "larp-2260-postapobob-19-standing-in-v-formation",
+          "title": "PostApoBob #19 – Standing in V-formation",
           "start": "2027-03-19T00:00:00+01:00",
           "end": "2027-03-21T23:59:00+01:00",
-          "location": "Locatie t.b.a.",
+          "location": "Kampeerboerderij Fleuren; De Mortel",
           "country": "Nederland",
-          "description": "High-fantasy — Binnen- of buiten slapen",
-          "url": "https://www.larp-platform.nl/evenement/2291-elerion-61/",
+          "description": "Horror, Low-fantasy, Modern, Post-Apo — Binnen- of buiten slapen · Vanaf 16 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2260-postapobob-19-standing-in-v-formation/",
           "tags": [
-            "High-fantasy"
+            "Horror",
+            "Low-fantasy",
+            "Modern",
+            "Post-Apo"
           ]
         },
         {
@@ -4953,19 +5013,6 @@
           ]
         },
         {
-          "id": "larp-2194-dalaria-ii-iii",
-          "title": "Dalaria II.III",
-          "start": "2027-04-23T00:00:00+02:00",
-          "end": "2027-04-25T23:59:00+02:00",
-          "location": "Buitencentrum “De Stevert”",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 16 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2194-dalaria-ii-iii/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2295-arcana-de-bron-19",
           "title": "De Bron 19",
           "start": "2027-04-23T00:00:00+02:00",
@@ -4977,6 +5024,19 @@
           "tags": [
             "High-fantasy",
             "Kids larp"
+          ]
+        },
+        {
+          "id": "larp-2194-dalaria-ii-iii",
+          "title": "Dalaria II.III",
+          "start": "2027-04-23T00:00:00+02:00",
+          "end": "2027-04-25T23:59:00+02:00",
+          "location": "Buitencentrum “De Stevert”",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 16 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2194-dalaria-ii-iii/",
+          "tags": [
+            "High-fantasy"
           ]
         },
         {
@@ -5007,19 +5067,6 @@
           ]
         },
         {
-          "id": "larp-2305-kederan-xlvi",
-          "title": "Kederan XLVI",
-          "start": "2027-04-30T00:00:00+02:00",
-          "end": "2027-05-02T23:59:00+02:00",
-          "location": "“De Roerdomp” Ontginningsweg 10 5091 KN Westelbeers",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2305-kederan-xlvi/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2178-quon-41",
           "title": "Quon 41",
           "start": "2027-04-30T00:00:00+02:00",
@@ -5041,6 +5088,19 @@
           "country": "Nederland",
           "description": "High-fantasy — Buiten slapen · Vanaf 18 jaar",
           "url": "https://www.larp-platform.nl/evenement/2161-agnoia-unwritten-9/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2305-kederan-xlvi",
+          "title": "Kederan XLVI",
+          "start": "2027-04-30T00:00:00+02:00",
+          "end": "2027-05-02T23:59:00+02:00",
+          "location": "“De Roerdomp” Ontginningsweg 10 5091 KN Westelbeers",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2305-kederan-xlvi/",
           "tags": [
             "High-fantasy"
           ]
@@ -5179,33 +5239,6 @@
           ]
         },
         {
-          "id": "larp-2195-dalaria-ii-iv",
-          "title": "Dalaria II.IV",
-          "start": "2027-09-03T00:00:00+02:00",
-          "end": "2027-09-05T23:59:00+02:00",
-          "location": "Buitencentrum “De Stevert”",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 16 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2195-dalaria-ii-iv/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
-          "id": "larp-2176-dwaler-37",
-          "title": "Dwaler 37",
-          "start": "2027-09-03T00:00:00+02:00",
-          "end": "2027-09-05T23:59:00+02:00",
-          "location": "Ada's Hoeve, Ommen",
-          "country": "Nederland",
-          "description": "Historisch, Low-fantasy — Buiten slapen · Vanaf 16 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2176-dwaler-37/",
-          "tags": [
-            "Historisch",
-            "Low-fantasy"
-          ]
-        },
-        {
           "id": "larp-2149-rijken-van-aegor-evenement-3",
           "title": "Rijken van Aegor – Evenement 3",
           "start": "2027-09-03T00:00:00+02:00",
@@ -5232,17 +5265,30 @@
           ]
         },
         {
-          "id": "larp-2251-expiatio-43",
-          "title": "Expiatio 43",
-          "start": "2027-09-10T00:00:00+02:00",
-          "end": "2027-09-12T23:59:00+02:00",
+          "id": "larp-2176-dwaler-37",
+          "title": "Dwaler 37",
+          "start": "2027-09-03T00:00:00+02:00",
+          "end": "2027-09-05T23:59:00+02:00",
           "location": "Ada's Hoeve, Ommen",
           "country": "Nederland",
-          "description": "High-fantasy, Kids larp — Binnen- of buiten slapen · 12 t/m 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2251-expiatio-43/",
+          "description": "Historisch, Low-fantasy — Buiten slapen · Vanaf 16 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2176-dwaler-37/",
           "tags": [
-            "High-fantasy",
-            "Kids larp"
+            "Historisch",
+            "Low-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2195-dalaria-ii-iv",
+          "title": "Dalaria II.IV",
+          "start": "2027-09-03T00:00:00+02:00",
+          "end": "2027-09-05T23:59:00+02:00",
+          "location": "Buitencentrum “De Stevert”",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 16 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2195-dalaria-ii-iv/",
+          "tags": [
+            "High-fantasy"
           ]
         },
         {
@@ -5259,6 +5305,20 @@
             "Low-fantasy",
             "Modern",
             "Post-Apo"
+          ]
+        },
+        {
+          "id": "larp-2251-expiatio-43",
+          "title": "Expiatio 43",
+          "start": "2027-09-10T00:00:00+02:00",
+          "end": "2027-09-12T23:59:00+02:00",
+          "location": "Ada's Hoeve, Ommen",
+          "country": "Nederland",
+          "description": "High-fantasy, Kids larp — Binnen- of buiten slapen · 12 t/m 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2251-expiatio-43/",
+          "tags": [
+            "High-fantasy",
+            "Kids larp"
           ]
         },
         {
@@ -5314,19 +5374,6 @@
           ]
         },
         {
-          "id": "larp-2322-omen-xxxx",
-          "title": "Omen XL",
-          "start": "2027-10-08T00:00:00+01:00",
-          "end": "2027-10-10T23:59:00+01:00",
-          "location": "Inka-terrein, Zeeland (Noord-Brabant)",
-          "country": "Nederland",
-          "description": "High-fantasy — Buiten slapen",
-          "url": "https://www.larp-platform.nl/evenement/2322-omen-xxxx/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2184-ekyo-6",
           "title": "Ekyo",
           "start": "2027-10-08T00:00:00+01:00",
@@ -5341,17 +5388,16 @@
           ]
         },
         {
-          "id": "larp-1969-weerklank-10",
-          "title": "Weerklank 10",
-          "start": "2027-10-15T00:00:00+01:00",
-          "end": "2027-10-17T23:59:00+01:00",
-          "location": "Kamphuis Ahoy Oosterhout",
+          "id": "larp-2322-omen-xxxx",
+          "title": "Omen XL",
+          "start": "2027-10-08T00:00:00+01:00",
+          "end": "2027-10-10T23:59:00+01:00",
+          "location": "Inka-terrein, Zeeland (Noord-Brabant)",
           "country": "Nederland",
-          "description": "High-fantasy, Low-fantasy — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/1969-weerklank-10/",
+          "description": "High-fantasy — Buiten slapen",
+          "url": "https://www.larp-platform.nl/evenement/2322-omen-xxxx/",
           "tags": [
-            "High-fantasy",
-            "Low-fantasy"
+            "High-fantasy"
           ]
         },
         {
@@ -5365,6 +5411,20 @@
           "url": "https://www.larp-platform.nl/evenement/2233-moots-2-2027/",
           "tags": [
             "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-1969-weerklank-10",
+          "title": "Weerklank 10",
+          "start": "2027-10-15T00:00:00+01:00",
+          "end": "2027-10-17T23:59:00+01:00",
+          "location": "Kamphuis Ahoy Oosterhout",
+          "country": "Nederland",
+          "description": "High-fantasy, Low-fantasy — Binnen slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/1969-weerklank-10/",
+          "tags": [
+            "High-fantasy",
+            "Low-fantasy"
           ]
         },
         {
@@ -5421,19 +5481,6 @@
           ]
         },
         {
-          "id": "larp-2325-booyah-present-symora-1",
-          "title": "Booyah! Present Symora 2",
-          "start": "2027-11-19T00:00:00+01:00",
-          "end": "2027-11-21T23:59:00+01:00",
-          "location": "De Kievit, Esbeek",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2325-booyah-present-symora-1/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2289-maerquin-weekend-59",
           "title": "Maerquin weekend 59",
           "start": "2027-11-19T00:00:00+01:00",
@@ -5442,6 +5489,19 @@
           "country": "Nederland",
           "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
           "url": "https://www.larp-platform.nl/evenement/2289-maerquin-weekend-59/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2325-booyah-present-symora-1",
+          "title": "Booyah! Present Symora 2",
+          "start": "2027-11-19T00:00:00+01:00",
+          "end": "2027-11-21T23:59:00+01:00",
+          "location": "De Kievit, Esbeek",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2325-booyah-present-symora-1/",
           "tags": [
             "High-fantasy"
           ]
@@ -5529,6 +5589,19 @@
           ]
         },
         {
+          "id": "larp-2236-moots-2-2028",
+          "title": "Moots 2 2028",
+          "start": "2028-10-27T00:00:00+01:00",
+          "end": "2028-10-29T23:59:00+01:00",
+          "location": "St. Walrick, Overasselt",
+          "country": "Nederland",
+          "description": "High-fantasy — Buiten slapen",
+          "url": "https://www.larp-platform.nl/evenement/2236-moots-2-2028/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
           "id": "larp-2077-irrealis-32",
           "title": "Irrealis 32",
           "start": "2028-10-27T00:00:00+01:00",
@@ -5540,19 +5613,6 @@
           "tags": [
             "High-fantasy",
             "Steampunk"
-          ]
-        },
-        {
-          "id": "larp-2236-moots-2-2028",
-          "title": "Moots 2 2028",
-          "start": "2028-10-27T00:00:00+01:00",
-          "end": "2028-10-29T23:59:00+01:00",
-          "location": "St. Walrick, Overasselt",
-          "country": "Nederland",
-          "description": "High-fantasy — Buiten slapen",
-          "url": "https://www.larp-platform.nl/evenement/2236-moots-2-2028/",
-          "tags": [
-            "High-fantasy"
           ]
         },
         {

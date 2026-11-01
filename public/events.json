@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T10:47:36.551Z",
+  "updatedAt": "2026-11-01T11:44:51.815Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,33 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "16989",
-          "title": "Halloween Monster Rock w/ THE MONSTERS (CH) + Money & The Man + Tankzilla + Dead Elvis + Thee Rotten Organs",
-          "start": "2026-10-31T18:00:00+01:00",
-          "end": "2026-10-31T23:30:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=_SlyoE9_y90 \n  \nTHEE ROTTEN ORGANS –Geboren in juist dat o zo belangrijke Haarlemse Slachthuis is rauwe, compromisloze garagerock met hoe kan het ook anders, een prominente plaats voor een snerpend orgel, een rotorgel dat dan weer wel, met Eskalatie garantie.",
-          "url": "https://dbstudio.nl/event/halloween-monster-rock-w-money-the-man-tankzilla-dead-elvis/",
-          "tags": [
-            "Garage",
-            "Hard Rock",
-            "One Man Band",
-            "Stoner"
-          ]
-        },
-        {
-          "id": "18181",
-          "title": "BALLROOM BLITZ DISCO",
-          "start": "2026-10-31T23:00:00+01:00",
-          "end": "2026-11-01T03:00:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "𝟬𝟬 \nWe zien je graag djensen en glibberen op onze dansvloer!",
-          "url": "https://dbstudio.nl/event/ballroom-blitz-disco/",
-          "tags": [
-            "Ballroom Blitz"
-          ]
-        },
         {
           "id": "17874",
           "title": "70 jaar alweer",
@@ -405,6 +378,35 @@
           "tags": [
             "Indie Rock"
           ]
+        },
+        {
+          "id": "18013",
+          "title": "BOOGIEFEST w/ THE PHANTOM FOUR + POWERSOLO (DK) + LES ROBOTS + BACON FAT LOUIS",
+          "start": "2026-12-11T19:00:00+01:00",
+          "end": "2026-12-11T23:30:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "//www.youtube.com/watch?v=JvGJoNkOiI0&list=RDEMirtnqvDDDeZyE7OQE8A0zg&start_radio=1&rv=nTlc5hilKH4",
+          "url": "https://dbstudio.nl/event/boogiefest-w-the-phantom-four-powersolo-dk-les-robots-bacon-fat-louis/",
+          "tags": [
+            "Blues",
+            "Concert",
+            "Garage",
+            "Rock 'n Roll",
+            "Surf"
+          ]
+        },
+        {
+          "id": "18235",
+          "title": "SURF PUNK MASSACRE IV w/ Mullet Monster Mafia (BRA) + Disturbance + Röt Stewart (BE) + Mouser",
+          "start": "2026-12-13T16:00:00+01:00",
+          "end": "2026-12-13T21:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "//www.youtube.com/watch?v=ydlQfahjMFQ",
+          "url": "https://dbstudio.nl/event/surf-punk-massacre-iv-w-monster-mullet-mafia-bra-disturbance-rot-stewart-be-mouser/",
+          "tags": [
+            "Metal",
+            "Punk"
+          ]
         }
       ]
     },
@@ -567,16 +569,6 @@
           "tags": []
         },
         {
-          "id": "31770",
-          "title": "Haunted Housewarming",
-          "start": "2026-10-31T23:30:00+01:00",
-          "end": "2026-11-01T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "HOUSEWARMING – Waar house wél betaalbaar is Stap binnen bij de halloween editie van (haunted) Housewarming! De nacht waar de dansvloer voelt als een warme woonkamer, maar dit keer met een vleugje duisternis. Een woonkamer waar housemuziek de basis is en warme klanken het mubilair. Verwacht een…",
-          "url": "https://ekko.nl/event/haunted-housewarming-2026/",
-          "tags": []
-        },
-        {
           "id": "30902",
           "title": "Antony Szmierek",
           "start": "2026-11-01T20:00:00+01:00",
@@ -724,16 +716,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "In samenwerking met Herman Brood Academie en House of Hip Hop presenteert EKKO een negende editie van onze nieuwe hiphopreeks: Dom Gaan! Verwacht een avond vol energie en rauw talent, met de next gen uit de Nederlandse rapscene en aanstormende locals. De Amsterdamse rapper Cico Cimpel brengt rauwe…",
           "url": "https://ekko.nl/event/dom-gaan-cico-cimpel/",
-          "tags": []
-        },
-        {
-          "id": "31434",
-          "title": "The Cat Eye Cabaret: Hex Appeal",
-          "start": "2026-10-31T20:00:00+01:00",
-          "end": "2026-10-31T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "The Cat Eye Cabaret is terug met een nieuwe Halloween burlesque-show om je te betoveren en de stuipen op het lijf te jagen! Na meerdere uitverkochte shows bij EKKO en met drie nieuwe gezichten erbij is de groep klaar om hun duistere kant weer te laten zien. The Cat Eye Cabaret presenteert…",
-          "url": "https://ekko.nl/event/the-cat-eye-cabaret-hex-appeal/",
           "tags": []
         },
         {
@@ -1116,26 +1098,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-bartofso-31-10-2026",
-          "title": "Bartofso",
-          "start": "2026-10-31T20:00:00+01:00",
-          "end": "2026-10-31T23:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Gemaskerde rapper tilt Haagse trapsound naar een nieuw level",
-          "url": "https://dehelling.nl/agenda/bartofso-31-10-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-paardenrave-halloween-edition-31-10-2026",
-          "title": "Paardenrave Halloween Edition",
-          "start": "2026-10-31T23:00:00+01:00",
-          "end": "2026-11-01T05:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Flamboyante rodeo vol high-energy genre-fluid dj's en performances",
-          "url": "https://dehelling.nl/agenda/paardenrave-halloween-edition-31-10-2026/",
-          "tags": []
-        },
         {
           "id": "helling-momentum-iii-potochkine-vioflesh-silent-runners-01-11-2026",
           "title": "Momentum III – Potochkine + Vioflesh + Silent Runners",
@@ -1737,106 +1699,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "451075",
-          "title": "Dotan",
-          "start": "2026-10-31T20:00:00+01:00",
-          "end": "2026-10-31T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Nederlandse singer-songwriter Dotan brak in 2014 door met de hit Home, afkomstig van zijn tweede album 7 Layers. Een nummer met een lange adem: in 2024 kwam Home op 1 in de Canadese iTunes Top 100 nadat Dotan had opgetreden in een Canadese tv-show. De singer-songwriter meldt dat zijn volgende…",
-          "url": "https://www.podiuminfo.nl/concert/451075/Dotan/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "451617",
-          "title": "Bill Frisell With Luke Bergman And Tim Angulo",
-          "start": "2026-10-31T20:00:00+01:00",
-          "end": "2026-10-31T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Met zijn gitaar genereert Bill Frisell een geluid dat onmiskenbaar van hem is. De Amerikaanse jazz-pionier staat bekend om zijn atmosferische speelstijl waarin folk, country, blues en avantgarde samensmelten. Met subtiele delays, warme akkoorden en een onnavolgbare touch creëert hij…",
-          "url": "https://www.podiuminfo.nl/concert/451617/Bill-Frisell-With-Luke-Bergman-And-Tim-Angulo/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "459908",
-          "title": "Micha",
-          "start": "2026-10-31T20:00:00+01:00",
-          "end": "2026-10-31T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "MICHA’s liefde voor muziek begon al op jonge leeftijd. Op vijfjarige leeftijd speelde hij zijn eerste nummers, met de steun van zijn familie — een ervaring die de basis legde voor zijn latere carrière. In 2023 startte hij zijn soloproject en reisde hij naar Nashville, Tennessee, om verder te werken…",
-          "url": "https://www.podiuminfo.nl/concert/459908/Micha/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "462009",
-          "title": "Salque, Deurloo, Simcock & Peirani",
-          "start": "2026-10-31T20:00:00+01:00",
-          "end": "2026-10-31T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Vier vooraanstaande muzikanten uit verschillende Europese landen en muzikale genres komen samen voor een unieke muzikale ontmoeting. De Franse cellist François Salque, bekend om zijn diepgewortelde klassieke traditie en internationale prijzen, combineert zijn virtuositeit met de warme, verhalende…",
-          "url": "https://www.podiuminfo.nl/concert/462009/Salque-Deurloo-Simcock-Peirani/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "457341",
-          "title": "St. Paul And The Broken Bones",
-          "start": "2026-10-31T20:30:00+01:00",
-          "end": "2026-10-31T22:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "St. Paul & The Broken Bones heeft niets te maken met TivoliVredenburgs ster-dj St. Paul, maar is een achtkoppige soulsensatie uit de Verenigde Staten. Frontman Paul Janeway klinkt als de reïncarnatie van Otis Redding, en samen met zijn kompanen maakt hij van elk concert een dampende en stampende…",
-          "url": "https://www.podiuminfo.nl/concert/457341/St-Paul-And-The-Broken-Bones/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "467609",
-          "title": "Lola Cedès",
-          "start": "2026-10-31T20:30:00+01:00",
-          "end": "2026-10-31T22:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De jonge Nederlandse popzangeres Lola Cedès creëert een uniek geluid, met subtiele elektronische elementen die samensmelten met eerlijke en persoonlijke teksten. Haar stijl doet denken aan artiesten als Billie Eilish en London Grammar. Haar meest recente single, 'Wat Er Allemaal Al Is' (2026),…",
-          "url": "https://www.podiuminfo.nl/concert/467609/Lola-Cedes/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490959",
-          "title": "Park 6",
-          "start": "2026-10-31T21:30:00+01:00",
-          "end": "2026-10-31T23:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Park 6 is een gratis sociale hangout in TivoliVredenburg, ideaal om de werkweek af te sluiten of op te warmen voor een clubnight. Bezoekers kunnen hier genieten van goede muziek, videokunst en diverse spellen zoals tafeltennis. Met een ruime selectie aan speciaalbier en cocktails biedt het…",
-          "url": "https://www.podiuminfo.nl/concert/490959/Park-6/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "498427",
-          "title": "Rabo Open Stage: Aron Veninga",
-          "start": "2026-10-31T22:30:00+01:00",
-          "end": "2026-11-01T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Aron Veninga is een singer-songwriter afkomstig uit Leeuwarden, Nederland. Samen met zijn band presenteert hij een veelzijdig repertoire van Nederlandstalige nummers. Zijn liedjes verkennen thema's waarin velen zich kunnen herkennen en vertellen verhalen over de diverse facetten van het leven,…",
-          "url": "https://www.podiuminfo.nl/concert/498427/Rabo-Open-Stage-Aron-Veninga/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "465102",
-          "title": "Emo Night Mainland: Halloween Edition",
-          "start": "2026-10-31T23:55:00+01:00",
-          "end": "2026-11-01T01:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het is Halloweemo tijd! Op 31 oktober komt Emo Night Mainland naar de Ronda voor de XL Halloween editie. Verwacht een avond vol emo, poppunk en metalcore. De dj-teams van Emo Night Mainland draaien jouw favoriete anthems, zoals klassiekers van Good Charlotte, A Day To Remember, My Chemical Romance,…",
-          "url": "https://www.podiuminfo.nl/concert/465102/Emo-Night-Mainland-Halloween-Edition/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "491184",
-          "title": "Jiggy: Halloween",
-          "start": "2026-10-31T23:55:00+01:00",
-          "end": "2026-11-01T01:55:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Jiggy: Halloween brengt de beste feelgood hiphop en R&B van vroeger en nu naar Pandora. De avond staat garant voor een griezelig goede sfeer met een selectie van klassieke tracks van iconen als Usher, Missy Elliott en Justin Timberlake, afgewisseld met de nieuwste hits van artiesten zoals Drake,…",
-          "url": "https://www.podiuminfo.nl/concert/491184/Jiggy-Halloween/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "497504",
           "title": "Tante Alie's Metal Koor",
           "start": "2026-11-01T14:00:00+01:00",
@@ -1964,6 +1826,66 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Matthew Mole is een soort muzikale alchemist die een mengsel brouwt van folk, elektronische tovenarij en een flinke scheut excentriciteit. De platinum-verkopende artiest noemt het bruisende Zuid-Afrika zijn thuisland. \r\n\r\nZijn debuutalbum, 'The Home We Built', deed meer dan alleen de hitlijsten…",
           "url": "https://www.podiuminfo.nl/concert/478213/Matthew-Mole/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "493335",
+          "title": "Nina Rompa – Hoog",
+          "start": "2026-11-06T20:00:00+01:00",
+          "end": "2026-11-06T22:00:00.000Z",
+          "location": "Muziekhuis, Loevenhoutsedijk 301, Utrecht",
+          "description": "Zangeres Nina Rompa presenteert haar nieuwe album 'Hoog' in de serie Nieuwe Jazz, georganiseerd door UJazz, ZenneZ records en TivoliVredenburg. Het album, dat dromerig, troostrijk en betoverend van aard is, kenmerkt zich door een sferisch, meeslepend en Nederlandstalig geluid. Met een…",
+          "url": "https://www.podiuminfo.nl/concert/493335/Nina-Rompa-Hoog/Muziekhuis/",
+          "tags": []
+        },
+        {
+          "id": "484746",
+          "title": "Candy Dulfer - The Funk Legacy Allstar Show",
+          "start": "2026-11-09T20:15:00+01:00",
+          "end": "2026-11-09T22:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Maak je klaar voor een explosieve viering van de funkgeschiedenis met 'The Funk Legacy Allstar Show'. Saxofoonkoningin Candy Dulfer presenteert deze unieke show samen met Nigel Hall en Eric Benny Bloom, twee zwaargewichten van de funkband Lettuce. Het wordt een exclusief eerbetoon aan funklegendes…",
+          "url": "https://www.podiuminfo.nl/concert/484746/Candy-Dulfer-The-Funk-Legacy-Allstar-Show/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "452649",
+          "title": "Mark Lettieri",
+          "start": "2026-11-09T20:30:00+01:00",
+          "end": "2026-11-09T22:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Mark Lettieri is een graag geziene gast in TivoliVredenburg. De Amerikaanse funky gitaarvirtuoos speelde hier eerder in 2022, 2024 en 2025 en maakt wederom zijn opwachting in Pandora. Ook met Fearless Flyers en Snarky Puppy, andere bands waarmee hij furore maakte, stond hij hier al eerder op de…",
+          "url": "https://www.podiuminfo.nl/concert/452649/Mark-Lettieri/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "452013",
+          "title": "The Sisters of Mercy",
+          "start": "2026-11-10T20:00:00+01:00",
+          "end": "2026-11-10T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Baanbrekende eighties postpunk/new wave band - De legendarische Engelse rockband Sisters Of Mercy heeft sinds de oprichting in 1980 slechts drie albums uitgebracht, maar dat zijn wel allemaal klassiekers geworden: First And Last And Always (1985), Floodland (1987) en Vision Thing (1990). Met…",
+          "url": "https://www.podiuminfo.nl/concert/452013/The-Sisters-of-Mercy/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "454699",
+          "title": "Mogwai",
+          "start": "2026-11-10T20:00:00+01:00",
+          "end": "2026-11-10T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Schotse post-rockband Mogwai neemt met hun breed uitgesponnen en vaak abstracte instrumentale songs een unieke plaats in binnen het muzikale landschap. Het werk van Mogwai kenmerkt zich door een extreme dynamiek: hun nummers beginnen vaak bedrieglijk kalm, om vervolgens te eindigen in een…",
+          "url": "https://www.podiuminfo.nl/concert/454699/Mogwai/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "459802",
+          "title": "Otis Gibbs",
+          "start": "2026-11-10T20:00:00+01:00",
+          "end": "2026-11-10T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Otis Gibbs is een Amerikaanse singer-songwriter wiens stem vaak wordt vergeleken met die van Bruce Springsteen. Met zijn imposante baard en unieke geluid heeft hij een sterke indruk gemaakt in de americana-scene. Recentelijk 60 jaar geworden, blijft Gibbs actief, met zijn tiende album \"The Trust Of…",
+          "url": "https://www.podiuminfo.nl/concert/459802/Otis-Gibbs/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2302,33 +2224,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-gentle-yoga-4",
-          "title": "Gentle Yoga",
-          "start": "2026-11-01T00:00:00+01:00",
-          "end": "2026-11-01T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/gentle-yoga-4/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-loopleaf-workshop",
-          "title": "Loop & Leaf: the basics of knitting",
-          "start": "2026-11-01T00:00:00+01:00",
-          "end": "2026-11-01T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/loopleaf-workshop/",
-          "tags": [
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-23",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
           "start": "2026-11-02T00:00:00+01:00",
@@ -2419,6 +2314,20 @@
           "description": "",
           "url": "https://www.vechtclub.nl/agenda/de-midterm-elections-wat-kiest-amerika/",
           "tags": [
+            "Workshop",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-school-kantine",
+          "title": "School Kantine",
+          "start": "2026-11-03T00:00:00+01:00",
+          "end": "2026-11-03T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/school-kantine/",
+          "tags": [
+            "Gratis",
             "Workshop",
             "Kantine"
           ]
@@ -2533,19 +2442,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001512-1793487600-1793512800",
-          "title": "BASIS/ EARGASM GOD/ HiTMiLØW/ INNSANE/ MOT!VE",
-          "start": "2026-10-31T23:00:00+01:00",
-          "end": "2026-11-01T06:00:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-eargasm-god-hitmilow-innsane-motve/",
-          "tags": [
-            "Bounce",
-            "Trance"
-          ]
-        },
         {
           "id": "basis-utrecht-10001517-1794006000-1794031200",
           "title": "BASIS/ Charlie Sparks/ Coster/ N00M1/ THISO",
@@ -2773,8 +2669,7 @@
             "Trance"
           ]
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "soia-utrecht",
@@ -2884,36 +2779,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "76704",
-          "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-10-31T20:00:00.000Z",
-          "end": "2026-10-31T23:00:00.000Z",
-          "location": "Zwolle, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76704",
-          "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
-          "tags": []
-        },
-        {
-          "id": "78872",
-          "title": "Tim Burton’s Universe",
-          "start": "2026-10-31T20:00:00.000Z",
-          "end": "2026-10-31T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78872",
-          "description": "Welcome to the fantastical worlds of Tim Burton! We invite you on a journey through the music that made them unforgettable.<BR><BR>From the shimmering wonder of Alice in Wonderland to the festive magic of The Nightmare Before Christmas, from the haunting lyricism of Edward Scissorhands to the eccent",
-          "tags": []
-        },
-        {
-          "id": "78873",
-          "title": "Tim Burton’s Universe",
-          "start": "2026-10-31T20:00:00.000Z",
-          "end": "2026-10-31T23:00:00.000Z",
-          "location": "Utrecht, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78873",
-          "description": "Welcome to the fantastical worlds of Tim Burton! We invite you on a journey through the music that made them unforgettable.<BR><BR>From the shimmering wonder of Alice in Wonderland to the festive magic of The Nightmare Before Christmas, from the haunting lyricism of Edward Scissorhands to the eccent",
-          "tags": []
-        },
         {
           "id": "65505",
           "title": "The World Of Hans Zimmer - A New Dimension",
@@ -4304,7 +4169,8 @@
           "description": "Craig Armstrong / Nellee Hooper / Marius de Vries - William Shakespeare’s Romeo + Juliet<BR><BR>Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 film with William Shakespeare’s Romeo + Juliet Film in Concert, a live cinematic concert experience featuring a big-screen pr",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "polderslot-sca",
@@ -4592,13 +4458,13 @@
           "tags": []
         },
         {
-          "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2026-11",
-          "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
+          "id": "loevestein-rondleiding-2026-11",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
           "start": "2026-11-22T10:00:00+01:00",
           "end": "2026-11-22T18:00:00+01:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
+          "url": "https://www.slotloevestein.nl/agenda/rondleiding/",
           "tags": []
         },
         {

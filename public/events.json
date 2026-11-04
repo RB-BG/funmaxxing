@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:41:00.753Z",
+  "updatedAt": "2026-11-04T12:50:49.534Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,21 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17882",
-          "title": "DEATH VALLEY GIRLS (USA) + BELLA & THE BIZARRE (GER)",
-          "start": "2026-11-03T20:00:00+01:00",
-          "end": "2026-11-03T23:00:00+01:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "//www.youtube.com/watch?v=1mDTQChNa08&list=RD1mDTQChNa08&start_radio=1",
-          "url": "https://dbstudio.nl/event/death-valley-girls-usa-bella-the-bizarre-ger/",
-          "tags": [
-            "Concert",
-            "Garage",
-            "Punk",
-            "Rock 'n Roll"
-          ]
-        },
         {
           "id": "17624",
           "title": "SHINING (NORWAY) + Schizoid Lloyd",
@@ -185,11 +170,11 @@
         },
         {
           "id": "17767",
-          "title": "Wave Invasion presents OMAR DOOM (USA) + Hollow Reflection + DJ Donkerzwart (Dance in the Underdark)",
+          "title": "Wave Invasion presents OMAR DOOM (USA) + Subject Sue + Hollow Reflection + DJ Donkerzwart (Dance in the Underdark)",
           "start": "2026-11-20T20:00:00+01:00",
           "end": "2026-11-20T23:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=e0S_XXYenZ8",
+          "description": "//www.youtube.com/watch?v=IRC1tVQwC2U&t=1s",
           "url": "https://dbstudio.nl/event/omar-doom-usa/",
           "tags": [
             "Concert",
@@ -409,6 +394,20 @@
             "Metal",
             "Punk"
           ]
+        },
+        {
+          "id": "18124",
+          "title": "MARCH + MIKKI WOOD + THIRD EGO",
+          "start": "2026-12-18T20:00:00+01:00",
+          "end": "2026-12-18T23:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "//www.youtube.com/watch?v=6AvY1qHHiO8&list=RD6AvY1qHHiO8&start_radio=1",
+          "url": "https://dbstudio.nl/event/march-mikki-wood-third-ego/",
+          "tags": [
+            "Concert",
+            "Garage",
+            "Punk"
+          ]
         }
       ]
     },
@@ -420,6 +419,46 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "30316",
+          "title": "Library Card",
+          "start": "2026-12-16T20:30:00+01:00",
+          "end": "2026-12-16T23:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Wegens grote vraag naar tickets is deze show verplaatst van ACU naar EKKO. Library Card maakt compromisloze gitaarmuziek waarin hoekige postpunk, explosieve garage en meeslepende post-rock voortdurend in elkaar overvloeien. Gedragen door de scherpe spoken word van Lot van Teylingen en instrumentals…",
+          "url": "https://ekko.nl/event/library-card/",
+          "tags": []
+        },
+        {
+          "id": "32451",
+          "title": "Frans Kalf",
+          "start": "2027-04-03T20:00:00+02:00",
+          "end": "2027-04-03T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Met poëtische Nederlandstalige teksten, eigenzinnige melodieën en veel charme geeft deze aanstormende Nederbelg een eigen draai aan het indie-chanson. Zijn nummers balanceren tussen melancholie, humor en herkenbare observaties, met invloeden uit het chanson en de indiepopsfeer. De afgelopen jaren…",
+          "url": "https://ekko.nl/event/frans-kalf/",
+          "tags": []
+        },
+        {
+          "id": "32255",
+          "title": "Musical Rave",
+          "start": "2026-12-19T23:00:00+01:00",
+          "end": "2026-12-20T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Some people are worth melting for, en de beste nachten ook. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg: alles kan voorbij komen. Musical…",
+          "url": "https://ekko.nl/event/musicalrave-2/",
+          "tags": []
+        },
+        {
+          "id": "31886",
+          "title": "Eosine",
+          "start": "2027-03-10T20:30:00+01:00",
+          "end": "2027-03-10T23:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Jong Luiks/Gents viertal op het snijvlak van postpunk, indierock, emo en neo psych vol overgave, gejaagde gitaren en drums, tempowisselingen en dromerige zanglijnen afgewisseld met rauwe emotie en overgoten met verslavende postpunk, emo en een vleugje glam drama. Bij alle concerten die EKKO en…",
+          "url": "https://ekko.nl/event/eosine/",
+          "tags": []
+        },
         {
           "id": "29266",
           "title": "Lézard",
@@ -488,16 +527,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Vanuit Galway veroverde het viertal The Clockworks Londen met hun scherpe alternative rock, wat hen support-tours opleverde met helden als Pixies en Johnny Marr. Waar het debuutalbum ‘Exit Strategy’ de band op de kaart zette als energieke live-act, markeert hun nieuwe werk een ambitieuze en meer…",
           "url": "https://ekko.nl/event/the-clockworks/",
-          "tags": []
-        },
-        {
-          "id": "30085",
-          "title": "lots of hands & sundots",
-          "start": "2026-11-03T20:00:00+01:00",
-          "end": "2026-11-03T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "lots of hands lots of hands bestaat uit Billy Woodhouse en Elliot Dryden, twee vrienden die vanuit Newcastle werken aan een van de meest doorleefde indiefolk-geluiden van dit moment. Na jaren van op afstand uitgewisselde demo’s en afzonderlijk uitgebrachte platen, is ‘into a pretty room’ hun eerste…",
-          "url": "https://ekko.nl/event/lots-of-hands-sundots/",
           "tags": []
         },
         {
@@ -588,16 +617,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
           "url": "https://ekko.nl/event/bus-12-210/",
-          "tags": []
-        },
-        {
-          "id": "32255",
-          "title": "Musical Rave",
-          "start": "2026-12-19T23:00:00+01:00",
-          "end": "2026-12-20T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Some people are worth melting for, en de beste nachten ook. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg: alles kan voorbij komen. Musical…",
-          "url": "https://ekko.nl/event/musicalrave-2/",
           "tags": []
         },
         {
@@ -798,16 +817,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Mood Bored draait al een tijdje mee in de Nederlandse underground, maar komt nu eindelijk met hun langverwachte debuutalbum. De band stond eerder al in EKKO tijdens Popronde 2022 en keerde daarna terug als support van The Belair Lip Bombs, Hotel Lux en POM. Ook buiten Utrecht deelden ze het podium…",
           "url": "https://ekko.nl/event/mood-bored/",
-          "tags": []
-        },
-        {
-          "id": "31886",
-          "title": "Eosine",
-          "start": "2027-03-10T20:30:00+01:00",
-          "end": "2027-03-10T23:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Jong Luiks/Gents viertal op het snijvlak van postpunk, indierock, emo en neo psych vol overgave, gejaagde gitaren en drums, tempowisselingen en dromerige zanglijnen afgewisseld met rauwe emotie en overgoten met verslavende postpunk, emo en een vleugje glam drama. Bij alle concerten die EKKO en…",
-          "url": "https://ekko.nl/event/eosine/",
           "tags": []
         },
         {
@@ -1028,16 +1037,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De uit Dublin afkomstige Gilla Band herdefinieert al meer dan tien jaar wat je in de 21e eeuw in brede zin ‘rockmuziek’ zou kunnen noemen. Hun sound is niet echt postpunk, niet echt noiserock, maar een eigenzinnige hybridevorm die alleen van het viertal kan komen. Als grondlegger van de huidige…",
           "url": "https://ekko.nl/event/gilla-band-1/",
-          "tags": []
-        },
-        {
-          "id": "30316",
-          "title": "Library Card",
-          "start": "2026-12-16T20:30:00+01:00",
-          "end": "2026-12-16T23:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Wegens grote vraag naar tickets is deze show verplaatst van ACU naar EKKO. Library Card maakt compromisloze gitaarmuziek waarin hoekige postpunk, explosieve garage en meeslepende post-rock voortdurend in elkaar overvloeien. Gedragen door de scherpe spoken word van Lot van Teylingen en instrumentals…",
-          "url": "https://ekko.nl/event/library-card/",
           "tags": []
         },
         {
@@ -1701,26 +1700,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "460744",
-          "title": "Carpenter Brut + HEALTH",
-          "start": "2026-11-03T19:00:00+01:00",
-          "end": "2026-11-03T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De mysterieuze Franse elektronische muzikant Franck Hueso, bekend als Carpenter Brut, creëert keiharde retro-wave die doet denken aan jaren tachtig B-films, een geluid dat hij omschrijft als ‘Justice ontmoet het universum van John Carpenter’. De Amerikaanse formatie HEALTH levert een verpletterende…",
-          "url": "https://www.podiuminfo.nl/concert/460744/Carpenter-Brut-HEALTH/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "492936",
-          "title": "Culture ft. Kenyatta Hill & Cedric Myton (The Congos)",
-          "start": "2026-11-03T21:00:00+01:00",
-          "end": "2026-11-03T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Jamaicaanse rootsreggaeband Culture, bekend van het baanbrekende debuutalbum Two Sevens Clash uit 1977, staat op het podium. Na het overlijden van frontman Joseph Hill in 2006, zet zijn zoon Kenyatta Hill de muzikale erfenis voort. Het evenement wordt verder versterkt door de aanwezigheid van…",
-          "url": "https://www.podiuminfo.nl/concert/492936/Culture-ft-Kenyatta-Hill-Cedric-Myton-The-Congos-/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "496873",
           "title": "Boeklancering JOB Dutchtuber (6+)",
           "start": "2026-11-04T16:00:00+01:00",
@@ -1861,6 +1840,16 @@
           "tags": []
         },
         {
+          "id": "496032",
+          "title": "Robert Lester Folsom",
+          "start": "2026-11-11T19:45:00+01:00",
+          "end": "2026-11-11T21:45:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse singer-songwriter Robert Lester Folsom heeft door de jaren heen muziekkenners geboeid met zijn album 'Music And Dreams' uit 1976. Deze zonnige folk-/softrock met melancholische teksten werd destijds niet breed verkocht. In 2010 werd Folsom herontdekt, wat leidde tot de release van…",
+          "url": "https://www.podiuminfo.nl/concert/496032/Robert-Lester-Folsom/TivoliVredenburg/",
+          "tags": []
+        },
+        {
           "id": "463414",
           "title": "LP - All Is Not Lost Tour",
           "start": "2026-11-11T20:00:00+01:00",
@@ -1881,13 +1870,13 @@
           "tags": []
         },
         {
-          "id": "496032",
-          "title": "Robert Lester Folsom",
-          "start": "2026-11-11T20:30:00+01:00",
-          "end": "2026-11-11T22:30:00.000Z",
+          "id": "501470",
+          "title": "Dav ID",
+          "start": "2026-11-11T22:30:00+01:00",
+          "end": "2026-11-12T00:30:00.000Z",
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse singer-songwriter Robert Lester Folsom heeft door de jaren heen muziekkenners geboeid met zijn album 'Music And Dreams' uit 1976. Deze zonnige folk-/softrock met melancholische teksten werd destijds niet breed verkocht. In 2010 werd Folsom herontdekt, wat leidde tot de release van…",
-          "url": "https://www.podiuminfo.nl/concert/496032/Robert-Lester-Folsom/TivoliVredenburg/",
+          "description": "Dav ID brengt moderne pop samen met synthesizers die zijn geïnspireerd op de jaren tachtig en groovende midtempo-ritmes. Op zijn EP In The Dark verkent hij nachtelijke emoties, verbondenheid en bevrijding, verpakt in melodieën en een warme productie. Tijdens zijn optreden staat hij met een band op…",
+          "url": "https://www.podiuminfo.nl/concert/501470/Dav-ID/TivoliVredenburg/",
           "tags": []
         },
         {
@@ -1898,6 +1887,26 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Nederlandse popzangeres met intieme en kwetsbare nummers - De Nederlandse popzangeres Noor valt op met intieme en kwetsbare nummers, zowel in het Engels (onder de naam Norah Hendriks) als het Nederlands.",
           "url": "https://www.podiuminfo.nl/concert/453806/Noor/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "463634",
+          "title": "Against The Current",
+          "start": "2026-11-12T20:00:00+01:00",
+          "end": "2026-11-12T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse rockband Against The Current vergaarde vanaf 2011 een following met covervideo’s, inmiddels heeft de band een stevige carrière opgebouwd met eigen werk.",
+          "url": "https://www.podiuminfo.nl/concert/463634/Against-The-Current/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "490394",
+          "title": "Vals Alarm",
+          "start": "2026-11-12T20:00:00+01:00",
+          "end": "2026-11-12T22:00:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "Het Haagse punktrio Vals Alarm heeft een sterke live-reputatie opgebouwd, onder meer op festivals als Best Kept Secret, MadNes en Wildeburg. De band, die nog maar enkele jaren bestaat, heeft al nummers als Boring, Loser en New Boys die publieksfavorieten zijn geworden. Momenteel werkt het drietal…",
+          "url": "https://www.podiuminfo.nl/concert/490394/Vals-Alarm/dBs/",
           "tags": []
         }
       ]
@@ -2040,18 +2049,6 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-23771",
-          "title": "Commander Tuesday",
-          "start": "2026-11-03T18:00:00+01:00",
-          "end": "2026-11-03T23:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 44 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-250/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
           "id": "lab-monkey-23773",
           "title": "Weekly Draft",
           "start": "2026-11-05T19:00:00+01:00",
@@ -2061,6 +2058,18 @@
           "url": "https://www.lab-monkey.nl/event_new/weekly-draft-133/",
           "tags": [
             "Draft"
+          ]
+        },
+        {
+          "id": "lab-monkey-11402",
+          "title": "Ladies Knight",
+          "start": "2026-11-10T19:00:00+01:00",
+          "end": "2026-11-10T23:00:00+01:00",
+          "location": "t Lab, Utrecht",
+          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het…",
+          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
+          "tags": [
+            "Ladies'(K)night"
           ]
         }
       ]
@@ -2281,20 +2290,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-school-kantine",
-          "title": "School Kantine",
-          "start": "2026-11-04T00:00:00+01:00",
-          "end": "2026-11-04T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/school-kantine/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-luisteravond-5",
           "title": "Luisteravond",
           "start": "2026-11-06T00:00:00+01:00",
@@ -2417,6 +2412,20 @@
             "Workshop",
             "Vechtclub Keiland"
           ]
+        },
+        {
+          "id": "beton-spraakwater",
+          "title": "Spraakwater",
+          "start": "2026-11-10T00:00:00+01:00",
+          "end": "2026-11-10T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/spraakwater/",
+          "tags": [
+            "Kunst",
+            "Panelgesprek",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2428,6 +2437,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261121-out-of-sight-22",
+          "title": "Out of Sight",
+          "start": "2026-11-21T00:00:00+01:00",
+          "end": "2026-11-21T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 21st. With DJ Count Jive and The Shake!. Out on the streets and Out of Sight. Saturday November 21st. Fall in love with the sounds of northern soul, garage punk and everything 1960s in-between. With DJ Count Jive and The Shake!",
+          "url": "https://acu.nl/events/20261121/out-of-sight-22",
+          "tags": []
+        },
         {
           "id": "acu-20261112-alternate-comedy-utrecht-4",
           "title": "Alternate Comedy Utrecht",
@@ -2496,26 +2515,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "November 25th. Monthly hangout for the bi+ community. Join our monthly bi+ café in Utrecht! The bi+ café offers a place for bi+ people to meet, get together, share experiences and, above all, have a fun evening. We believe it is important to create a safer space together, where there is room for…",
           "url": "https://acu.nl/events/20261125/bi-cafe-utrecht-4",
-          "tags": []
-        },
-        {
-          "id": "acu-20261218-welcome-at-the-purrrlesque",
-          "title": "Welcome at the purrrlesque!",
-          "start": "2026-12-18T00:00:00+01:00",
-          "end": "2026-12-18T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "December 18th. Imagine a burlesque show filled and merged with cats, welcome at the purrrlesque! This queer party is for all the cats who just want to dance and play around in burlesque style. Expect the cats from dj catfi.ght spinning on the decks, purrrlesque acts and some more surprises. Our…",
-          "url": "https://acu.nl/events/20261218/welcome-at-the-purrrlesque",
-          "tags": []
-        },
-        {
-          "id": "acu-20261107-slik-green-policy-dunebender",
-          "title": "Slik + Green Policy + Dunebender",
-          "start": "2026-11-07T00:00:00+01:00",
-          "end": "2026-11-07T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 7th. A Night of Sludge and Disorder. Slik (Prog Punk) A progressive punk band based in Utrecht, combining outspoken lyrics against inequality with loud vocals, unconventional guitar riffs, and a sound that gets dirty without losing its groove and playfulness. Drawing inspiration from…",
-          "url": "https://acu.nl/events/20261107/slik-green-policy-dunebender",
           "tags": []
         }
       ]
@@ -2754,6 +2753,18 @@
             "House",
             "Trance"
           ]
+        },
+        {
+          "id": "basis-utrecht-10001536-1799535600-1799560800",
+          "title": "BASIS/ AIS/ DURDENHAUER/ NYCO/ PANTEROS666",
+          "start": "2027-01-09T23:00:00+01:00",
+          "end": "2027-01-10T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-ais-durdenhauer-nyco-panteros666/",
+          "tags": [
+            "Bounce"
+          ]
         }
       ]
     },
@@ -2875,26 +2886,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "74774",
-          "title": "Halloween Classics at the Movies",
-          "start": "2026-11-03T20:00:00.000Z",
-          "end": "2026-11-03T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74774",
-          "description": "The ultimate Halloween concert experience with a full orchestra: the Philharmonie S&uuml;dwestfalen and conductor Sander Teepen perform music from thriller and horror classics such as Halloween , The Silence of the Lambs , Psycho , and The Nightmare Before Christmas , plus dark gems from the classic",
-          "tags": []
-        },
-        {
-          "id": "76705",
-          "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-11-03T20:00:00.000Z",
-          "end": "2026-11-03T23:00:00.000Z",
-          "location": "Leiden, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76705",
-          "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
-          "tags": []
-        },
         {
           "id": "76706",
           "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
@@ -3372,7 +3363,7 @@
           "end": "2026-12-18T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74775",
-          "description": "Under the direction of Ingmar Beck, the Philharmonie S&uuml;dwestfalen presents the most beautiful music from Christmas movies and winter classics. It is cold outside, and perhaps a snowflake or two is falling here and there, but inside you can warm yourself with the most beautiful music composed fo",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Under the direction of Ingmar Beck, the Philharmonie S&uuml;dwestfalen presents the most beautiful music from Christmas movies and winter classics. It is cold outside, and perhaps a snowflake or two is falling here and there, but inside you can warm yourself with the most…",
           "tags": []
         },
         {
@@ -3482,7 +3473,7 @@
           "end": "2027-01-05T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76616",
-          "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the…",
           "tags": []
         },
         {
@@ -3492,7 +3483,7 @@
           "end": "2027-01-06T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76617",
-          "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the…",
           "tags": []
         },
         {
@@ -3522,7 +3513,7 @@
           "end": "2027-01-10T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76618",
-          "description": "Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the prestigious Czech Natio",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Czech National Symphony Orchestra<BR>Boys' choir Boni Pueri<BR><BR>Following the enormous success of the completely sold-out concerts in 2026, Master of Film Music – Ennio Morricone returns to Dutch venues in 2027 for an exclusive tour. Starting in January, the…",
           "tags": []
         },
         {
@@ -3882,7 +3873,7 @@
           "end": "2027-03-07T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=74778",
-          "description": "Radio Philharmonic Orchestra<BR>Great Broadcasting Choir<BR>St&eacute;phane Den&egrave;ve, conductor<BR><BR>Just after his 95th birthday, we pay tribute to the film music of John Williams. From Star Wars to E.T. : this morning with orchestra and choir Williams is central. The French conductor St&eac",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Radio Philharmonic Orchestra<BR>Great Broadcasting Choir<BR>St&eacute;phane Den&egrave;ve, conductor<BR><BR>Just after his 95th birthday, we pay tribute to the film music of John Williams. From Star Wars to E.T. : this morning with orchestra and choir Williams is central.…",
           "tags": []
         },
         {
@@ -4216,6 +4207,36 @@
           "tags": []
         },
         {
+          "id": "80118",
+          "title": "Harry Potter and the Philosopher's Stone in Concert",
+          "start": "2027-06-25T20:00:00.000Z",
+          "end": "2027-06-25T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80118",
+          "description": "John Williams - Harry Potter and the Philosopher's Stone<BR><BR>Relive the film that started it all with Harry Potter and the Philosopher’s Stone&trade; in Concert. Experience the complete film on the big screen as the Residentie Orkest performs John Williams’ iconic score live",
+          "tags": []
+        },
+        {
+          "id": "80117",
+          "title": "Harry Potter and the Philosopher's Stone in Concert",
+          "start": "2027-06-26T20:00:00.000Z",
+          "end": "2027-06-26T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80117",
+          "description": "John Williams - Harry Potter and the Philosopher's Stone<BR><BR>Relive the film that started it all with Harry Potter and the Philosopher’s Stone&trade; in Concert. Experience the complete film on the big screen as the Residentie Orkest performs John Williams’ iconic score live",
+          "tags": []
+        },
+        {
+          "id": "80116",
+          "title": "67 Minutes, A Journey of Hope",
+          "start": "2027-07-18T20:00:00.000Z",
+          "end": "2027-07-18T23:00:00.000Z",
+          "location": "Enschede, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80116",
+          "description": "Powerful African music set to well-known songs and compelling symphonic film music.<BR><BR>On Sunday, July 18, 2027, Nelson Mandela Day, a special concert will resound at the Muziekcentrum Enschede, in which symphonic music, choral singing, and African rhythms come together.<BR><BR>Nelson Mandela de",
+          "tags": []
+        },
+        {
           "id": "79215",
           "title": "William Shakespeare’s Romeo + Juliet Film in Concert",
           "start": "2027-10-30T20:00:00.000Z",
@@ -4235,8 +4256,7 @@
           "description": "Craig Armstrong / Nellee Hooper / Marius de Vries - William Shakespeare’s Romeo + Juliet<BR><BR>Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 film with William Shakespeare’s Romeo + Juliet Film in Concert, a live cinematic concert experience featuring a big-screen pr",
           "tags": []
         }
-      ],
-      "broken": true
+      ]
     },
     {
       "id": "polderslot-sca",

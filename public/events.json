@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:50:49.534Z",
+  "updatedAt": "2026-11-05T12:59:21.112Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -241,7 +241,7 @@
           "start": "2026-11-26T20:30:00+01:00",
           "end": "2026-11-26T23:00:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Info volgt, tickets al te koop!",
+          "description": "//www.youtube.com/watch?v=BUOghLVZRrs",
           "url": "https://dbstudio.nl/event/club-3voor12-utrecht-w/",
           "tags": [
             "Club 3voor 12 / Utrecht"
@@ -271,6 +271,18 @@
             "Concert",
             "Hardcore",
             "Punk"
+          ]
+        },
+        {
+          "id": "18181",
+          "title": "BALLROOM BLITZ DISCO",
+          "start": "2026-11-28T23:00:00+01:00",
+          "end": "2026-11-29T03:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "de 𝗕𝗔𝗟𝗟𝗥𝗢𝗢𝗠 𝗕𝗟𝗜𝗧𝗭. \nVoor cheeky dansers, verloren zielen en mensen met slechte ideeën. Lekkere deunen, zweterige lijven en laat vooral je waardigheid at the door. Ongegeneerde gezelligheid staat buiten kijf! \nHeb je een onbedwingbare drang tot dansen maar zijn er veel te veel puppies…",
+          "url": "https://dbstudio.nl/event/ballroom-blitz-disco/",
+          "tags": [
+            "Ballroom Blitz"
           ]
         },
         {
@@ -394,20 +406,6 @@
             "Metal",
             "Punk"
           ]
-        },
-        {
-          "id": "18124",
-          "title": "MARCH + MIKKI WOOD + THIRD EGO",
-          "start": "2026-12-18T20:00:00+01:00",
-          "end": "2026-12-18T23:00:00+01:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "//www.youtube.com/watch?v=6AvY1qHHiO8&list=RD6AvY1qHHiO8&start_radio=1",
-          "url": "https://dbstudio.nl/event/march-mikki-wood-third-ego/",
-          "tags": [
-            "Concert",
-            "Garage",
-            "Punk"
-          ]
         }
       ]
     },
@@ -419,6 +417,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "32439",
+          "title": "Club Weeb",
+          "start": "2026-12-06T19:00:00+01:00",
+          "end": "2026-12-06T23:59:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Welkom bij de kersteditie van Club Weeb: een dansavond voor weebs, met exclusieve focus op Japanse popmuziek en anime. Deze keer met happy hardcore producer LaXal, Vocaloid-producer Levia en exclusieve anime-sets van Kuro, Yakkaiser en het Club Weeb DJ Team. Van anime in de bioscoop tot J-pop in…",
+          "url": "https://ekko.nl/event/club-weeb/",
+          "tags": []
+        },
         {
           "id": "30316",
           "title": "Library Card",
@@ -517,16 +525,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Het Londense duo Good Health Good Wealth begon ooit als punkband, maar heeft inmiddels een geheel eigen mix gevonden van spoken word, indie-hiphop en elektronica. Hun muziek is rauw, energiek en onvoorspelbaar, met scherpe teksten en stuwende elektronische klanken die alle kanten op kunnen gaan.…",
           "url": "https://ekko.nl/event/good-health-good-wealth/",
-          "tags": []
-        },
-        {
-          "id": "28045",
-          "title": "The Clockworks",
-          "start": "2026-11-04T20:00:00+01:00",
-          "end": "2026-11-04T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Vanuit Galway veroverde het viertal The Clockworks Londen met hun scherpe alternative rock, wat hen support-tours opleverde met helden als Pixies en Johnny Marr. Waar het debuutalbum ‘Exit Strategy’ de band op de kaart zette als energieke live-act, markeert hun nieuwe werk een ambitieuze en meer…",
-          "url": "https://ekko.nl/event/the-clockworks/",
           "tags": []
         },
         {
@@ -1151,7 +1149,7 @@
         },
         {
           "id": "helling-boris-pink-20th-anniversary-tour-planning-to-burial-12-11-2026",
-          "title": "BORIS – PINK 20th Anniversary Tour + Planning To Burial",
+          "title": "BORIS – PINK 20th Anniversary Tour + Planning For Burial",
           "start": "2026-11-12T20:00:00+01:00",
           "end": "2026-11-12T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
@@ -1220,6 +1218,16 @@
           "tags": []
         },
         {
+          "id": "helling-the-sun-20-11-2026",
+          "title": "The Sun",
+          "start": "2026-11-20T23:59:00+01:00",
+          "end": "2026-11-21T05:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "More than a reggaeton event, a fusion of music, energy, and culture.",
+          "url": "https://dehelling.nl/agenda/the-sun-20-11-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-violent-vira-support-cl_audio_dj-21-11-2026",
           "title": "Violent Vira + support cl_audio_dj",
           "start": "2026-11-21T19:30:00+01:00",
@@ -1230,13 +1238,13 @@
           "tags": []
         },
         {
-          "id": "helling-queer-panic-wys-after-party-21-11-2026",
-          "title": "Queer Panic! WYS After Party",
+          "id": "helling-queer-panic-what-you-see-afterparty-21-11-2026",
+          "title": "Queer Panic! What You See Afterparty",
           "start": "2026-11-21T23:00:00+01:00",
           "end": "2026-11-22T04:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Queer party vol fierce drags, sickening looks en harde beats",
-          "url": "https://dehelling.nl/agenda/queer-panic-wys-after-party-21-11-2026/",
+          "url": "https://dehelling.nl/agenda/queer-panic-what-you-see-afterparty-21-11-2026/",
           "tags": []
         },
         {
@@ -1410,6 +1418,16 @@
           "tags": []
         },
         {
+          "id": "helling-tropenrooster-19-12-2026",
+          "title": "Tropenrooster",
+          "start": "2026-12-19T23:00:00+01:00",
+          "end": "2026-12-20T04:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "De heetste latin, dancehall en afro ",
+          "url": "https://dehelling.nl/agenda/tropenrooster-19-12-2026/",
+          "tags": []
+        },
+        {
           "id": "helling-modulation-20-12-2026",
           "title": "Modulation",
           "start": "2026-12-20T20:15:00+01:00",
@@ -1417,6 +1435,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Live modulaire synthesizers in intieme setting. ",
           "url": "https://dehelling.nl/agenda/modulation-20-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-uuunight-23-12-2026",
+          "title": "UUUNIGHT",
+          "start": "2026-12-23T22:00:00+01:00",
+          "end": "2026-12-24T02:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "16+ Clubnacht",
+          "url": "https://dehelling.nl/agenda/uuunight-23-12-2026/",
           "tags": []
         },
         {
@@ -1550,6 +1578,16 @@
           "tags": []
         },
         {
+          "id": "helling-no-barrier-pop-goes-punk-19-02-2027",
+          "title": "NO BARRIER: Pop Goes Punk!",
+          "start": "2027-02-19T21:00:00+01:00",
+          "end": "2027-02-20T02:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "DJ Special",
+          "url": "https://dehelling.nl/agenda/no-barrier-pop-goes-punk-19-02-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-the-molotovs-22-02-2027",
           "title": "The Molotovs",
           "start": "2027-02-22T20:15:00+01:00",
@@ -1580,6 +1618,26 @@
           "tags": []
         },
         {
+          "id": "helling-uicf-dungeons-dummies-03-03-2027",
+          "title": "UICF: Dungeons & Dummies",
+          "start": "2027-03-03T20:00:00+01:00",
+          "end": "2027-03-03T22:45:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Four stand-up comedians, one fantasy role-playing adventure. English edition.",
+          "url": "https://dehelling.nl/agenda/uicf-dungeons-dummies-03-03-2027/",
+          "tags": []
+        },
+        {
+          "id": "helling-uicf-kerkers-comedians-04-03-2027",
+          "title": "UICF: Kerkers & Comedians",
+          "start": "2027-03-04T20:00:00+01:00",
+          "end": "2027-03-04T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Vier stand-up comedians spelen een wilde avond fantasy role play met Game Master Edo Berger.",
+          "url": "https://dehelling.nl/agenda/uicf-kerkers-comedians-04-03-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-bloodred-hourglass-05-03-2027",
           "title": "Bloodred Hourglass",
           "start": "2027-03-05T20:15:00+01:00",
@@ -1600,6 +1658,16 @@
           "tags": []
         },
         {
+          "id": "helling-the-horse-company-19-03-2027",
+          "title": "The Horse Company",
+          "start": "2027-03-19T20:00:00+01:00",
+          "end": "2027-03-19T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "‘s Lands best bewaarde indieparel verbreekt de stilte na 14 jaar",
+          "url": "https://dehelling.nl/agenda/the-horse-company-19-03-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-morgan-wallen-tribute-22-03-2027",
           "title": "Morgan Wallen Tribute",
           "start": "2027-03-22T20:15:00+01:00",
@@ -1607,6 +1675,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Ode aan de nieuwe country-superster",
           "url": "https://dehelling.nl/agenda/morgan-wallen-tribute-22-03-2027/",
+          "tags": []
+        },
+        {
+          "id": "helling-uuunight-27-03-2027",
+          "title": "UUUNIGHT",
+          "start": "2027-03-27T22:00:00+01:00",
+          "end": "2027-03-28T03:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "16+ Clubnacht",
+          "url": "https://dehelling.nl/agenda/uuunight-27-03-2027/",
           "tags": []
         },
         {
@@ -1670,6 +1748,16 @@
           "tags": []
         },
         {
+          "id": "helling-uuunight-18-06-2027",
+          "title": "UUUNIGHT",
+          "start": "2027-06-18T22:00:00+02:00",
+          "end": "2027-06-19T02:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "16+ clubnacht",
+          "url": "https://dehelling.nl/agenda/uuunight-18-06-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-extince-30-jaar-spraakwater-25-09-2027",
           "title": "Extince – 30 Jaar Spraakwater",
           "start": "2027-09-25T20:00:00+02:00",
@@ -1677,6 +1765,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "De godfather van de nederhop is nog steeds nummer één",
           "url": "https://dehelling.nl/agenda/extince-30-jaar-spraakwater-25-09-2027/",
+          "tags": []
+        },
+        {
+          "id": "helling-uuunight-22-10-2027",
+          "title": "UUUNIGHT",
+          "start": "2027-10-22T22:00:00+01:00",
+          "end": "2027-10-23T02:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "16+ Clubnacht",
+          "url": "https://dehelling.nl/agenda/uuunight-22-10-2027/",
           "tags": []
         }
       ]
@@ -1699,46 +1797,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "496873",
-          "title": "Boeklancering JOB Dutchtuber (6+)",
-          "start": "2026-11-04T16:00:00+01:00",
-          "end": "2026-11-04T18:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Job Dutchtuber, bekend van zijn YouTube-kanaal, viert de lancering van zijn nieuwe boek 'Job en Bob: De grootste hit van het heelal'. Tijdens dit evenement zal Job voorlezen uit zijn nieuwe avontuur en het gloednieuwe nummer 'Verdwalen met Jou' voor het eerst live ten gehore brengen. DJ Billy The…",
-          "url": "https://www.podiuminfo.nl/concert/496873/Boeklancering-JOB-Dutchtuber-6-/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "477495",
-          "title": "Walk off the Earth",
-          "start": "2026-11-04T19:45:00+01:00",
-          "end": "2026-11-04T21:45:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Canadese band Walk off the Earth werd wereldberoemd in 2012 met hun YouTube-cover van 'Somebody That I Used To Know' van Gotye, waarbij de vijf leden gezamenlijk één gitaar bespeelden. Na vijftien jaar zijn de muzikanten nog steeds actief, met een grote hit in 2023, 'My Stupid Heart', en het…",
-          "url": "https://www.podiuminfo.nl/concert/477495/Walk-off-the-Earth/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "453031",
-          "title": "The Clockworks + supp: Danny Blue",
-          "start": "2026-11-04T20:00:00+01:00",
-          "end": "2026-11-04T22:00:00.000Z",
-          "location": "EKKO, Bemuurde Weerd WZ 3, Utrecht",
-          "description": "The Clockworks, een viertal uit Galway, veroverde Londen met hun scherpe alternative rock en speelde eerder support-tours voor artiesten als Pixies. Hun debuutalbum 'Exit Strategy' vestigde hen als een energieke live-act. Met het aankomende tweede album, 'The Entertainment', dat op 27 maart…",
-          "url": "https://www.podiuminfo.nl/concert/453031/The-Clockworks-supp-Danny-Blue/EKKO/",
-          "tags": []
-        },
-        {
-          "id": "478213",
-          "title": "Matthew Mole",
-          "start": "2026-11-04T20:00:00+01:00",
-          "end": "2026-11-04T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Matthew Mole is een soort muzikale alchemist die een mengsel brouwt van folk, elektronische tovenarij en een flinke scheut excentriciteit. De platinum-verkopende artiest noemt het bruisende Zuid-Afrika zijn thuisland. \r\n\r\nZijn debuutalbum, 'The Home We Built', deed meer dan alleen de hitlijsten…",
-          "url": "https://www.podiuminfo.nl/concert/478213/Matthew-Mole/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "493335",
           "title": "Nina Rompa – Hoog",
@@ -1908,6 +1966,36 @@
           "description": "Het Haagse punktrio Vals Alarm heeft een sterke live-reputatie opgebouwd, onder meer op festivals als Best Kept Secret, MadNes en Wildeburg. De band, die nog maar enkele jaren bestaat, heeft al nummers als Boring, Loser en New Boys die publieksfavorieten zijn geworden. Momenteel werkt het drietal…",
           "url": "https://www.podiuminfo.nl/concert/490394/Vals-Alarm/dBs/",
           "tags": []
+        },
+        {
+          "id": "458778",
+          "title": "Nate Smith",
+          "start": "2026-11-12T20:15:00+01:00",
+          "end": "2026-11-12T22:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Drummer, componist en producer Nate Smith staat bekend om zijn moeiteloze mix van jazz, hiphop en soul. Met een indrukwekkende carrière die hem op het podium bracht met grootheden als Pat Metheny en Norah Jones, bewees hij met zijn GRAMMY-genomineerde project KINFOLK zijn veelzijdigheid. Zijn…",
+          "url": "https://www.podiuminfo.nl/concert/458778/Nate-Smith/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "460280",
+          "title": "Niall McCabe",
+          "start": "2026-11-12T20:45:00+01:00",
+          "end": "2026-11-12T22:45:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Ierse singer-songwriter Niall McCabe mengt de rijke folktraditie van zijn thuisland met americana. Zijn inspiratiebronnen zijn al even uiteenlopend: Van Morrison, Sting en Alison Krauss. Op zijn debuutalbum Rituals (2023) valt McCabe’s warme stem als eerste op, maar vlak ook zijn uitstekende…",
+          "url": "https://www.podiuminfo.nl/concert/460280/Niall-McCabe/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "499978",
+          "title": "ULTRAJAZZ",
+          "start": "2026-11-12T21:00:00+01:00",
+          "end": "2026-11-12T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "ULTRAJAZZ is een wekelijkse jazz jamsessie op de Rabo Open Stage, geleid door Kika Sprangers. Het biedt een platform voor jazzmuzikanten en liefhebbers om samen te komen en te improviseren.",
+          "url": "https://www.podiuminfo.nl/concert/499978/ULTRAJAZZ/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1929,42 +2017,22 @@
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
-          "id": "613036",
-          "title": "D&D 5.5e: Where did they go?",
-          "start": "2026-11-04T19:00:00+01:00",
-          "end": "2026-11-04T22:00:00+01:00",
+          "id": "613255",
+          "title": "D&D 5.5e Phandelver: Thralls of Eternality",
+          "start": "2026-11-11T19:00:00+01:00",
+          "end": "2026-11-11T22:00:00+01:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "D&amp;D 5.5e: Where did they go? Wed 4/11 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Character level 2 Written by Richard Jansen-Parkes Adventure, danger and a decent dose of downright weirdness erupt when the party’s attempt to grab a rare afternoon of…",
+          "description": "D&amp;D 5.5e Phandelver: Thralls of Eternality Wed 11/11 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition, D&amp;D Adventurers League, Forgotten Realms Campaign Character levels 1-16 Written by Wizards of the Coast A quintessential dungeoneering adventure for…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
         {
-          "id": "611840",
-          "title": "🧚‍♀️PFS2 Quest #19: The Elsewhere Feast (beginners friendy)🥂",
-          "start": "2026-11-04T19:00:00+01:00",
-          "end": "2026-11-04T22:00:00+01:00",
+          "id": "613375",
+          "title": "Another Bug Hunt: The Gospel",
+          "start": "2026-11-11T19:00:00+01:00",
+          "end": "2026-11-11T22:00:00+01:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "🧚‍♀️PFS2 Quest #19: The Elsewhere Feast (beginners friendy)🥂 Wed 4/11 7-10pm at Subcultures @Silver Heron Studios English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by Mark Malcolm The enigmatic being known simply as the…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "611837",
-          "title": "Pirate Borg - At World's End - CAMPAIGN FINALE @ Silver Heron 🐙 (3 tables!)",
-          "start": "2026-11-04T19:00:00+01:00",
-          "end": "2026-11-04T22:00:00+01:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Pirate Borg - At World's End - CAMPAIGN FINALE @ Silver Heron 🐙 (3 tables!) Wed 4/11 7-10pm at Subcultures @Silver Heron Studios English, Pirate Borg Written by Luke Stratton, Limithron A scurvy ridden, rules light, art heavy RPG based on Mörk Borg. Inspired by history, fantasy, horror, and rum.…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
-          "id": "612084",
-          "title": "Campagne: Golven in Oevervoorde",
-          "start": "2026-11-04T19:00:00+01:00",
-          "end": "2026-11-04T22:00:00+01:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "Campagne: Golven in Oevervoorde Wed 4/11 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
+          "description": "Another Bug Hunt: The Gospel Wed 11/11 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2009,6 +2077,16 @@
           "tags": []
         },
         {
+          "id": "613376",
+          "title": "Another Bug Hunt: The Great Flood",
+          "start": "2026-11-18T19:00:00+01:00",
+          "end": "2026-11-18T22:00:00+01:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Another Bug Hunt: The Great Flood Wed 18/11 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "611841",
           "title": "🏜PFS2 Quest #17: Escorting a Mirage (beginners friendly)🌸",
           "start": "2026-11-18T19:00:00+01:00",
@@ -2025,6 +2103,16 @@
           "end": "2026-11-18T22:00:00+01:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "Campagne: Golven in Oevervoorde Wed 18/11 7-10pm at Subcultures @De Bierkantine Dutch; Flemish, Indie RPG Written by Reinier van Eck We spelen in de wereld van Ysailon en met rollenspelsysteem Tactique. Wereld en systeem zijn in de jaren '90 ontworpen door een groep gedreven spelers en door de tijd…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "613377",
+          "title": "Another Bug Hunt: Revelations",
+          "start": "2026-11-25T19:00:00+01:00",
+          "end": "2026-11-25T22:00:00+01:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Another Bug Hunt: Revelations Wed 25/11 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2426,6 +2514,20 @@
             "Panelgesprek",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-what-your-grandma-understands-about-ai-that-you-dont",
+          "title": "What your Grandma Understands About AI That You Don’t",
+          "start": "2026-11-10T00:00:00+01:00",
+          "end": "2026-11-10T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/what-your-grandma-understands-about-ai-that-you-dont/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2437,6 +2539,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261106-le-guess-who",
+          "title": "Le Guess Who?",
+          "start": "2026-11-06T00:00:00+01:00",
+          "end": "2026-11-06T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "November 6th. Conjunto Media Luna / Devon Rexi / The Ensemble of Cultural Approximation. Interdimensional dub group Devon Rexi skirt and flirt around a motorik kraut-rock mentality with an unmistakably dub-laden physicality and an uncategorizable sense of experimentation. They do this artfully and…",
+          "url": "https://acu.nl/events/20261106/le-guess-who",
+          "tags": []
+        },
         {
           "id": "acu-20261121-out-of-sight-22",
           "title": "Out of Sight",
@@ -2764,6 +2876,20 @@
           "url": "https://clubbasis.nl/event/basis-ais-durdenhauer-nyco-panteros666/",
           "tags": [
             "Bounce"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001537-1802473200-1802498400",
+          "title": "BASIS/ Speedy J All Night Long",
+          "start": "2027-02-12T23:00:00+01:00",
+          "end": "2027-02-13T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-speedy-j-all-night-long-4/",
+          "tags": [
+            "Groovy techno",
+            "Old school techno",
+            "Underground techno"
           ]
         }
       ]
@@ -4404,16 +4530,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-familietheater-vrije-vogels-2026",
-          "title": "Familietheater: Vrije Vogels",
-          "start": "2026-12-06T10:00:00+01:00",
-          "end": "2026-12-06T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/familietheater-vrije-vogels/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-sinterklaas-uitzwaaien-2026",
           "title": "Sinterklaas uitzwaaien",
           "start": "2026-12-06T10:00:00+01:00",
@@ -4421,6 +4537,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/sinterklaas-uitzwaaien/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-familietheater-vrije-vogels-2026",
+          "title": "Familietheater: Vrije Vogels",
+          "start": "2026-12-06T10:00:00+01:00",
+          "end": "2026-12-06T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/familietheater-vrije-vogels/",
           "tags": []
         },
         {
@@ -4454,16 +4580,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-kerstvakantie-in-het-kasteelatelier-2026",
-          "title": "Kerstvakantie in het Kasteelatelier",
-          "start": "2026-12-19T10:00:00+01:00",
-          "end": "2027-01-03T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/kerstvakantie-in-het-kasteelatelier/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-winterse-rondleiding-2026",
           "title": "Winterse rondleiding",
           "start": "2026-12-19T10:00:00+01:00",
@@ -4471,6 +4587,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/winterse-rondleiding/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-kerstvakantie-in-het-kasteelatelier-2026",
+          "title": "Kerstvakantie in het Kasteelatelier",
+          "start": "2026-12-19T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/kerstvakantie-in-het-kasteelatelier/",
           "tags": []
         },
         {
@@ -4504,6 +4630,26 @@
           "tags": []
         },
         {
+          "id": "muiderslot-historische-proeverij-9-jan-2027-2027",
+          "title": "Historische proeverij 9 jan 2027",
+          "start": "2027-01-09T10:00:00+01:00",
+          "end": "2027-01-09T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-9-jan-2027/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-6-feb-2027-2027",
+          "title": "Historische proeverij 6 feb 2027",
+          "start": "2027-02-06T10:00:00+01:00",
+          "end": "2027-02-06T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-6-feb-2027/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-familietheater-de-staart-van-de-djinn-1001-nacht-2027",
           "title": "Familietheater: De staart van de Djinn, 1001 Nacht",
           "start": "2027-02-07T10:00:00+01:00",
@@ -4514,6 +4660,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-historische-proeverij-20-feb-2027-2027",
+          "title": "Historische proeverij 20 feb 2027",
+          "start": "2027-02-20T10:00:00+01:00",
+          "end": "2027-02-20T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-20-feb-2027/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-kasteel-kookclub-muiderslot-thema-lente-2027",
           "title": "Kasteel Kookclub Muiderslot Thema Lente",
           "start": "2027-03-05T10:00:00+01:00",
@@ -4521,6 +4677,26 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/kasteel-kookclub-muiderslot-thema-lente/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-6-maart-2027-2027",
+          "title": "Historische proeverij 6 maart 2027",
+          "start": "2027-03-06T10:00:00+01:00",
+          "end": "2027-03-06T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-6-maart-2027/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-20-maart-2027-2027",
+          "title": "Historische proeverij 20 maart 2027",
+          "start": "2027-03-20T10:00:00+01:00",
+          "end": "2027-03-20T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-20-maart-2027/",
           "tags": []
         },
         {

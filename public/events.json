@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:59:21.112Z",
+  "updatedAt": "2026-11-06T12:47:02.524Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17624",
-          "title": "SHINING (NORWAY) + Schizoid Lloyd",
-          "start": "2026-11-05T20:00:00+01:00",
-          "end": "2026-11-05T23:30:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=iGwBp7Yr0Oo",
-          "url": "https://dbstudio.nl/event/shining-norway/",
-          "tags": [
-            "Black Metal",
-            "Electronics"
-          ]
-        },
         {
           "id": "17549",
           "title": "Expect Kaos, Create Kaos, it's Karaoke innit!",
@@ -40,7 +27,7 @@
           "start": "2026-11-07T13:00:00+01:00",
           "end": "2026-11-07T22:30:00+01:00",
           "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "Le Guess Who? & U? presenteren totally wired > GRATIS \nIn samenwerking met Antipode, Girls to the Front, OCCII, en ZALZALA\n\nDit jaar slaan Le Guess Who? en U? de handen ineen en presenteren totally wired. Vanuit gedeelde kennis en collectieve energie viert dit gratis toegankelijke programma de…",
+          "description": "00 | Main Stage | ZANJEER \n\n\n  \nLe Guess Who? & U? presenteren totally wired > GRATIS \nIn samenwerking met Antipode, Girls to the Front, OCCII, en ZALZALA\n\nDit jaar slaan Le Guess Who? en U? de handen ineen en presenteren totally wired. Vanuit gedeelde kennis en collectieve energie viert dit gratis…",
           "url": "https://dbstudio.nl/event/le-guess-who-u-present-totally-wired/",
           "tags": [
             "Le Guess Who?",
@@ -291,7 +278,7 @@
           "start": "2026-11-29T14:30:00+01:00",
           "end": "2026-11-29T19:30:00+01:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Alvvays, Porter Robinson, glass beach, Jane Remover, Lex Walton, saoirse dream, Weatherday, feeble little horse \nNa afloop van de livemuziek begint het naprogramma met een onnavolgbare Kaos Coraoke! Bij zijn is meemaken.",
+          "description": "//youtu.be/4xo3t753Qnc?is=hCvQS79zQfGJL224",
           "url": "https://dbstudio.nl/event/cora-kemperman-de-schuurmachines-release-party/",
           "tags": [
             "Concert"
@@ -406,6 +393,20 @@
             "Metal",
             "Punk"
           ]
+        },
+        {
+          "id": "18124",
+          "title": "MARCH + MIKKI WOOD + THIRD EGO",
+          "start": "2026-12-18T20:00:00+01:00",
+          "end": "2026-12-18T23:00:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "//www.youtube.com/watch?v=6AvY1qHHiO8&list=RD6AvY1qHHiO8&start_radio=1",
+          "url": "https://dbstudio.nl/event/march-mikki-wood-third-ego/",
+          "tags": [
+            "Concert",
+            "Garage",
+            "Punk"
+          ]
         }
       ]
     },
@@ -417,6 +418,16 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "32451",
+          "title": "Frans Kalf",
+          "start": "2027-04-03T20:00:00+02:00",
+          "end": "2027-04-03T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Met poëtische Nederlandstalige teksten, eigenzinnige melodieën en veel charme geeft deze aanstormende Nederbelg een eigen draai aan het indie-chanson. Zijn nummers balanceren tussen melancholie, humor en herkenbare observaties, met invloeden uit het chanson en de indiepopsfeer. De afgelopen jaren…",
+          "url": "https://ekko.nl/event/frans-kalf/",
+          "tags": []
+        },
         {
           "id": "32439",
           "title": "Club Weeb",
@@ -435,16 +446,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Wegens grote vraag naar tickets is deze show verplaatst van ACU naar EKKO. Library Card maakt compromisloze gitaarmuziek waarin hoekige postpunk, explosieve garage en meeslepende post-rock voortdurend in elkaar overvloeien. Gedragen door de scherpe spoken word van Lot van Teylingen en instrumentals…",
           "url": "https://ekko.nl/event/library-card/",
-          "tags": []
-        },
-        {
-          "id": "32451",
-          "title": "Frans Kalf",
-          "start": "2027-04-03T20:00:00+02:00",
-          "end": "2027-04-03T22:15:00+02:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Met poëtische Nederlandstalige teksten, eigenzinnige melodieën en veel charme geeft deze aanstormende Nederbelg een eigen draai aan het indie-chanson. Zijn nummers balanceren tussen melancholie, humor en herkenbare observaties, met invloeden uit het chanson en de indiepopsfeer. De afgelopen jaren…",
-          "url": "https://ekko.nl/event/frans-kalf/",
           "tags": []
         },
         {
@@ -515,16 +516,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Le Guess Who? wordt beschouwd als een van de meest vooruitstrevende festivals ter wereld, gevierd vanwege de inspirerende manier waarop grensverleggende muziek wordt gepresenteerd. Artiesten van over de hele wereld bieden nieuwe perspectieven op wat mogelijk is binnen de muziek. Van 5-8 november…",
           "url": "https://ekko.nl/event/le-guess-who-2026/",
-          "tags": []
-        },
-        {
-          "id": "31147",
-          "title": "Good Health Good Wealth",
-          "start": "2026-11-05T20:00:00+01:00",
-          "end": "2026-11-05T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Het Londense duo Good Health Good Wealth begon ooit als punkband, maar heeft inmiddels een geheel eigen mix gevonden van spoken word, indie-hiphop en elektronica. Hun muziek is rauw, energiek en onvoorspelbaar, met scherpe teksten en stuwende elektronische klanken die alle kanten op kunnen gaan.…",
-          "url": "https://ekko.nl/event/good-health-good-wealth/",
           "tags": []
         },
         {
@@ -605,16 +596,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
           "url": "https://ekko.nl/event/bus-12-212/",
-          "tags": []
-        },
-        {
-          "id": "32340",
-          "title": "Bus 12",
-          "start": "2026-11-05T23:00:00+01:00",
-          "end": "2026-11-06T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
-          "url": "https://ekko.nl/event/bus-12-210/",
           "tags": []
         },
         {
@@ -1088,16 +1069,6 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-ciao-lucifer-support-rover-onslow-05-11-2026",
-          "title": "Ciao Lucifer + support Rover Onslow",
-          "start": "2026-11-05T20:15:00+01:00",
-          "end": "2026-11-05T23:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Amsterdams indiepopduo draagt de titel ‘feelgoodband’ met trots",
-          "url": "https://dehelling.nl/agenda/ciao-lucifer-support-rover-onslow-05-11-2026/",
-          "tags": []
-        },
-        {
           "id": "helling-le-guess-who-2026-06-11-2026",
           "title": "Le Guess Who? 2026",
           "start": "2026-11-06T18:00:00+01:00",
@@ -1148,13 +1119,13 @@
           "tags": []
         },
         {
-          "id": "helling-boris-pink-20th-anniversary-tour-planning-to-burial-12-11-2026",
+          "id": "helling-boris-pink-20th-anniversary-tour-planning-for-burial-12-11-2026",
           "title": "BORIS – PINK 20th Anniversary Tour + Planning For Burial",
           "start": "2026-11-12T20:00:00+01:00",
           "end": "2026-11-12T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Japanse metal-duizendpoten vieren 20-jarig bestaan van hun beste album",
-          "url": "https://dehelling.nl/agenda/boris-pink-20th-anniversary-tour-planning-to-burial-12-11-2026/",
+          "url": "https://dehelling.nl/agenda/boris-pink-20th-anniversary-tour-planning-for-burial-12-11-2026/",
           "tags": []
         },
         {
@@ -1355,6 +1326,16 @@
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Fresh faces and filthy basses",
           "url": "https://dehelling.nl/agenda/set-the-bar-w-atlantis-05-12-2026/",
+          "tags": []
+        },
+        {
+          "id": "helling-heleen-play-cah-kiki-annette-06-12-2026",
+          "title": "HE:LEEN Play – CAH & Kiki Annette",
+          "start": "2026-12-06T16:00:00+01:00",
+          "end": "2026-12-06T18:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Maandelijkse muzikale samenwerking met restaurant LE:EN",
+          "url": "https://dehelling.nl/agenda/heleen-play-cah-kiki-annette-06-12-2026/",
           "tags": []
         },
         {
@@ -1623,7 +1604,7 @@
           "start": "2027-03-03T20:00:00+01:00",
           "end": "2027-03-03T22:45:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
-          "description": "Four stand-up comedians, one fantasy role-playing adventure. English edition.",
+          "description": "Four stand-up comedians, one fantasy role-playing adventure. ",
           "url": "https://dehelling.nl/agenda/uicf-dungeons-dummies-03-03-2027/",
           "tags": []
         },
@@ -1997,7 +1978,8 @@
           "url": "https://www.podiuminfo.nl/concert/499978/ULTRAJAZZ/TivoliVredenburg/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "gietijzer",
@@ -2107,16 +2089,6 @@
           "tags": []
         },
         {
-          "id": "613377",
-          "title": "Another Bug Hunt: Revelations",
-          "start": "2026-11-25T19:00:00+01:00",
-          "end": "2026-11-25T22:00:00+01:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Another Bug Hunt: Revelations Wed 25/11 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
-        {
           "id": "612087",
           "title": "Campagne: Koning van de Krotten",
           "start": "2026-11-25T19:00:00+01:00",
@@ -2136,18 +2108,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-23773",
-          "title": "Weekly Draft",
-          "start": "2026-11-05T19:00:00+01:00",
-          "end": "2026-11-05T23:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €24,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-133/",
-          "tags": [
-            "Draft"
-          ]
-        },
         {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
@@ -2289,6 +2249,16 @@
           "description": "P\n\nYou can bring your own games or play those brought by others. There are also dozens of games available for us at Het Lab.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for players…",
           "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/316826710/",
           "tags": []
+        },
+        {
+          "id": "weighted-dice-event_317304351",
+          "title": "December Board Games Meetup (HOLIDAY GIVE AWAY)",
+          "start": "2026-12-12T13:00:00+01:00",
+          "end": "2026-12-12T22:00:00+01:00",
+          "location": "Weighted Dice Utrecht, Utrecht",
+          "description": "P\n\nYou can bring your own games and/or play those brought by others.\nAlso, plenty of games to be chosen from Het Lab to be played.\nNo need to know the rules to a game beforehand. Usually people are happy to explain the rules.\nFeel free to drop a comment in the event's comments section to look for…",
+          "url": "https://www.meetup.com/weighted-dice-board-gaming-community/events/317304351/",
+          "tags": []
         }
       ]
     },
@@ -2353,21 +2323,7 @@
       "icon": "⛩️",
       "scene": "games",
       "feedUrl": "https://animecon.nl/",
-      "events": [
-        {
-          "id": "animecon-2027",
-          "title": "AnimeCon 2027",
-          "start": "2027-04-16T14:00:00+02:00",
-          "end": "2027-04-18T18:00:00+02:00",
-          "location": "De Broodfabriek Expo, Rijswijk",
-          "description": "De grootste anime-conventie van Nederland.",
-          "url": "https://animecon.nl/",
-          "tags": [
-            "Anime",
-            "Manga"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "beton-t",
@@ -2377,20 +2333,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-luisteravond-5",
-          "title": "Luisteravond",
-          "start": "2026-11-06T00:00:00+01:00",
-          "end": "2026-11-06T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/luisteravond-5/",
-          "tags": [
-            "Kunst",
-            "Muziek",
-            "Kantine"
-          ]
-        },
         {
           "id": "beton-bikes-under-dykes-presents-winter-movie-nights",
           "title": "bikes under dykes presents: winter movie nights!",
@@ -2539,16 +2481,6 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
-        {
-          "id": "acu-20261106-le-guess-who",
-          "title": "Le Guess Who?",
-          "start": "2026-11-06T00:00:00+01:00",
-          "end": "2026-11-06T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 6th. Conjunto Media Luna / Devon Rexi / The Ensemble of Cultural Approximation. Interdimensional dub group Devon Rexi skirt and flirt around a motorik kraut-rock mentality with an unmistakably dub-laden physicality and an uncategorizable sense of experimentation. They do this artfully and…",
-          "url": "https://acu.nl/events/20261106/le-guess-who",
-          "tags": []
-        },
         {
           "id": "acu-20261121-out-of-sight-22",
           "title": "Out of Sight",
@@ -3012,16 +2944,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "76706",
-          "title": "Tribute to Hans Zimmer & Film Favourites Illuminated",
-          "start": "2026-11-05T20:00:00.000Z",
-          "end": "2026-11-05T23:00:00.000Z",
-          "location": "Nijmegen, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76706",
-          "description": "Cinema's most iconic music performed by the Illuminated Orchestra, enhanced by a stunning light show!<BR><BR>1 hour jam-packed with cinema's most iconic music, beautifully performed by a live chamber orchestra, including:<BR><BR>&bull; Avatar<BR>&bull; Dune<BR>&bull; E.T.<BR>&bull;",
-          "tags": []
-        },
         {
           "id": "74255",
           "title": "Demon Slayer in Concert",
@@ -3750,6 +3672,16 @@
           "location": "Zutphen, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78220",
           "description": "The legendary film music by masterful Italian composers comes to life this winter in Maestro del Cinema. The Netherlands Film Orchestra takes you past the masterpieces of classical and modern film composers: from Morricone to Einaudi.<BR><BR>The orchestra will play Ennio Morricone's memorab",
+          "tags": []
+        },
+        {
+          "id": "80183",
+          "title": "New Year's Concert",
+          "start": "2027-01-17T20:00:00.000Z",
+          "end": "2027-01-17T23:00:00.000Z",
+          "location": "Zandvoort, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80183",
+          "description": "Heemstede Philharmonic Orchestra<BR>Dick Verhoef, conductor<BR>Ruben Ide, violin<BR>Erik van Muiswinkel, storyteller<BR><BR>To be announced - Violin Concerto<BR>John Williams - Star Wars: The Phantom Menace - Suite for Orchestra<BR>Matthijs Kieboom - The wolf and Peter<BR>Klaus Badelt - Pirates of t",
           "tags": []
         },
         {
@@ -4741,7 +4673,7 @@
         },
         {
           "id": "loevestein-rondleiding-2026-11",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Rondleiding Voor kinderen OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
           "start": "2026-11-22T10:00:00+01:00",
           "end": "2026-11-22T18:00:00+01:00",
           "location": "Slot Loevestein, Poederooijen",
@@ -4816,19 +4748,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://www.larp-platform.nl/evenementenoverzicht/",
       "events": [
-        {
-          "id": "larp-2003-kederan-xlv",
-          "title": "Kederan XLV",
-          "start": "2026-11-06T00:00:00+01:00",
-          "end": "2026-11-08T23:59:00+01:00",
-          "location": "“De Roerdomp” Ontginningsweg 10 5091 KN Westelbeers",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2003-kederan-xlv/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
         {
           "id": "larp-2139-rijken-van-aegor-evenement-1",
           "title": "Rijken van Aegor – Evenement 1",

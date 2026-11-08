@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T11:35:13.277Z",
+  "updatedAt": "2026-11-08T11:47:30.048Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,19 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17863",
-          "title": "TOTALLY WIRED",
-          "start": "2026-11-07T13:00:00+01:00",
-          "end": "2026-11-07T22:30:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "00 | Main Stage | ZANJEER \n\n\n  \nLe Guess Who? & U? presenteren totally wired > GRATIS \nIn samenwerking met Antipode, Girls to the Front, OCCII, en ZALZALA\n\nDit jaar slaan Le Guess Who? en U? de handen ineen en presenteren totally wired. Vanuit gedeelde kennis en collectieve energie viert dit gratis…",
-          "url": "https://dbstudio.nl/event/le-guess-who-u-present-totally-wired/",
-          "tags": [
-            "Le Guess Who?",
-            "U? Festival"
-          ]
-        },
         {
           "id": "17610",
           "title": "Le Guess Who? presents BLEAK SQUAD (Aus) + Jess Ribeiro (Aus)",
@@ -414,6 +401,18 @@
             "No Wave",
             "Post Punk"
           ]
+        },
+        {
+          "id": "18324",
+          "title": "ZERO RESOLUTIONS > New Years Party",
+          "start": "2026-12-31T21:00:00+01:00",
+          "end": "2027-01-01T04:00:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "TICKETS ON SALE VANAF 1 NOV. \nALLES TBA",
+          "url": "https://dbstudio.nl/event/zero-resolutions-new-years-party/",
+          "tags": [
+            "Oud & Nieuw"
+          ]
         }
       ]
     },
@@ -503,16 +502,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Let op: deze clubnacht begint om 00:30 (in de nacht van 31 december op 1 januari). De deuren openen ook om 00:30. Happy New Queer! We trappen het nieuwe jaar af met een gezonde dosis knaldrang: een nieuwjaarsnacht voor en door queers. Samen met de Utrechtse collectieven Queer in Wonderland en…",
           "url": "https://ekko.nl/event/happy-new-queer-2027/",
-          "tags": []
-        },
-        {
-          "id": "29836",
-          "title": "Le Guess Who? 2026",
-          "start": "2026-11-07T17:00:00+01:00",
-          "end": "2026-11-07T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Le Guess Who? wordt beschouwd als een van de meest vooruitstrevende festivals ter wereld, gevierd vanwege de inspirerende manier waarop grensverleggende muziek wordt gepresenteerd. Artiesten van over de hele wereld bieden nieuwe perspectieven op wat mogelijk is binnen de muziek. Van 5-8 november…",
-          "url": "https://ekko.nl/event/le-guess-who-2026-1/",
           "tags": []
         },
         {
@@ -1065,26 +1054,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-le-guess-who-2026-07-11-2026",
-          "title": "Le Guess Who? 2026",
-          "start": "2026-11-07T15:30:00+01:00",
-          "end": "2026-11-08T22:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "20e jubileumeditie - zaterdag",
-          "url": "https://dehelling.nl/agenda/le-guess-who-2026-07-11-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-freax-07-11-2026",
-          "title": "FreaX",
-          "start": "2026-11-07T23:00:00+01:00",
-          "end": "2026-11-08T06:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Frequency shift",
-          "url": "https://dehelling.nl/agenda/freax-07-11-2026/",
-          "tags": []
-        },
         {
           "id": "helling-ghostly-kisses-support-rosie-carney-08-11-2026",
           "title": "Ghostly Kisses + support Rosie Carney",
@@ -1995,7 +1964,8 @@
           "url": "https://www.podiuminfo.nl/concert/453093/Emmet-Cohen-Quintet/TivoliVredenburg/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "gietijzer",
@@ -2004,7 +1974,8 @@
       "icon": "🏭",
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/6061/concerten/m-1/Gietijzer/Utrecht/",
-      "events": []
+      "events": [],
+      "broken": true
     },
     {
       "id": "rpg-night-utrecht",
@@ -2125,6 +2096,18 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
+          "id": "lab-monkey-23819",
+          "title": "Commander Tuesday",
+          "start": "2026-11-10T18:00:00+01:00",
+          "end": "2026-11-10T23:00:00+01:00",
+          "location": "t Lab, Utrecht",
+          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 44 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
+          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-251/",
+          "tags": [
+            "Commander"
+          ]
+        },
+        {
           "id": "lab-monkey-11402",
           "title": "Ladies Knight",
           "start": "2026-11-10T19:00:00+01:00",
@@ -2134,6 +2117,18 @@
           "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
           "tags": [
             "Ladies'(K)night"
+          ]
+        },
+        {
+          "id": "lab-monkey-23821",
+          "title": "Weekly Draft",
+          "start": "2026-11-12T19:00:00+01:00",
+          "end": "2026-11-12T23:00:00+01:00",
+          "location": "t Lab, Utrecht",
+          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
+          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-134/",
+          "tags": [
+            "Draft"
           ]
         }
       ]
@@ -2292,7 +2287,7 @@
           "start": "2026-11-21T10:00:00+02:00",
           "end": "2026-06-21T18:00:00+02:00",
           "location": "Jaarbeurs Utrecht, Jaarbeursplein 6, 3521 AL Utrecht",
-          "description": "Heroes Dutch Comic Con is the largest Comic Con in the Netherlands. An entertaining event full of experiences where you’ll find everything related to movies, series, comics, cosplay, games, superheroes, fantasy/science fiction and anime in form of activities, shows, panels, fanclubs, workshops and…",
+          "description": "Heroes Dutch Comic Con is the largest Comic Con in the Netherlands. An entertaining event full of experiences where you&#8217;ll find everything related to movies, series, comics, cosplay, games, superheroes, fantasy/science fiction and anime in form of activities, shows, panels, fanclubs,…",
           "url": "https://www.dutchcomiccon.com",
           "tags": [
             "Comic Con",
@@ -2308,20 +2303,7 @@
       "icon": "🎲",
       "scene": "games",
       "feedUrl": "https://spellenspektakel.nl/",
-      "events": [
-        {
-          "id": "spellenspektakel-2026",
-          "title": "Spellenspektakel 2026",
-          "start": "2026-11-07T10:00:00+01:00",
-          "end": "2026-11-08T18:00:00+01:00",
-          "location": "Jaarbeurs Utrecht",
-          "description": "Grootste bordspellenbeurs van Nederland.",
-          "url": "https://spellenspektakel.nl/",
-          "tags": [
-            "Bordspellen"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "abunai",
@@ -2349,34 +2331,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-bikes-under-dykes-presents-winter-movie-nights",
-          "title": "Bikes under Dykes x Filmhuis Pluis",
-          "start": "2026-11-08T00:00:00+01:00",
-          "end": "2026-11-08T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/bikes-under-dykes-presents-winter-movie-nights/",
-          "tags": [
-            "Film",
-            "Gratis",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-copy-kiem-zine-workshop-3",
-          "title": "Copy & Kiem (zine workshop)",
-          "start": "2026-11-08T00:00:00+01:00",
-          "end": "2026-11-08T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/copy-kiem-zine-workshop-3/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
         {
           "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-24",
           "title": "Cursus pottenbakken – meerdere dagen en tijden",
@@ -2486,6 +2440,20 @@
             "Workshop",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-school-kantine-2",
+          "title": "School Kantine",
+          "start": "2026-11-11T00:00:00+01:00",
+          "end": "2026-11-11T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/school-kantine-2/",
+          "tags": [
+            "Gratis",
+            "Workshop",
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2558,16 +2526,6 @@
           "tags": []
         },
         {
-          "id": "acu-20261108-lets-skii",
-          "title": "LET’S KII",
-          "start": "2026-11-08T00:00:00+01:00",
-          "end": "2026-11-08T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 8th. Six years of Utrecht Ballroom Scene!. SIX YEARS OF UTRECHT BALLROOM SCENE! Ballroom started underground. Built by Black and Latin queer and trans communities in New York, it was a space to be free, showcase talent, and find chosen family when the world outside was not giving us what…",
-          "url": "https://acu.nl/events/20261108/lets-skii",
-          "tags": []
-        },
-        {
           "id": "acu-20261125-bi-cafe-utrecht-4",
           "title": "Bi+ Café Utrecht",
           "start": "2026-11-25T00:00:00+01:00",
@@ -2587,19 +2545,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001513-1794092400-1794117600",
-          "title": "BASIS/ Davyboi/ lizaliza/ LUKA/ Lumine",
-          "start": "2026-11-07T23:00:00+01:00",
-          "end": "2026-11-08T06:00:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-davyboi-lizaliza-luka-lumine/",
-          "tags": [
-            "Bounce",
-            "Hard house"
-          ]
-        },
         {
           "id": "basis-utrecht-10001522-1794146400-1794171600",
           "title": "BASIS x Le Guess Who? // Listening Session U? / ... curated by Perry Gits",
@@ -2947,16 +2892,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "76169",
-          "title": "20 Live Movies in Concert",
-          "start": "2026-11-07T20:00:00.000Z",
-          "end": "2026-11-07T23:00:00.000Z",
-          "location": "Lelylstad, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76169",
-          "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
-          "tags": []
-        },
         {
           "id": "75499",
           "title": "Public Rehearsal: Symphonic Soundtracks",
@@ -4455,16 +4390,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-historische-proeverij-7-nov-2026-2026",
-          "title": "Historische proeverij 7 nov 2026",
-          "start": "2026-11-07T10:00:00+01:00",
-          "end": "2026-11-07T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/historische-proeverij-7-nov-2026/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-sinterklaas-uitzwaaien-2026",
           "title": "Sinterklaas uitzwaaien",
           "start": "2026-12-06T10:00:00+01:00",
@@ -4676,7 +4601,7 @@
         },
         {
           "id": "loevestein-rondleiding-2026-11",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding OORLOGSRECHT Handboekbinden. Te zien t/m",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
           "start": "2026-11-22T10:00:00+01:00",
           "end": "2026-11-22T18:00:00+01:00",
           "location": "Slot Loevestein, Poederooijen",
@@ -4685,13 +4610,13 @@
           "tags": []
         },
         {
-          "id": "loevestein-oorlogsrecht-grenzen-aan-geweld-2026-11",
-          "title": "OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
+          "id": "loevestein-oorlogsrecht-handboekbinden-2026-11",
+          "title": "OORLOGSRECHT Handboekbinden. Te zien t/m",
           "start": "2026-11-22T10:00:00+01:00",
           "end": "2026-11-22T18:00:00+01:00",
           "location": "Slot Loevestein, Poederooijen",
           "description": "",
-          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-grenzen-aan-geweld/",
+          "url": "https://www.slotloevestein.nl/agenda/oorlogsrecht-handboekbinden/",
           "tags": []
         },
         {
@@ -4885,22 +4810,6 @@
           ]
         },
         {
-          "id": "larp-2260-postapobob-19-standing-in-v-formation",
-          "title": "PostApoBob #19 – Standing in V-formation",
-          "start": "2027-03-19T00:00:00+01:00",
-          "end": "2027-03-21T23:59:00+01:00",
-          "location": "Kampeerboerderij Fleuren; De Mortel",
-          "country": "Nederland",
-          "description": "Horror, Low-fantasy, Modern, Post-Apo — Binnen- of buiten slapen · Vanaf 16 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2260-postapobob-19-standing-in-v-formation/",
-          "tags": [
-            "Horror",
-            "Low-fantasy",
-            "Modern",
-            "Post-Apo"
-          ]
-        },
-        {
           "id": "larp-2288-maerquin-weekend-58",
           "title": "Maerquin weekend 58",
           "start": "2027-03-19T00:00:00+01:00",
@@ -4924,6 +4833,22 @@
           "url": "https://www.larp-platform.nl/evenement/2291-elerion-61/",
           "tags": [
             "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2260-postapobob-19-standing-in-v-formation",
+          "title": "PostApoBob #19 – Standing in V-formation",
+          "start": "2027-03-19T00:00:00+01:00",
+          "end": "2027-03-21T23:59:00+01:00",
+          "location": "Kampeerboerderij Fleuren; De Mortel",
+          "country": "Nederland",
+          "description": "Horror, Low-fantasy, Modern, Post-Apo — Binnen- of buiten slapen · Vanaf 16 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2260-postapobob-19-standing-in-v-formation/",
+          "tags": [
+            "Horror",
+            "Low-fantasy",
+            "Modern",
+            "Post-Apo"
           ]
         },
         {
@@ -4954,6 +4879,19 @@
           ]
         },
         {
+          "id": "larp-2144-rijken-van-aegor-evenement-2",
+          "title": "Rijken van Aegor – Evenement 2",
+          "start": "2027-04-16T00:00:00+02:00",
+          "end": "2027-04-18T23:59:00+02:00",
+          "location": "Het Boshuis, Wieringerwerf",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2144-rijken-van-aegor-evenement-2/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
           "id": "larp-2174-dwaler-36",
           "title": "Dwaler 36",
           "start": "2027-04-16T00:00:00+02:00",
@@ -4968,14 +4906,14 @@
           ]
         },
         {
-          "id": "larp-2144-rijken-van-aegor-evenement-2",
-          "title": "Rijken van Aegor – Evenement 2",
-          "start": "2027-04-16T00:00:00+02:00",
-          "end": "2027-04-18T23:59:00+02:00",
-          "location": "Het Boshuis, Wieringerwerf",
+          "id": "larp-2194-dalaria-ii-iii",
+          "title": "Dalaria II.III",
+          "start": "2027-04-23T00:00:00+02:00",
+          "end": "2027-04-25T23:59:00+02:00",
+          "location": "Buitencentrum “De Stevert”",
           "country": "Nederland",
-          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2144-rijken-van-aegor-evenement-2/",
+          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 16 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2194-dalaria-ii-iii/",
           "tags": [
             "High-fantasy"
           ]
@@ -4992,19 +4930,6 @@
           "tags": [
             "High-fantasy",
             "Kids larp"
-          ]
-        },
-        {
-          "id": "larp-2194-dalaria-ii-iii",
-          "title": "Dalaria II.III",
-          "start": "2027-04-23T00:00:00+02:00",
-          "end": "2027-04-25T23:59:00+02:00",
-          "location": "Buitencentrum “De Stevert”",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 16 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2194-dalaria-ii-iii/",
-          "tags": [
-            "High-fantasy"
           ]
         },
         {
@@ -5207,19 +5132,6 @@
           ]
         },
         {
-          "id": "larp-2149-rijken-van-aegor-evenement-3",
-          "title": "Rijken van Aegor – Evenement 3",
-          "start": "2027-09-03T00:00:00+02:00",
-          "end": "2027-09-05T23:59:00+02:00",
-          "location": "Het Boshuis, Wieringerwerf",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2149-rijken-van-aegor-evenement-3/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2176-dwaler-37",
           "title": "Dwaler 37",
           "start": "2027-09-03T00:00:00+02:00",
@@ -5255,6 +5167,19 @@
           "country": "Nederland",
           "description": "High-fantasy — Buiten slapen · Vanaf 16 jaar",
           "url": "https://www.larp-platform.nl/evenement/2284-soltice-9/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2149-rijken-van-aegor-evenement-3",
+          "title": "Rijken van Aegor – Evenement 3",
+          "start": "2027-09-03T00:00:00+02:00",
+          "end": "2027-09-05T23:59:00+02:00",
+          "location": "Het Boshuis, Wieringerwerf",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2149-rijken-van-aegor-evenement-3/",
           "tags": [
             "High-fantasy"
           ]
@@ -5316,19 +5241,6 @@
           ]
         },
         {
-          "id": "larp-2364-seven-realms-09",
-          "title": "Seven Realms: 09",
-          "start": "2027-10-01T00:00:00+01:00",
-          "end": "2027-10-03T23:59:00+01:00",
-          "location": "Buitencentrum De Voshaar, Oude Boekelerdijk 40 Enschede",
-          "country": "Nederland",
-          "description": "Low-fantasy — Buiten slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2364-seven-realms-09/",
-          "tags": [
-            "Low-fantasy"
-          ]
-        },
-        {
           "id": "larp-2292-elerion-61-2",
           "title": "Elerion 62",
           "start": "2027-10-01T00:00:00+01:00",
@@ -5339,6 +5251,19 @@
           "url": "https://www.larp-platform.nl/evenement/2292-elerion-61-2/",
           "tags": [
             "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2364-seven-realms-09",
+          "title": "Seven Realms: 09",
+          "start": "2027-10-01T00:00:00+01:00",
+          "end": "2027-10-03T23:59:00+01:00",
+          "location": "Buitencentrum De Voshaar, Oude Boekelerdijk 40 Enschede",
+          "country": "Nederland",
+          "description": "Low-fantasy — Buiten slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2364-seven-realms-09/",
+          "tags": [
+            "Low-fantasy"
           ]
         },
         {
@@ -5355,6 +5280,19 @@
           ]
         },
         {
+          "id": "larp-2322-omen-xxxx",
+          "title": "Omen XL",
+          "start": "2027-10-08T00:00:00+01:00",
+          "end": "2027-10-10T23:59:00+01:00",
+          "location": "Inka-terrein, Zeeland (Noord-Brabant)",
+          "country": "Nederland",
+          "description": "High-fantasy — Buiten slapen",
+          "url": "https://www.larp-platform.nl/evenement/2322-omen-xxxx/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
           "id": "larp-2184-ekyo-6",
           "title": "Ekyo",
           "start": "2027-10-08T00:00:00+01:00",
@@ -5366,19 +5304,6 @@
           "tags": [
             "Anders",
             "Low-fantasy"
-          ]
-        },
-        {
-          "id": "larp-2322-omen-xxxx",
-          "title": "Omen XL",
-          "start": "2027-10-08T00:00:00+01:00",
-          "end": "2027-10-10T23:59:00+01:00",
-          "location": "Inka-terrein, Zeeland (Noord-Brabant)",
-          "country": "Nederland",
-          "description": "High-fantasy — Buiten slapen",
-          "url": "https://www.larp-platform.nl/evenement/2322-omen-xxxx/",
-          "tags": [
-            "High-fantasy"
           ]
         },
         {
@@ -5436,19 +5361,6 @@
           ]
         },
         {
-          "id": "larp-2268-frontier-25",
-          "title": "Frontier 25",
-          "start": "2027-11-12T00:00:00+01:00",
-          "end": "2027-11-14T23:59:00+01:00",
-          "location": "Hopper Jeugdverblijf de Brink",
-          "country": "Nederland",
-          "description": "Sci-fi — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2268-frontier-25/",
-          "tags": [
-            "Sci-fi"
-          ]
-        },
-        {
           "id": "larp-2308-kederan-xlvii",
           "title": "Kederan XLVII",
           "start": "2027-11-12T00:00:00+01:00",
@@ -5462,16 +5374,16 @@
           ]
         },
         {
-          "id": "larp-2325-booyah-present-symora-1",
-          "title": "Booyah! Present Symora 2",
-          "start": "2027-11-19T00:00:00+01:00",
-          "end": "2027-11-21T23:59:00+01:00",
-          "location": "De Kievit, Esbeek",
+          "id": "larp-2268-frontier-25",
+          "title": "Frontier 25",
+          "start": "2027-11-12T00:00:00+01:00",
+          "end": "2027-11-14T23:59:00+01:00",
+          "location": "Hopper Jeugdverblijf de Brink",
           "country": "Nederland",
-          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2325-booyah-present-symora-1/",
+          "description": "Sci-fi — Binnen slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2268-frontier-25/",
           "tags": [
-            "High-fantasy"
+            "Sci-fi"
           ]
         },
         {
@@ -5483,6 +5395,19 @@
           "country": "Nederland",
           "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
           "url": "https://www.larp-platform.nl/evenement/2289-maerquin-weekend-59/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2325-booyah-present-symora-1",
+          "title": "Booyah! Present Symora 2",
+          "start": "2027-11-19T00:00:00+01:00",
+          "end": "2027-11-21T23:59:00+01:00",
+          "location": "De Kievit, Esbeek",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2325-booyah-present-symora-1/",
           "tags": [
             "High-fantasy"
           ]
@@ -5570,19 +5495,6 @@
           ]
         },
         {
-          "id": "larp-2236-moots-2-2028",
-          "title": "Moots 2 2028",
-          "start": "2028-10-27T00:00:00+01:00",
-          "end": "2028-10-29T23:59:00+01:00",
-          "location": "St. Walrick, Overasselt",
-          "country": "Nederland",
-          "description": "High-fantasy — Buiten slapen",
-          "url": "https://www.larp-platform.nl/evenement/2236-moots-2-2028/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2077-irrealis-32",
           "title": "Irrealis 32",
           "start": "2028-10-27T00:00:00+01:00",
@@ -5594,6 +5506,19 @@
           "tags": [
             "High-fantasy",
             "Steampunk"
+          ]
+        },
+        {
+          "id": "larp-2236-moots-2-2028",
+          "title": "Moots 2 2028",
+          "start": "2028-10-27T00:00:00+01:00",
+          "end": "2028-10-29T23:59:00+01:00",
+          "location": "St. Walrick, Overasselt",
+          "country": "Nederland",
+          "description": "High-fantasy — Buiten slapen",
+          "url": "https://www.larp-platform.nl/evenement/2236-moots-2-2028/",
+          "tags": [
+            "High-fantasy"
           ]
         },
         {
@@ -5834,19 +5759,6 @@
       "scene": "brommer",
       "feedUrl": "https://brommerritten.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "brommerritten-nl-3710",
-          "title": "Jister Brommer Club Snertrit – Ee",
-          "start": "2026-11-07T12:30:00+01:00",
-          "end": "2026-11-07T17:00:00+01:00",
-          "location": "Uniastrjitte 34 &#8211; Ee, Ee (Friesland)",
-          "description": "",
-          "url": "https://brommerritten.nl/ritten/jister-brommer-club-snertrit-ee/",
-          "tags": [
-            "Bromfiets"
-          ],
-          "country": "Nederland"
-        },
         {
           "id": "brommerritten-nl-1296",
           "title": "2e zondag in de maandrit November – Hulst",

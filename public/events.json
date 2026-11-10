@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:42:01.259Z",
+  "updatedAt": "2026-11-10T13:19:20.654Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -398,17 +398,14 @@
           ]
         },
         {
-          "id": "18255",
-          "title": "Black Mass 2027 w/ DOODSWENS | ASGRAUW | DOMSPRINGER",
-          "start": "2027-01-08T20:00:00+01:00",
-          "end": "2027-01-08T23:00:00+01:00",
+          "id": "18456",
+          "title": "2027 Reset w/ THOR KISSING + HARRY MERRY + HUUB PRINS & DJ Das Bob",
+          "start": "2027-01-03T16:00:00+01:00",
+          "end": "2027-01-03T19:00:00+01:00",
           "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "//www.youtube.com/watch?v=ZlkB2ptWc_o",
-          "url": "https://dbstudio.nl/event/doodswens/",
-          "tags": [
-            "Black Metal",
-            "Concert"
-          ]
+          "description": "“The Darker side of chasing a dream”. \nEen liveoptreden van deze geniale muzikant kan je enigszins in verwarring brengen — maar het zal je gegarandeerd een grote glimlach bezorgen. \n  \n“De Nederlandse Frank Zappa”. Zo doopte Lucky Fonz III Thor Kissing in een fragment van 3voor12, op de rode loper…",
+          "url": "https://dbstudio.nl/event/2027-reset-w-thor-kissing-harry-merry-huub-prins-dj-das-bob/",
+          "tags": []
         }
       ]
     },
@@ -420,6 +417,36 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "32146",
+          "title": "Lagos in NL",
+          "start": "2026-12-12T23:30:00+01:00",
+          "end": "2026-12-13T04:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De afrobeats-sound, gedragen door internationale supersterren als Burna Boy, Rema en Wizkid (just to name a few) is niet meer weg te denken uit hitlijsten en clubs. Op 12 december brengt Lagos in NL opnieuw een onversneden afrobeats-ervaring naar EKKO. Om de unieke sfeer van Nigeriaanse…",
+          "url": "https://ekko.nl/event/lagos-in-nl-dec-2026/",
+          "tags": []
+        },
+        {
+          "id": "32496",
+          "title": "Katie Gregson-MacLeod",
+          "start": "2027-02-19T20:00:00+01:00",
+          "end": "2027-02-19T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Met haar poppy indiefolk en eerlijke songwriting weet de Schotse singer-songwriter Katie Gregson-MacLeod persoonlijke verhalen te vertalen naar nummers die blijven hangen. Haar muziek beweegt tussen intieme folk, catchy popmelodieën en melancholische teksten, waarin ze naar eigen zeggen invloeden…",
+          "url": "https://ekko.nl/event/katie-gregson-macleod/",
+          "tags": []
+        },
+        {
+          "id": "30773",
+          "title": "Alice Olsthoorn",
+          "start": "2027-01-15T20:00:00+01:00",
+          "end": "2027-01-15T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Onvervalste trans girl power, verpakt in een explosieve mix van hyperpop, rave en futuristisch clubgeluid. Nederlands queer popfenomeen Alice Olsthoorn is van alle markten thuis. Als muzikant, producer, dj en YouTuber beweegt ze moeiteloos tussen verschillende werelden. Met haar hyperpopsingle…",
+          "url": "https://ekko.nl/event/alice-olsthoorn-1/",
+          "tags": []
+        },
         {
           "id": "30289",
           "title": "Flora Hibberd",
@@ -468,16 +495,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Martin Luke Brown maakt intieme en soulvolle indiepop met invloeden van bedroompop, folk en lo-fi-soul. De Britse artiest staat bekend om zijn warme stem en doorleefde songwriting, en bouwde de afgelopen jaren aan een hechte creatieve gemeenschap. Hij schreef en produceerde eerder voor namen als…",
           "url": "https://ekko.nl/event/martin-luke-brown/",
-          "tags": []
-        },
-        {
-          "id": "31502",
-          "title": "Dry Cleaning",
-          "start": "2026-11-09T20:00:00+01:00",
-          "end": "2026-11-09T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Omdat de show van Dry Cleaning op 12 november razendsnel was uitverkocht, komt de band voor een extra show naar EKKO op maandag 9 november. Het Londense viertal Dry Cleaning maakt postpunk die als iets volkomen eigens klinkt. Met bulderende baspartijen, onstuimig gitaarwerk en Florence Shaw’s…",
-          "url": "https://ekko.nl/event/dry-cleaning-2/",
           "tags": []
         },
         {
@@ -688,16 +705,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "U vraagt, wij draaien. Op 26 november brengt karaEKKO karaoke naar EKKO. Of ADÈLA nou helemaal jouw ding is of toch meer je inner Adela wil channelen met een prachtige Jan Smit cover, wij bieden het podium. Deze editie wordt gehost door VIXEN. VIXEN Dino Delicious en Young Yoni, ofwel VIXEN, zijn…",
           "url": "https://ekko.nl/event/karaekko-nov-2026/",
-          "tags": []
-        },
-        {
-          "id": "32146",
-          "title": "Lagos in NL",
-          "start": "2026-12-12T23:30:00+01:00",
-          "end": "2026-12-13T04:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "De afrobeats-sound, gedragen door internationale supersterren als Burna Boy, Rema en Wizkid (just to name a few) is niet meer weg te denken uit hitlijsten en clubs. Op 12 december brengt Lagos in NL opnieuw een onversneden afrobeats-ervaring naar EKKO. Om de unieke sfeer van Nigeriaanse…",
-          "url": "https://ekko.nl/event/lagos-in-nl-dec-2026/",
           "tags": []
         },
         {
@@ -1029,16 +1036,6 @@
           "description": "Jeugdvrienden Michael Spieler, Timothy Lush en Kerim Öke vormen samen KYTES . Het trio uit München definieert zichzelf met hun eigen genre ‘Indie Rave’, waarin hun oude liefde voor indie samenkomt met hun nieuwe liefde voor rave. Deze combinatie maakt hun liveshows veelzijdig: van pakkende…",
           "url": "https://ekko.nl/event/kytes/",
           "tags": []
-        },
-        {
-          "id": "30773",
-          "title": "Alice Olsthoorn",
-          "start": "2027-01-15T20:00:00+01:00",
-          "end": "2027-01-15T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Onvervalste trans girl power, verpakt in een explosieve mix van hyperpop, rave en futuristisch clubgeluid. Nederlands queer popfenomeen Alice Olsthoorn is van alle markten thuis. Als muzikant, producer, dj en YouTuber beweegt ze moeiteloos tussen verschillende werelden. Met haar hyperpopsingle…",
-          "url": "https://ekko.nl/event/alice-olsthoorn-1/",
-          "tags": []
         }
       ]
     },
@@ -1051,13 +1048,13 @@
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
         {
-          "id": "helling-ash-1977-30th-anniversary-show-10-11-2026",
-          "title": "ASH – 1977 30th anniversary show",
+          "id": "helling-ash-1977-30th-anniversary-show-support-bawler-10-11-2026",
+          "title": "ASH – 1977 30th anniversary show + support Bawler",
           "start": "2026-11-10T20:15:00+01:00",
           "end": "2026-11-10T23:00:00+01:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Noord-Ierse Britrockers vieren de dertigste verjaardag van hun debuut in stijl",
-          "url": "https://dehelling.nl/agenda/ash-1977-30th-anniversary-show-10-11-2026/",
+          "url": "https://dehelling.nl/agenda/ash-1977-30th-anniversary-show-support-bawler-10-11-2026/",
           "tags": []
         },
         {
@@ -1731,26 +1728,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "484746",
-          "title": "Candy Dulfer - The Funk Legacy Allstar Show",
-          "start": "2026-11-09T20:15:00+01:00",
-          "end": "2026-11-09T22:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Maak je klaar voor een explosieve viering van de funkgeschiedenis met 'The Funk Legacy Allstar Show'. Saxofoonkoningin Candy Dulfer presenteert deze unieke show samen met Nigel Hall en Eric Benny Bloom, twee zwaargewichten van de funkband Lettuce. Het wordt een exclusief eerbetoon aan funklegendes…",
-          "url": "https://www.podiuminfo.nl/concert/484746/Candy-Dulfer-The-Funk-Legacy-Allstar-Show/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "452649",
-          "title": "Mark Lettieri",
-          "start": "2026-11-09T20:30:00+01:00",
-          "end": "2026-11-09T22:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Mark Lettieri is een graag geziene gast in TivoliVredenburg. De Amerikaanse funky gitaarvirtuoos speelde hier eerder in 2022, 2024 en 2025 en maakt wederom zijn opwachting in Pandora. Ook met Fearless Flyers en Snarky Puppy, andere bands waarmee hij furore maakte, stond hij hier al eerder op de…",
-          "url": "https://www.podiuminfo.nl/concert/452649/Mark-Lettieri/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "452013",
           "title": "The Sisters of Mercy",
           "start": "2026-11-10T20:00:00+01:00",
@@ -1968,6 +1945,26 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Caro veroverde meer dan tien jaar geleden de wereld als Caro Emerald, met miljoenen verkochte albums en shows op Glastonbury en in de Royal Albert Hall. Na de avontuurlijke jaren als The Jordan keert ze in 2026 terug onder haar eigen naam, met een nieuw hoofdstuk dat persoonlijker en gedurfder…",
           "url": "https://www.podiuminfo.nl/concert/453129/Caro-Returning-to-Innocence/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "479508",
+          "title": "FLORA",
+          "start": "2026-11-13T21:00:00+01:00",
+          "end": "2026-11-13T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "FLORA brengt DIY-pop die zowel rauw als gevoelig is, verpakt in elektronische klanken vol melancholie. De artiest timmert al jaren aan de weg binnen de Nederlandse muziekscene, met optredens op Popronde, als voorprogramma voor UPSAHL in de Melkweg, en op tour met Jet van der Steen. Momenteel werkt…",
+          "url": "https://www.podiuminfo.nl/concert/479508/FLORA/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "495425",
+          "title": "Park 6",
+          "start": "2026-11-13T22:00:00+01:00",
+          "end": "2026-11-14T00:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Park 6 keert terug als dé gratis hangout in Utrecht, ideaal om de weekendstemming in te luiden. Deze avond biedt een mix van goede muziek, interactieve games zoals tafeltennis, en videokunst, aangevuld met een uitgebreid aanbod aan speciaalbier en cocktails. Het is de perfecte plek om te ontspannen…",
+          "url": "https://www.podiuminfo.nl/concert/495425/Park-6/TivoliVredenburg/",
           "tags": []
         }
       ]
@@ -2301,7 +2298,7 @@
           "start": "2026-11-21T10:00:00+02:00",
           "end": "2026-06-21T18:00:00+02:00",
           "location": "Jaarbeurs Utrecht, Jaarbeursplein 6, 3521 AL Utrecht",
-          "description": "Heroes Dutch Comic Con is the largest Comic Con in the Netherlands. An entertaining event full of experiences where you&#8217;ll find everything related to movies, series, comics, cosplay, games, superheroes, fantasy/science fiction and anime in form of activities, shows, panels, fanclubs,…",
+          "description": "Heroes Dutch Comic Con is the largest Comic Con in the Netherlands. An entertaining event full of experiences where you’ll find everything related to movies, series, comics, cosplay, games, superheroes, fantasy/science fiction and anime in form of activities, shows, panels, fanclubs, workshops and…",
           "url": "https://www.dutchcomiccon.com",
           "tags": [
             "Comic Con",
@@ -2346,34 +2343,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-spraakwater",
-          "title": "Spraakwater",
-          "start": "2026-11-10T00:00:00+01:00",
-          "end": "2026-11-10T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/spraakwater/",
-          "tags": [
-            "Kunst",
-            "Panelgesprek",
-            "Kantine"
-          ]
-        },
-        {
-          "id": "beton-what-your-grandma-understands-about-ai-that-you-dont",
-          "title": "What your Grandma Understands About AI That You Don’t",
-          "start": "2026-11-10T00:00:00+01:00",
-          "end": "2026-11-10T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/what-your-grandma-understands-about-ai-that-you-dont/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-school-kantine-2",
           "title": "School Kantine",
           "start": "2026-11-11T00:00:00+01:00",
@@ -2413,6 +2382,89 @@
             "Kunst",
             "Panelgesprek",
             "Kantine"
+          ]
+        },
+        {
+          "id": "beton-poezie-diner-show-met-poezie-is-een-daad",
+          "title": "Poëzie-diner-show met Poëzie is een daad",
+          "start": "2026-11-13T00:00:00+01:00",
+          "end": "2026-11-13T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/poezie-diner-show-met-poezie-is-een-daad/",
+          "tags": [
+            "Eten / Drinken",
+            "Kunst",
+            "Poezië",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-combo-qazam-presents-patrick-xlx",
+          "title": "Combo Qazam presents Patrick XLX",
+          "start": "2026-11-14T00:00:00+01:00",
+          "end": "2026-11-14T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/combo-qazam-presents-patrick-xlx/",
+          "tags": [
+            "Live muziek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-lees-dit-boekenclub-4",
+          "title": "LEES DIT! Boekenclub",
+          "start": "2026-11-15T00:00:00+01:00",
+          "end": "2026-11-15T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/lees-dit-boekenclub-4/",
+          "tags": [
+            "Kunst",
+            "Panelgesprek",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-cursus-pottenbakken-meerdere-dagen-en-tijden-26",
+          "title": "Cursus pottenbakken – meerdere dagen en tijden",
+          "start": "2026-11-16T00:00:00+01:00",
+          "end": "2026-11-16T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/cursus-pottenbakken-meerdere-dagen-en-tijden-26/",
+          "tags": [
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-schilderles-diverse-dagen-45",
+          "title": "Schilderles – diverse dagen",
+          "start": "2026-11-16T00:00:00+01:00",
+          "end": "2026-11-16T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/schilderles-diverse-dagen-45/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-robotics-lessen-voor-kinderen-diverse-dagen-30",
+          "title": "Robotics lessen voor kinderen – diverse dagen",
+          "start": "2026-11-16T00:00:00+01:00",
+          "end": "2026-11-16T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/robotics-lessen-voor-kinderen-diverse-dagen-30/",
+          "tags": [
+            "Kinderen",
+            "Workshop",
+            "Vechtclub XL"
           ]
         }
       ]
@@ -5655,7 +5707,7 @@
       "events": [
         {
           "id": "bi-sudovo-cup",
-          "title": "Sudovo Cup",
+          "title": "Sudovo Cup 2027",
           "start": "2027-08-28T00:00:00+02:00",
           "end": "2027-08-28T23:00:00+02:00",
           "location": "Czech Republic",

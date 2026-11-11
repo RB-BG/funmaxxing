@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T13:19:20.654Z",
+  "updatedAt": "2026-11-11T12:31:38.741Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -418,6 +418,46 @@
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
         {
+          "id": "30289",
+          "title": "Flora Hibberd",
+          "start": "2026-11-15T20:30:00+01:00",
+          "end": "2026-11-15T21:45:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Flora Hibberd maakt eigenzinnige indiefolk waarin literaire teksten en surrealistische beelden samenkomen in dromerige folkpop. De in Londen geboren en in Parijs gevestigde songwriter brak door met het veelgeprezen debuutalbum ‘Swirl’ (2025) en verkent op opvolger ‘Mammoth’ (release: 16 oktober…",
+          "url": "https://ekko.nl/event/flora-hibberd/",
+          "tags": []
+        },
+        {
+          "id": "32512",
+          "title": "LOE.",
+          "start": "2027-04-17T20:00:00+02:00",
+          "end": "2027-04-17T23:30:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Met haar aanstekelijke Nederlandstalige popsongs en herkenbare teksten heeft LOE. inmiddels een flinke following opgebouwd. De Utrechtse zangeres stond eerder al in de Pandora van TivoliVredenburg en verovert inmiddels steeds meer harten door het hele land. Nu staat ze aan de vooravond van een…",
+          "url": "https://ekko.nl/event/loe/",
+          "tags": []
+        },
+        {
+          "id": "31264",
+          "title": "Diep In De Groef",
+          "start": "2026-11-13T23:30:00+01:00",
+          "end": "2026-11-14T03:30:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
+          "url": "https://ekko.nl/event/diep-in-de-groef-13nov/",
+          "tags": []
+        },
+        {
+          "id": "30773",
+          "title": "Alice Olsthoorn",
+          "start": "2027-01-15T20:00:00+01:00",
+          "end": "2027-01-15T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Onvervalste trans girl power, verpakt in een explosieve mix van hyperpop, rave en futuristisch clubgeluid. Nederlands queer popfenomeen Alice Olsthoorn is van alle markten thuis. Als muzikant, producer, dj en YouTuber beweegt ze moeiteloos tussen verschillende werelden. Met haar hyperpopsingle…",
+          "url": "https://ekko.nl/event/alice-olsthoorn-1/",
+          "tags": []
+        },
+        {
           "id": "32146",
           "title": "Lagos in NL",
           "start": "2026-12-12T23:30:00+01:00",
@@ -435,26 +475,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Met haar poppy indiefolk en eerlijke songwriting weet de Schotse singer-songwriter Katie Gregson-MacLeod persoonlijke verhalen te vertalen naar nummers die blijven hangen. Haar muziek beweegt tussen intieme folk, catchy popmelodieën en melancholische teksten, waarin ze naar eigen zeggen invloeden…",
           "url": "https://ekko.nl/event/katie-gregson-macleod/",
-          "tags": []
-        },
-        {
-          "id": "30773",
-          "title": "Alice Olsthoorn",
-          "start": "2027-01-15T20:00:00+01:00",
-          "end": "2027-01-15T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Onvervalste trans girl power, verpakt in een explosieve mix van hyperpop, rave en futuristisch clubgeluid. Nederlands queer popfenomeen Alice Olsthoorn is van alle markten thuis. Als muzikant, producer, dj en YouTuber beweegt ze moeiteloos tussen verschillende werelden. Met haar hyperpopsingle…",
-          "url": "https://ekko.nl/event/alice-olsthoorn-1/",
-          "tags": []
-        },
-        {
-          "id": "30289",
-          "title": "Flora Hibberd",
-          "start": "2026-11-15T20:30:00+01:00",
-          "end": "2026-11-15T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Flora Hibberd maakt eigenzinnige indiefolk waarin literaire teksten en surrealistische beelden samenkomen in dromerige folkpop. De in Londen geboren en in Parijs gevestigde songwriter brak door met het veelgeprezen debuutalbum ‘Swirl’ (2025) en verkent op opvolger ‘Mammoth’ (release: 16 oktober…",
-          "url": "https://ekko.nl/event/flora-hibberd/",
           "tags": []
         },
         {
@@ -778,16 +798,6 @@
           "tags": []
         },
         {
-          "id": "31264",
-          "title": "Diep In De Groef",
-          "start": "2026-11-13T23:30:00+01:00",
-          "end": "2026-11-14T03:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groep/",
-          "tags": []
-        },
-        {
           "id": "31916",
           "title": "DOTS",
           "start": "2026-11-21T23:30:00+01:00",
@@ -1047,16 +1057,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-ash-1977-30th-anniversary-show-support-bawler-10-11-2026",
-          "title": "ASH – 1977 30th anniversary show + support Bawler",
-          "start": "2026-11-10T20:15:00+01:00",
-          "end": "2026-11-10T23:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Noord-Ierse Britrockers vieren de dertigste verjaardag van hun debuut in stijl",
-          "url": "https://dehelling.nl/agenda/ash-1977-30th-anniversary-show-support-bawler-10-11-2026/",
-          "tags": []
-        },
         {
           "id": "helling-boris-pink-20th-anniversary-tour-planning-for-burial-12-11-2026",
           "title": "BORIS – PINK 20th Anniversary Tour + Planning For Burial",
@@ -1728,66 +1728,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "452013",
-          "title": "The Sisters of Mercy",
-          "start": "2026-11-10T20:00:00+01:00",
-          "end": "2026-11-10T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Baanbrekende eighties postpunk/new wave band - De legendarische Engelse rockband Sisters Of Mercy heeft sinds de oprichting in 1980 slechts drie albums uitgebracht, maar dat zijn wel allemaal klassiekers geworden: First And Last And Always (1985), Floodland (1987) en Vision Thing (1990). Met…",
-          "url": "https://www.podiuminfo.nl/concert/452013/The-Sisters-of-Mercy/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "454699",
-          "title": "Mogwai",
-          "start": "2026-11-10T20:00:00+01:00",
-          "end": "2026-11-10T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Schotse post-rockband Mogwai neemt met hun breed uitgesponnen en vaak abstracte instrumentale songs een unieke plaats in binnen het muzikale landschap. Het werk van Mogwai kenmerkt zich door een extreme dynamiek: hun nummers beginnen vaak bedrieglijk kalm, om vervolgens te eindigen in een…",
-          "url": "https://www.podiuminfo.nl/concert/454699/Mogwai/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "459802",
-          "title": "Otis Gibbs",
-          "start": "2026-11-10T20:00:00+01:00",
-          "end": "2026-11-10T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Otis Gibbs is een Amerikaanse singer-songwriter wiens stem vaak wordt vergeleken met die van Bruce Springsteen. Met zijn imposante baard en unieke geluid heeft hij een sterke indruk gemaakt in de americana-scene. Recentelijk 60 jaar geworden, blijft Gibbs actief, met zijn tiende album \"The Trust Of…",
-          "url": "https://www.podiuminfo.nl/concert/459802/Otis-Gibbs/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "451605",
-          "title": "Rymden",
-          "start": "2026-11-10T20:15:00+01:00",
-          "end": "2026-11-10T22:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Na eerdere muzikale zoektochten rond het thema ‘de kosmos’, keert het Scandinavische supertrio Rymden nu juist inwaarts met hun nieuwe plaat Valleys & Mountains. Bugge Wesseltoft (piano, keyboards), Magnus Öström (drums) en Dan Berglund (bas) verkennen op het album nu namelijk de innerlijke kosmos…",
-          "url": "https://www.podiuminfo.nl/concert/451605/Rymden/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "460906",
-          "title": "Abigail Lapell",
-          "start": "2026-11-10T21:00:00+01:00",
-          "end": "2026-11-10T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Canadese singer-songwriter Abigail Lapell is gezegend met een warme en mysterieuze stem, waardoor haar muziek een intense kwaliteit krijgt die vaak als 'prairie noir' wordt omschreven binnen de moderne folk. Vergelijkingen met artiesten als Natalie Merchant en Gillian Welch komen regelmatig…",
-          "url": "https://www.podiuminfo.nl/concert/460906/Abigail-Lapell/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "499977",
-          "title": "Radar Machine",
-          "start": "2026-11-10T22:30:00+01:00",
-          "end": "2026-11-11T00:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Radar Machine ademt de ziel van post-punk in en transformeert haar in iets onmiskenbaar eigens. Glanzende en pakkende gitaren, strakke drums en bass, en onvoorspelbare stemvoeringen creëren zware, broedende en soms hypnotiserend dansbare nummers. Onheilspellende muren van geluid komen op en dalen…",
-          "url": "https://www.podiuminfo.nl/concert/499977/Radar-Machine/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "497374",
           "title": "Gone Country",
           "start": "2026-11-11T19:15:00+01:00",
@@ -1966,6 +1906,66 @@
           "description": "Park 6 keert terug als dé gratis hangout in Utrecht, ideaal om de weekendstemming in te luiden. Deze avond biedt een mix van goede muziek, interactieve games zoals tafeltennis, en videokunst, aangevuld met een uitgebreid aanbod aan speciaalbier en cocktails. Het is de perfecte plek om te ontspannen…",
           "url": "https://www.podiuminfo.nl/concert/495425/Park-6/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "490095",
+          "title": "ON&ON: Locklead",
+          "start": "2026-11-13T23:55:00+01:00",
+          "end": "2026-11-14T01:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Locklead is al lange tijd een gevestigde naam in de housescene, bekend van de Amsterdamse underground tot internationale clubs en festivals. Samen met Chris Stussy vormt hij het project Across Boundaries. Zijn debuutalbum verscheen in 2021 op Stussy's label Up The Stuss. Met uitverkochte shows in…",
+          "url": "https://www.podiuminfo.nl/concert/490095/ON-ON-Locklead/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "498855",
+          "title": "Fiesta Macumba",
+          "start": "2026-11-13T23:55:00+01:00",
+          "end": "2026-11-14T01:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Fiesta Macumba keert terug naar TivoliVredenburg voor een avond vol energie en Latijns-Amerikaanse klanken. De DJ's zorgen voor een hoge temperatuur met een mix van Reggaeton, Salsa, Bachata, Merengue, Cumbia, Trap Latino en Baile Funk. Fiesta Macumba is al jaren een bekend concept dat het…",
+          "url": "https://www.podiuminfo.nl/concert/498855/Fiesta-Macumba/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "496625",
+          "title": "Utrechtse Meezingerij",
+          "start": "2026-11-14T13:00:00+01:00",
+          "end": "2026-11-14T15:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Utrechtse Meezingerij, een initiatief van Charles Chamboné, is de perfecte gelegenheid voor liefhebbers van zingen en gezelligheid. Dit evenement brengt mensen samen om vol enthousiasme Nederlandstalige liedjes te zingen, variërend van klassiekers tot verborgen pareltjes. Iedereen is welkom om…",
+          "url": "https://www.podiuminfo.nl/concert/496625/Utrechtse-Meezingerij/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "451618",
+          "title": "Bill Frisell With Luke Bergman And Tim Angulo",
+          "start": "2026-11-14T19:00:00+01:00",
+          "end": "2026-11-14T21:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Met zijn gitaar genereert Bill Frisell een geluid dat onmiskenbaar van hem is. De Amerikaanse jazz-pionier staat bekend om zijn atmosferische speelstijl waarin folk, country, blues en avantgarde samensmelten. Met subtiele delays, warme akkoorden en een onnavolgbare touch creëert hij…",
+          "url": "https://www.podiuminfo.nl/concert/451618/Bill-Frisell-With-Luke-Bergman-And-Tim-Angulo/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "456716",
+          "title": "Loïs Lane 40 jaar Live",
+          "start": "2026-11-14T19:45:00+01:00",
+          "end": "2026-11-14T21:45:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Nederlandse band Loïs Lane van de zussen Suzanne en Monique Klemann viert hun 40-jarig jubileum. Met hun soepel gezongen mix van pop, rock en funk brak Loïs Lane twee jaar na hun oprichting door via de titelsong van de film Amsterdamned, daarna volgden grotere hits (It’s The First Time, Fortune…",
+          "url": "https://www.podiuminfo.nl/concert/456716/Lois-Lane-40-jaar-Live/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "455751",
+          "title": "HAEVN",
+          "start": "2026-11-14T20:00:00+01:00",
+          "end": "2026-11-14T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Het Nederlandse duo HAEVN drijft op de chemie tussen filmcomponist Jorrit Kleijnen en singer-songwriter Marijn van der Meer. Samen maken ze verzorgde popmuziek waarin behalve de heldere zangstem van Van der Meer ook de pakkende melodieën opvallen – de symfonische arrangementen en elektronische…",
+          "url": "https://www.podiuminfo.nl/concert/455751/HAEVN/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1987,12 +1987,12 @@
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
         {
-          "id": "613709",
+          "id": "613815",
           "title": "SUPER GIANT WIZZARD BATTLE",
           "start": "2026-11-11T19:00:00+01:00",
           "end": "2026-11-11T22:00:00+01:00",
-          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "SUPER GIANT WIZZARD BATTLE Wed 11/11 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Yochai Gal Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and…",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "SUPER GIANT WIZZARD BATTLE Wed 11/11 7-10pm at Subcultures @De Bierkantine English, Indie RPG Written by Yochai Gal Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2106,30 +2106,6 @@
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
-        {
-          "id": "lab-monkey-23819",
-          "title": "Commander Tuesday",
-          "start": "2026-11-10T18:00:00+01:00",
-          "end": "2026-11-10T23:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 44 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-251/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
-          "id": "lab-monkey-11402",
-          "title": "Ladies Knight",
-          "start": "2026-11-10T19:00:00+01:00",
-          "end": "2026-11-10T23:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het…",
-          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
-          "tags": [
-            "Ladies'(K)night"
-          ]
-        },
         {
           "id": "lab-monkey-23821",
           "title": "Weekly Draft",
@@ -2298,7 +2274,7 @@
           "start": "2026-11-21T10:00:00+02:00",
           "end": "2026-06-21T18:00:00+02:00",
           "location": "Jaarbeurs Utrecht, Jaarbeursplein 6, 3521 AL Utrecht",
-          "description": "Heroes Dutch Comic Con is the largest Comic Con in the Netherlands. An entertaining event full of experiences where you’ll find everything related to movies, series, comics, cosplay, games, superheroes, fantasy/science fiction and anime in form of activities, shows, panels, fanclubs, workshops and…",
+          "description": "Heroes Dutch Comic Con is the largest Comic Con in the Netherlands. An entertaining event full of experiences where you&#8217;ll find everything related to movies, series, comics, cosplay, games, superheroes, fantasy/science fiction and anime in form of activities, shows, panels, fanclubs,…",
           "url": "https://www.dutchcomiccon.com",
           "tags": [
             "Comic Con",
@@ -2342,20 +2318,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
-        {
-          "id": "beton-school-kantine-2",
-          "title": "School Kantine",
-          "start": "2026-11-11T00:00:00+01:00",
-          "end": "2026-11-11T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/school-kantine-2/",
-          "tags": [
-            "Gratis",
-            "Workshop",
-            "Kantine"
-          ]
-        },
         {
           "id": "beton-dd-voor-beginners",
           "title": "D&D voor Beginners",
@@ -2465,6 +2427,34 @@
             "Kinderen",
             "Workshop",
             "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-beton-gieten-diverse-dagen-47",
+          "title": "Beton gieten – diverse dagen",
+          "start": "2026-11-16T00:00:00+01:00",
+          "end": "2026-11-16T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/beton-gieten-diverse-dagen-47/",
+          "tags": [
+            "Kunst",
+            "Workshop",
+            "Vechtclub XL"
+          ]
+        },
+        {
+          "id": "beton-naailes-bij-neeltje-diverse-dagen-25",
+          "title": "Naailes bij Neeltje – diverse dagen",
+          "start": "2026-11-16T00:00:00+01:00",
+          "end": "2026-11-16T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/naailes-bij-neeltje-diverse-dagen-25/",
+          "tags": [
+            "Fashion",
+            "Workshop",
+            "Vechtclub Keiland"
           ]
         }
       ]
@@ -2782,6 +2772,19 @@
             "Groovy techno",
             "Old school techno",
             "Underground techno"
+          ]
+        },
+        {
+          "id": "basis-utrecht-10001539-1804374000-1804399200",
+          "title": "BASIS/ Anouque/ CIS/ Noimage/ Pawlowski",
+          "start": "2027-03-06T23:00:00+01:00",
+          "end": "2027-03-07T06:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.youtube.com/@basisclubutrecht",
+          "url": "https://clubbasis.nl/event/basis-anouque-cis-noimage-pawlowski/",
+          "tags": [
+            "Bounce",
+            "Trance"
           ]
         }
       ]
@@ -4462,16 +4465,6 @@
           "tags": []
         },
         {
-          "id": "muiderslot-winterse-rondleiding-2026",
-          "title": "Winterse rondleiding",
-          "start": "2026-12-19T10:00:00+01:00",
-          "end": "2027-01-10T18:00:00+01:00",
-          "location": "Muiderslot, Muiden",
-          "description": "",
-          "url": "https://muiderslot.nl/activiteit/winterse-rondleiding/",
-          "tags": []
-        },
-        {
           "id": "muiderslot-kerstvakantie-in-het-kasteelatelier-2026",
           "title": "Kerstvakantie in het Kasteelatelier",
           "start": "2026-12-19T10:00:00+01:00",
@@ -4482,6 +4475,16 @@
           "tags": []
         },
         {
+          "id": "muiderslot-winterse-rondleiding-2026",
+          "title": "Winterse rondleiding",
+          "start": "2026-12-19T10:00:00+01:00",
+          "end": "2027-01-10T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/winterse-rondleiding/",
+          "tags": []
+        },
+        {
           "id": "muiderslot-optreden-kerstkoor-2026",
           "title": "Optreden kerstkoor",
           "start": "2026-12-20T10:00:00+01:00",
@@ -4489,6 +4492,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/optreden-kerstkoor/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-workshop-wonderlijk-vilten-2027",
+          "title": "Workshop: Wonderlijk Vilten",
+          "start": "2027-01-02T10:00:00+01:00",
+          "end": "2027-01-03T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/workshop-wonderlijk-vilten/",
           "tags": []
         },
         {
@@ -4519,6 +4532,16 @@
           "location": "Muiderslot, Muiden",
           "description": "",
           "url": "https://muiderslot.nl/activiteit/historische-proeverij-9-jan-2027/",
+          "tags": []
+        },
+        {
+          "id": "muiderslot-historische-proeverij-23-jan-2027-2-2027",
+          "title": "Historische proeverij 23 jan 2027",
+          "start": "2027-01-23T10:00:00+01:00",
+          "end": "2027-01-23T18:00:00+01:00",
+          "location": "Muiderslot, Muiden",
+          "description": "",
+          "url": "https://muiderslot.nl/activiteit/historische-proeverij-23-jan-2027-2/",
           "tags": []
         },
         {
@@ -4661,7 +4684,8 @@
           "url": "https://www.slotloevestein.nl/agenda/winteravonden/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "ruine-brederode",
@@ -5769,17 +5793,6 @@
           "country": "United Kingdom",
           "description": "Buhurt-toernooi in United Kingdom.",
           "url": "https://www.buhurtinternational.com/tournament/castleton-cup",
-          "tags": []
-        },
-        {
-          "id": "bi-alpine-warrior-2027",
-          "title": "Alpine Warrior 2027",
-          "start": "2027-05-01T00:00:00+02:00",
-          "end": "2027-05-01T23:00:00+02:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
           "tags": []
         }
       ]

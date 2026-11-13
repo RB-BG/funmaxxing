@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T13:36:09.469Z",
+  "updatedAt": "2026-11-13T12:55:29.561Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,18 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17770",
-          "title": "VALS ALARM + Jackie & The Facts",
-          "start": "2026-11-12T20:00:00+01:00",
-          "end": "2026-11-12T23:30:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=x2e1OQvLHRA",
-          "url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-vals-alarm/",
-          "tags": [
-            "Punk"
-          ]
-        },
         {
           "id": "17912",
           "title": "HORIZONTOER AAN WAL",
@@ -402,6 +390,21 @@
             "Black Metal",
             "Concert"
           ]
+        },
+        {
+          "id": "17721",
+          "title": "Boppin' the Rock presents THE SPUNYBOYS (Fr) + Jumpin' Jiri & the Blue Boys",
+          "start": "2027-01-10T16:00:00+01:00",
+          "end": "2027-01-10T19:30:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "//www.youtube.com/watch?v=8UtJgxrz0mI",
+          "url": "https://dbstudio.nl/event/boppin-the-rock-presents-the-spunyboys-fr-jumpin-jiri-the-blue-boys/",
+          "tags": [
+            "Boppin' the Rock",
+            "Concert",
+            "Rock 'n Roll",
+            "Rockabilly"
+          ]
         }
       ]
     },
@@ -413,6 +416,46 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "32542",
+          "title": "Perfect Indie Disco XL",
+          "start": "2026-12-11T19:30:00+01:00",
+          "end": "2026-12-12T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Perfect Indie Disco XL is terug met de traditionele eindejaarseditie; een glorieuze indie-manifestatie in EKKO om het jaar mee af te sluiten. Met de muzikale oudejaarsconference door Arie van Vliet, een indiepopquiz, een drag performance van Jessica Delusion Chromatics en twee veelbelovende…",
+          "url": "https://ekko.nl/event/perfect-indie-disco-xl-2026/",
+          "tags": []
+        },
+        {
+          "id": "32496",
+          "title": "Katie Gregson-MacLeod",
+          "start": "2027-02-19T20:00:00+01:00",
+          "end": "2027-02-19T23:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Met haar poppy indiefolk en eerlijke songwriting weet de Schotse singer-songwriter Katie Gregson-MacLeod persoonlijke verhalen te vertalen naar nummers die blijven hangen. Haar muziek beweegt tussen intieme folk, catchy popmelodieën en melancholische teksten, waarin ze naar eigen zeggen invloeden…",
+          "url": "https://ekko.nl/event/katie-gregson-macleod/",
+          "tags": []
+        },
+        {
+          "id": "32536",
+          "title": "Naima Bock",
+          "start": "2027-06-02T20:30:00+02:00",
+          "end": "2027-06-02T23:00:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De Braziliaans-Britse singer-songwriter Naima Bock maakt folk waarin invloeden van Braziliaanse muziekgenres, zoals bossa nova, samenkomen. Eerder was ze onderdeel van de Londense band Goat Girl, maar inmiddels heeft ze haar eigen muzikale koers gevonden. Met haar eerste single op het…",
+          "url": "https://ekko.nl/event/naima-bock/",
+          "tags": []
+        },
+        {
+          "id": "32255",
+          "title": "Musical Rave",
+          "start": "2026-12-19T23:00:00+01:00",
+          "end": "2026-12-20T03:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Some people are worth melting for, en de beste nachten ook. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg: alles kan voorbij komen. Musical…",
+          "url": "https://ekko.nl/event/musicalrave-2/",
+          "tags": []
+        },
         {
           "id": "30289",
           "title": "Flora Hibberd",
@@ -464,16 +507,6 @@
           "tags": []
         },
         {
-          "id": "32496",
-          "title": "Katie Gregson-MacLeod",
-          "start": "2027-02-19T20:00:00+01:00",
-          "end": "2027-02-19T23:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Met haar poppy indiefolk en eerlijke songwriting weet de Schotse singer-songwriter Katie Gregson-MacLeod persoonlijke verhalen te vertalen naar nummers die blijven hangen. Haar muziek beweegt tussen intieme folk, catchy popmelodieën en melancholische teksten, waarin ze naar eigen zeggen invloeden…",
-          "url": "https://ekko.nl/event/katie-gregson-macleod/",
-          "tags": []
-        },
-        {
           "id": "29777",
           "title": "Holy Fawn",
           "start": "2026-11-15T20:00:00+01:00",
@@ -491,16 +524,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "In een nachtcultuur die in het teken staat van elektronische muziek, creëert Blue Saturday een plek voor iedereen die tot in de late uurtjes wil dansen op gitaarmuziek. Dat doen we met een mix van new wave, postpunk, goth en alternative voor een melancholische, rauwe en opzwepende sound. Je kan…",
           "url": "https://ekko.nl/event/blue-saturday-2/",
-          "tags": []
-        },
-        {
-          "id": "30156",
-          "title": "Dry Cleaning",
-          "start": "2026-11-12T20:00:00+01:00",
-          "end": "2026-11-12T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Vanwege de grote vraag naar tickets is er een extra show aangekondigd op maandag 9 november. Tickets zijn hier verkrijgbaar . Het Londense viertal Dry Cleaning maakt postpunk die als iets volkomen eigens klinkt. Met bulderende baspartijen, onstuimig gitaarwerk en Florence Shaw’s deadpan-gesproken…",
-          "url": "https://ekko.nl/event/dry-cleaning-1/",
           "tags": []
         },
         {
@@ -541,16 +564,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Welkom bij de kersteditie van Club Weeb: een dansavond voor weebs, met exclusieve focus op Japanse popmuziek en anime. Deze keer met happy hardcore producer LaXal, Vocaloid-producer Levia en exclusieve anime-sets van Kuro, Yakkaiser en het Club Weeb DJ Team. Van anime in de bioscoop tot J-pop in…",
           "url": "https://ekko.nl/event/club-weeb/",
-          "tags": []
-        },
-        {
-          "id": "32255",
-          "title": "Musical Rave",
-          "start": "2026-12-19T23:00:00+01:00",
-          "end": "2026-12-20T03:00:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Some people are worth melting for, en de beste nachten ook. Tijdens Musical Rave verandert EKKO in een nacht vol musical anthems, Disney classics, Broadway bangers en iconische soundtrack-hits. Van Wicked tot Frozen, van Hamilton tot Glee met een Studio 100 omweg: alles kan voorbij komen. Musical…",
-          "url": "https://ekko.nl/event/musicalrave-2/",
           "tags": []
         },
         {
@@ -661,16 +674,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
           "url": "https://ekko.nl/event/bus-12-214/",
-          "tags": []
-        },
-        {
-          "id": "32350",
-          "title": "Bus 12",
-          "start": "2026-11-12T23:30:00+01:00",
-          "end": "2026-11-13T03:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Vanaf september werken we met gratis tickets voor BUS 12. Reserveer een gratis ticket (op=op, geldig tot 00:12). Aan de deur altijd €4,50. Tentamenstress of toe aan een nieuwe bestemming? Geen zorgen, BUS 12 haalt je op. Met een ervaren buschauffeur aan het stuur en barpersoneel dat vooralsnog niet…",
-          "url": "https://ekko.nl/event/bus-12-212/",
           "tags": []
         },
         {
@@ -1043,16 +1046,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-boris-pink-20th-anniversary-tour-planning-for-burial-12-11-2026",
-          "title": "BORIS – PINK 20th Anniversary Tour + Planning For Burial",
-          "start": "2026-11-12T20:00:00+01:00",
-          "end": "2026-11-12T23:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Japanse metal-duizendpoten vieren 20-jarig bestaan van hun beste album",
-          "url": "https://dehelling.nl/agenda/boris-pink-20th-anniversary-tour-planning-for-burial-12-11-2026/",
-          "tags": []
-        },
         {
           "id": "helling-voidborn-vi-13-11-2026",
           "title": "VOIDBORN VI",
@@ -1734,66 +1727,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "453806",
-          "title": "Noor",
-          "start": "2026-11-12T20:00:00+01:00",
-          "end": "2026-11-12T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Nederlandse popzangeres met intieme en kwetsbare nummers - De Nederlandse popzangeres Noor valt op met intieme en kwetsbare nummers, zowel in het Engels (onder de naam Norah Hendriks) als het Nederlands.",
-          "url": "https://www.podiuminfo.nl/concert/453806/Noor/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "463634",
-          "title": "Against The Current",
-          "start": "2026-11-12T20:00:00+01:00",
-          "end": "2026-11-12T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Amerikaanse rockband Against The Current vergaarde vanaf 2011 een following met covervideo’s, inmiddels heeft de band een stevige carrière opgebouwd met eigen werk.",
-          "url": "https://www.podiuminfo.nl/concert/463634/Against-The-Current/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "490394",
-          "title": "Vals Alarm",
-          "start": "2026-11-12T20:00:00+01:00",
-          "end": "2026-11-12T22:00:00.000Z",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "Het Haagse punktrio Vals Alarm heeft een sterke live-reputatie opgebouwd, onder meer op festivals als Best Kept Secret, MadNes en Wildeburg. De band, die nog maar enkele jaren bestaat, heeft al nummers als Boring, Loser en New Boys die publieksfavorieten zijn geworden. Momenteel werkt het drietal…",
-          "url": "https://www.podiuminfo.nl/concert/490394/Vals-Alarm/dBs/",
-          "tags": []
-        },
-        {
-          "id": "458778",
-          "title": "Nate Smith",
-          "start": "2026-11-12T20:15:00+01:00",
-          "end": "2026-11-12T22:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Drummer, componist en producer Nate Smith staat bekend om zijn moeiteloze mix van jazz, hiphop en soul. Met een indrukwekkende carrière die hem op het podium bracht met grootheden als Pat Metheny en Norah Jones, bewees hij met zijn GRAMMY-genomineerde project KINFOLK zijn veelzijdigheid. Zijn…",
-          "url": "https://www.podiuminfo.nl/concert/458778/Nate-Smith/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "460280",
-          "title": "Niall McCabe",
-          "start": "2026-11-12T20:45:00+01:00",
-          "end": "2026-11-12T22:45:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Ierse singer-songwriter Niall McCabe mengt de rijke folktraditie van zijn thuisland met americana. Zijn inspiratiebronnen zijn al even uiteenlopend: Van Morrison, Sting en Alison Krauss. Op zijn debuutalbum Rituals (2023) valt McCabe’s warme stem als eerste op, maar vlak ook zijn uitstekende…",
-          "url": "https://www.podiuminfo.nl/concert/460280/Niall-McCabe/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "499978",
-          "title": "ULTRAJAZZ",
-          "start": "2026-11-12T21:00:00+01:00",
-          "end": "2026-11-12T23:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "ULTRAJAZZ is een wekelijkse jazz jamsessie op de Rabo Open Stage, geleid door Kika Sprangers. Het biedt een platform voor jazzmuzikanten en liefhebbers om samen te komen en te improviseren.",
-          "url": "https://www.podiuminfo.nl/concert/499978/ULTRAJAZZ/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "481184",
           "title": "Kreukelzone: Madame Perdu",
           "start": "2026-11-13T15:00:00+01:00",
@@ -1973,7 +1906,8 @@
           "url": "https://www.podiuminfo.nl/concert/501605/Parel/TivoliVredenburg/",
           "tags": []
         }
-      ]
+      ],
+      "broken": true
     },
     {
       "id": "gietijzer",
@@ -1999,6 +1933,16 @@
           "end": "2026-11-18T22:00:00+01:00",
           "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
           "description": "D&amp;D 5.5e Shogunate Oneshot: Tumultous Tea Ceremony Wed 18/11 7-10pm at Subcultures @De Bierkantine English, Dungeons &amp; Dragons 5th Edition Premise: You are attending a Tea Ceremony in the Southern Garden next to the Imperial Palace, which was recently rebuild by order of the Shogun after…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "614013",
+          "title": "Scum & Villainy - Sci-Fi Space Opera - Session 0.5",
+          "start": "2026-11-18T19:00:00+01:00",
+          "end": "2026-11-18T22:00:00+01:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "Scum &amp; Villainy - Sci-Fi Space Opera - Session 0.5 Wed 18/11 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Character level 0 Location: Silver Heron Studios, Utrecht ᛭ Time: Walk in at 18.30, Starting at 19:00 ᛭ Participation fee: €5 ᛭ No need to bring or know anything about…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2051,20 +1995,7 @@
       "icon": "🃏",
       "scene": "games",
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
-      "events": [
-        {
-          "id": "lab-monkey-23821",
-          "title": "Weekly Draft",
-          "start": "2026-11-12T19:00:00+01:00",
-          "end": "2026-11-12T23:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "&nbsp; Elke week kan je bij &#8216;T Lab in Utrecht terecht voor een Booster Draft van de nieuwste Magic the Gathering set. We beginnen stipt om 19:00, dus wees op tijd! Boosterprijzen worden toegekend op basis van je succes op het toernooi. Draft Deelnamekosten: €27,50 We spelen 3 rondes Swiss (je…",
-          "url": "https://www.lab-monkey.nl/event_new/weekly-draft-134/",
-          "tags": [
-            "Draft"
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "id": "casual-carnage",
@@ -2265,21 +2196,6 @@
       "feedUrl": "https://www.vechtclub.nl/beton-t/agenda",
       "events": [
         {
-          "id": "beton-poezie-diner-show-met-poezie-is-een-daad",
-          "title": "Poëzie-diner-show met Poëzie is een daad",
-          "start": "2026-11-13T00:00:00+01:00",
-          "end": "2026-11-13T00:00:00+01:00",
-          "location": "Beton-T, Atoomweg 100, Utrecht",
-          "description": "",
-          "url": "https://www.vechtclub.nl/agenda/poezie-diner-show-met-poezie-is-een-daad/",
-          "tags": [
-            "Eten / Drinken",
-            "Kunst",
-            "Poezië",
-            "Kantine"
-          ]
-        },
-        {
           "id": "beton-combo-qazam-presents-patrick-xlx",
           "title": "Combo Qazam presents Patrick XLX",
           "start": "2026-11-14T00:00:00+01:00",
@@ -2387,6 +2303,35 @@
             "Workshop",
             "Vechtclub Keiland"
           ]
+        },
+        {
+          "id": "beton-de-nablijf-klup-x-broed",
+          "title": "De Nablijf Klup x BROED",
+          "start": "2026-11-19T00:00:00+01:00",
+          "end": "2026-11-19T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/de-nablijf-klup-x-broed/",
+          "tags": [
+            "Workshop",
+            "Kantine"
+          ]
+        },
+        {
+          "id": "beton-winterwinkelen-3",
+          "title": "Winterwinkelen",
+          "start": "2026-11-22T00:00:00+01:00",
+          "end": "2026-11-22T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/winterwinkelen-3/",
+          "tags": [
+            "Eten / Drinken",
+            "Kunst",
+            "Markt",
+            "Muziek",
+            "Vechtclub XL"
+          ]
         }
       ]
     },
@@ -2398,6 +2343,16 @@
       "scene": "utrecht",
       "feedUrl": "https://acu.nl/events/feed/",
       "events": [
+        {
+          "id": "acu-20261213-happy-acab-day-matinee",
+          "title": "Happy ACAB Day Matinee",
+          "start": "2026-12-13T00:00:00+01:00",
+          "end": "2026-12-13T00:00:00+01:00",
+          "location": "ACU, Voorstraat 71, Utrecht",
+          "description": "December 13th. Holocausts / Homunculoid / Flyssa. Yay it´s almost ACAB DAY! Come to this matinee to celebrate with: Holocausts (crust punk) Antzionist Chaos Punk from Occupied Palestine We stand against the Cynical Use of the Jewish Holocaust in order Weaponise it and justify Occupation,…",
+          "url": "https://acu.nl/events/20261213/happy-acab-day-matinee",
+          "tags": []
+        },
         {
           "id": "acu-20261130-anarchist-perspectives-on-refusing-military-service",
           "title": "Anarchist Perspectives on Refusing Military Service",
@@ -2456,16 +2411,6 @@
           "location": "ACU, Voorstraat 71, Utrecht",
           "description": "November 29th. Queer handwerkclub. Last Sunday of the month: Draadverbinders Sunday! Bring your project and come join us for a gezellig afternoon. If you can’t do any handworking, but still want to join, there’s always experienced crocheters and knitters present who can teach you. Or you can just…",
           "url": "https://acu.nl/events/20261129/draadverbinders-7",
-          "tags": []
-        },
-        {
-          "id": "acu-20261218-a-very-rotten-christmas-2",
-          "title": "A Very Rotten Christmas #2",
-          "start": "2026-12-18T00:00:00+01:00",
-          "end": "2026-12-18T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "December 18th. Bony Macaroni / all dogs go to heaven / EDLP. Hark! The time has come for the second edition of the annual A Very Rotten Christmas at ACU. This time we’re serving you a three course meal of tears, cheers and existential fears in the form of Eindhoven darlings EDLP, Arnhem puppies…",
-          "url": "https://acu.nl/events/20261218/a-very-rotten-christmas-2",
           "tags": []
         }
       ]
@@ -2848,26 +2793,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "75500",
-          "title": "Symphonic Soundtracks",
-          "start": "2026-11-12T20:00:00.000Z",
-          "end": "2026-11-12T23:00:00.000Z",
-          "location": "Groningen, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=75500",
-          "description": "From Captain Marvel to James Bond: iconic film music that can make or break a film sounds even more impressive live.<BR><BR>Music can make or break a movie. Movie music can be extremely good. And you can really hear that at a live performance. Some soundtracks are so orchestral that they seem to hav",
-          "tags": []
-        },
-        {
-          "id": "77280",
-          "title": "Naruto: The Symphonic Experience",
-          "start": "2026-11-12T20:00:00.000Z",
-          "end": "2026-11-12T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=77280",
-          "description": "CONCERT HAS BEEN CANCELED<BR><BR>Anime fans pay attention, you can experience Naruto Shippuden Symphonic Experience in the Doelen!<BR><BR>This spectacular live production brings the most memorable moments from the second chapter of Naruto's story to life on a giant screen, accompanied by a live…",
-          "tags": []
-        },
         {
           "id": "74218",
           "title": "Symphonic Soundtracks",
@@ -4179,6 +4104,26 @@
           "tags": []
         },
         {
+          "id": "80303",
+          "title": "The Legend of Zelda™ 40th Anniversary Concert",
+          "start": "2027-09-07T20:00:00.000Z",
+          "end": "2027-09-07T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80303",
+          "description": "Since 1986, The Legend of Zelda series has been one of Nintendo’s most enduring and influential franchises.<BR><BR>These games tell a tale of good versus evil and revolve around a courageous hero named Link, a wise princess named Zelda, and a dark and powerful villain named Ganondorf - each re",
+          "tags": []
+        },
+        {
+          "id": "80304",
+          "title": "The Legend of Zelda™ 40th Anniversary Concert",
+          "start": "2027-09-07T20:00:00.000Z",
+          "end": "2027-09-07T23:00:00.000Z",
+          "location": "Amsterdam, Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80304",
+          "description": "Since 1986, The Legend of Zelda series has been one of Nintendo’s most enduring and influential franchises.<BR><BR>These games tell a tale of good versus evil and revolve around a courageous hero named Link, a wise princess named Zelda, and a dark and powerful villain named Ganondorf - each re",
+          "tags": []
+        },
+        {
           "id": "79215",
           "title": "William Shakespeare’s Romeo + Juliet Film in Concert",
           "start": "2027-10-30T20:00:00.000Z",
@@ -4642,19 +4587,6 @@
       "scene": "middeleeuwen",
       "feedUrl": "https://www.larp-platform.nl/evenementenoverzicht/",
       "events": [
-        {
-          "id": "larp-2139-rijken-van-aegor-evenement-1",
-          "title": "Rijken van Aegor – Evenement 1",
-          "start": "2026-11-13T00:00:00+01:00",
-          "end": "2026-11-15T23:59:00+01:00",
-          "location": "Het Boshuis, Wieringerwerf",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2139-rijken-van-aegor-evenement-1/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
         {
           "id": "larp-2109-vault-25",
           "title": "Vault 25",
@@ -5665,6 +5597,39 @@
       "feedUrl": "https://www.buhurtinternational.com/tournaments",
       "events": [
         {
+          "id": "bi-granit-cup",
+          "title": "Granit-Cup",
+          "start": "2027-08-07T00:00:00+02:00",
+          "end": "2027-08-07T23:00:00+02:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/granit-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-handlhof-fight-buhurt",
+          "title": "Handlhof Fight - Buhurt",
+          "start": "2027-03-27T00:00:00+01:00",
+          "end": "2027-03-27T23:00:00+01:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/handlhof-fight-buhurt",
+          "tags": []
+        },
+        {
+          "id": "bi-handlhof-fight-i",
+          "title": "Handlhof Fight - Duel",
+          "start": "2027-02-27T00:00:00+01:00",
+          "end": "2027-02-27T23:00:00+01:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/handlhof-fight-i",
+          "tags": []
+        },
+        {
           "id": "bi-sudovo-cup",
           "title": "Sudovo Cup 2027",
           "start": "2027-08-28T00:00:00+02:00",
@@ -5787,7 +5752,7 @@
           "start": "2027-06-12T09:30:00+02:00",
           "end": "2027-06-12T17:00:00+02:00",
           "location": "Lorentzweg 26 &#8211; Groot-Ammers, Groot-Ammers (Zuid-Holland)",
-          "description": "",
+          "description": "Meer informatie volgt!",
           "url": "https://brommerritten.nl/ritten/cavemenrit-groot-ammers/",
           "tags": [
             "Bromfiets"

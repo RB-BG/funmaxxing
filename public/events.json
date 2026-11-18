@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:11:20.538Z",
+  "updatedAt": "2026-11-18T13:43:24.802Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,20 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17825",
-          "title": "PRO-PAIN (USA - Legends) + Dyslekt",
-          "start": "2026-11-17T20:00:00+01:00",
-          "end": "2026-11-17T23:00:00+01:00",
-          "location": "dB's, Vlampijpstraat 63, Utrecht",
-          "description": "//www.youtube.com/watch?v=QiGkSUcf7RU",
-          "url": "https://dbstudio.nl/event/pro-pain-usa-legends/",
-          "tags": [
-            "Concert",
-            "Hardcore",
-            "Metal"
-          ]
-        },
         {
           "id": "17509",
           "title": "BLACKGOLD (UK) + Sumo Cyco (CAN)",
@@ -405,6 +391,16 @@
             "Concert",
             "Progressive"
           ]
+        },
+        {
+          "id": "18434",
+          "title": "TORN FROM OBLIVION, Nothing Ends Quietly, Aquelarre*, 32 Elephants",
+          "start": "2027-01-22T19:30:00+01:00",
+          "end": "2027-01-22T22:30:00+01:00",
+          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
+          "description": "overal brengen ze hun opzwepende mix van post-hardcoregeluiden naar een groeiende, toegewijde fanbase. Geïnspireerd door bands als Alexisonfire, Viva Belgrado en Orchid laten ze het zweet van het plafond druipen. \n \n  \n\n\n\n32 Elephants\n\n32elephants beweegt zich tussen emo en post-hardcore, waarbij…",
+          "url": "https://dbstudio.nl/event/torn-from-oblivion-nothing-ends-quietly-aquelarre-32-elephants/",
+          "tags": []
         }
       ]
     },
@@ -416,6 +412,46 @@
       "scene": "utrecht",
       "feedUrl": "https://ekko.nl/wp-json/wp/v2/event",
       "events": [
+        {
+          "id": "32627",
+          "title": "Man/Woman/Chainsaw",
+          "start": "2027-03-14T20:00:00+01:00",
+          "end": "2027-03-14T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Man/Woman/Chainsaw is een opvallende naam uit de Londense Windmill-scene. De band maakt een eigenzinnige mix van postpunk en artrock, met viool, synthesizers en meerstemmige zang als opvallende onderdelen van hun sound. Daarmee geven ze een bijzondere draai aan het geluid van de Britse underground.…",
+          "url": "https://ekko.nl/event/man-woman-chainsaw/",
+          "tags": []
+        },
+        {
+          "id": "32596",
+          "title": "World News",
+          "start": "2027-04-21T20:00:00+02:00",
+          "end": "2027-04-21T22:15:00+02:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Het Londense World News brengt indie waarin janglepop, shoegaze en postpunk samenkomen. Met hun melodieuze gitaren en nostalgische geluid bouwde de band de afgelopen tijd aan een stevige livereputatie. In de online wandelgangen werden ze al “London’s hottest new band” genoemd: niet gek dat de band…",
+          "url": "https://ekko.nl/event/world-news/",
+          "tags": []
+        },
+        {
+          "id": "32601",
+          "title": "Arkayla",
+          "start": "2027-01-14T20:00:00+01:00",
+          "end": "2027-01-14T22:15:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "De uit Manchester afkomstige band Arkayla hoort bij een nieuwe lichting Britse indiebands die in het spoor treedt van acts als Wunderhorse, Keo en The Guest List. Met hun opzwepende livesound trekken ze steeds meer aandacht. Onlangs stonden ze op Left of the Dial en speelden ze shows in Merleyn en…",
+          "url": "https://ekko.nl/event/arkayla/",
+          "tags": []
+        },
+        {
+          "id": "32632",
+          "title": "Omroep EKKO: LOCON",
+          "start": "2026-11-19T00:00:00+01:00",
+          "end": "2026-11-19T18:00:00+01:00",
+          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
+          "description": "Onder de noemer Omroep EKKO nemen wij eens per maand de digitale radiogolven van Stranded FM over voor een uur gevuld met door ons geselecteerd talent. Zo komen in dit plezante uurtje radio opkomende dj’s uit onze dj-course voorbij, of hoor je een uur gewijd aan een van onze clubavonden of…",
+          "url": "https://ekko.nl/event/omroep-ekko-locon/",
+          "tags": []
+        },
         {
           "id": "32536",
           "title": "Naima Bock",
@@ -1387,6 +1423,16 @@
           "tags": []
         },
         {
+          "id": "helling-ghinzu-03-02-2027",
+          "title": "Ghinzu",
+          "start": "2027-02-03T20:15:00+01:00",
+          "end": "2027-02-03T23:00:00+01:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Brusselse rock-iconen zijn na 16 jaar weer terug ",
+          "url": "https://dehelling.nl/agenda/ghinzu-03-02-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-she-wants-revenge-extra-show-04-02-2027",
           "title": "She Wants Revenge – extra show",
           "start": "2027-02-04T20:15:00+01:00",
@@ -1627,6 +1673,16 @@
           "tags": []
         },
         {
+          "id": "helling-as-i-lay-dying-16-05-2027",
+          "title": "As I Lay Dying",
+          "start": "2027-05-16T19:30:00+02:00",
+          "end": "2027-05-16T23:00:00+02:00",
+          "location": "De Helling, Helling 7, Utrecht",
+          "description": "Herboren metalcore-pioniers komen ein-de-lijk naar Utrecht ",
+          "url": "https://dehelling.nl/agenda/as-i-lay-dying-16-05-2027/",
+          "tags": []
+        },
+        {
           "id": "helling-bdrmm-18-05-2027",
           "title": "bdrmm",
           "start": "2027-05-18T20:15:00+02:00",
@@ -1697,36 +1753,6 @@
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
         {
-          "id": "502102",
-          "title": "SAOS",
-          "start": "2026-11-17T11:00:00+01:00",
-          "end": "2026-11-17T13:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "SAOS speelt een akoestisch concert tijdens de Dinsdagochtend Concerten van TivoliVredenburg. De reeks biedt een podium aan lokaal muzikaal talent. Het optreden vindt plaats in de Vrije Ruimte, in de gerenoveerde foyer bij de koffiebar. De intieme setting biedt ruimte om van dichtbij naar de muziek…",
-          "url": "https://www.podiuminfo.nl/concert/502102/SAOS/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "460569",
-          "title": "Soen",
-          "start": "2026-11-17T19:00:00+01:00",
-          "end": "2026-11-17T21:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Zweedse progmetalband Soen keert terug naar TivoliVredenburg, na hun optreden vorig jaar als onderdeel van festival Ultima Ratio Fest. Dit keer zijn ze de headliner, mede ter promotie van hun zevende album 'Reliance', dat eerder dit jaar verscheen. Soen overstijgt het strikte progmetal-genre en…",
-          "url": "https://www.podiuminfo.nl/concert/460569/Soen/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "457442",
-          "title": "daoud",
-          "start": "2026-11-17T20:30:00+01:00",
-          "end": "2026-11-17T22:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Frans-Marokkaanse trompettist daoud, ook wel ‘het enfant terrible’ van de Franse jazz genoemd, speelt niet volgens de regels en keerde na jaren door Europa te hebben gereisd terug naar de muziek op zijn eigen voorwaarden. Zijn debuutalbum 'GOOD BOY' (2024) werd gevolgd door uitverkochte shows.…",
-          "url": "https://www.podiuminfo.nl/concert/457442/daoud/TivoliVredenburg/",
-          "tags": []
-        },
-        {
           "id": "481213",
           "title": "BLACKGOLD",
           "start": "2026-11-18T20:00:00+01:00",
@@ -1764,6 +1790,16 @@
           "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
           "description": "Het is acht jaar geleden dat zangeres MEROL doorbrak met 'Lekker Met De Meiden'. Na diverse clubhits slaat MEROL in 2026 een nieuwe weg in. Op haar nieuwe album 'Leve de Feeks', dat dit voorjaar verschijnt, zingt ze over haar lichaam, seks en kinderwens, en de schaamte, angsten en twijfels die ze…",
           "url": "https://www.podiuminfo.nl/concert/451453/Merol/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "503288",
+          "title": "ULTRAJAZZ x TivoliVredenburg",
+          "start": "2026-11-19T21:00:00+01:00",
+          "end": "2026-11-19T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "ULTRAJAZZ brengt op Rabo Open Stage jazz, talentontwikkeling en muzikale ontmoeting samen. De avond begint met een openingsset van een uur, waarbij de host musici uitnodigt om een ode te brengen aan de jazztraditie. Daarna verandert het podium in een jamsessie waaraan zowel ervaren muzikanten als…",
+          "url": "https://www.podiuminfo.nl/concert/503288/ULTRAJAZZ-x-TivoliVredenburg/TivoliVredenburg/",
           "tags": []
         },
         {
@@ -1945,6 +1981,26 @@
           "description": "Park 6 is de gratis hangout van Utrecht die direct in de weekendsfeer brengt, met een mix van goede muziek, games, videokunst, speciaalbier en cocktails. Het concept nodigt iedereen uit om na een show te blijven hangen, zich op te warmen voor een clubavond, of simpelweg de werkweek af te sluiten.…",
           "url": "https://www.podiuminfo.nl/concert/495430/Park-6/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "493612",
+          "title": "Hush: Menesix",
+          "start": "2026-11-21T23:55:00+01:00",
+          "end": "2026-11-22T01:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De befaamde clubavond Hush presenteert deze editie DJ Menesix, bekend om zijn eclectische mix van house, samba en bossa nova. Menesix heeft eerder al opgetreden in gerenommeerde zalen zoals AFAS Live, de Gashouder en Paradiso, en zijn track ‘Dance With You (All Night)’ is uitgegroeid tot een…",
+          "url": "https://www.podiuminfo.nl/concert/493612/Hush-Menesix/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "494783",
+          "title": "Pop-O-Matic",
+          "start": "2026-11-21T23:55:00+01:00",
+          "end": "2026-11-22T01:55:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Tijdens Pop-O-Matic slingeren DJ St. Paul en VJ Switchdoctor stijlen, tijden en subculturen in de smeltpan en toveren ze Pandora om tot de meest veelzijdige dansvloer van UUU. Muzikaal is het altijd scherp en bovenop de trend. Charli XCX, KNEECAP, Tame Impala en Donna Summer zijn erbij, als…",
+          "url": "https://www.podiuminfo.nl/concert/494783/Pop-O-Matic/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -1965,16 +2021,6 @@
       "scene": "games",
       "feedUrl": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
       "events": [
-        {
-          "id": "614178",
-          "title": "SUPER GIANT WIZARD BATTLE - DAYBREAKERS",
-          "start": "2026-11-18T19:00:00+01:00",
-          "end": "2026-11-18T22:00:00+01:00",
-          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
-          "description": "SUPER GIANT WIZARD BATTLE - DAYBREAKERS Wed 18/11 7-10pm at Subcultures @De Bierkantine English, Indie RPG Written by Yochai Gal Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is…",
-          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
-          "tags": []
-        },
         {
           "id": "611838",
           "title": "D&D 5.5e Shogunate Oneshot: Tumultous Tea Ceremony",
@@ -2036,12 +2082,22 @@
           "tags": []
         },
         {
+          "id": "614339",
+          "title": "Hilurax University - for the magically talented",
+          "start": "2026-11-25T19:00:00+01:00",
+          "end": "2026-11-25T22:00:00+01:00",
+          "location": "Subcultures @De Bierkantine, Ravellaan 96, Utrecht, UT, NL 3533JR",
+          "description": "Hilurax University - for the magically talented Wed 25/11 7-10pm at Subcultures @De Bierkantine English, Cairn: Barebones Edition Written by Michael E. Weil et al. Hirulax University is the greatest magic university in the continent, impossible in scale, endless in degrees and classes, and with the…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
           "id": "614148",
-          "title": "Another Bug Hunt: A Path Taken",
+          "title": "Another Bug Hunt: ???",
           "start": "2026-11-25T19:00:00+01:00",
           "end": "2026-11-25T22:00:00+01:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
-          "description": "Another Bug Hunt: A Path Taken Wed 25/11 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate…",
+          "description": "Another Bug Hunt: ??? Wed 25/11 7-10pm at Subcultures @Silver Heron Studios English, Indie RPG Written by Sean McCoy Mothership is a sci-fi horror roleplaying game where you and your crew try to survive in the most inhospitable environment in the universe: outer space! You'll excavate dangerous…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2076,18 +2132,6 @@
       "feedUrl": "https://www.lab-monkey.nl/wp-json/tribe/events/v1/events",
       "events": [
         {
-          "id": "lab-monkey-23861",
-          "title": "Commander Tuesday",
-          "start": "2026-11-17T18:00:00+01:00",
-          "end": "2026-11-17T23:00:00+01:00",
-          "location": "t Lab, Utrecht",
-          "description": "De gebruikelijke Commander Tuesday bij &#8217;t Lab. &nbsp; Maximaal 44 spelers per event, dus weer er snel bij! Een paar kleine mededelingen: • Kom niet voor eventjes en kom op tijd. Zo ontneem je de beperkte plek van de spelers die wel een hele avond kunnen. • Hoard niet alle ticket maar geef…",
-          "url": "https://www.lab-monkey.nl/event_new/commander-tuesday-252/",
-          "tags": [
-            "Commander"
-          ]
-        },
-        {
           "id": "lab-monkey-23859",
           "title": "Weekly Draft",
           "start": "2026-11-19T19:00:00+01:00",
@@ -2097,6 +2141,18 @@
           "url": "https://www.lab-monkey.nl/event_new/weekly-draft-135/",
           "tags": [
             "Draft"
+          ]
+        },
+        {
+          "id": "lab-monkey-11402",
+          "title": "Ladies Knight",
+          "start": "2026-11-24T19:00:00+01:00",
+          "end": "2026-11-24T23:00:00+01:00",
+          "location": "t Lab, Utrecht",
+          "description": "Zin om Magic te spelen met andere vrouwen+? Voelt het weleens intimiderend of wat ongemakkelijk om de enige niet-man aan tafel te zijn? Kom dan naar Ladies Knight! We spelen allerlei formaten, zoals limited (Draft/Sealed), Commander en Jumpstart. Geen idee hoe het moet? Maakt niks uit, we leren het…",
+          "url": "https://www.lab-monkey.nl/event_new/ladiesknight-2023/",
+          "tags": [
+            "Ladies'(K)night"
           ]
         }
       ]
@@ -2572,6 +2628,18 @@
           ]
         },
         {
+          "id": "basis-utrecht-10001542-1795626000-1795636800",
+          "title": "BASIS x Dreve CUSTOM EARPLUGS",
+          "start": "2026-11-25T17:00:00+01:00",
+          "end": "2026-11-25T20:00:00+01:00",
+          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
+          "description": "//www.soundcloud.com/terugnaardebasis",
+          "url": "https://clubbasis.nl/event/basis-x-dreve-custom-earplugs/",
+          "tags": [
+            "Other"
+          ]
+        },
+        {
           "id": "basis-utrecht-10001519-1795820400-1795845600",
           "title": "BASIS/ Helena Lauwaert/ Kalou/ Mirage/ S3PPA",
           "start": "2026-11-27T23:00:00+01:00",
@@ -2692,10 +2760,10 @@
           ]
         },
         {
-          "id": "basis-utrecht-10001534-1798761540-1798761540",
+          "id": "basis-utrecht-10001534-1798761540-1798783200",
           "title": "BASIS NYE/ Azzurro/ Lucky Done Gone/ Olivia Lensen",
           "start": "2026-12-31T23:59:00+01:00",
-          "end": "2026-12-31T23:59:00+01:00",
+          "end": "2027-01-01T06:00:00+01:00",
           "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
           "description": "//www.youtube.com/@basisclubutrecht",
           "url": "https://clubbasis.nl/event/basis-nye-azzurro-lucky-done-gone-olivia-lensen/",
@@ -2786,7 +2854,7 @@
           "start": "2027-04-27T14:00:00+02:00",
           "end": "2027-04-27T21:00:00.000Z",
           "location": "Strand Oog in Al, Hof van Transwijk, Utrecht",
-          "description": "SOIA Koningsdag 2027 Maandag 27/04/2027 14:00 - 23:00 Ook in 2027 zal je favoriete Koningsdagfestival weer plaatsvinden bij ons. Sluit aan en meng je linksvoor in het oranje feestgedruis! binnenkort meer info",
+          "description": "SOIA Koningsdag 2027 Maandag 27/04/2027 14:00 - 23:00 Ook volgend jaar staat je favoriete Koningsdag gathering weer op de planning. Verspreid over twee stages maken we er weer één groot feest van. Pre-registratie SOIA Koningsdag geopend Dit jaar werken we met een pre-registratie. Deze verkoop is…",
           "url": "https://soia.nl/agenda/soia-koningsdag/",
           "tags": []
         },
@@ -2900,16 +2968,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "80244",
-          "title": "Harry Potter and the Chamber of Secrets in Concert (extra performance)",
-          "start": "2026-11-17T20:00:00.000Z",
-          "end": "2026-11-17T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80244",
-          "description": "John Williams - Harry Potter and the Chamber of Secrets<BR><BR>Cars fly, trees fight back and a mysterious house-elf comes to warn Harry Potter&trade; at the start of his second year at Hogwarts&trade;. Adventure and danger await when bloody writing on a wall announces: The Chamber of Secrets has be",
-          "tags": []
-        },
         {
           "id": "71698",
           "title": "Harry Potter and the Chamber of Secrets in Concert",
@@ -3791,6 +3849,16 @@
           "tags": []
         },
         {
+          "id": "80396",
+          "title": "The Chaplin Project",
+          "start": "2027-02-25T20:00:00.000Z",
+          "end": "2027-02-25T23:00:00.000Z",
+          "location": "Den Haag (The Hague), Netherlands",
+          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80396",
+          "description": "A special musical tribute to Charles Chaplin, his Roma roots, and his beautiful compositions.<BR><BR>World-renowned guitarists Stochelo and Mozes Rosenberg bring Chaplin's musical legacy to life with their virtuoso guitar playing, swinging gypsy jazz, and original compositions specially ded",
+          "tags": []
+        },
+        {
           "id": "76177",
           "title": "20 Live Movies in Concert",
           "start": "2027-02-27T20:00:00.000Z",
@@ -4291,7 +4359,7 @@
       "feedUrl": "https://dis.drachenwald.sca.org/data/calendar.json",
       "events": [
         {
-          "id": "sca-2026-11-22-northern-fighter-practice-",
+          "id": "sca-polderslot/22-nov-2026/northern-fighter-practice",
           "title": "Northern Fighter Practice ",
           "start": "2026-11-22T12:00:00+01:00",
           "end": "2026-11-22T23:00:00+01:00",
@@ -4301,7 +4369,7 @@
           "tags": []
         },
         {
-          "id": "sca-2027-01-08-twelfth-night-coronation",
+          "id": "sca-polderslot/8-jan-2027/twelfth-night-coronation",
           "title": "Twelfth Night Coronation",
           "start": "2027-01-08T12:00:00+01:00",
           "end": "2027-01-10T23:00:00+01:00",
@@ -4311,17 +4379,17 @@
           "tags": []
         },
         {
-          "id": "sca-2027-02-26-the-wurst-of-times-:-cut-and-cure",
+          "id": "sca-polderslot/26-feb-2027/the-wurst-of-times-cut-and-cure",
           "title": "The Wurst of Times : Cut and Cure",
           "start": "2027-02-26T12:00:00+01:00",
           "end": "2027-02-28T23:00:00+01:00",
           "location": "Hoorn, Hoorn, North Holland",
           "description": "The Wurst of Times is a small 15 person A&S event focusing on butchery, preservation and sausage making skills, with hands on training from a professional butcher.",
-          "url": "https://dis.drachenwald.sca.org/data/calendar.json",
+          "url": "https://polderslot.info/agenda/#/polderslot/26-feb-2027/the-wurst-of-times-cut-and-cure",
           "tags": []
         },
         {
-          "id": "sca-2027-03-14-polderslot-shiregathering",
+          "id": "sca-polderslot/14-mar-2027/polderslot-shiregathering",
           "title": "Polderslot Shiregathering",
           "start": "2027-03-14T12:00:00+01:00",
           "end": "2027-03-14T23:00:00+01:00",
@@ -4331,7 +4399,7 @@
           "tags": []
         },
         {
-          "id": "sca-2027-05-30-polderslot’s-shiregathering",
+          "id": "sca-polderslot/30-may-2027/polderslot-s-shiregathering",
           "title": "Polderslot’s Shiregathering",
           "start": "2027-05-30T12:00:00+02:00",
           "end": "2027-05-30T23:00:00+02:00",
@@ -4341,7 +4409,7 @@
           "tags": []
         },
         {
-          "id": "sca-2027-09-05-polderslot’s-shiregathering-",
+          "id": "sca-polderslot/5-sept-2027/polderslot-s-shiregathering",
           "title": "Polderslot’s Shiregathering ",
           "start": "2027-09-05T12:00:00+02:00",
           "end": "2027-09-05T23:00:00+02:00",
@@ -4639,7 +4707,7 @@
         },
         {
           "id": "loevestein-rondleiding-2026-11",
-          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Rondleiding Voor kinderen OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
+          "title": "Rondleiding tijdens museumbezoek Wat is er nu leuker dan samen met een gids het kasteel en al haar verhalen te ontdekken? Lees verder Voor kinderen Rondleiding OORLOGSRECHT Grenzen aan Geweld. Te zien t/m",
           "start": "2026-11-22T10:00:00+01:00",
           "end": "2026-11-22T18:00:00+01:00",
           "location": "Slot Loevestein, Poederooijen",
@@ -5859,6 +5927,17 @@
           "country": "United Kingdom",
           "description": "Buhurt-toernooi in United Kingdom.",
           "url": "https://www.buhurtinternational.com/tournament/castleton-cup",
+          "tags": []
+        },
+        {
+          "id": "bi-alpine-warrior-2027",
+          "title": "Alpine Warrior 2027",
+          "start": "2027-05-01T00:00:00+02:00",
+          "end": "2027-05-01T23:00:00+02:00",
+          "location": "Austria",
+          "country": "Austria",
+          "description": "Buhurt-toernooi in Austria.",
+          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
           "tags": []
         }
       ]

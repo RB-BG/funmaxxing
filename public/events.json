@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T13:53:51.052Z",
+  "updatedAt": "2026-11-21T13:17:40.355Z",
   "sources": [
     {
       "id": "dbs-utrecht",
@@ -9,21 +9,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dbstudio.nl/events/?ical=1",
       "events": [
-        {
-          "id": "17767",
-          "title": "Wave Invasion presents OMAR DOOM (USA) + Subject Sue + Hollow Reflection + DJ Donkerzwart (Dance in the Underdark)",
-          "start": "2026-11-20T20:00:00+01:00",
-          "end": "2026-11-20T23:30:00+01:00",
-          "location": "dB’s, Vlampijpstraat 63, Utrecht, 3534 AR",
-          "description": "//www.youtube.com/watch?v=IRC1tVQwC2U&t=1s",
-          "url": "https://dbstudio.nl/event/omar-doom-usa/",
-          "tags": [
-            "Concert",
-            "Darker Wave",
-            "Electronics",
-            "Experimenteel"
-          ]
-        },
         {
           "id": "18131",
           "title": "METALQUIZ & KARAOKE met Tante Alie & Ome Flo",
@@ -282,6 +267,20 @@
           ]
         },
         {
+          "id": "18715",
+          "title": "DE METAL QUIZ + METAL KARAOKE",
+          "start": "2026-12-27T16:00:00+01:00",
+          "end": "2026-12-27T19:30:00+01:00",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "METAL KARAOKE!\nOf je nu klinkt als Rob Halford of een kettingzaag in de regen — het podium is van jou. Niet zo’n metalhead, maar wél karaokegek?\nZing je favoriete Mariah Carey, maar je grunt wel eerst de eerste zin. Regels zijn regels, ook voor glitterdiva’s. Kom headbangen, lachen, winnen en…",
+          "url": "https://dbstudio.nl/event/de-metal-quiz-metal-karaoke/",
+          "tags": [
+            "Cafe",
+            "Concert",
+            "Metal Quiz & Karaoke"
+          ]
+        },
+        {
           "id": "18695",
           "title": "Oud en Nieuw",
           "start": "2026-12-31T22:00:00+01:00",
@@ -517,16 +516,6 @@
           "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
           "description": "De afrobeats-sound, gedragen door internationale supersterren als Burna Boy, Rema en Wizkid (just to name a few) is niet meer weg te denken uit hitlijsten en clubs. Op 12 december brengt Lagos in NL opnieuw een onversneden afrobeats-ervaring naar EKKO. Om de unieke sfeer van Nigeriaanse…",
           "url": "https://ekko.nl/event/lagos-in-nl-dec-2026/",
-          "tags": []
-        },
-        {
-          "id": "30166",
-          "title": "mustbejohn",
-          "start": "2026-11-20T20:00:00+01:00",
-          "end": "2026-11-20T22:15:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Met zijn mix van eerlijke teksten en aanstekelijke producties groeit mustbejohn uit tot een van de opvallendste onafhankelijke artiesten uit het Verenigd Koninkrijk. Geïnspireerd door artiesten als The Streets, Gorillaz en Arctic Monkeys beweegt zijn muziek zich tussen indie, hiphop en…",
-          "url": "https://ekko.nl/event/mustbejohn/",
           "tags": []
         },
         {
@@ -790,16 +779,6 @@
           "tags": []
         },
         {
-          "id": "31268",
-          "title": "Diep In De Groef",
-          "start": "2026-11-20T23:30:00+01:00",
-          "end": "2026-11-21T03:30:00+01:00",
-          "location": "EKKO, Bemuurde Weerd OZ 3, Utrecht",
-          "description": "Diep In De Groef is het muzikale alternatief op vrijdag. Elke week anders en toch vertrouwd. Dans de hele nacht op een grenzeloze mix van de nieuwste vondsten en toekomstige headliners, clubhits en (onterecht) vergeten geluiden, samengesteld door onze lokale selectors. Een dj-team dat je ook vaak…",
-          "url": "https://ekko.nl/event/diep-in-de-groef-236/",
-          "tags": []
-        },
-        {
           "id": "31916",
           "title": "DOTS",
           "start": "2026-11-21T23:30:00+01:00",
@@ -1009,26 +988,6 @@
       "scene": "utrecht",
       "feedUrl": "https://dehelling.nl/agenda",
       "events": [
-        {
-          "id": "helling-krav-boca-emirhan-x-20-11-2026",
-          "title": "Krav Boca + Emirhan X",
-          "start": "2026-11-20T20:15:00+01:00",
-          "end": "2026-11-20T23:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "Achtkoppig rap-punk circus geeft een gemaskerde kopstoot in het gezicht van het establishment",
-          "url": "https://dehelling.nl/agenda/krav-boca-emirhan-x-20-11-2026/",
-          "tags": []
-        },
-        {
-          "id": "helling-the-sun-20-11-2026",
-          "title": "The Sun",
-          "start": "2026-11-20T23:59:00+01:00",
-          "end": "2026-11-21T05:00:00+01:00",
-          "location": "De Helling, Helling 7, Utrecht",
-          "description": "More than a reggaeton event, a fusion of music, energy, and culture.",
-          "url": "https://dehelling.nl/agenda/the-sun-20-11-2026/",
-          "tags": []
-        },
         {
           "id": "helling-violent-vira-support-cl_audio_dj-21-11-2026",
           "title": "Violent Vira + support cl_audio_dj",
@@ -1570,13 +1529,13 @@
           "tags": []
         },
         {
-          "id": "helling-politie-warnsveld-02-04-2027",
-          "title": "Politie Warnsveld",
+          "id": "helling-politie-warnsveld-support-wabr-02-04-2027",
+          "title": "Politie Warnsveld + support WABR",
           "start": "2027-04-02T20:00:00+02:00",
           "end": "2027-04-02T23:00:00+02:00",
           "location": "De Helling, Helling 7, Utrecht",
           "description": "Skapunkers nemen feesten bloedserieus",
-          "url": "https://dehelling.nl/agenda/politie-warnsveld-02-04-2027/",
+          "url": "https://dehelling.nl/agenda/politie-warnsveld-support-wabr-02-04-2027/",
           "tags": []
         },
         {
@@ -1679,106 +1638,6 @@
       "scene": "utrecht",
       "feedUrl": "https://www.podiuminfo.nl/podium/3071/concerten/TivoliVredenburg/Utrecht/",
       "events": [
-        {
-          "id": "456982",
-          "title": "Jim Keller",
-          "start": "2026-11-20",
-          "end": "2026-11-20T03:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Het concert van Jim Keller, gepland op vrijdag 20 november 2026 in Club Nine, is helaas afgelast. Dit besluit is genomen wegens onvoorziene omstandigheden. Ticketkopers zijn reeds per mail geïnformeerd met aanvullende informatie over de afhandeling van hun tickets. Er is geen sprake van een…",
-          "url": "https://www.podiuminfo.nl/concert/456982/Jim-Keller/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "502014",
-          "title": "HKU Large Ensemble",
-          "start": "2026-11-20T12:30:00+01:00",
-          "end": "2026-11-20T14:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Tijdens Lunchconcert Jazz speelt HKU Large Ensemble Candomblé van Lucas Santana. Uitgevoerd door studenten Jazz & Pop van het HKU Conservatorium Utrecht. Gratis toegang; gratis tickets reserveren via het podium.",
-          "url": "https://www.podiuminfo.nl/concert/502014/HKU-Large-Ensemble/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "481185",
-          "title": "Kreukelzone: Mannen met Baarden",
-          "start": "2026-11-20T15:00:00+01:00",
-          "end": "2026-11-20T17:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Op de Vredenburg Open Stage wordt tweemaal per maand semi-akoestische popmuziek met levenservaring gepresenteerd. Bezoekers kunnen zich verheugen op een mix van bekende en nieuwe muziek in een gezellige vrijdagmiddagsfeer. Deze keer staan Mannen met Baarden op het podium, een groep doorgewinterde…",
-          "url": "https://www.podiuminfo.nl/concert/481185/Kreukelzone-Mannen-met-Baarden/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "472851",
-          "title": "Flemming",
-          "start": "2026-11-20T19:45:00+01:00",
-          "end": "2026-11-20T21:45:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Zijn frisse, catchy, Nederlandstalige pop met creatieve producties en gevatte teksten leidde snel tot succes in Nederland en België, waar de single de gouden status bereikte. Ook opvolgers zoals 'Zij wil mij', 'Automatisch' en 'Paracetamollen' waren succesvol. In het voorjaar van 2026 scoorde…",
-          "url": "https://www.podiuminfo.nl/concert/472851/Flemming/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "456893",
-          "title": "The Sheepdogs",
-          "start": "2026-11-20T20:00:00+01:00",
-          "end": "2026-11-20T22:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "De Canadese band The Sheepdogs staat sinds 2004 garant voor feelgood-bluesrock met een hoog jaren zeventig-gehalte. Invloeden van bands als CCR, Crosby, Stills & Nash en The Allman Brothers Band zijn duidelijk hoorbaar in hun verzorgde geluid. De band is in staat om zowel stevig te rocken als…",
-          "url": "https://www.podiuminfo.nl/concert/456893/The-Sheepdogs/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "493401",
-          "title": "Ben van den Dungen Trio",
-          "start": "2026-11-20T20:00:00+01:00",
-          "end": "2026-11-20T22:00:00.000Z",
-          "location": "Muziekhuis, Loevenhoutsedijk 301, Utrecht",
-          "description": "UJazz en TivoliVredenburg organiseren maandelijks een clubconcert, deze editie met het Ben van den Dungen Trio. Volgens het motto van Art Blakey dat jazz 'danceable' moet zijn en de blues moet bevatten, brengt dit trio een unieke combinatie van persoonlijkheden samen. De avond staat in het teken…",
-          "url": "https://www.podiuminfo.nl/concert/493401/Ben-van-den-Dungen-Trio/Muziekhuis/",
-          "tags": []
-        },
-        {
-          "id": "488186",
-          "title": "Şeyda Perinçek",
-          "start": "2026-11-20T20:15:00+01:00",
-          "end": "2026-11-20T22:15:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Şeyda Perinçek behoort tot een nieuwe generatie Koerdische zangers die traditie en vernieuwing moeiteloos met elkaar verbinden. Met een heldere, expressieve stem en een repertoire dat wortelt in de rijke muzikale tradities van Koerdistan geeft hij oude liederen nieuw leven. Zijn concerten zijn…",
-          "url": "https://www.podiuminfo.nl/concert/488186/Seyda-Perincek/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "477164",
-          "title": "Cristóvam, Luke Thompson & Joseph G. Thompson - The Songwriters \"In...",
-          "start": "2026-11-20T20:30:00+01:00",
-          "end": "2026-11-20T22:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "The Songwriters “In The Round” presenteert een unieke indiefolk-avond waarbij drie artiesten de hele avond gezamenlijk op het podium staan. Cristóvam, een vooraanstaande indiefolkstem uit Portugal, zal materiaal van zijn nieuwe album Desert of Fools (2025) ten gehore brengen. De melancholische…",
-          "url": "https://www.podiuminfo.nl/concert/477164/Cristovam-Luke-Thompson-Joseph-G-Thompson-The-Songwriters-In-/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "495428",
-          "title": "Park 6",
-          "start": "2026-11-20T22:00:00+01:00",
-          "end": "2026-11-21T00:00:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "Park 6 is de gratis hangout van Utrecht die direct in de weekendsfeer brengt, met een mix van goede muziek, games, videokunst, speciaalbier en cocktails. Het concept nodigt iedereen uit om na een show te blijven hangen, zich op te warmen voor een clubavond, of simpelweg de werkweek af te sluiten.…",
-          "url": "https://www.podiuminfo.nl/concert/495428/Park-6/TivoliVredenburg/",
-          "tags": []
-        },
-        {
-          "id": "495831",
-          "title": "90’S NOW",
-          "start": "2026-11-20T23:30:00+01:00",
-          "end": "2026-11-21T01:30:00.000Z",
-          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
-          "description": "90’S NOW transformeert TivoliVredenburg Utrecht in een jaren '90 walhalla, waar bezoekers terugkeren naar de tijd van flippo’s en My First Sony’s. Deze avond staat in het teken van de knallers en onvergetelijke klassiekers uit de jaren '90, variërend van Gigi D'Agostino en Nirvana tot Run DMC en…",
-          "url": "https://www.podiuminfo.nl/concert/495831/90-S-NOW/TivoliVredenburg/",
-          "tags": []
-        },
         {
           "id": "493339",
           "title": "Special Social Club",
@@ -1928,6 +1787,106 @@
           "description": "De Nederlandse singer-songwriter Nina June staat bekend om haar cinematische popsongs die een balans vinden tussen intimiteit en grootsheid. Haar nieuwe, derde album 'Seal Skin ~ Anthems Of A Woman' (2026) werd opgenomen in Londen met een twaalfkoppig strijkorkest, gedirigeerd door Sally Herbert.…",
           "url": "https://www.podiuminfo.nl/concert/463455/Nina-June/TivoliVredenburg/",
           "tags": []
+        },
+        {
+          "id": "467620",
+          "title": "David Eugene Edwards",
+          "start": "2026-11-22T20:30:00+01:00",
+          "end": "2026-11-22T22:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "David Eugene Edwards, bekend als frontman van Wovenhand en 16 Horsepower, creëert dreigende, religieus getinte country, blues en folk. Zijn intense podiumpersoonlijkheid geeft het publiek het gevoel dat de apocalyps nabij is. Deze avond staat in het teken van Edwards' tweede soloalbum, 'Mercurial…",
+          "url": "https://www.podiuminfo.nl/concert/467620/David-Eugene-Edwards/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "452931",
+          "title": "José González",
+          "start": "2026-11-23T20:00:00+01:00",
+          "end": "2026-11-23T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": " - De Zweeds-Argentijnse singer-songwriter José González werd 21 jaar geleden wereldberoemd toen zijn akoestische cover van het nummer Heartbeats (The Knife) werd gebruikt in een Sony-reclame met 250 duizend stuiterballen. González’ inspiratiebron is duidelijk hoorbaar: de verstilde Engelse folk…",
+          "url": "https://www.podiuminfo.nl/concert/452931/Jose-Gonzalez/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "465393",
+          "title": "Long Distance Calling - The Phantom Void",
+          "start": "2026-11-23T21:00:00+01:00",
+          "end": "2026-11-23T23:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Duitse instrumentale post-rockband Long Distance Calling combineert metal, ambient en progrock tot een meeslepend geheel. De vier heren hebben inmiddels twintig jaar op de teller, maar van metaalmoeheid is niets te merken op hun negende album The Phantom Void (2026). Dit album wordt door Long…",
+          "url": "https://www.podiuminfo.nl/concert/465393/Long-Distance-Calling-The-Phantom-Void/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "459893",
+          "title": "Kodaline - Farewell Tour",
+          "start": "2026-11-24T19:45:00+01:00",
+          "end": "2026-11-24T21:45:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Ierse band Kodaline maakte vorig jaar oktober bekend dat ze ermee gaan stoppen, gelukkig niet zonder afscheidstour. De band debuteerde in 2013 met het album In A Perfect World – dankzij hun melodieuze, doordacht opgebouwde poprock en de falsetstem van frontman Steve Garrigan werden ze meteen…",
+          "url": "https://www.podiuminfo.nl/concert/459893/Kodaline-Farewell-Tour/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "468697",
+          "title": "Edis",
+          "start": "2026-11-24T20:00:00+01:00",
+          "end": "2026-11-24T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Edis, een van Turkije's grootste popsterren en een invloedrijke naam in de SWANA-regio, staat in november 2026 gepland voor zijn eerste grote Europese tournee. Geboren in Londen en opgegroeid in Izmir, Edis Görgülü heeft inmiddels miljarden YouTube-views, meerdere nummer 1-hits en belangrijke…",
+          "url": "https://www.podiuminfo.nl/concert/468697/Edis/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "454698",
+          "title": "The Pogues",
+          "start": "2026-11-25T20:00:00+01:00",
+          "end": "2026-11-25T22:00:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Iers-Engelse folkpunkband The Pogues houdt ook na het overlijden van ex-frontman Shane MacGowan in 2023 hun werk in leven. Zo trokken de drie originele bandleden James Fearnley (accordeon), Jem Finer (banjo) en Spider Stacy (vocalen) in 2025 met gastzangers en -muzikanten over de wereld om het…",
+          "url": "https://www.podiuminfo.nl/concert/454698/The-Pogues/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "477152",
+          "title": "Coilguns",
+          "start": "2026-11-25T20:00:00+01:00",
+          "end": "2026-11-25T22:00:00.000Z",
+          "location": "dB's, Vlampijpstraat 63, Utrecht",
+          "description": "De Zwitserse formatie Coilguns staat bekend om hun explosieve mix van punk, noise-rock en hardcore, gedreven door een sterke DIY-mentaliteit. Gitarist Jona Nido is tevens oprichter van Humus Records, een label dat meer dan 170 releases van onafhankelijke Zwitserse artiesten heeft uitgebracht. De…",
+          "url": "https://www.podiuminfo.nl/concert/477152/Coilguns/dBs/",
+          "tags": []
+        },
+        {
+          "id": "448477",
+          "title": "Shantel & Bucovina Club Soundsystem",
+          "start": "2026-11-25T20:30:00+01:00",
+          "end": "2026-11-25T22:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Bekend van balkanbangers als Disko Partizani - Met zijn unieke combinatie van Oost-Europese klezmerklanken, West-Europese beats en Russische wodka krijgt de Duitse dj/producer Shantel zelfs een bingomiddag in een bejaardentehuis aan de gang. Niet zo vreemd natuurlijk met balkanbangers als…",
+          "url": "https://www.podiuminfo.nl/concert/448477/Shantel-Bucovina-Club-Soundsystem/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "477377",
+          "title": "Chris Eckman",
+          "start": "2026-11-25T20:30:00+01:00",
+          "end": "2026-11-25T22:30:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "De Amerikaanse singer-songwriter Chris Eckman, bekend van de indierockband The Walkabouts, brengt zijn melancholische indiefolk naar Club Nine in TivoliVredenburg. The Walkabouts waren in de jaren '90 populair in het alternatieve circuit, mede dankzij hun album 'Setting The Woods On Fire' en…",
+          "url": "https://www.podiuminfo.nl/concert/477377/Chris-Eckman/TivoliVredenburg/",
+          "tags": []
+        },
+        {
+          "id": "474533",
+          "title": "Van Dik Hout",
+          "start": "2026-11-26T20:15:00+01:00",
+          "end": "2026-11-26T22:15:00.000Z",
+          "location": "TivoliVredenburg, Vredenburgkade 11, Utrecht",
+          "description": "Van Dik Hout geeft in 2026/2027 een clubtour! Er zijn maar weinig bands die het drie decennia volhouden en nog altijd spelen met dezelfde gretigheid waarmee ze begonnen.\r\n\r\nTijdens het concert komen zowel de oude als de nieuwe hits voorbij want Van Dik Hout is een Nederpopinstituut dat trots is op…",
+          "url": "https://www.podiuminfo.nl/concert/474533/Van-Dik-Hout/TivoliVredenburg/",
+          "tags": []
         }
       ]
     },
@@ -2055,6 +2014,16 @@
           "end": "2026-12-16T22:00:00+01:00",
           "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
           "description": "Jingle Bell Shock - A Brindlewood Bay Holiday Mystery! (Beginner friendly one-shot) Wed 16/12 7-10pm at Subcultures @Silver Heron Studios English, Brindlewood Bay Written by Jason Cordova What is Brindlewood Bay? Brindlewood Bay is a roleplaying game about a group of elderly women—members of the…",
+          "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
+          "tags": []
+        },
+        {
+          "id": "614488",
+          "title": "🐺PFS2 Quest (Series 2) #23: Lacking Respect🌨",
+          "start": "2026-12-16T19:00:00+01:00",
+          "end": "2026-12-16T22:00:00+01:00",
+          "location": "Subcultures @Silver Heron Studios, Ravellaan 13, Utrecht, UT, NL 3533 JB",
+          "description": "🐺PFS2 Quest (Series 2) #23: Lacking Respect🌨 Wed 16/12 7-10pm at Subcultures @Silver Heron Studios English, Pathfinder Roleplaying Game (2nd Edition), Pathfinder Society (2nd edition), Repeatable Character levels 1-4 Written by Jay Scott Not everyone in Irrisen has been happy with the rule of…",
           "url": "https://warhorn.net/events/rpg-night-utrecht/schedule.atom",
           "tags": []
         },
@@ -2462,6 +2431,18 @@
             "Panelgesprek",
             "Kantine"
           ]
+        },
+        {
+          "id": "beton-the-harmony-project-3",
+          "title": "The Harmony Project: One-day choir",
+          "start": "2026-11-26T00:00:00+01:00",
+          "end": "2026-11-26T00:00:00+01:00",
+          "location": "Beton-T, Atoomweg 100, Utrecht",
+          "description": "",
+          "url": "https://www.vechtclub.nl/agenda/the-harmony-project-3/",
+          "tags": [
+            "Kantine"
+          ]
         }
       ]
     },
@@ -2514,16 +2495,6 @@
           "tags": []
         },
         {
-          "id": "acu-20261121-out-of-sight-22",
-          "title": "Out of Sight",
-          "start": "2026-11-21T00:00:00+01:00",
-          "end": "2026-11-21T00:00:00+01:00",
-          "location": "ACU, Voorstraat 71, Utrecht",
-          "description": "November 21st. With DJ Count Jive and The Shake!. Out on the streets and Out of Sight. Saturday November 21st. Fall in love with the sounds of northern soul, garage punk and everything 1960s in-between. With DJ Count Jive and The Shake!",
-          "url": "https://acu.nl/events/20261121/out-of-sight-22",
-          "tags": []
-        },
-        {
           "id": "acu-20261128-mutiny-presents-kill-emil-x-big-shine",
           "title": "Mutiny Presents: Kill Emil x Big Shine",
           "start": "2026-11-28T00:00:00+01:00",
@@ -2553,18 +2524,6 @@
       "scene": "utrecht",
       "feedUrl": "https://clubbasis.nl/events/?ical=1",
       "events": [
-        {
-          "id": "basis-utrecht-10001507-1795215600-1795240800",
-          "title": "BASIS/ Tassery All Night Long",
-          "start": "2026-11-20T23:00:00+01:00",
-          "end": "2026-11-21T06:00:00+01:00",
-          "location": "BASIS, Oudegracht aan de Werf 97, Utrecht, 3511 AL, Netherlands",
-          "description": "//www.youtube.com/@basisclubutrecht",
-          "url": "https://clubbasis.nl/event/basis-tassery-all-night-long/",
-          "tags": [
-            "Schranz"
-          ]
-        },
         {
           "id": "basis-utrecht-10001524-1795302000-1795327200",
           "title": "BASIS/ Fenrick/ Hoesephine/ NORO$T/ Trias Kinetica",
@@ -2959,56 +2918,6 @@
       "scene": "orkest",
       "feedUrl": "https://www.moviesinconcert.nl/index.php?page=concertlist&sorter=datum",
       "events": [
-        {
-          "id": "71696",
-          "title": "Harry Potter and the Chamber of Secrets in Concert",
-          "start": "2026-11-20T20:00:00.000Z",
-          "end": "2026-11-20T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=71696",
-          "description": "John Williams - Harry Potter and the Chamber of Secrets<BR><BR>Cars fly, trees fight back and a mysterious house-elf comes to warn Harry Potter&trade; at the start of his second year at Hogwarts&trade;. Adventure and danger await when bloody writing on a wall announces: The Chamber of Secrets has be",
-          "tags": []
-        },
-        {
-          "id": "72032",
-          "title": "Interstellar - Live",
-          "start": "2026-11-20T20:00:00.000Z",
-          "end": "2026-11-20T23:00:00.000Z",
-          "location": "Rotterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72032",
-          "description": "CONCERT IS SOLD OUT<BR><BR>Philzuid<BR>Ben Palmer - Conductor<BR>Roger Sayer - Organ<BR><BR>Hans Zimmer - Interstellar<BR><BR>Interstellar Live brings Christopher Nolan's Oscar-winning science fiction epic back to the big screen, featuring Hans Zimmer's revelatory score performed live by the…",
-          "tags": []
-        },
-        {
-          "id": "72326",
-          "title": "Avond van de Filmmuziek (The Evening of Film Music)",
-          "start": "2026-11-20T20:00:00.000Z",
-          "end": "2026-11-20T23:00:00.000Z",
-          "location": "Amsterdam, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=72326",
-          "description": "On Friday 20, Saturday 21 and Sunday 22 November 2026, the Evening of Film Music will once again present a spectacular series of shows with the most beautiful film music.<BR><BR>Under the direction of conductor Jules Buckley, the Metropole Orchestra and the Netherlands Concert Choir once again bring",
-          "tags": []
-        },
-        {
-          "id": "76170",
-          "title": "20 Live Movies in Concert",
-          "start": "2026-11-20T20:00:00.000Z",
-          "end": "2026-11-20T23:00:00.000Z",
-          "location": "Deventer, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=76170",
-          "description": "The CineMusic Film Orchestra brings 20 Films Live in Concert a breathtaking ode to the seventh art. During this concert show you will experience the music of twenty world-famous films, supported by impressive film images on a large white screen. Film journalist Ren&eacute; Mioch will host the evenin",
-          "tags": []
-        },
-        {
-          "id": "78756",
-          "title": "Interstellar: Tribute to Hans Zimmer",
-          "start": "2026-11-20T20:00:00.000Z",
-          "end": "2026-11-20T23:00:00.000Z",
-          "location": "Groningen, Netherlands",
-          "url": "https://www.moviesinconcert.nl/index.php?page=view&id=78756",
-          "description": "Beyond the stars, across the vast silence of space, one force endures &mdash; love. La Chapelle Sauvage ensemble brings to life the extraordinary music of Interstellar, alongside other iconic works by Hans Zimmer and Ludovico Einaudi.<BR><BR>Christopher Nolan's modern classic is a story of",
-          "tags": []
-        },
         {
           "id": "71695",
           "title": "Harry Potter and the Chamber of Secrets in Concert",
@@ -4282,11 +4191,11 @@
         {
           "id": "80303",
           "title": "The Legend of Zelda™ 40th Anniversary Concert",
-          "start": "2027-09-07T20:00:00.000Z",
-          "end": "2027-09-07T23:00:00.000Z",
+          "start": "2027-09-06T20:00:00.000Z",
+          "end": "2027-09-06T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80303",
-          "description": "Since 1986, The Legend of Zelda series has been one of Nintendo’s most enduring and influential franchises.<BR><BR>These games tell a tale of good versus evil and revolve around a courageous hero named Link, a wise princess named Zelda, and a dark and powerful villain named Ganondorf - each re",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Since 1986, The Legend of Zelda series has been one of Nintendo’s most enduring and influential franchises.<BR><BR>These games tell a tale of good versus evil and revolve around a courageous hero named Link, a wise princess named Zelda, and a dark and powerful villain…",
           "tags": []
         },
         {
@@ -4296,7 +4205,7 @@
           "end": "2027-09-07T23:00:00.000Z",
           "location": "Amsterdam, Netherlands",
           "url": "https://www.moviesinconcert.nl/index.php?page=view&id=80304",
-          "description": "Since 1986, The Legend of Zelda series has been one of Nintendo’s most enduring and influential franchises.<BR><BR>These games tell a tale of good versus evil and revolve around a courageous hero named Link, a wise princess named Zelda, and a dark and powerful villain named Ganondorf - each re",
+          "description": "CONCERT IS SOLD OUT<BR><BR>Since 1986, The Legend of Zelda series has been one of Nintendo’s most enduring and influential franchises.<BR><BR>These games tell a tale of good versus evil and revolve around a courageous hero named Link, a wise princess named Zelda, and a dark and powerful villain…",
           "tags": []
         },
         {
@@ -4961,19 +4870,6 @@
           ]
         },
         {
-          "id": "larp-2291-elerion-61",
-          "title": "Elerion 61",
-          "start": "2027-03-19T00:00:00+01:00",
-          "end": "2027-03-21T23:59:00+01:00",
-          "location": "Locatie t.b.a.",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen- of buiten slapen",
-          "url": "https://www.larp-platform.nl/evenement/2291-elerion-61/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2260-postapobob-19-standing-in-v-formation",
           "title": "PostApoBob #19 – Standing in V-formation",
           "start": "2027-03-19T00:00:00+01:00",
@@ -4998,6 +4894,19 @@
           "country": "Nederland",
           "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
           "url": "https://www.larp-platform.nl/evenement/2288-maerquin-weekend-58/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2291-elerion-61",
+          "title": "Elerion 61",
+          "start": "2027-03-19T00:00:00+01:00",
+          "end": "2027-03-21T23:59:00+01:00",
+          "location": "Locatie t.b.a.",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen- of buiten slapen",
+          "url": "https://www.larp-platform.nl/evenement/2291-elerion-61/",
           "tags": [
             "High-fantasy"
           ]
@@ -5098,32 +5007,6 @@
           ]
         },
         {
-          "id": "larp-2231-moots-1-2027",
-          "title": "Moots 1 2027",
-          "start": "2027-04-30T00:00:00+02:00",
-          "end": "2027-05-02T23:59:00+02:00",
-          "location": "St. Walrick Overasselt",
-          "country": "Nederland",
-          "description": "High-fantasy — Buiten slapen",
-          "url": "https://www.larp-platform.nl/evenement/2231-moots-1-2027/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
-          "id": "larp-2305-kederan-xlvi",
-          "title": "Kederan XLVI",
-          "start": "2027-04-30T00:00:00+02:00",
-          "end": "2027-05-02T23:59:00+02:00",
-          "location": "“De Roerdomp” Ontginningsweg 10 5091 KN Westelbeers",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2305-kederan-xlvi/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2178-quon-41",
           "title": "Quon 41",
           "start": "2027-04-30T00:00:00+02:00",
@@ -5145,6 +5028,32 @@
           "country": "Nederland",
           "description": "High-fantasy — Buiten slapen · Vanaf 18 jaar",
           "url": "https://www.larp-platform.nl/evenement/2161-agnoia-unwritten-9/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2231-moots-1-2027",
+          "title": "Moots 1 2027",
+          "start": "2027-04-30T00:00:00+02:00",
+          "end": "2027-05-02T23:59:00+02:00",
+          "location": "St. Walrick Overasselt",
+          "country": "Nederland",
+          "description": "High-fantasy — Buiten slapen",
+          "url": "https://www.larp-platform.nl/evenement/2231-moots-1-2027/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2305-kederan-xlvi",
+          "title": "Kederan XLVI",
+          "start": "2027-04-30T00:00:00+02:00",
+          "end": "2027-05-02T23:59:00+02:00",
+          "location": "“De Roerdomp” Ontginningsweg 10 5091 KN Westelbeers",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2305-kederan-xlvi/",
           "tags": [
             "High-fantasy"
           ]
@@ -5300,6 +5209,19 @@
           ]
         },
         {
+          "id": "larp-2377-larp-zomer-festival-3",
+          "title": "LARP Zomer Festival",
+          "start": "2027-08-27T00:00:00+02:00",
+          "end": "2027-08-29T23:59:00+02:00",
+          "location": "Groepsaccomodatie Het Mussennest",
+          "country": "Nederland",
+          "description": "Festival / Kamp / Beurs — Binnen- of buiten slapen · Vanaf 16 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2377-larp-zomer-festival-3/",
+          "tags": [
+            "Festival / Kamp / Beurs"
+          ]
+        },
+        {
           "id": "larp-2216-forsaken-summer-2027",
           "title": "Forsaken Summer 2027",
           "start": "2027-08-28T00:00:00+02:00",
@@ -5310,33 +5232,6 @@
           "url": "https://www.larp-platform.nl/evenement/2216-forsaken-summer-2027/",
           "tags": [
             "Post-Apo"
-          ]
-        },
-        {
-          "id": "larp-2149-rijken-van-aegor-evenement-3",
-          "title": "Rijken van Aegor – Evenement 3",
-          "start": "2027-09-03T00:00:00+02:00",
-          "end": "2027-09-05T23:59:00+02:00",
-          "location": "Het Boshuis, Wieringerwerf",
-          "country": "Nederland",
-          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2149-rijken-van-aegor-evenement-3/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
-          "id": "larp-2176-dwaler-37",
-          "title": "Dwaler 37",
-          "start": "2027-09-03T00:00:00+02:00",
-          "end": "2027-09-05T23:59:00+02:00",
-          "location": "Ada's Hoeve, Ommen",
-          "country": "Nederland",
-          "description": "Historisch, Low-fantasy — Buiten slapen · Vanaf 16 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2176-dwaler-37/",
-          "tags": [
-            "Historisch",
-            "Low-fantasy"
           ]
         },
         {
@@ -5366,17 +5261,30 @@
           ]
         },
         {
-          "id": "larp-2251-expiatio-43",
-          "title": "Expiatio 43",
-          "start": "2027-09-10T00:00:00+02:00",
-          "end": "2027-09-12T23:59:00+02:00",
+          "id": "larp-2176-dwaler-37",
+          "title": "Dwaler 37",
+          "start": "2027-09-03T00:00:00+02:00",
+          "end": "2027-09-05T23:59:00+02:00",
           "location": "Ada's Hoeve, Ommen",
           "country": "Nederland",
-          "description": "High-fantasy, Kids larp — Binnen- of buiten slapen · 12 t/m 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2251-expiatio-43/",
+          "description": "Historisch, Low-fantasy — Buiten slapen · Vanaf 16 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2176-dwaler-37/",
           "tags": [
-            "High-fantasy",
-            "Kids larp"
+            "Historisch",
+            "Low-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2149-rijken-van-aegor-evenement-3",
+          "title": "Rijken van Aegor – Evenement 3",
+          "start": "2027-09-03T00:00:00+02:00",
+          "end": "2027-09-05T23:59:00+02:00",
+          "location": "Het Boshuis, Wieringerwerf",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen- of buiten slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2149-rijken-van-aegor-evenement-3/",
+          "tags": [
+            "High-fantasy"
           ]
         },
         {
@@ -5393,6 +5301,20 @@
             "Low-fantasy",
             "Modern",
             "Post-Apo"
+          ]
+        },
+        {
+          "id": "larp-2251-expiatio-43",
+          "title": "Expiatio 43",
+          "start": "2027-09-10T00:00:00+02:00",
+          "end": "2027-09-12T23:59:00+02:00",
+          "location": "Ada's Hoeve, Ommen",
+          "country": "Nederland",
+          "description": "High-fantasy, Kids larp — Binnen- of buiten slapen · 12 t/m 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2251-expiatio-43/",
+          "tags": [
+            "High-fantasy",
+            "Kids larp"
           ]
         },
         {
@@ -5461,19 +5383,6 @@
           ]
         },
         {
-          "id": "larp-2322-omen-xxxx",
-          "title": "Omen XL",
-          "start": "2027-10-08T00:00:00+01:00",
-          "end": "2027-10-10T23:59:00+01:00",
-          "location": "Inka-terrein, Zeeland (Noord-Brabant)",
-          "country": "Nederland",
-          "description": "High-fantasy — Buiten slapen",
-          "url": "https://www.larp-platform.nl/evenement/2322-omen-xxxx/",
-          "tags": [
-            "High-fantasy"
-          ]
-        },
-        {
           "id": "larp-2184-ekyo-6",
           "title": "Ekyo",
           "start": "2027-10-08T00:00:00+01:00",
@@ -5488,14 +5397,14 @@
           ]
         },
         {
-          "id": "larp-2233-moots-2-2027",
-          "title": "Moots 2 2027",
-          "start": "2027-10-15T00:00:00+01:00",
-          "end": "2027-10-17T23:59:00+01:00",
-          "location": "St. Walrick Overasselt",
+          "id": "larp-2322-omen-xxxx",
+          "title": "Omen XL",
+          "start": "2027-10-08T00:00:00+01:00",
+          "end": "2027-10-10T23:59:00+01:00",
+          "location": "Inka-terrein, Zeeland (Noord-Brabant)",
           "country": "Nederland",
           "description": "High-fantasy — Buiten slapen",
-          "url": "https://www.larp-platform.nl/evenement/2233-moots-2-2027/",
+          "url": "https://www.larp-platform.nl/evenement/2322-omen-xxxx/",
           "tags": [
             "High-fantasy"
           ]
@@ -5512,6 +5421,19 @@
           "tags": [
             "High-fantasy",
             "Low-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2233-moots-2-2027",
+          "title": "Moots 2 2027",
+          "start": "2027-10-15T00:00:00+01:00",
+          "end": "2027-10-17T23:59:00+01:00",
+          "location": "St. Walrick Overasselt",
+          "country": "Nederland",
+          "description": "High-fantasy — Buiten slapen",
+          "url": "https://www.larp-platform.nl/evenement/2233-moots-2-2027/",
+          "tags": [
+            "High-fantasy"
           ]
         },
         {
@@ -5542,19 +5464,6 @@
           ]
         },
         {
-          "id": "larp-2369-vault-25-2",
-          "title": "Vault 25",
-          "start": "2027-11-12T00:00:00+01:00",
-          "end": "2027-11-14T23:59:00+01:00",
-          "location": "Kamphuis Ahoy",
-          "country": "Nederland",
-          "description": "Post-Apo — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2369-vault-25-2/",
-          "tags": [
-            "Post-Apo"
-          ]
-        },
-        {
           "id": "larp-2308-kederan-xlvii",
           "title": "Kederan XLVII",
           "start": "2027-11-12T00:00:00+01:00",
@@ -5581,16 +5490,16 @@
           ]
         },
         {
-          "id": "larp-2325-booyah-present-symora-1",
-          "title": "Booyah! Present Symora 2",
-          "start": "2027-11-19T00:00:00+01:00",
-          "end": "2027-11-21T23:59:00+01:00",
-          "location": "De Kievit, Esbeek",
+          "id": "larp-2369-vault-25-2",
+          "title": "Vault 25",
+          "start": "2027-11-12T00:00:00+01:00",
+          "end": "2027-11-14T23:59:00+01:00",
+          "location": "Kamphuis Ahoy",
           "country": "Nederland",
-          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
-          "url": "https://www.larp-platform.nl/evenement/2325-booyah-present-symora-1/",
+          "description": "Post-Apo — Binnen slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2369-vault-25-2/",
           "tags": [
-            "High-fantasy"
+            "Post-Apo"
           ]
         },
         {
@@ -5602,6 +5511,19 @@
           "country": "Nederland",
           "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
           "url": "https://www.larp-platform.nl/evenement/2289-maerquin-weekend-59/",
+          "tags": [
+            "High-fantasy"
+          ]
+        },
+        {
+          "id": "larp-2325-booyah-present-symora-1",
+          "title": "Booyah! Present Symora 2",
+          "start": "2027-11-19T00:00:00+01:00",
+          "end": "2027-11-21T23:59:00+01:00",
+          "location": "De Kievit, Esbeek",
+          "country": "Nederland",
+          "description": "High-fantasy — Binnen slapen · Vanaf 18 jaar",
+          "url": "https://www.larp-platform.nl/evenement/2325-booyah-present-symora-1/",
           "tags": [
             "High-fantasy"
           ]
@@ -6011,17 +5933,6 @@
           "country": "United Kingdom",
           "description": "Buhurt-toernooi in United Kingdom.",
           "url": "https://www.buhurtinternational.com/tournament/castleton-cup",
-          "tags": []
-        },
-        {
-          "id": "bi-alpine-warrior-2027",
-          "title": "Alpine Warrior 2027",
-          "start": "2027-05-01T00:00:00+02:00",
-          "end": "2027-05-01T23:00:00+02:00",
-          "location": "Austria",
-          "country": "Austria",
-          "description": "Buhurt-toernooi in Austria.",
-          "url": "https://www.buhurtinternational.com/tournament/alpine-warrior-2027",
           "tags": []
         }
       ]
